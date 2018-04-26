@@ -10,18 +10,23 @@ def zajemi():
         orodja.shrani(naslov, datoteka)
 
 
-def pocisti(potres):
-    podatki = potres.groupdict()
+def pocisti(recept):
+    podatki = recept.groupdict()
+    podatki['ime_recepta'] = str(podatki['ime_recepta'])
     podatki['ime_uporabnika'] = str(podatki['ime_uporabnika'])
     podatki['leto'] = int(podatki['leto'])
     podatki['mesec'] = int(podatki['mesec'])
     podatki['dan'] = int(podatki['dan'])
+    podatki['cas_priprave'] = str(podatki['cas_priprave'])
     return podatki
 
-regex_potresa = re.compile(
+regex_recepta = re.compile(
+        r'<h1 itemprop="name">'
+        r'(?P<ime_recepta>)</h1>'
         r''''<div class='podatki linki'>'''
         r'''itemprop='author'>(?P<ime_uporabnika>)<'''
         r'''itemprop='datePublished'>(?P<dan>(\d{2})).(?P<mesec>(\d{1,2}))-(?P<leto>(\d{4})).*?'''
+        r'''<span class='cas'>(?P<cas_priprave>)'''
         , flags=re.DOTALL
         )
 
