@@ -23,14 +23,14 @@ def shrani(url, ime_datoteke, vsili_prenos=False):
     except requests.exceptions.ConnectionError:
         print('stran ne obstaja!')
     pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w') as datoteka:
+    with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
         datoteka.write(r.text)
         print('shranjeno!')
 
 
 def vsebina_datoteke(ime_datoteke):
     '''Vrne niz z vsebino datoteke z danim imenom.'''
-    with open(ime_datoteke) as datoteka:
+    with open(ime_datoteke, encoding='utf-8') as datoteka:
         vsebina = datoteka.read()
     return vsebina
 

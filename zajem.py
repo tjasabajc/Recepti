@@ -3,10 +3,10 @@ import orodja
 import requests
 
 def zajemi():
-    for id in range(1, 30):
+    for id in range(1, 401):
         osnovno = 'https://www.kulinarika.net/recepti/'
         naslov = ('{}{}'.format(osnovno, id))
-        datoteka = 'Recepti/{:02}.html'.format(id)
+        datoteka = 'Recepti/{:03}.html'.format(id)
         orodja.shrani(naslov, datoteka)
 
 
@@ -21,25 +21,35 @@ def pocisti(recept):
     return podatki
 
 regex_recepta = re.compile(
-        r'<h1 itemprop="name">'
-        r'(?P<ime_recepta>)</h1>'
-        r''''<div class='podatki linki'>'''
-        r'''itemprop='author'>(?P<ime_uporabnika>)<'''
-        r'''itemprop='datePublished'>(?P<dan>(\d{2})).(?P<mesec>(\d{1,2}))-(?P<leto>(\d{4})).*?'''
-        r'''<span class='cas'>(?P<cas_priprave>)'''
+    #r'<title>Recept: (?P<ime_recepta>(.*?))</title>.*?'
+    r"itemprop='author'>(?P<ime_uporabnika>(.*?))<.*?"
+    r"itemprop='datePublished'>(?P<dan>(\d{1,2})).(?P<mesec>(\d{1,2})).(?P<leto>(\d{4}))</span.*?"
+    #r'''itemprop='datePublished'>(?P<dan>(\d{1,2})).(?P<mesec>(\d{1,2})).(?P<leto>(\d{4}))</span.*?'''
+        #r'''<span class='cas'>(?P<cas_priprave>)'''
         , flags=re.DOTALL
         )
 
 
 def izloci_podatke(imenik):
-    potresi = []
+    recepti = []
     for html_datoteka in orodja.datoteke(imenik):
-        for potres in re.finditer(regex_potresa, orodja.vsebina_datoteke(html_datoteka)):
-            potresi.append(pocisti(potres))
-    return potresi
+        print(orodja.vsebina_datoteke(html_datoteka))
+        for recept in re.finditer(regex_recepta, orodja.vsebina_datoteke(html_datoteka)):
+            print('     *')
+            recepti.append(pocisti(recept))
+    return recepti
 
-potresi = izloci_podatke('Recepti/')
-orodja.zapisi_tabelo(potresi, ['ime_uporabnika', 'leto', 'mesec', 'dan'], 'receptitest.csv')
+# Zajemi se kliče samo enkrat, potem so html datoteke že v mapi in te funkcije ne potrebujemo več.
+# zajemi()
+
+
+#recepti = izloci_podatke('Recepti/')
+#orodja.zapisi_tabelo(recepti, ['ime_uporabnika', 'leto', 'mesec'], 'test.csv')
+
+vsebina1 = orodja.vsebina_datoteke('Recepti/001.html')
+
+for x in re.finditer(regex_recepta, vsebina1):
+    print(x)
 
 # =================== K O N E C   D O K U M E N T A ============================
 #             print(potres.group('id'))
