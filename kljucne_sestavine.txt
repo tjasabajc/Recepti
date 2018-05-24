@@ -1,0 +1,4874 @@
+sestavina
+avokado
+voda
+smetana
+jogurt
+šalotka
+paradižnik
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"tabasko omake; èe želimo pekoèe"
+OSTANE : ['tabasko', 'omake', 'èe', 'želimo']
+kumara
+skodela kisle smetane
+OSTANE : ['kisle', 'smetana']
+èebula
+èesen
+kis
+jogurt
+orehi
+sol
+"beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['beli', 'poper']
+zavitek tenkega vleèenega testa
+OSTANE : ['zavitek', 'testa']
+".5 kg zmletih orehov ali <a href=""https://www.kulinarika.net/recepti/zacimbe/39/mandelj/"">mandljev</a> ali lešnikov"
+OSTANE : ['', 'orehi', 'mandlji', 'lešnikov']
+sladkor
+klinèkov
+cimet
+maslo
+<b>Sestavine za sirup:</b>
+OSTANE : ['b>Sestavine', 'sirup:</b']
+voda
+sladkor
+limona
+rum
+buèk
+èebula
+kuhanega masla
+OSTANE : ['kuhanega', 'maslo']
+moka
+paradižnik
+vode ali juhe iz kocke
+OSTANE : ['voda', 'juhe']
+koprca
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+kisla smetana po okusu
+OSTANE : ['kisla', 'smetana']
+èebula
+maslo
+vode z jušno kocko ali pa juhe
+OSTANE : ['voda', 'pa', 'juhe']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+vina
+rezine belega kruha popeèenega na maslu
+OSTANE : ['kruh', 'maslu']
+sir
+èesen
+olje
+por
+krompir
+kumine
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+juhe ali vode z jušno kocko
+OSTANE : ['juhe', 'voda']
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+rumenjaka
+"nemastnega govejega mesa (najbolje s križa živali);"
+OSTANE : ['govejega', 'mesa', 'najbolje', 'križa', 'živali']
+Eno govejo kost
+OSTANE : ['govejo', 'kost']
+voda
+do 4 korenèke
+OSTANE : ['', 'korenje']
+zelena
+peteršilj
+por
+koleraba
+èebula
+èesen
+lovorjev list
+OSTANE : ['lovorjev', 'list']
+žafranika
+paradižnikov
+kumara
+"manjša <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelena</a> paprika; narezana na rezance"
+OSTANE : ['zelena', 'paprika', 'rezance']
+èebula
+èesen
+limona
+olje
+paprika
+voda
+sol
+marelice
+feferon
+korenje
+limona
+ingver
+sladkor
+sherryja
+sol
+bazilika
+juhe
+žabjih krakov (poleti uporabljamo le zamrznjene krake)
+OSTANE : ['žabjih', 'krakov', 'poleti', 'uporabljamo', 'le', 'zamrznjene', 'krake']
+maslo
+moka
+"drobno nasekljanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a> ali kreše"
+OSTANE : ['nasekljanega', 'peteršilj', 'kreše']
+èesen
+nastrganega muškatnega oreška
+OSTANE : ['nastrganega', 'muškatnega', 'oreška']
+"vode; v kateri se je kuhala zelenjava"
+OSTANE : ['voda', 'kateri', 'kuhala', 'zelenjava']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+vina
+voda
+cimet
+nageljnovi žbici
+OSTANE : ['nageljnovi', 'žbici']
+limonina
+sladkor
+maslo
+moka
+rumenjaka
+sol
+"stebla pora; oprana in narezana na kolobarèke"
+OSTANE : ['stebla', 'por', 'oprana']
+èebula
+maslo
+kokošje juhe iz kocke
+OSTANE : ['kokošje', 'juhe']
+"veèji krompirji; olupljeni in narezani na kocke"
+OSTANE : ['krompir', 'olupljeni']
+skodela kisle smetane
+OSTANE : ['kisle', 'smetana']
+nasekljanega drobnjaka
+OSTANE : ['nasekljanega', 'drobnjaka']
+"sol in beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'beli', 'poper']
+teletine s kostjo
+OSTANE : ['teletine', 'kostjo']
+voda
+èebula narezana na èetrtine
+OSTANE : ['èebula', 'èetrtine']
+èesen
+poper
+sol
+list lovorja
+OSTANE : ['list', 'lovorja']
+timijan
+moka
+krompir
+kis
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+jajca
+peteršilj
+zelja
+èebula
+govedine
+voda
+korenje
+limona
+sladkor
+moka
+olje
+jušna kocka
+OSTANE : []
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+cvetaèa
+èebula
+èesen
+maslo
+kokošje juhe ali juhe iz kocke
+OSTANE : ['kokošje', 'juhe', 'juhe']
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+"drobno nasekljanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['nasekljanega', 'peteršilj']
+"rezini popeèenega toasta; narezanega na kocke"
+OSTANE : ['rezini', 'toasta']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+buèk
+olje
+paradižnik
+papriki
+èebula
+"drobno nasekljane <a href=""https://www.kulinarika.net/recepti/zacimbe/81/melisa/"">melise</a>"
+OSTANE : ['nasekljane', 'melise']
+"drobno nasekljanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['nasekljanega', 'peteršilj']
+jajca
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+kisa ali limoninega soka
+OSTANE : ['kis', 'limona']
+vode ali juhe iz kocke
+OSTANE : ['voda', 'juhe']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+govejega boènika ali kakega drugega kosa mesa
+OSTANE : ['govejega', 'boènika', 'kakega', 'drugega', 'kosa', 'mesa']
+svinine / ni nujno /
+OSTANE : ['svinine', '', 'ni', 'nujno']
+divjaèinskega mesa
+OSTANE : ['divjaèinskega', 'mesa']
+èebula
+èesen
+o dag olupljenega in na veèje kose narezanega krompirja
+OSTANE : ['o', 'olupljenega', 'krompir']
+feferon ali malo pekoèe paprike
+OSTANE : ['feferon', 'paprika']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zeleno</a> in 1 rdeèo papriko; narezano na rezine"
+OSTANE : ['zeleno', '', 'rdeèo', 'papriko']
+po želji lahko nekaj narezanih gob
+OSTANE : ['lahko', 'gob']
+olje
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+paprika
+timijan
+pimenta
+list lovorja
+OSTANE : ['list', 'lovorja']
+kumine
+vina
+krompir
+èebulic
+por
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a>; narezane na rezine (primernejša je stebelna <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelena</a>)"
+OSTANE : ['zelena', 'primernejša', 'stebelna', 'zelena']
+maslo
+lovorovi listi
+OSTANE : ['lovorovi', 'listi']
+timijan
+"pišèanèjih jeter; narezanih na košèke"
+OSTANE : ['pišèanèjih', 'jeter']
+peteršilj
+vode ali juhe
+OSTANE : ['voda', 'juhe']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+zmlete svinjine
+OSTANE : ['zmlete', 'svinjine']
+èebula
+paprika
+"drobno narezana <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelena</a> paprika"
+OSTANE : ['zelena', 'paprika']
+maslo
+moka
+juhe
+"sveži paradižniki ali paradižniki iz ploèevinke; olupljeni in narezani na košèke"
+OSTANE : ['sveži', 'paradižniki', 'paradižniki', 'ploèevinke', 'olupljeni']
+skodela kuhanega riža
+OSTANE : ['kuhanega', 'riž']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"masla ali <span class=""label-inline"">2 žlici"
+OSTANE : ['maslo', 'class=""label-inline"">2', 'žlici']
+pšeniènega zdroba
+OSTANE : ['pšeniènega', 'zdroba']
+peteršilj
+vrele slane vode ali vroèe vode z jušno kocko
+OSTANE : ['vrele', 'slane', 'voda', 'voda']
+jajca
+poper
+nastrgan korenèek
+OSTANE : ['nastrgan', 'korenje']
+"avokada; prerezana in poškropljena s sokom limone; da ne oksidira"
+OSTANE : ['avokado', 'prerezana', 'poškropljena', 'sokom', 'limona', 'da', 'ne', 'oksidira']
+rakci
+kuhanega graha
+OSTANE : ['kuhanega', 'graha']
+trdo kuhani jajci
+OSTANE : ['kuhani', 'jajca']
+mandarina
+veliki žlici majoneze
+OSTANE : ['veliki', 'žlici', 'majoneze']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+gorèice
+listi solate
+OSTANE : ['listi', 'solate']
+"kvalitetne govedine / pleèe; prsa ali flam"
+OSTANE : ['kvalitetne', 'govedine', '', 'pleèe', 'prsa', 'flam']
+jagnjetine
+krompir
+do 3 dag soli
+OSTANE : ['', 'sol']
+poper
+liste lovorja
+OSTANE : ['liste', 'lovorja']
+èebula
+strokov èesna
+OSTANE : ['strokov', 'èesen']
+"do 3 korenèke; narezane na kolobarje"
+OSTANE : ['', 'korenje']
+peteršilj
+zelene</a
+nageljnovih žbic zavitih v gazo.
+OSTANE : ['nageljnovih', 'žbic', 'zavitih', 'gazo']
+narezanega paradižnika ali pa 2 žlici paradižnikove mezge
+OSTANE : ['paradižnik', 'pa', '', 'žlici', 'paradižnik', 'mezge']
+vina
+"l<span class=""label-inline"">5 dag"
+OSTANE : ['l<span', 'class=""label-inline"">5']
+limonin
+kisle kumarice
+OSTANE : ['kisle', 'kumarice']
+zmlete
+olje
+poper
+èebulica
+"žlicka drobno narezanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['žlicka', 'peteršilj']
+bazilike
+majoneza
+sojina omaka
+OSTANE : ['sojina', 'omaka']
+tabasko omaka
+OSTANE : ['tabasko', 'omaka']
+"sol po okusu ali pa zaèinka <a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorèica</a>"
+OSTANE : ['sol', 'pa', 'zaèinka', 'gorèica']
+kisa ali suhega vina 
+OSTANE : ['kis', 'vina']
+mesa
+pelatov ( velika konzerva )
+OSTANE : ['pelatov', '', 'konzerva', ')']
+rdeèega fižola ( velika konzerva )
+OSTANE : ['fižola', '', 'konzerva', ')']
+voda
+olje
+sol
+"zmletega èrnega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
+OSTANE : ['zmletega', 'poper']
+mlete indijske kumine ali navadne
+OSTANE : ['indijske', 'kumine', 'navadne']
+"cajenskega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a> (mlet chilli)"
+OSTANE : ['cajenskega', 'poper', 'chilli']
+èesen
+lovorjev list 
+OSTANE : ['lovorjev', 'list']
+moka
+rdeèa paprika 
+OSTANE : ['rdeèa', 'paprika']
+avokado
+srednja èebula
+OSTANE : ['srednja', 'èebula']
+sira gauda
+OSTANE : ['sir', 'gauda']
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+drobno mleto meso
+OSTANE : ['mleto', 'meso']
+"zaèimbe (sol;<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>; èesen...)"
+OSTANE : ['zaèimbe', 'sol;<a', 'poper', 'èesen']
+jajca
+moka
+olje
+èebula
+juha
+belo vino
+OSTANE : ['belo', 'vino']
+kisla smetana
+OSTANE : ['kisla', 'smetana']
+peteršilj
+mehke govedine brez kosti
+OSTANE : ['govedine', 'brez', 'kosti']
+in pol žlièke sladkorja
+OSTANE : ['pol', 'žlièke', 'sladkor']
+sojine omake
+OSTANE : ['sojine', 'omake']
+hoisinove omake / dobi se pri nas v veèjih trgovinah/
+OSTANE : ['hoisinove', 'omake', '', 'dobi', 'pri', 'nas', 'veèjih', 'trgovinah']
+suhega vina ali šerija
+OSTANE : ['vina', 'šerija']
+ali 4 stroki èesna
+OSTANE : ['', 'èesen']
+namiznega olja
+OSTANE : ['namiznega', 'olje']
+svinine;narezane
+opranega riža
+OSTANE : ['opranega', 'riž']
+masti
+èebula
+paradižnik
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zeleni</a> papriki; narezani na rezine"
+OSTANE : ['zeleni', 'papriki']
+"prekajene svinine; narezane na košèke"
+OSTANE : ['prekajene', 'svinine']
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu in potrebi"
+OSTANE : ['sol', 'poper']
+paprika
+pišèanèji bedri
+OSTANE : ['pišèanèji', 'bedri']
+srednje veliki èebuli
+OSTANE : ['srednje', 'veliki', 'èebula']
+èesen
+jušna kocka
+OSTANE : []
+olje
+voda
+"sol; zaèimbna mešanica; èesen v prahu (za zaèinitev mesa) "
+OSTANE : ['sol', 'zaèimbna', 'mešanica', 'èesen', 'zaèinitev', 'mesa']
+govejega boènika ali vratovine
+OSTANE : ['govejega', 'boènika', 'vratovine']
+nalistane èebule
+OSTANE : ['nalistane', 'èebula']
+masti
+voda
+sol
+moka
+sladke zmlete paprike
+OSTANE : ['sladke', 'zmlete', 'paprika']
+kisa in sol
+OSTANE : ['kis', 'sol']
+goveji zrezki
+OSTANE : ['goveji', 'zrezki']
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+èesen
+èebula
+papriki
+paradižnik
+buèka
+gorèice
+paradižnikove mezge
+OSTANE : ['paradižnik', 'mezge']
+olje
+govejega mesa
+OSTANE : ['govejega', 'mesa']
+"rezine svežega ali konzerviranega <a href=""https://www.kulinarika.net/recepti/zacimbe/4/ananas/"">ananasa</a>"
+OSTANE : ['konzerviranega', 'ananasa']
+sojine ali worcesterske omake
+OSTANE : ['sojine', 'worcesterske', 'omake']
+sladkor
+sol
+limona
+nastrganega ingverja
+OSTANE : ['nastrganega', 'ingver']
+èesen
+olje
+govedine
+piva
+olje
+limona
+èesen
+lista lovorja
+OSTANE : ['lista', 'lovorja']
+timijan
+origana
+"zdrobljene <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilike</a>"
+OSTANE : ['zdrobljene', 'bazilike']
+vejica rožmarina
+OSTANE : ['vejica', 'rožmarina']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+gorèice
+kuhanega ali peèenega mesa
+OSTANE : ['kuhanega', 'peèenega', 'mesa']
+masti
+èebula
+sol
+poper
+jajca
+mleko
+mesa suhega bakalarja ali polenovke
+OSTANE : ['mesa', 'bakalarja', 'polenovke']
+olje
+èesnovega
+"sol in malo <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a> po okusu"
+OSTANE : ['sol', 'poper']
+peteršilj
+dateljev
+kakega dobrega pikantnega sira
+OSTANE : ['kakega', 'pikantnega', 'sir']
+grapefruit
+majoneza
+ketchup
+vodka
+<b>Za 4-6 obrokov:</b>
+OSTANE : ['b>Za', '-6', 'obrokov:</b']
+jajca
+èebula
+olje
+curryjevega praška
+OSTANE : ['curryjevega', 'praška']
+majoneze
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+<b>Za riževo solato:</b>
+OSTANE : ['b>Za', 'riževo', 'solato:</b']
+riž
+vinaigrette
+rozin
+sesekljanih suhih marelic
+OSTANE : ['suhih', 'marelice']
+grobo sesekljanih orehov
+OSTANE : ['grobo', 'orehi']
+šopek kreše (za okras)
+OSTANE : ['šopek', 'kreše', 'okras']
+<b>Za omako vinaigrette:</b>
+OSTANE : ['b>Za', 'omako', 'vinaigrette:</b']
+"kisa ali <span class=""label-inline"">1;5 žlice"
+OSTANE : ['kis', 'class=""label-inline"">1;5']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+"dijonske <a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorèice</a> (po želji) "
+OSTANE : ['dijonske', 'gorèice']
+olje
+kisle kumarice
+OSTANE : ['kisle', 'kumarice']
+èebula
+sladka rdeèa paprika ( suha )
+OSTANE : ['sladka', 'rdeèa', 'paprika', '', 'suha', ')']
+sol
+poper
+skuta
+smetana - sladka ali kisla
+OSTANE : ['smetana', '-', 'sladka', 'kisla']
+jajca
+majoneze
+limona
+èebula
+href=""https://www2.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorèice</a
+href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a
+sol
+"vejica <a href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a> za okrasitev"
+OSTANE : ['vejica', 'href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a', 'okrasitev']
+veèjih razkošèièenih oliv
+OSTANE : ['veèjih', 'razkošèièenih', 'oliv']
+zmlete govedine
+OSTANE : ['zmlete', 'govedine']
+"pišèanèja jetra; narezana na drobno"
+OSTANE : ['pišèanèja', 'jetra']
+èesen
+parmezana
+olje
+odišavljenih kruhovih drobtin (zmešanih z zaèimbami)
+OSTANE : ['odišavljenih', 'kruhovih', 'drobtin', 'zmešanih', 'zaèimbami']
+"šcepec posušene zdrobljene <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilike</a> ali origana"
+OSTANE : ['posušene', 'zdrobljene', 'bazilike', 'origana']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"Za paniranje: moka ; stepeno jajce; kruhove drobtine in olje za cvrenje"
+OSTANE : ['Za', 'paniranje:', 'moka', '', 'stepeno', 'jajca', 'kruhove', 'drobtine', 'olje']
+manjših paradižnikov
+OSTANE : ['manjših', 'paradižnikov']
+mašèobe
+jajca
+zaèimbne mešanice
+OSTANE : ['zaèimbne', 'mešanice']
+"narezane kreše; mete; krebuljice; <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilike</a> ali <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>; suhe zaèimbe zdrobimo"
+OSTANE : ['kreše', 'mete', 'krebuljice', 'bazilike', 'peteršilj', 'suhe', 'zaèimbe', 'zdrobimo']
+sir
+poper
+<b>Za 10 oseb:</b>
+OSTANE : ['b>Za', '', 'oseb:</b']
+jajca
+kumarice
+ketchup
+gorèica
+"mleta rdeèa paprika;"
+OSTANE : ['rdeèa', 'paprika']
+sendviè klobase
+OSTANE : ['sendviè', 'klobase']
+"sira edamca;"
+OSTANE : ['sir', 'edamca']
+sol
+poper
+olje
+skute
+"kakega ostrega sira; naribanega na rezance"
+OSTANE : ['kakega', 'ostrega', 'sir', 'rezance']
+"manjša èebula; naribana na rezance"
+OSTANE : ['èebula', 'rezance']
+vina
+peteršilj
+poper
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>ženih in zdrobljenih <a href=""https://www.kulinarika.net/recepti/zacimbe/39/mandelj/"">mandljev</a> "
+OSTANE : ['popra</a>že', 'zdrobljenih', 'mandlji']
+sveže skute
+OSTANE : ['sveže', 'skute']
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+drobno narezanega ali zdrobljenega timijana
+OSTANE : ['zdrobljenega', 'timijan']
+drobnjaka
+koprca
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+jajca
+mleko
+maslo
+pšeniènega zdroba
+OSTANE : ['pšeniènega', 'zdroba']
+skute
+jajca
+pršuta
+rakovih repkov
+OSTANE : ['rakovih', 'repkov']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/8/bambus/"">bambusovih</a> vršièkov"
+OSTANE : ['bambusovih', 'vršièkov']
+sladka smetana
+OSTANE : ['sladka', 'smetana']
+"èesen; oljèno olje"
+OSTANE : ['èesen', 'oljèno', 'olje']
+sol
+suhega mesa brez kosti
+OSTANE : ['mesa', 'brez', 'kosti']
+medu
+cimet
+zdrobljenih nageljnovih žbic
+OSTANE : ['zdrobljenih', 'nageljnovih', 'žbic']
+sojine omake 
+OSTANE : ['sojine', 'omake']
+cimet
+moka
+margarine
+kvasa
+žlièko soli
+OSTANE : ['žlièko', 'sol']
+"cca <span class=""label-inline"">3dcl"
+OSTANE : ['cca', 'class=""label-inline"">3dcl']
+"sezam; kumina ali <a href=""https://www.kulinarika.net/recepti/zacimbe/77/mak/"">mak</a>"
+OSTANE : ['sezam', 'kumina', 'mak']
+rumenjak za premaz
+OSTANE : ['rumenjak', 'premaz']
+jajca
+ploèevinki tune
+OSTANE : ['ploèevinki', 'tune']
+majoneze
+maslo
+drobno narezanega ali zdrobljenega timijana
+OSTANE : ['zdrobljenega', 'timijan']
+gorèice
+par kapljic soka limone
+OSTANE : ['par', 'kapljic', 'limona']
+poper
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelena</a> solata"
+OSTANE : ['zelena', 'solata']
+škampovi repki
+OSTANE : ['škampovi', 'repki']
+ketchup
+majoneza
+vodka
+"beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['beli', 'poper']
+paradižnik
+kumare
+limona
+pomaranèa
+tunine v olivnem olju
+OSTANE : ['tunine', 'olivnem', 'olju']
+veèjih vloženih kislih kumaric
+OSTANE : ['veèjih', 'vloženih', 'kislih', 'kumaric']
+èebula
+mlete paprike (nepekoèe)
+OSTANE : ['paprika', 'nepekoèe']
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+majoneze
+konjaka
+sol ali vegeta
+OSTANE : ['sol', 'vegeta']
+tenkih rezin lososa
+OSTANE : ['tenkih', 'lososa']
+"francoske solate; lahko kupljene lahko jo naredimo sami "
+OSTANE : ['francoske', 'solate', 'lahko', 'kupljene', 'lahko', 'jo', 'naredimo', 'sami']
+listov solate
+OSTANE : ['listov', 'solate']
+mesa
+èebula
+èesen
+krompir
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+jajca
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+mašèoba
+maslo
+So opisane v samem postopku.
+OSTANE : ['So', 'opisane', 'samem', 'postopku']
+Mlada raca ali gos
+OSTANE : ['Mlada', 'raca', 'gos']
+sol
+kumina
+kostanji oz. kisla jabolka
+OSTANE : ['kostanji', 'kisla', 'jabolka']
+maslo
+class=""label-inline"">2
+"sol in beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'beli', 'poper']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/76/majaron/"">majarona</a> ali origana"
+OSTANE : ['majarona', 'origana']
+"veèja kisla jabolka;olupljena in narezana na drobno"
+OSTANE : ['kisla', 'jabolka;olupljena']
+skodela olupljenih in peèenih kostanjev
+OSTANE : ['peèenih', 'kostanjev']
+voda
+piva
+zaèimbne mešanice
+OSTANE : ['zaèimbne', 'mešanice']
+škroba
+mesa
+prekajene slanine
+OSTANE : ['prekajene', 'slanine']
+list lovorja
+OSTANE : ['list', 'lovorja']
+majarona
+par suhih borovnic
+OSTANE : ['par', 'suhih', 'borovnic']
+maslo
+vina
+gorèice
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+olje za peèenje
+OSTANE : ['olje', 'peèenje']
+mesnate slanine
+OSTANE : ['mesnate', 'slanine']
+sala
+svinjskih jetrc
+OSTANE : ['svinjskih', 'jetrc']
+ledene vode
+OSTANE : ['ledene', 'voda']
+sol
+poper
+pimenta
+kumine
+nastrganega muškatnega orešèka
+OSTANE : ['nastrganega', 'muškatnega', 'orešèka']
+majarona
+èesna in nastrgana lupina neškropljene limone
+OSTANE : ['èesen', 'neškropljene', 'limona']
+"krompirja; olupljenega in narezanega na rezine"
+OSTANE : ['krompir', 'olupljenega']
+mašèobe
+èebula
+"mletega mesa (pol svinjine; pol govedine)"
+OSTANE : ['mesa', 'pol', 'svinjine', 'pol', 'govedine']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+jajca
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+mleko
+sir
+"srednje velike svinjske kotlete zarežemo; da naredimo žepek"
+OSTANE : ['srednje', 'velike', 'svinjske', 'kotlete', 'zarežemo', 'da', 'naredimo', 'žepek']
+skute
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+"vloženega <a href=""https://www.kulinarika.net/recepti/zacimbe/44/hren/"">hrena</a>"
+OSTANE : ['vloženega', 'hrena']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+maslo za peèenje
+OSTANE : ['maslo', 'peèenje']
+moka za kotlete
+OSTANE : ['moka', 'kotlete']
+mlad zajec
+OSTANE : ['mlad', 'zajec']
+drobovina dotiènega zajca
+OSTANE : ['drobovina', 'dotiènega', 'zajca']
+kruh
+mleko
+jajca
+peteršilj
+sol
+poper
+èebula
+maslo
+paradižnik (ali mezga)
+OSTANE : ['paradižnik', 'mezga']
+Opcija - olive
+OSTANE : ['Opcija', '-', 'olive']
+<b>Za 6-8 obrokov:</b>
+OSTANE : ['b>Za', '-8', 'obrokov:</b']
+teleèjih prsi
+OSTANE : ['teleèjih', 'prsi']
+trdo kuhani jajci zrezani na rezine
+OSTANE : ['kuhani', 'jajca', 'zrezani']
+"kuhane; na tanke rezine narezane gnjati"
+OSTANE : ['kuhane', 'tanke', 'gnjati']
+olje
+maslo
+na èetrtinke narezana èebula
+OSTANE : ['èetrtinke', 'èebula']
+na èetrtinke narezan korenèek
+OSTANE : ['èetrtinke', 'korenje']
+"na velike kose narezano steblo belušne <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a>"
+OSTANE : ['velike', 'belušne', 'zelena']
+vina
+teleèje
+strt strok èesna
+OSTANE : ['strt', 'èesen']
+bouquet garni
+OSTANE : ['bouquet', 'garni']
+<b>Za nadev:</b>
+OSTANE : ['b>Za', 'nadev:</b']
+èebula
+maslo
+zmlete puste teletine
+OSTANE : ['zmlete', 'puste', 'teletine']
+svežih drobtin belega kruha
+OSTANE : ['svežih', 'drobtin', 'kruh']
+èesen
+limona
+peteršilj
+muškata
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+razžvrkljani jajci 
+OSTANE : ['razžvrkljani', 'jajca']
+class=""label-inline"">2
+sol ali kaka zaèimbna mešanica
+OSTANE : ['sol', 'kaka', 'zaèimbna', 'mešanica']
+žemlje
+mleko
+"majhna šalotka; narezana na drobne košèke"
+OSTANE : ['šalotka', 'drobne']
+prekajene slanine narezane na košèke
+OSTANE : ['prekajene', 'slanine']
+dag
+OSTANE : []
+šunke
+jajca
+href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a
+smetana
+href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a
+zdrobljenega timijana
+OSTANE : ['zdrobljenega', 'timijan']
+maslo in mašèoba za peèenje
+OSTANE : ['maslo', 'mašèoba', 'peèenje']
+I. Omleta
+OSTANE : ['I', 'Omleta']
+¡ 2 jajci 
+OSTANE : ['', '', 'jajca']
+"¡ <span class=""label-inline"">10 dag"
+OSTANE : ['', 'class=""label-inline"">10']
+"¡ <span class=""label-inline"">3/4 l"
+OSTANE : ['', 'class=""label-inline"">3/4', 'l']
+¡ noževo konico soli 
+OSTANE : ['', 'noževo', 'konico', 'sol']
+¡ olje za peko 
+OSTANE : ['', 'olje', 'peko']
+II. Omletni nadev
+OSTANE : ['II', 'Omletni', 'nadev']
+¡ l5 dag pišèanèjih jeter 
+OSTANE : ['', 'l5', 'pišèanèjih', 'jeter']
+"¡ <span class=""label-inline"">5 dag"
+OSTANE : ['', 'class=""label-inline"">5']
+¡ srednje veliko èebulo 
+OSTANE : ['', 'srednje', 'veliko', 'èebulo']
+¡ nekaj vejic petršilja 
+OSTANE : ['', 'vejic', 'petršilja']
+"¡ <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> in sol "
+OSTANE : ['', 'poper', 'sol']
+¡ žlico olja 
+OSTANE : ['', 'žlico', 'olje']
+III. Omletni preliv
+OSTANE : ['III', 'Omletni', 'preliv']
+"¡ <span class=""label-inline"">2"
+OSTANE : ['', 'class=""label-inline"">2']
+"¡ <span class=""label-inline"">1 dl"
+OSTANE : ['', 'class=""label-inline"">1']
+je kuhala jušna zelenjava 
+OSTANE : ['kuhala', 'zelenjava']
+¡ 1 dl kisle smetane 
+OSTANE : ['', '', 'kisle', 'smetana']
+¡ jušno žlico drobno sesekljane jušne 
+OSTANE : ['', 'žlico']
+zelenjave iz uporabljene juhe 
+OSTANE : ['zelenjave', 'uporabljene', 'juhe']
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>; <a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorèica</a> in èajna žlièka limonovega soka po okusu"
+OSTANE : ['sol', 'poper', 'gorèica', 'èajna', 'žlièka', 'limonovega']
+¡ jušno žlico sesekljanega drobnjaka 
+OSTANE : ['', 'žlico', 'drobnjaka']
+IV. Krompirjeva slama
+OSTANE : ['IV', 'Krompirjeva', 'slama']
+"¡ <span class=""label-inline"">60 dag"
+OSTANE : ['', 'class=""label-inline"">60']
+¡ olje za cvrtje 
+OSTANE : ['', 'olje']
+¡ sol za posipanje 
+OSTANE : ['', 'sol']
+toast kruh
+OSTANE : ['toast', 'kruh']
+mortadele
+sir
+lonèka kisle smetane
+OSTANE : ['lonèka', 'kisle', 'smetana']
+jajca
+kumaric
+fileta vložene paprike ali feferonov
+OSTANE : ['fileta', 'vložene', 'paprika', 'feferonov']
+oliv brez košèic 
+OSTANE : ['oliv', 'brez', 'košèic']
+šèepce origana oz. po okusu
+OSTANE : ['šèepce', 'origana']
+class=""label-inline"">5
+class=""label-inline"">5
+peteršilj
+sol
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>; za marinado v zrnih"
+OSTANE : ['poper', 'marinado']
+jajca
+moka in kruhove drobtine za paniranje
+OSTANE : ['moka', 'kruhove', 'drobtine', 'paniranje']
+olje
+listov lepe špinaèe
+OSTANE : ['listov', 'lepe', 'špinaèe']
+made jagnjetine
+OSTANE : ['made', 'jagnjetine']
+zaèimbna mešanica ali sol
+OSTANE : ['zaèimbna', 'mešanica', 'sol']
+zdrobljen timijan
+OSTANE : ['zdrobljen', 'timijan']
+zdrobljen èesen
+OSTANE : ['zdrobljen', 'èesen']
+olje
+limonin
+zajca
+maslo
+èebula
+sol
+href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a
+nageljnovi žbici
+OSTANE : ['nageljnovi', 'žbici']
+rožmarin
+èrno vino
+OSTANE : ['èrno', 'vino']
+kruhove drobtine
+OSTANE : ['kruhove', 'drobtine']
+puranovih ali pišèanèjih prsi
+OSTANE : ['puranovih', 'pišèanèjih', 'prsi']
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> in rdeèa paprika po okusu"
+OSTANE : ['sol', 'poper', 'rdeèa', 'paprika']
+timijan
+maslo
+vina
+smetana
+gorèice
+sir
+kruhovih drobtin
+OSTANE : ['kruhovih', 'drobtin']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+teleèji kraèi
+OSTANE : ['teleèji', 'kraèi']
+èesen
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> ali zaèinka"
+OSTANE : ['sol', 'poper', 'zaèinka']
+mašèoba za peèenje
+OSTANE : ['mašèoba', 'peèenje']
+juha za zalivanje
+OSTANE : ['juha', 'zalivanje']
+pišèanèjih prsi
+OSTANE : ['pišèanèjih', 'prsi']
+"mešane zelenjave (paprika; grah; korenèek)"
+OSTANE : ['mešane', 'zelenjave', 'paprika', 'grah', 'korenje']
+steklenih rezancev (lahko so tudi navadni špageti)
+OSTANE : ['steklenih', 'rezancev', 'lahko', 'so', 'navadni', 'špageti']
+"sojina omaka; olje; kis; sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>; curry"
+OSTANE : ['sojina', 'omaka', 'olje', 'kis', 'sol', 'poper', 'curry']
+gustina oz. škroba
+OSTANE : ['gustina', 'škroba']
+pišèanèjega fileja na osebo
+OSTANE : ['pišèanèjega', 'fileja', 'osebo']
+olje
+glave èebule
+OSTANE : ['glave', 'èebula']
+strokov èesna
+OSTANE : ['strokov', 'èesen']
+rjavega sladkorja (lahko tudi navadnega)
+OSTANE : ['sladkor', 'lahko', 'navadnega']
+sol
+curryja
+vegete
+vina
+kokosove moke
+OSTANE : ['kokosove', 'moka']
+mleko
+voda
+sok pol limete (lahko limone)
+OSTANE : ['pol', 'limete', 'lahko', 'limona']
+pišèanec
+kozarec kisle smetane
+OSTANE : ['kozarec', 'kisle', 'smetana']
+èesen
+trdo kuhana jajca
+OSTANE : ['kuhana', 'jajca']
+kisle kumarice
+OSTANE : ['kisle', 'kumarice']
+olje
+sol
+olje
+kislega zelja
+OSTANE : ['kislega', 'zelja']
+svinjskega mesa
+OSTANE : ['svinjskega', 'mesa']
+riž
+èebula
+vegeta
+lovorova lista
+OSTANE : ['lovorova', 'lista']
+o dag mletega mesa
+OSTANE : ['o', 'mesa']
+v mleku namoèenega in ožetega kruha
+OSTANE : ['mleku', 'namoèenega', 'ožetega', 'kruh']
+jajca
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+peteršilj
+kruhove drobtine v katere povaljamo polpete.
+OSTANE : ['kruhove', 'drobtine', 'katere', 'povaljamo', 'polpete']
+mlete nemastne junetine
+OSTANE : ['nemastne', 'junetine']
+mlete nemastne svinjine ali perutnine
+OSTANE : ['nemastne', 'svinjine', 'perutnine']
+skute
+peteršilj
+kruha kruha
+OSTANE : ['kruh', 'kruh']
+mleko
+jajca
+morska sol
+OSTANE : ['morska', 'sol']
+poper
+majaron
+èesen
+kruhove drobtine
+OSTANE : ['kruhove', 'drobtine']
+"o dag tenkih rezin purana; teletine ali svinine"
+OSTANE : ['o', 'tenkih', 'purana', 'teletine', 'svinine']
+sojine omake
+OSTANE : ['sojine', 'omake']
+nastrganega ingverja
+OSTANE : ['nastrganega', 'ingver']
+èesen
+sezamovega olja
+OSTANE : ['sezamovega', 'olje']
+sladkor
+vina
+moka
+jajca
+kruhove drobtine
+OSTANE : ['kruhove', 'drobtine']
+tenki zrezki potolèeni (meso mora biti od šimbasa)
+OSTANE : ['tenki', 'zrezki', 'potolèeni', 'meso', 'mora', 'biti', 'od', 'šimbasa']
+"na debelo zmleti <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['debelo', 'zmleti', 'poper']
+sol
+maslo
+belega vina ali konjaka
+OSTANE : ['vina', 'konjaka']
+maslo
+class=""label-inline"">5
+olje
+"èebuli ; narezani na drobne košèke"
+OSTANE : ['èebula', '', 'drobne']
+èesen
+na drobno narezane prekajene slanine
+OSTANE : ['prekajene', 'slanine']
+paradižnik
+paradižnikove mezge
+OSTANE : ['paradižnik', 'mezge']
+class=""label-inline"">4
+majarona
+muškatovega orešèka
+OSTANE : ['muškatovega', 'orešèka']
+vejica rožmarina
+OSTANE : ['vejica', 'rožmarina']
+"nageljnovi žbici ali <a href=""https://www.kulinarika.net/recepti/zacimbe/87/nageljnove-zbice-klincki-/"">klinèka</a>"
+OSTANE : ['nageljnovi', 'žbici', 'klinèka']
+paprika
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+vina
+vina
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+<b>Za kilogram in pol srninega hrbta potrebujemo: </b>
+OSTANE : ['b>Za', 'kilogram', 'pol', 'srninega', 'hrbta', 'potrebujemo:', 'b']
+korena
+peteršilj
+zelena
+èesen
+"lo zrn <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
+OSTANE : ['lo', 'poper']
+lo zrn pimente
+OSTANE : ['lo', 'pimente']
+lista lovorja
+OSTANE : ['lista', 'lovorja']
+zrn brinovih jagod
+OSTANE : ['brinovih', 'jagod']
+vejica timijana
+OSTANE : ['vejica', 'timijan']
+limoninega olupka
+OSTANE : ['limona', 'olupka']
+lo dag slanine
+OSTANE : ['lo', 'slanine']
+juhe ali vode z jušno kocko
+OSTANE : ['juhe', 'voda']
+vina
+smetana
+maslo
+moka
+èebula
+svinjska zrezka
+OSTANE : ['svinjska', 'zrezka']
+paradižnik
+èesen
+peteršilj
+gorèica
+piva
+sol
+poper
+ingver
+<b>Za 4 obroke: </b>
+OSTANE : ['b>Za', '', 'obroke:', 'b']
+"debele svinjske zarebrnice (<span class=""label-inline"">1;2 - 1;4 kg"
+OSTANE : ['debele', 'svinjske', 'zarebrnice', 'class=""label-inline"">1;2', '-', '']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+olje
+maslo
+na listke narezani èebuli
+OSTANE : ['listke', 'èebula']
+"olupljeni; razpeèkani; na obroèke narezani kisli jabolki"
+OSTANE : ['olupljeni', 'razpeèkani', 'obroèke', 'kisli', 'jabolki']
+calvadosa
+moka
+teleèje
+muškata
+creme fraiche ali creme double
+OSTANE : ['creme', 'fraiche', 'creme', 'double']
+to je smetana
+OSTANE : ['to', 'smetana']
+<b>Za prilogo: </b>
+OSTANE : ['b>Za', 'prilogo:', 'b']
+maslo
+"èvrsti namizni jabolki; neolupljeni; brez pešèišèa; zrezani na 1 cm debele obroèke"
+OSTANE : ['èvrsti', 'namizni', 'jabolki', 'neolupljeni', 'brez', 'pešèišèa', 'zrezani', '', 'cm', 'debele', 'obroèke']
+sladkor
+mehkega svinjskega mesa
+OSTANE : ['mehkega', 'svinjskega', 'mesa']
+svinjska mrežica
+OSTANE : ['svinjska', 'mrežica']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+zmlete kumine
+OSTANE : ['zmlete', 'kumine']
+èesen
+"vloženega <a href=""https://www.kulinarika.net/recepti/zacimbe/44/hren/"">hrena</a>"
+OSTANE : ['vloženega', 'hrena']
+mašèoba za peèenje 
+OSTANE : ['mašèoba', 'peèenje']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+svinjski zrezki
+OSTANE : ['svinjski', 'zrezki']
+èesen
+Vegeta ali Zaèinka
+OSTANE : ['Vegeta', 'Zaèinka']
+sol
+mešanica zaèimb za svinjino
+OSTANE : ['mešanica', 'zaèimb', 'svinjino']
+poper
+drobno mleti èesen
+OSTANE : ['mleti', 'èesen']
+èebula
+juha iz goveje kocke
+OSTANE : ['juha', 'goveje']
+kisla smetana 
+OSTANE : ['kisla', 'smetana']
+Prekajena šunka
+OSTANE : ['Prekajena', 'šunka']
+zmlete kumine
+OSTANE : ['zmlete', 'kumine']
+list lovorja zmlet v prah
+OSTANE : ['list', 'lovorja', 'prah']
+"moka; kvas; sladkor"
+OSTANE : ['moka', 'kvas', 'sladkor']
+goveje pljuène peèenke
+OSTANE : ['goveje', 'pljuène', 'peèenke']
+sol
+poper
+kumina
+paprika
+zdrobljeni sardelni file
+OSTANE : ['zdrobljeni', 'sardelni', 'file']
+šalotka
+drobno nasekljani kapri
+OSTANE : ['nasekljani', 'kapri']
+gorèice
+majoneze
+zmehèanega masla
+OSTANE : ['zmehèanega', 'maslo']
+peteršilj
+rumenjak
+teleèja kraèa
+OSTANE : ['teleèja', 'kraèa']
+suhega žajbla (predvsem cvetovi)
+OSTANE : ['žajbla', 'predvsem', 'cvetovi']
+rožmarina
+olje
+sol
+"sveže mleti bel <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sveže', 'mleti', 'poper']
+teleèje osnove (lahko tudi goveja juha ali voda)
+OSTANE : ['teleèje', 'lahko', 'goveja', 'juha']
+svinjski zrezki
+OSTANE : ['svinjski', 'zrezki']
+sol
+majoneza
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zeleni</a> papriki"
+OSTANE : ['zeleni', 'papriki']
+sir
+"moka; jajce in drobtine za cvrtje"
+OSTANE : ['moka', 'jajca', 'drobtine']
+sol
+zmletega govejega mesa
+OSTANE : ['zmletega', 'govejega', 'mesa']
+pšeniènega zdroba instant
+OSTANE : ['pšeniènega', 'zdroba', 'instant']
+mleko
+krompir
+korenje
+jajca
+sol
+èesen
+peteršilj
+bazilika
+èebula
+olje
+olje
+class=""label-inline"">16
+teleèjih jeter
+OSTANE : ['teleèjih', 'jeter']
+pišèanèjih jeter
+OSTANE : ['pišèanèjih', 'jeter']
+prekajene slanine
+OSTANE : ['prekajene', 'slanine']
+maslo
+"nasekljanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['nasekljanega', 'peteršilj']
+nasekljanega drobnjaka
+OSTANE : ['nasekljanega', 'drobnjaka']
+šalotki
+èesen
+"jagnjetine brez kosti; ki jo lahko nadomestimo s puranovim mesom"
+OSTANE : ['jagnjetine', 'brez', 'kosti', 'ki', 'jo', 'lahko', 'nadomestimo', 'puranovim', 'mesom']
+èesen
+sol
+nastrganega ingverja ali ingverja v prahu
+OSTANE : ['nastrganega', 'ingver', 'ingver']
+poper
+origana
+currya
+sojine omake
+OSTANE : ['sojine', 'omake']
+"sezamovega olja; ki ga lahko nadomestimo z buènim oljem"
+OSTANE : ['sezamovega', 'olje', 'ki', 'ga', 'lahko', 'nadomestimo', 'buènim', 'oljem']
+olje
+limona
+teleèjih ledvic
+OSTANE : ['teleèjih', 'ledvic']
+drobno sesekljani èebuli
+OSTANE : ['sesekljani', 'èebula']
+èesen
+sezamovih semen
+OSTANE : ['sezamovih', 'semen']
+buènega olja
+OSTANE : ['buènega', 'olje']
+vina
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu "
+OSTANE : ['sol', 'poper']
+slanine
+mladih teleèjih jeter
+OSTANE : ['teleèjih', 'jeter']
+zdrobljenega ali drobno narezanega žajblja
+OSTANE : ['zdrobljenega', 'žajblja']
+"sol in beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'beli', 'poper']
+glav radièa
+OSTANE : ['glav', 'radièa']
+"prekajene slanine ali pršuta; narezanega na tanke trakove"
+OSTANE : ['prekajene', 'slanine', 'pršuta', 'tanke', 'trakove']
+poper
+govejih zrezkov
+OSTANE : ['govejih', 'zrezkov']
+sojine ali worcestrske ali kake druge slane omake
+OSTANE : ['sojine', 'worcestrske', 'kake', 'druge', 'slane', 'omake']
+èesen
+olje
+jogurt
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+na rezanca naribanih buèk
+OSTANE : ['rezanca', 'naribanih', 'buèk']
+jajca
+mleko
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+zmlete kumine
+OSTANE : ['zmlete', 'kumine']
+moka
+mašèoba za peèenje
+OSTANE : ['mašèoba', 'peèenje']
+pšeniène moke
+OSTANE : ['pšeniène', 'moka']
+jajca
+voda
+OSTANE : []
+sol
+olje
+<b>Za nadev:</b>
+OSTANE : ['b>Za', 'nadev:</b']
+instant ajdove moke
+OSTANE : ['instant', 'ajdove', 'moka']
+smetano
+maslo
+orehi
+instant ajdove moke
+OSTANE : ['instant', 'ajdove', 'moka']
+srednje debela krompirja
+OSTANE : ['srednje', 'debela', 'krompir']
+ocvirkov
+svinjske masti
+OSTANE : ['svinjske', 'masti']
+moka
+olje
+mlaèna
+sol
+<b>Nadev: </b>
+OSTANE : ['b>Nadev:', 'b']
+zmlete govedine
+OSTANE : ['zmlete', 'govedine']
+masti
+èebuli zmleti na mesoreznici 
+OSTANE : ['èebula', 'zmleti', 'mesoreznici']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po potrebi "
+OSTANE : ['sol', 'poper']
+jajca
+class=""label-inline"">2
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+drobtine
+maslo
+jagnetina
+kuhan riž
+OSTANE : ['kuhan', 'riž']
+jajca
+peteršilj
+mete
+paprika
+muškatne skorje
+OSTANE : ['muškatne', 'skorje']
+sol
+"mleti èrni <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['mleti', 'èrni', 'poper']
+moka
+sol
+voda
+kvasa
+olje
+belega fižola tetovca
+OSTANE : ['fižola', 'tetovca']
+èebula
+strokov èesna
+OSTANE : ['strokov', 'èesen']
+suhe rdeèe paprike
+OSTANE : ['suhe', 'paprika']
+suha pekoèa paprika
+OSTANE : ['suha', 'pekoèa', 'paprika']
+paradižnik
+lista lovorja
+OSTANE : ['lista', 'lovorja']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+in pol skodele moke
+OSTANE : ['pol', 'moka']
+jajca
+olje
+sol
+voda
+<b>Sestavine za nadev:</b>
+OSTANE : ['b>Sestavine', 'nadev:</b']
+sojinih kalèkov
+OSTANE : ['sojinih', 'kalèkov']
+èebula
+èesen
+zelja. dobro je kitajsko zelje
+OSTANE : ['zelja', 'kitajsko', 'zelje']
+por
+"stebla <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a>"
+OSTANE : ['stebla', 'zelena']
+šcepec glutaminata/ ni nujno/
+OSTANE : ['glutaminata', 'ni', 'nujno']
+sojine omake
+OSTANE : ['sojine', 'omake']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+zmlete svinjine
+OSTANE : ['zmlete', 'svinjine']
+olje
+koruznega zdroba
+OSTANE : ['koruznega', 'zdroba']
+maslo
+jajca
+sir
+èebula
+sol
+"Krompir; narezan na <span class=""label-inline"">2-3"
+OSTANE : ['Krompir', 'class=""label-inline"">2-3']
+èesen
+zaèimbe
+jušne kocke
+OSTANE : []
+mleko
+kisla smetana
+OSTANE : ['kisla', 'smetana']
+sir
+srednje velikih krompirjev
+OSTANE : ['srednje', 'krompirjev']
+gob narezanih na košèke (najprimernejši so gobani)
+OSTANE : ['gob', 'najprimernejši', 'so', 'gobani']
+maslo
+nasekljana èebula
+OSTANE : ['nasekljana', 'èebula']
+"nasekljan <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a>"
+OSTANE : ['nasekljan', 'peteršilj']
+juhe
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+jajca
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu "
+OSTANE : ['sol', 'poper']
+"starejših žemljic; narezanih na kocke"
+OSTANE : ['starejših', 'žemljic']
+slanine
+èebula
+peteršilj
+jajca
+moka
+maslo
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+mleko
+dobrega èrnega vina pol suhega
+OSTANE : ['vina', 'pol']
+voda
+sladkor
+vejica rožmarina
+OSTANE : ['vejica', 'rožmarina']
+klinèkov
+limonine lupine
+OSTANE : ['limona', 'lupine']
+cimet
+nazadnje l žlico temnega ruma
+OSTANE : ['nazadnje', 'l', 'žlico', 'rum']
+<b>Za palaèinke:</b>
+OSTANE : ['b>Za', 'palaèinke:</b']
+instant ajdove moke
+OSTANE : ['instant', 'ajdove', 'moka']
+mleko
+jajca
+sol
+<b>Za nadev:</b>
+OSTANE : ['b>Za', 'nadev:</b']
+domaèe šunke
+OSTANE : ['domaèe', 'šunke']
+sira ementalca
+OSTANE : ['sir', 'ementalca']
+šampinjonov v slanici
+OSTANE : ['šampinjonov', 'slanici']
+peteršilj
+bazilika
+instant koruznega zdroba
+OSTANE : ['instant', 'koruznega', 'zdroba']
+juhe
+domaèi klobasi
+OSTANE : ['domaèi', 'klobasi']
+košèek masla ali margarine
+OSTANE : ['maslo', 'margarine']
+sir
+smetana
+kozarec belega vina
+OSTANE : ['kozarec', 'vina']
+Star krompir
+OSTANE : ['Star', 'krompir']
+èebula
+moka
+paprika
+sol
+brie sira ali camembera
+OSTANE : ['brie', 'sir', 'camembera']
+èesen
+vina
+pehtrana
+pakiranega maslenega testa 
+OSTANE : ['pakiranega', 'maslenega', 'testa']
+jajèevcev oz. malancanov
+OSTANE : ['jajèevcev', 'malancanov']
+limona
+"do <span class=""label-inline"">2 žlici"
+OSTANE : ['class=""label-inline"">2', 'žlici']
+maslo
+moka
+mleko
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+èesen
+sir
+lonèek gostega jogurta
+OSTANE : ['gostega', 'jogurt']
+<b>Za 10 kosov:</b>
+OSTANE : ['b>Za', '', 'kosov:</b']
+listnato testo
+OSTANE : ['listnato', 'testo']
+rezin kuhane šunke 
+OSTANE : ['kuhane', 'šunke']
+sir
+gob v slanini
+OSTANE : ['gob', 'slanini']
+origana
+instant polente
+OSTANE : ['instant', 'polente']
+voda
+OSTANE : []
+sol
+kuhanega stroèjega fižola
+OSTANE : ['kuhanega', 'stroèjega', 'fižola']
+kuhanega graha
+OSTANE : ['kuhanega', 'graha']
+ementalec (ali topljen sir)
+OSTANE : ['ementalec', 'topljen', 'sir']
+peteršilj
+majaron
+timijan
+olje
+por
+maslo
+sol
+poper
+kisla smetana 
+OSTANE : ['kisla', 'smetana']
+fižola/tetovca
+èebula
+olje
+paprika
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> in sol po okusu"
+OSTANE : ['poper', 'sol']
+svežih gob
+OSTANE : ['svežih', 'gob']
+masla ali olja
+OSTANE : ['maslo', 'olje']
+èebula
+"drobno nasekljanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['nasekljanega', 'peteršilj']
+lovske omake iz vreèke
+OSTANE : ['lovske', 'omake', 'vreèke']
+juhe ali jušne osnove ali vode
+OSTANE : ['juhe', 'voda']
+vina
+smetana
+vina
+pomaranènega
+"nekoliko <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a>"
+OSTANE : ['nekoliko', 'cimet']
+nageljnovih žbic
+OSTANE : ['nageljnovih', 'žbic']
+kozarec vinjaka
+OSTANE : ['kozarec', 'vinjaka']
+sladkor
+ledu
+mineralna
+zavitek tankega vleèenega testa 
+OSTANE : ['zavitek', 'tankega', 'testa']
+mastne skute ali srbskega sira
+OSTANE : ['mastne', 'skute', 'srbskega', 'sir']
+masti ali olja
+OSTANE : ['masti', 'olje']
+radenske
+sol
+èesen
+sira ementalerja
+OSTANE : ['sir', 'ementalerja']
+sira grojerja
+OSTANE : ['sir', 'grojerja']
+vina
+kozarèek dobrega žganja
+OSTANE : ['kozarèek', 'žganja']
+škroba
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+nastrganega muškatnega orešèka
+OSTANE : ['nastrganega', 'muškatnega', 'orešèka']
+kuhanih testenin ali krompirja
+OSTANE : ['testenin', 'krompir']
+kuhane cvetaèe
+OSTANE : ['kuhane', 'cvetaèe']
+trdo kuhana jajca
+OSTANE : ['kuhana', 'jajca']
+èesen
+olje
+peteršilj
+origana
+maslo
+moka
+mleko
+sir
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po potrebi"
+OSTANE : ['sol', 'poper']
+muškatni orešèek
+OSTANE : ['muškatni', 'orešèek']
+parmezan
+o dag kuhanega olupljenega krompirja
+OSTANE : ['o', 'kuhanega', 'olupljenega', 'krompir']
+moka
+jajca
+sol in malo muškatnega orešèka
+OSTANE : ['sol', 'muškatnega', 'orešèka']
+ploèevinka kuhane leèe
+OSTANE : ['ploèevinka', 'kuhane', 'leèe']
+testenin
+skodeli kuhanega riža
+OSTANE : ['kuhanega', 'riž']
+olje
+paradižnikove mezge
+OSTANE : ['paradižnik', 'mezge']
+èebula
+èesen
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+<b>Nadev: </b>
+OSTANE : ['b>Nadev:', 'b']
+mesa
+èebula
+zrni èesna
+OSTANE : ['zrni', 'èesen']
+paradižnik
+korenje
+"origano;<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>;<a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a>;sol"
+OSTANE : ['origano;<a', 'poper</a>', 'peteršilj</a>;']
+b>Bešamel:</b
+"zavitka masla (<span class=""label-inline"">12 dag"
+OSTANE : ['zavitka', 'maslo', 'class=""label-inline"">12']
+šest (poravnanih) žlic moke
+OSTANE : ['šest', 'poravnanih', 'moka']
+mleko
+"sol;muškatni orešèek"
+OSTANE : ['sol;muškatni', 'orešèek']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zeleno</a> rezanèno testo za lazanje"
+OSTANE : ['zeleno', 'rezanèno', 'testo', 'lazanje']
+<b>Za nadev:</b>
+OSTANE : ['b>Za', 'nadev:</b']
+"špinaèe; kuhane; pretlaèene in sesekljane"
+OSTANE : ['špinaèe', 'kuhane', 'pretlaèene']
+maslo
+skute
+muškatni orešek
+OSTANE : ['muškatni', 'orešek']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+bešamelove omake
+OSTANE : ['bešamelove', 'omake']
+sveže nastrganega parmezana
+OSTANE : ['sveže', 'nastrganega', 'parmezana']
+o dag kuhane govedine iz juhe
+OSTANE : ['o', 'kuhane', 'govedine', 'juhe']
+jajca
+"sol in sveže zmleti <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'sveže', 'zmleti', 'poper']
+moka
+timijan
+moka
+jajca
+sol
+mleko
+"o dag starega kruha; narezanega na kocke"
+OSTANE : ['o', 'starega', 'kruh']
+belega pšeniènega zdroba
+OSTANE : ['pšeniènega', 'zdroba']
+"žlico drobno narezanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>;ali drobnjaka"
+OSTANE : ['žlico', 'peteršilja</a>;', 'drobnjaka']
+sol ali kaka zaèimbna mešanica
+OSTANE : ['sol', 'kaka', 'zaèimbna', 'mešanica']
+jajca
+<b>Za golaž potrebujemo: </b>
+OSTANE : ['b>Za', 'golaž', 'potrebujemo:', 'b']
+o dag soène govedine od vratu
+OSTANE : ['o', 'soène', 'govedine', 'od', 'vratu']
+do 2 žlici mašèobe
+OSTANE : ['', 'žlici', 'mašèobe']
+èebula
+vina
+kumine
+timijan
+paprika
+juha za zalivanje
+OSTANE : ['juha', 'zalivanje']
+Evo za golaž 
+OSTANE : ['Evo', 'golaž']
+"njoki (lahko pa uporabimo tudi skutine krompirjeve svaljke; raviole ali kaj podobnega )"
+OSTANE : ['njoki', 'lahko', 'pa', 'uporabimo', 'skutine', 'krompirjeve', 'svaljke', 'raviole', 'kaj', 'podobnega', ')']
+mleko
+"gorgonzole (tista; ki jo kupimo na kile v trgovini je najboljša; ker ima moènejši okus kot že pakirane variante)"
+OSTANE : ['gorgonzole', 'tista', 'ki', 'jo', 'kupimo', 'kile', 'trgovini', 'najboljša', 'ker', 'ima', 'moènejši', 'okus', 'kot', 'že', 'pakirane', 'variante']
+lonèek kisle smetane
+OSTANE : ['kisle', 'smetana']
+"zaèimbe (po okusu; npr. koperc; šetraj; <a href=""https://www.kulinarika.net/recepti/zacimbe/76/majaron/"">majaron</a> ter seveda sol)"
+OSTANE : ['zaèimbe', 'npr', 'koperc', 'šetraj', 'majaron', 'ter', 'seveda', 'sol']
+makaronov
+paradižnikove omake
+OSTANE : ['paradižnik', 'omake']
+skute
+pršuta
+Ravioli
+gorgonzola
+suhi jurèki
+OSTANE : ['suhi', 'jurèki']
+sladka smetana
+OSTANE : ['sladka', 'smetana']
+maslo
+sol
+kilograma krompirja
+OSTANE : ['kilograma', 'krompir']
+"l5 dag moke/pol ostre; pol mehke/"
+OSTANE : ['l5', 'moke/pol', 'ostre', 'pol']
+jajca
+sol in malo naribanega muškatnega orešèka
+OSTANE : ['sol', 'muškatnega', 'orešèka']
+margarine ali masla
+OSTANE : ['margarine', 'maslo']
+o manjših sliv
+OSTANE : ['o', 'manjših', 'sliv']
+o majhnih kock sladkorja
+OSTANE : ['o', 'majhnih', 'sladkor']
+maslo
+drobtine
+"sladkor in <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a> po okusu"
+OSTANE : ['sladkor', 'cimet']
+sol
+širokih rezancev kuhanih v slani vodi(prazniènih)
+OSTANE : ['širokih', 'rezancev', 'slani', 'vodi(prazniènih']
+brokolija
+èesen
+olje
+vegeta
+href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a
+testenin
+konzerva tune (80g)
+OSTANE : ['konzerva', 'tune', 'g']
+kisla smetana
+OSTANE : ['kisla', 'smetana']
+rezine topljenega sira
+OSTANE : ['topljenega', 'sir']
+vegete
+èesen
+pesto genovese - z baziliko
+OSTANE : ['pesto', 'genovese', '-', 'baziliko']
+olje
+zelišèna sol
+OSTANE : ['zelišèna', 'sol']
+špageti
+<b>Za dve osebi:</b>
+OSTANE : ['b>Za', 'dve', 'osebi:</b']
+špagetov (pol zavitka)
+OSTANE : ['špagetov', 'pol', 'zavitka']
+do 4 zrna èesna
+OSTANE : ['', 'zrna', 'èesen']
+pet žlic olivnega olja
+OSTANE : ['pet', 'olje']
+trije sveži paradižniki ali ploèevinka olupljenih pelatov
+OSTANE : ['trije', 'sveži', 'paradižniki', 'ploèevinka', 'pelatov']
+sol
+testenin
+prekajene slanine
+OSTANE : ['prekajene', 'slanine']
+pršuta
+èebula
+èesen
+peteršilj
+olje
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+nasekljanega ovèjega sira
+OSTANE : ['nasekljanega', 'ovèjega', 'sir']
+parmezana
+jajca
+testenin
+srednje velika tunina konzerva
+OSTANE : ['srednje', 'tunina', 'konzerva']
+sladka smetana
+OSTANE : ['sladka', 'smetana']
+maslo
+olive
+ribani sir
+OSTANE : ['ribani', 'sir']
+sol
+testenin
+maslo
+mleko
+moka
+zaèinka
+pšeniènega zdroba instant
+OSTANE : ['pšeniènega', 'zdroba', 'instant']
+parmezana
+maslo
+šunke
+jajca
+sol
+drobnjak
+muškatni orešèek
+OSTANE : ['muškatni', 'orešèek']
+peteršilj
+pšeniènega zdroba instant
+OSTANE : ['pšeniènega', 'zdroba', 'instant']
+parmezana
+maslo
+šunke
+jajca
+sol
+drobnjak
+muškatni orešèek
+OSTANE : ['muškatni', 'orešèek']
+peteršilj
+slanine
+mleko
+zdroba
+jajca
+sol
+jajca
+zdroba
+sol
+drobnjaka
+moka
+masla ali margarine
+OSTANE : ['maslo', 'margarine']
+sol
+sladkor
+toplega mleka
+OSTANE : ['toplega', 'mleko']
+kvasa
+maslo
+"jajèni rumenjak; zmešan z malo mleka"
+OSTANE : ['jajèni', 'rumenjak', 'zmešan', 'mleko']
+b>Testo:</b
+moka
+voda
+olje
+košèek kvasa (3 dag)
+OSTANE : ['kvasa', '']
+sol
+b>Nadev:</b
+prešane šunke
+OSTANE : ['prešane', 'šunke']
+sira (najboljši je polnomastni)
+OSTANE : ['sir', 'najboljši', 'polnomastni']
+šampinjoni v kisu
+OSTANE : ['šampinjoni', 'kisu']
+kuhani paradižnikovi pelati (lahko iz konzerve)
+OSTANE : ['kuhani', 'paradižnikovi', 'pelati', 'lahko', 'konzerve']
+kvasa
+sladkor
+mleko
+"Te sestavine zmešamo; pokrijemo in pustimo; da kvas naraste."
+OSTANE : ['Te', 'sestavine', 'zmešamo', 'pokrijemo', 'pustimo', 'da', 'kvas', 'naraste']
+grobo mlete ovsene moke
+OSTANE : ['grobo', 'ovsene', 'moka']
+pšeniène moke
+OSTANE : ['pšeniène', 'moka']
+mlaène vode
+OSTANE : ['mlaène', 'voda']
+sol
+mašèoba za pekaè
+OSTANE : ['mašèoba', 'pekaè']
+ržene moke
+OSTANE : ['ržene', 'moka']
+moka
+kvasa
+sol
+olje
+tekoèine
+class=""label-inline"">5
+class=""label-inline"">5
+kvasa
+sol
+"izkošèièenega narezanega suhega sadja (sadje lahko zamenjamo s <span class=""label-inline"">15 dag"
+OSTANE : ['izkošèièenega', 'sadja', 'sadje', 'lahko', 'zamenjamo', 'class=""label-inline"">15']
+olje
+tekoèine
+<b>Za približno 12 tortilj:</b>
+OSTANE : ['b>Za', 'približno', '', 'tortilj:</b']
+moka
+sol
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+svinjske masti
+OSTANE : ['svinjske', 'masti']
+hladne vode 
+OSTANE : ['hladne', 'voda']
+<b>Za 10 skavtskih kruhkov:</b>
+OSTANE : ['b>Za', '', 'skavtskih', 'kruhkov:</b']
+moka
+voda
+OSTANE : []
+sol
+<b>Po želji še:</b>
+OSTANE : ['b>Po', 'še:</b']
+hrenovk
+majoneza
+gorèica
+paradižnik
+kumarice
+jajca
+moka
+sol
+"za pekaè malo mašèobe; potresene z moko"
+OSTANE : ['pekaè', 'mašèobe', 'potresene', 'moko']
+rdeèega zelja narezanega na trakove
+OSTANE : ['zelja', 'trakove']
+"manjša èebula ; narezana na drobno"
+OSTANE : ['èebula', '']
+"veèje kislo <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>; olupljeno in narezano na košèke"
+OSTANE : ['kislo', 'jabolko', 'olupljeno']
+rozin
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/87/nageljnove-zbice-klincki-/"">klinèki</a> ali nekaj zmletega prahu <a href=""https://www.kulinarika.net/recepti/zacimbe/87/nageljnove-zbice-klincki-/"">klinèkov</a>"
+OSTANE : ['klinèki', 'zmletega', 'klinèkov']
+"olja ali pa masti od gosi; race ali purice"
+OSTANE : ['olje', 'pa', 'masti', 'od', 'gosi', 'race', 'purice']
+kis
+sladkor
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+muškatnega orešèka
+OSTANE : ['muškatnega', 'orešèka']
+kuhanih ali peèenih kostanjev
+OSTANE : ['peèenih', 'kostanjev']
+vina
+list lovorja
+OSTANE : ['list', 'lovorja']
+buèk
+èebula
+olje
+koper
+peteršilj
+paradižnik
+juhe iz goveje kocke
+OSTANE : ['juhe', 'goveje']
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+èesen
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+teleèjih jeter
+OSTANE : ['teleèjih', 'jeter']
+žemlje namoèene v juhi
+OSTANE : ['žemlje', 'namoèene', 'juhi']
+slanine
+naribane èebule
+OSTANE : ['naribane', 'èebula']
+peteršilj
+jajca
+majarona
+kruhovih drobtin 
+OSTANE : ['kruhovih', 'drobtin']
+èesen
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+veèja ploèevinka leèe ali pa pol kg kuhane leèe
+OSTANE : ['ploèevinka', 'leèe', 'pa', 'pol', 'kuhane', 'leèe']
+maslo
+moka
+èebula
+èesen
+timijan
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+sok limone ali kisa
+OSTANE : ['limona', 'kis']
+peteršilj
+zelenjavna
+rumene buèe
+OSTANE : ['rumene', 'buèe']
+curryja
+sladkor
+kis
+"cayenskega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a> "
+OSTANE : ['cayenskega', 'poper']
+jajca
+margarine
+pšeniènega zdroba
+OSTANE : ['pšeniènega', 'zdroba']
+morska sol
+OSTANE : ['morska', 'sol']
+peteršilj
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+"nasvetov; kako pripraviti beluši; sestavine so odvisne od vrste priprave."
+OSTANE : ['nasvetov', 'kako', 'pripraviti', 'beluši', 'sestavine', 'so', 'odvisne', 'od', 'vrste', 'priprave']
+"Maslo; kruhove drobtine; holandska omaka"
+OSTANE : ['Maslo', 'kruhove', 'drobtine', 'holandska', 'omaka']
+"Nariban parmezan; maslo"
+OSTANE : ['Nariban', 'parmezan', 'maslo']
+"Recept smo vzeli iz knjige Slovenska kuharica avtorice Felicite Kalinšek; katero je izdala Cankarjeva založba iz Ljubljane. V knjigi boste našli še ogromno receptov za pripravo izvrstnih jedi; ki bodo zadovoljile razliène okuse."
+OSTANE : ['Recept', 'smo', 'vzeli', 'knjige', 'Slovenska', 'kuharica', 'avtorice', 'Felicite', 'Kalinšek', 'katero', 'izdala', 'Cankarjeva', 'založba', 'Ljubljane', 'V', 'knjigi', 'boste', 'našli', 'še', 'ogromno', 'receptov', 'pripravo', 'izvrstnih', 'jedi', 'ki', 'bodo', 'zadovoljile', 'razliène', 'okuse']
+belušev
+sol
+parmezana
+presnega masla
+OSTANE : ['presnega', 'maslo']
+<b>Za 4 osebe: </b>
+OSTANE : ['b>Za', '', 'osebe:', 'b']
+belušev
+"trdo kuhano; sesekljano jajce"
+OSTANE : ['sesekljano', 'jajca']
+maslo
+svežih belih krušnih drobtin
+OSTANE : ['svežih', 'belih', 'krušnih', 'drobtin']
+peteršilj
+drobnjaka
+blitve
+jajca
+sir
+vegete
+muškatni orešèek
+OSTANE : ['muškatni', 'orešèek']
+drobtine
+moka za oblikovanje
+OSTANE : ['moka', 'oblikovanje']
+brstiènega ohrovta
+OSTANE : ['brstiènega', 'ohrovta']
+mleko
+maslo
+moka
+vegeta
+sol
+muškatni orešèek
+OSTANE : ['muškatni', 'orešèek']
+poper
+na tenke trakove naribanih buèk
+OSTANE : ['tenke', 'trakove', 'naribanih', 'buèk']
+jajca
+mleko
+zmlete kumine
+OSTANE : ['zmlete', 'kumine']
+moka
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+mašèoba za peèenje
+OSTANE : ['mašèoba', 'peèenje']
+blitve
+olje
+èesen
+muškatni orešèek
+OSTANE : ['muškatni', 'orešèek']
+zaèinka
+peteršilj
+kruhove drobtine
+OSTANE : ['kruhove', 'drobtine']
+"Recept smo vzeli iz knjige Slovenska kuharica avtorice Felicite Kalinšek; katero je izdala Cankarjeva založba iz Ljubljane. V knjigi boste našli še ogromno receptov za pripravo izvrstnih jedi; ki bodo zadovoljile razliène okuse."
+OSTANE : ['Recept', 'smo', 'vzeli', 'knjige', 'Slovenska', 'kuharica', 'avtorice', 'Felicite', 'Kalinšek', 'katero', 'izdala', 'Cankarjeva', 'založba', 'Ljubljane', 'V', 'knjigi', 'boste', 'našli', 'še', 'ogromno', 'receptov', 'pripravo', 'izvrstnih', 'jedi', 'ki', 'bodo', 'zadovoljile', 'razliène', 'okuse']
+buèk
+presnega masla
+OSTANE : ['presnega', 'maslo']
+"sol; kis"
+OSTANE : ['sol', 'kis']
+kumine
+èebula
+ravna žlica moke
+OSTANE : ['ravna', 'moka']
+smetana
+poper
+svežega lušèenega fižola (debela zrna)
+OSTANE : ['lušèenega', 'fižola', 'debela', 'zrna']
+èesen
+srednja glavica èebule
+OSTANE : ['srednja', 'glavica', 'èebula']
+"šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['šopek', 'peteršilj']
+por
+kumine
+èajne žlièke soli
+OSTANE : ['èajne', 'žlièke', 'sol']
+"èajne žlièke sveže mletega èrnega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
+OSTANE : ['èajne', 'žlièke', 'sveže', 'poper']
+dni stare žemlje 
+OSTANE : ['dni', 'stare', 'žemlje']
+"Potrebujemo mlinèek za meso ; fritezo ali ponev z visokim robom. "
+OSTANE : ['Potrebujemo', 'mlinèek', 'meso', '', 'fritezo', 'ponev', 'visokim', 'robom']
+skodeli kuhane èièerike
+OSTANE : ['kuhane', 'èièerike']
+jajca
+moka
+kruhovih drobtin
+OSTANE : ['kruhovih', 'drobtin']
+juhe
+sezamove paste
+OSTANE : ['sezamove', 'paste']
+azijske kumine
+OSTANE : ['azijske', 'kumine']
+majarona
+paprika
+limona
+èesen
+peteršilj
+sol
+olje
+graha
+trikotnika topljenega sira
+OSTANE : ['trikotnika', 'topljenega', 'sir']
+masla oz margarine
+OSTANE : ['maslo', 'margarine']
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+"sol;<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol;<a', 'poper']
+ali veè jajc
+OSTANE : ['veè', 'jajca']
+"mlada zelenjava:paprika;"
+OSTANE : ['mlada', 'zelenjava:paprika']
+"paradižnik; buèke; èebula.; grah"
+OSTANE : ['paradižnik', 'buèke', 'èebula', 'grah']
+hrenovke
+"sol;<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>; èesen; <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilika</a>;origano."
+OSTANE : ['sol;<a', 'poper', 'èesen', 'bazilika</a>;orig']
+regrat
+vroèi kuhani krompirji
+OSTANE : ['vroèi', 'kuhani', 'krompir']
+trdokuhana jajca (1-2)
+OSTANE : ['trdokuhana', 'jajca', '-2']
+slanino
+sol
+testa za lasanje
+OSTANE : ['testa', 'lasanje']
+malancani
+olupljenega paradižnika in narezanega na kocke/lahko je tudi
+OSTANE : ['olupljenega', 'paradižnik', 'kocke/lahko']
+ploèevinke
+buèke
+èesen
+peteršilj
+bazilika
+sir
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+olje
+Sestavine za bešamel
+OSTANE : ['Sestavine', 'bešamel']
+maslo
+moka
+mleko
+muškatnega orešèka
+OSTANE : ['muškatnega', 'orešèka']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+tankega testa za zvitke
+OSTANE : ['tankega', 'testa', 'zvitke']
+blitve ali špinaèe
+OSTANE : ['blitve', 'špinaèe']
+gob
+korenje
+zelja
+skute
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+jajca
+paradižnik
+èebula
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+muškatnega orešèka
+OSTANE : ['muškatnega', 'orešèka']
+peteršilj
+mašèoba za praženje
+OSTANE : ['mašèoba', 'praženje']
+juho
+malancana
+nastrganega ingverja
+OSTANE : ['nastrganega', 'ingver']
+èesen
+"pekoèe ""bean paste"""
+OSTANE : ['bean', 'paste']
+sojine omake
+OSTANE : ['sojine', 'omake']
+kis
+sladkor
+sol
+juhe ali vode z zaèinko
+OSTANE : ['juhe', 'voda']
+sezamovega olja
+OSTANE : ['sezamovega', 'olje']
+olje
+èebula
+class=""label-inline"">5
+"èebulica ; narezana na drobne košèke"
+OSTANE : ['èebulica', '', 'drobne']
+olje
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+jajca
+peteršilj
+zmletega mesa
+OSTANE : ['zmletega', 'mesa']
+èesen
+juhe ali vode z jušno kocko
+OSTANE : ['juhe', 'voda']
+sir
+"paradižnika ; narezana na rezine"
+OSTANE : ['paradižnik', '']
+paprika
+camembera ali kakega drugega pikantnega sira
+OSTANE : ['camembera', 'kakega', 'drugega', 'pikantnega', 'sir']
+"sol in <a href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a']
+moka
+jajca
+kruhove drobtine
+OSTANE : ['kruhove', 'drobtine']
+olje
+belušev
+jajca
+piva
+moka
+olje
+olje
+sol
+ohrovta
+masti
+"sveža zelenjava (korenje <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a> èesen; èebula; paradižnik; paprika)"
+OSTANE : ['sveža', 'zelenjava', 'korenje', 'peteršilj', 'èesen', 'èebula', 'paradižnik', 'paprika']
+krompir
+suhe žemlje
+OSTANE : ['suhe', 'žemlje']
+jajca
+"zaèimbe;sol ;<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['zaèimbe;sol', 'poper']
+artièoke
+parmezana
+starega belega kruha 
+OSTANE : ['starega', 'kruh']
+èesen
+"šop <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['šop', 'peteršilj']
+olje
+buèk
+jajca
+moka
+limonin
+oèišèenega in na rezine narezanega pora
+OSTANE : ['oèišèenega', 'por']
+jajca
+bešamela
+sir
+"sol;<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> in malo muškatnega orešèka"
+OSTANE : ['sol;<a', 'poper', 'muškatnega', 'orešèka']
+maslo
+kruhovih drobtin
+OSTANE : ['kruhovih', 'drobtin']
+kuhane cvetaèe
+OSTANE : ['kuhane', 'cvetaèe']
+moka
+maslo
+"vode; v kateri se je kuhala cvetaèa"
+OSTANE : ['voda', 'kateri', 'kuhala', 'cvetaèa']
+sardeljih filetov
+OSTANE : ['sardeljih', 'filetov']
+kaper
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+<b>: Za 4 osebe potrebujemo:</b>
+OSTANE : ['b>:', 'Za', '', 'osebe', 'potrebujemo:</b']
+"mešanih stroènic; <span class=""label-inline"">10 dag"
+OSTANE : ['mešanih', 'stroènic', 'class=""label-inline"">10']
+class=""label-inline"">25
+zmletega mešanega mesa
+OSTANE : ['zmletega', 'mešanega', 'mesa']
+skodele riža ali pa tofuja ali naribanega pustega sira
+OSTANE : ['riž', 'pa', 'tofuja', 'pustega', 'sir']
+jajca
+èebula
+"prekajene slanine; narezane na drobno"
+OSTANE : ['prekajene', 'slanine']
+peteršilj
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+lahko tudi žlièka rdeèe paprike
+OSTANE : ['lahko', 'žlièka', 'paprika']
+jušna kocka 
+OSTANE : []
+Sveže zelje(glava)
+OSTANE : ['Sveže', 'zelje(glava']
+sveža paprika rdeèa
+OSTANE : ['sveža', 'paprika', 'rdeèa']
+paradižnik
+èebula
+rdeèa paprika v prahu
+OSTANE : ['rdeèa', 'paprika']
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> "
+OSTANE : ['sol', 'poper']
+vegeta
+suhe obrane kosti
+OSTANE : ['suhe', 'obrane', 'kosti']
+krompir
+srednje velike repe
+OSTANE : ['srednje', 'velike', 'repe']
+debeli rumeni kolerabi
+OSTANE : ['debeli', 'rumeni', 'kolerabi']
+korena
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+prekajene zaseke
+OSTANE : ['prekajene', 'zaseke']
+moka
+paprika
+<b>Za deset timbal:</b>
+OSTANE : ['b>Za', 'deset', 'timbal:</b']
+bela maslena omaka
+OSTANE : ['maslena', 'omaka']
+sveže špinaèe
+OSTANE : ['sveže', 'špinaèe']
+maslo
+goste kisle smetane
+OSTANE : ['goste', 'kisle', 'smetana']
+jajca
+rumenjaka
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+muškatnega orešèka
+OSTANE : ['muškatnega', 'orešèka']
+"kajenskega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a> "
+OSTANE : ['kajenskega', 'poper']
+"timbal ali modelèkov za narastke (s prostornino po <span class=""label-inline"">75 ml"
+OSTANE : ['timbal', 'modelèkov', 'narastke', 'prostornino', 'class=""label-inline"">75', 'ml']
+<b>Maslena omaka: </b>
+OSTANE : ['b>Maslena', 'omaka:', 'b']
+kis
+vina
+drobno sesekljani šalotki
+OSTANE : ['sesekljani', 'šalotki']
+kreme fraiche (po želji)
+OSTANE : ['kreme', 'fraiche']
+"ledenomrzlega surovega masla; narezanega na kocke"
+OSTANE : ['ledenomrzlega', 'maslo']
+"sol in bel <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+Malancani
+kis
+olje
+sol
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> v zrnju"
+OSTANE : ['poper', 'zrnju']
+peteršilj
+èesen
+malancanov
+kisa za vlaganje
+OSTANE : ['kis', 'vlaganje']
+olje
+èesen
+"šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['šopek', 'peteršilj']
+sol
+testa
+neslanega mladega sira
+OSTANE : ['neslanega', 'sir']
+kajmaka
+špinaèe
+jajca
+olje
+mladega stroèjega fižola
+OSTANE : ['stroèjega', 'fižola']
+veliki paradižniki
+OSTANE : ['veliki', 'paradižniki']
+èesen
+èebula
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a>; korenèek (lahko še druga zelenjava po okusu)"
+OSTANE : ['peteršilj', 'korenje', 'lahko', 'še', 'druga', 'zelenjava']
+jajca
+kisla smetana
+OSTANE : ['kisla', 'smetana']
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>; <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilika</a>; vegeta"
+OSTANE : ['sol', 'poper', 'bazilika', 'vegeta']
+posebne salame ali mortadele ali slanine
+OSTANE : ['posebne', 'salame', 'mortadele', 'slanine']
+zavitek listnatega testa
+OSTANE : ['zavitek', 'listnatega', 'testa']
+zelja
+olje
+b>zaèimbe:</b
+sol
+poper
+vegeta
+èevap
+èesen
+srednje velike èebule
+OSTANE : ['srednje', 'velike', 'èebula']
+èebula
+"svežih gob; narezanih na veèje košèke"
+OSTANE : ['svežih', 'gob']
+maslo
+"drobno nasekljanega <a href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['nasekljanega', 'href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a']
+pišèanèjih jeter
+OSTANE : ['pišèanèjih', 'jeter']
+stolèeno jajce
+OSTANE : ['stolèeno', 'jajca']
+èesen
+slanime
+skodele nastrganega sira
+OSTANE : ['nastrganega', 'sir']
+"sol in <a href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a']
+o gobjih klobukov
+OSTANE : ['o', 'gobjih', 'klobukov']
+dobrega sladkega vina
+OSTANE : ['sladkega', 'vina']
+"skodela zmletih <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>ženih orehov"
+OSTANE : ['popra</a>že', 'orehi']
+jajèna beljaka stolèena v mehak sneg
+OSTANE : ['jajèna', 'beljaka', 'stolèena', 'mehak', 'sneg']
+kruhovih drobtin 
+OSTANE : ['kruhovih', 'drobtin']
+gob
+jajca
+"mlada èebula z zelenjem; narezana na drobne košèke"
+OSTANE : ['mlada', 'èebula', 'zelenjem', 'drobne']
+peteršilj
+vegete ali zaèinke
+OSTANE : ['vegete', 'zaèinke']
+maslo
+ostre moke
+OSTANE : ['ostre', 'moka']
+mleko
+kruh
+jajca
+mleko
+šampinjonov
+èesen
+sol
+href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a
+href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a
+olje
+golobic ali drugih gob s èvrstimi in okroglimi klobuki
+OSTANE : ['golobic', 'drugih', 'gob', 'èvrstimi', 'okroglimi', 'klobuki']
+jajca
+mašèobe
+skute
+lonèek kuhanega graha
+OSTANE : ['kuhanega', 'graha']
+nastrganega sira
+OSTANE : ['nastrganega', 'sir']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+gob
+trdo kuhana jajca
+OSTANE : ['kuhana', 'jajca']
+èebula
+skodeli nastrganega sira
+OSTANE : ['nastrganega', 'sir']
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+maslo
+sol
+rumenjak
+svežih gob
+OSTANE : ['svežih', 'gob']
+drobno sesekljani èebuli
+OSTANE : ['sesekljani', 'èebula']
+olje
+limona
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+o dag mavrahov
+OSTANE : ['o', 'mavrahov']
+maslo
+"mlada èebula z zelenjem ; narezana na drobne košèke"
+OSTANE : ['mlada', 'èebula', 'zelenjem', '', 'drobne']
+href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a
+vina
+moka
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+jajca
+"sol in <a href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu "
+OSTANE : ['sol', 'href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a']
+jajca
+gob
+graha
+"skodela kuhanega mesa (pišèanec; govedina ali raki)"
+OSTANE : ['kuhanega', 'mesa', 'pišèanec', 'govedina', 'raki']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+škroba
+pršuta
+olje
+gob
+mladi ohrotovi ali zeljni listi
+OSTANE : ['ohrotovi', 'zeljni', 'listi']
+maslo
+èesen
+kopra
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"golobic s èvrstimi; polkrožnimi klobuki."
+OSTANE : ['golobic', 'èvrstimi', 'polkrožnimi', 'klobuki']
+skute
+kruhovih drobtin
+OSTANE : ['kruhovih', 'drobtin']
+mlada drobno sesekljana èebula
+OSTANE : ['mlada', 'èebula']
+maslo
+"drobno naseklanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['naseklanega', 'peteršilj']
+jajca
+piva
+moka
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+olje
+kom. velikih šampinjonov
+OSTANE : ['kom', 'šampinjonov']
+"sira (parmezan; stara gauda)"
+OSTANE : ['sir', 'parmezan', 'stara', 'gauda']
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+sol
+poper
+peteršilj
+gob
+jajca
+žemlja
+mleko
+drobtine
+peteršilj
+èebula
+sol
+poper
+školjk kaposant
+OSTANE : ['školjk', 'kaposant']
+šalotka narezana na drobne košèke
+OSTANE : ['šalotka', 'drobne']
+maslo
+"svežih gob; narezanih na trakove;"
+OSTANE : ['svežih', 'gob', 'trakove']
+šunke
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+kruhovih drobtin
+OSTANE : ['kruhovih', 'drobtin']
+vina
+peteršilj
+sir
+hobotnice
+zelenjava
+list lovorja
+OSTANE : ['list', 'lovorja']
+poper
+kis
+èebula
+èesen
+Marinada
+Kis
+Olivno olje
+OSTANE : ['Olivno', 'olje']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+èesen
+peteršilj
+Vse sestavine za marinado zmešamo in s tem prelijemo narezano hobotnico. 
+OSTANE : ['Vse', 'sestavine', 'marinado', 'zmešamo', 'tem', 'prelijemo', 'hobotnico']
+kuhanih škampovih repkov
+OSTANE : ['škampovih', 'repkov']
+limona
+"kodrasti <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a>"
+OSTANE : ['kodrasti', 'peteršilj']
+listov solate
+OSTANE : ['listov', 'solate']
+<b>Za omako potrebujemo:</b>
+OSTANE : ['b>Za', 'omako', 'potrebujemo:</b']
+majoneze
+Worcester omake
+OSTANE : ['Worcester', 'omake']
+žlico konjaka
+OSTANE : ['žlico', 'konjaka']
+žlico soka limone
+OSTANE : ['žlico', 'limona']
+"sol in beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'beli', 'poper']
+žlico drobno nasekljanih kaper
+OSTANE : ['žlico', 'nasekljanih', 'kaper']
+"žlièko <a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorèice</a> ali <a href=""https://www.kulinarika.net/recepti/zacimbe/44/hren/"">hrena</a>"
+OSTANE : ['žlièko', 'gorèice', 'hrena']
+"žlico paradižnikovega ketchapa; žlico smetane"
+OSTANE : ['žlico', 'paradižnik', 'ketchapa', 'žlico', 'smetana']
+žlico belega vina. 
+OSTANE : ['žlico', 'vina']
+Na osebo priblizžno 3o dag neoèišèene ribe
+OSTANE : ['Na', 'osebo', 'priblizžno', 'o', 'neoèišèene', 'ribe']
+zelenjava
+limona
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> v zrnju"
+OSTANE : ['poper', 'zrnju']
+sol
+èebula
+maslo
+"svežih školjk (kamenice; klapavice ipd)"
+OSTANE : ['svežih', 'školjk', 'kamenice', 'klapavice', 'ipd']
+maslo
+drobno sesekljani èebuli
+OSTANE : ['sesekljani', 'èebula']
+"drobno nasekljanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['nasekljanega', 'peteršilj']
+svežega nasekljanega timijana ali pol žlièke suhega
+OSTANE : ['nasekljanega', 'timijan', 'pol', 'žlièke']
+lovorov list
+OSTANE : ['lovorov', 'list']
+vina
+moka
+maslo
+"sol in sveže zmlet <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'sveže', 'poper']
+lososovi zrezki
+OSTANE : ['lososovi', 'zrezki']
+limona
+zaèinke ali kake druge zaèimbne soli
+OSTANE : ['zaèinke', 'kake', 'druge', 'zaèimbne', 'sol']
+"beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['beli', 'poper']
+jajca
+kokosova moka po potrebi
+OSTANE : ['kokosova', 'moka']
+maslo
+lososovega fileja
+OSTANE : ['lososovega', 'fileja']
+"sol in beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'beli', 'poper']
+limona
+moka za potresanje
+OSTANE : ['moka', 'potresanje']
+maslo za peèenje
+OSTANE : ['maslo', 'peèenje']
+<b>Sestavine za omako:</b>
+OSTANE : ['b>Sestavine', 'omako:</b']
+ploèevinka mešanega sadja
+OSTANE : ['ploèevinka', 'mešanega', 'sadja']
+maslo
+sladkor
+praška curry
+OSTANE : ['praška', 'curry']
+škrobne moke
+OSTANE : ['škrobne', 'moka']
+belih rib
+OSTANE : ['belih', 'rib']
+šibkega vinskega kisa
+OSTANE : ['šibkega', 'kis']
+na tanko narezane èebule
+OSTANE : ['tanko', 'èebula']
+lovorjev list
+OSTANE : ['lovorjev', 'list']
+poper
+"oèišèenih sip; narezanih na trakove"
+OSTANE : ['oèišèenih', 'sip', 'trakove']
+olje
+"èebulo; narezano na drobne košèke"
+OSTANE : ['èebulo', 'drobne']
+olupljena in na kocke narezana
+OSTANE : []
+paradižnik
+drobno nasekljanega èesna
+OSTANE : ['nasekljanega', 'èesen']
+"žlico drobno narezanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['žlico', 'peteršilj']
+sol
+skodelo riža
+OSTANE : ['skodelo', 'riž']
+voda
+"žlièko sipinega èrnila (èrne tekoèine; ki je v njej)"
+OSTANE : ['žlièko', 'sipinega', 'èrnila', 'èrne', 'tekoèine', 'ki', 'njej']
+nariban parmezan ali kak drug sir po okusu
+OSTANE : ['parmezan', 'kak', 'drug', 'sir']
+manjših školjk
+OSTANE : ['manjših', 'školjk']
+dagnji
+škampov
+školjke kapasante ali Jakobove kapice
+OSTANE : ['školjke', 'kapasante', 'Jakobove', 'kapice']
+èebula
+vina
+limoni
+olje
+èesen
+peteršilj
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+lignjev
+o svežih škampovih repkov
+OSTANE : ['o', 'svežih', 'škampovih', 'repkov']
+"beljaka; stepena v sneg"
+OSTANE : ['beljaka', 'stepena', 'sneg']
+lo dag kokosove moke
+OSTANE : ['lo', 'kokosove', 'moka']
+zaèimbne soli
+OSTANE : ['zaèimbne', 'sol']
+olje
+class=""label-inline"">14
+oèišèenih škampovih repkov
+OSTANE : ['oèišèenih', 'škampovih', 'repkov']
+"manjši pišèanec; lahko uporabimo tudi zajèje ali kako drugo meso."
+OSTANE : ['manjši', 'pišèanec', 'lahko', 'uporabimo', 'zajèje', 'kako', 'drugo', 'meso']
+"o dag svinjine; narezane na košèke"
+OSTANE : ['o', 'svinjine']
+olje
+èesen
+list lovorja
+OSTANE : ['list', 'lovorja']
+"èebulica; narezana na drobne košèke"
+OSTANE : ['èebulica', 'drobne']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zeleni</a> papriki; narezani na trakove"
+OSTANE : ['zeleni', 'papriki', 'trakove']
+"o dag sipic; narezanih na kolobarje"
+OSTANE : ['o', 'sipic']
+paradižnik
+o dag riža
+OSTANE : ['o', 'riž']
+"in pol tekocine; zelo vroèe ali kipeèe"
+OSTANE : ['pol', 'tekocine', 'zelo', 'kipeèe']
+žlicke žafrana
+OSTANE : ['žlicke', 'žafrana']
+poper
+soli palo pimente
+OSTANE : ['sol', 'palo', 'pimente']
+o dag kuhanega graha. 
+OSTANE : ['o', 'kuhanega', 'graha']
+<b>Kolièina za 5 oseb:</b>
+OSTANE : ['b>Kolièina', '', 'oseb:</b']
+"srednje velikih lignjev; "
+OSTANE : ['srednje', 'lignjev']
+lovk
+drobtin
+"nekoliko ribjega fonda; "
+OSTANE : ['nekoliko', 'ribjega', 'fonda']
+olje
+èebula
+èesen
+peteršilj
+jajca
+"industrijska ribja zaèimba;"
+OSTANE : ['industrijska', 'ribja', 'zaèimba']
+poper
+b>Omaka:</b
+olje
+èesen
+"paradižnikovega concasseja;"
+OSTANE : ['paradižnik', 'concasseja']
+vina
+nekoliko ribjega fonda.
+OSTANE : ['nekoliko', 'ribjega', 'fonda']
+bele ribe ali ribjih zrezkov
+OSTANE : ['ribe', 'ribjih', 'zrezkov']
+sok polovice limone
+OSTANE : ['polovice', 'limona']
+zaèimbne mešanice
+OSTANE : ['zaèimbne', 'mešanice']
+jajca
+moka
+poper
+olje za peèenje
+OSTANE : ['olje', 'peèenje']
+sardel ali skuš
+OSTANE : ['sardel', 'skuš']
+olje
+kis
+èesen
+list lovorja
+OSTANE : ['list', 'lovorja']
+sladkor
+rožmarina
+"sol in cela zrna <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
+OSTANE : ['sol', 'zrna', 'poper']
+"veèja èebula; narezana na tenke rezine"
+OSTANE : ['èebula', 'tenke']
+somovih filejev brez kože in kosti
+OSTANE : ['somovih', 'filejev', 'brez', 'kože', 'kosti']
+kuhanega in olupljenega krompirja
+OSTANE : ['kuhanega', 'olupljenega', 'krompir']
+kisli kumari narezani na rezine
+OSTANE : ['kisli', 'kumari']
+moka
+maslo
+kruhovih drobtin
+OSTANE : ['kruhovih', 'drobtin']
+sir
+peteršilj
+juhe
+Po potrebi še dosolimo in popramo
+OSTANE : ['Po', 'še', 'dosolimo', 'popramo']
+<b>Za omako:</b>
+OSTANE : ['b>Za', 'omako:</b']
+"olivno olje; èebulo; èesen; pelate (<span class=""label-inline"">1"
+OSTANE : ['olje', 'èebulo', 'èesen', 'pelate', 'class=""label-inline"">1']
+sveže tune brez kosti
+OSTANE : ['sveže', 'tune', 'brez', 'kosti']
+jajca
+moka
+pivo
+sol
+poper
+zavitek listnatega testa 
+OSTANE : ['zavitek', 'listnatega', 'testa']
+masla   
+OSTANE : ['maslo', '', '']
+ploèevinka prekajenih ostrig ali kakšnih drugih školjk   
+OSTANE : ['ploèevinka', 'prekajenih', 'ostrig', 'kakšnih', 'drugih', 'školjk', '', '']
+"drobno narezanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>   "
+OSTANE : ['peteršilj', '', '']
+suhega vina   
+OSTANE : ['vina', '', '']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu   "
+OSTANE : ['sol', 'poper', '', '']
+rumenjak   
+OSTANE : ['rumenjak', '', '']
+sezamova semena po potrebi
+OSTANE : ['sezamova', 'semena']
+nastrganega ementalerja
+OSTANE : ['nastrganega', 'ementalerja']
+mleka ali piva
+OSTANE : ['mleko', 'piva']
+žlicka zmletega gorèiènega semena
+OSTANE : ['žlicka', 'zmletega', 'gorèiènega', 'semena']
+"žlicke zmlete <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilike</a> "
+OSTANE : ['žlicke', 'zmlete', 'bazilike']
+majoneze
+strokov èesna
+OSTANE : ['strokov', 'èesen']
+"sol in beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'beli', 'poper']
+vina
+drobno narezanega èesnovega drobnjaka
+OSTANE : ['èesnovega', 'drobnjaka']
+rumenjaka
+voda
+strtih strokov èesna
+OSTANE : ['strtih', 'strokov', 'èesen']
+"sol in beli <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'beli', 'poper']
+olje
+maslo
+moka
+"šalotka; drobno nasekljana"
+OSTANE : ['šalotka', 'nasekljana']
+do 3 žlice drobno nasekljanega drobnjaka
+OSTANE : ['', 'nasekljanega', 'drobnjaka']
+sol
+poper
+juhe
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+jogurt
+"gobanov; narezanih na tenke rezine"
+OSTANE : ['gobanov', 'tenke']
+maslo
+moka
+vina
+juhe
+"peteršiljeva korenina; narezana na drobne košèke"
+OSTANE : ['peteršiljeva', 'korenina', 'drobne']
+zelena
+korenèek narezan na drobne košèke
+OSTANE : ['korenje', 'drobne']
+prekajene šunke ali slanine narezane na košèke
+OSTANE : ['prekajene', 'šunke', 'slanine']
+sladkor
+limona
+paprika
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"srednje veliki jabolki; olupljeni in zmiksani "
+OSTANE : ['srednje', 'veliki', 'jabolki', 'olupljeni', 'zmiksani']
+razredèenega jabolènega kisa
+OSTANE : ['razredèenega', 'jabolènega', 'kis']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"nastrganega <a href=""https://www.kulinarika.net/recepti/zacimbe/44/hren/"">hrena</a>"
+OSTANE : ['nastrganega', 'hrena']
+kumara
+krompir
+olje ali mast
+OSTANE : ['olje', 'mast']
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+èesen
+goveja ali kostna juha
+OSTANE : ['goveja', 'kostna', 'juha']
+lovorjev list
+OSTANE : ['lovorjev', 'list']
+sol
+poper
+rumenjaka
+limona
+sol
+èili omake
+OSTANE : ['èili', 'omake']
+paprika
+omake tabasco
+OSTANE : ['omake', 'tabasco']
+kvalitetnega olja
+OSTANE : ['kvalitetnega', 'olje']
+sladkor
+jajca
+gorèice
+kis
+èebulica
+Vegete (ali Zaèinke)
+OSTANE : ['Vegete', 'Zaèinke']
+olje
+jajèevcev
+limonin
+"do <span class=""label-inline"">2 žlici"
+OSTANE : ['class=""label-inline"">2', 'žlici']
+maslo
+moka
+mleko
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+èesen
+sir
+lonèek gostega jogurta
+OSTANE : ['gostega', 'jogurt']
+zavitki gorgonzole (npr. Vindija) 
+OSTANE : ['zavitki', 'gorgonzole', 'npr', 'Vindija']
+sladka smetana (250 ml)
+OSTANE : ['sladka', 'smetana', '', 'ml']
+orehi
+buèk
+mascarpone sira
+OSTANE : ['mascarpone', 'sir']
+poper
+sol
+krebuljica
+sliv
+ingver
+list lovorja
+OSTANE : ['list', 'lovorja']
+vina
+brinovi jagodi
+OSTANE : ['brinovi', 'jagodi']
+creme fraiche
+OSTANE : ['creme', 'fraiche']
+cimet
+piment
+class=""label-inline"">3
+bazilika
+origano
+èili
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+"èebule; èesen"
+OSTANE : ['èebula', 'èesen']
+"veèji paradižnik ; narežemo na kockice"
+OSTANE : ['paradižnik', '', 'narežemo', 'kockice']
+žlico na strgalnik nastrgane èebule
+OSTANE : ['žlico', 'strgalnik', 'èebula']
+drobno narezanega zelenega koriandra
+OSTANE : ['zelenega', 'koriandra']
+sol
+èili omaka po okusu (mora biti pekoèa)
+OSTANE : ['èili', 'omaka', 'mora', 'biti', 'pekoèa']
+"bešamela (na maslu <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>žena moka;zalita z mlekom in pokuhana)."
+OSTANE : ['bešamela', 'maslu', 'popra</a>ž', 'moka;zalita', 'mlekom', 'pokuhana']
+sol
+muškatni orešèek
+OSTANE : ['muškatni', 'orešèek']
+nastrganega sira
+OSTANE : ['nastrganega', 'sir']
+limona
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+"nastrganega <a href=""https://www.kulinarika.net/recepti/zacimbe/44/hren/"">hrena</a>"
+OSTANE : ['nastrganega', 'hrena']
+sol
+par kapljic limoninega soka
+OSTANE : ['par', 'kapljic', 'limona']
+sol
+Zavitek špagetov
+OSTANE : ['Zavitek', 'špagetov']
+<b>Za omako:</b>
+OSTANE : ['b>Za', 'omako:</b']
+"èebule; ena paprika; dve manjši buèki; <span class=""label-inline"">4"
+OSTANE : ['èebula', 'paprika', 'dve', 'manjši', 'buèki', 'class=""label-inline"">4']
+rdeèe podolgovate paprike
+OSTANE : ['podolgovate', 'paprika']
+.5 kg èebule
+OSTANE : ['', 'èebula']
+èesen
+kisa za vlaganje
+OSTANE : ['kis', 'vlaganje']
+voda
+sol
+sladkor
+"kilograma dobre <a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorèice</a>"
+OSTANE : ['kilograma', 'dobre', 'gorèice']
+olje
+zelja
+veliki korenèki
+OSTANE : ['veliki', 'korenèki']
+majoneze
+kis
+gorèice
+peteršilj
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+"gomolj olupljene in nastrgane gomoljaste <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a> ali 2 stebli stebelne <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a>"
+OSTANE : ['gomolj', 'gomoljaste', 'zelena', '', 'stebli', 'stebelne', 'zelena']
+olupljeni in nastrgani jabolki
+OSTANE : ['olupljeni', 'nastrgani', 'jabolki']
+olupljeni in nastrgani korenèki
+OSTANE : ['olupljeni', 'nastrgani', 'korenèki']
+kis
+sladkor
+kisle smatane
+OSTANE : ['kisle', 'smatane']
+majoneze
+èebula
+paprika
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+kislega zelja
+OSTANE : ['kislega', 'zelja']
+"skodela vloženega <a href=""https://www.kulinarika.net/recepti/zacimbe/4/ananas/"">ananasa</a>"
+OSTANE : ['vloženega', 'ananasa']
+sladkor
+manjša nasekljana èebula
+OSTANE : ['nasekljana', 'èebula']
+gorèice
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+srednje velikih krompirjev narezanih na kocke
+OSTANE : ['srednje', 'krompirjev']
+jajca
+"kuhani koreni; narezani na kocke"
+OSTANE : ['kuhani', 'koreni']
+skodela kuhanega graha
+OSTANE : ['kuhanega', 'graha']
+"kisle kumarice; narezane na kocke"
+OSTANE : ['kisle', 'kumarice']
+limona
+olje
+majoneze
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+gorèice
+v olupku kuhanega krompirja
+OSTANE : ['olupku', 'kuhanega', 'krompir']
+veèja ali 2 manjši šalotki
+OSTANE : ['', 'manjši', 'šalotki']
+sol
+poper
+jabolèni kis
+OSTANE : ['jabolèni', 'kis']
+olivno ali kako drugo olje
+OSTANE : ['kako', 'drugo', 'olje']
+"Zelje; naribano korenje; paprika; paradižnik; fižol; koruza; tuna; nariban sir ."
+OSTANE : ['Zelje', 'naribano', 'korenje', 'paprika', 'paradižnik', 'fižol', 'koruza', 'tuna', 'sir']
+"Olivno olje; kis; sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['Olivno', 'olje', 'kis', 'sol', 'poper']
+srednje velike sveže kumare
+OSTANE : ['srednje', 'velike', 'sveže', 'kumare']
+jogurt
+"sol;<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>; drobnjak; <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilika</a>;"
+OSTANE : ['sol;<a', 'poper', 'drobnjak', 'bazilika']
+"svež <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a>"
+OSTANE : ['svež', 'peteršilj']
+"mlada èebula;kis; olje; paprika"
+OSTANE : ['mlada', 'èebula;kis', 'olje', 'paprika']
+velikega belega ali pisanega fižola /lahko iz ploèevinke /
+OSTANE : ['velikega', 'pisanega', 'fižola', 'lahko', 'ploèevinke']
+"veèja èebula ; narezana na tenke kolobarje"
+OSTANE : ['èebula', '', 'tenke']
+class=""label-inline"">5
+sok ene limone alli pa kis
+OSTANE : ['limona', 'alli', 'pa', 'kis']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"salame (posebne; šunkarice)"
+OSTANE : ['salame', 'posebne', 'šunkarice']
+sira gauda
+OSTANE : ['sir', 'gauda']
+èebula
+paradižnike
+èesen
+papriki
+"konzervo koruze (<span class=""label-inline"">20 dag"
+OSTANE : ['konzervo', 'koruze', 'class=""label-inline"">20']
+"Preliv: <span class=""label-inline"">3 žlice"
+OSTANE : ['Preliv:', 'class=""label-inline"">3']
+kis
+"žlièko <a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorèice</a>"
+OSTANE : ['žlièko', 'gorèice']
+majoneze
+noževa konica sladke paprike
+OSTANE : ['noževa', 'konica', 'sladke', 'paprika']
+"sol; <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> "
+OSTANE : ['sol', 'poper']
+"o dag paradižnika; narezanega na rezine"
+OSTANE : ['o', 'paradižnik']
+"mozarela sira; narezanega na rezine"
+OSTANE : ['mozarela', 'sir']
+olje
+jabolènega kisa
+OSTANE : ['jabolènega', 'kis']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+listièev origana
+OSTANE : ['listièev', 'origana']
+zavitek raviolov
+OSTANE : ['zavitek', 'raviolov']
+skodela kuhanega graha
+OSTANE : ['kuhanega', 'graha']
+"kuhana koreèka; narezana na kocke"
+OSTANE : ['kuhana', 'koreèka']
+"sveži gobi (npr. golobici ali šampiniona; ki jih uživamo surove) narezani na rezine"
+OSTANE : ['sveži', 'gobi', 'npr', 'golobici', 'šampiniona', 'ki', 'jih', 'uživamo', 'surove']
+majoneze
+nasekljane kreše ali drobnjaka
+OSTANE : ['nasekljane', 'kreše', 'drobnjaka']
+olje
+kis
+"listi <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a> solate"
+OSTANE : ['listi', 'zelena', 'solate']
+sol
+kuhanega riža
+OSTANE : ['kuhanega', 'riž']
+ploèevinka kuhanega graha
+OSTANE : ['ploèevinka', 'kuhanega', 'graha']
+"sira gaude; narezanega na kocke"
+OSTANE : ['sir', 'gaude']
+kuhanega in na trakove narezanega korenja
+OSTANE : ['kuhanega', 'trakove', 'korenje']
+"kuhano pišèanèje oprsje; narezano na kocke"
+OSTANE : ['pišèanèje', 'oprsje']
+sol
+"zdrobljene <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilike</a>"
+OSTANE : ['zdrobljene', 'bazilike']
+olja (lahko olivnega)
+OSTANE : ['olje', 'lahko']
+kis
+rdeèih redkvic za okrasitev
+OSTANE : ['rdeèih', 'redkvic', 'okrasitev']
+jajèevec
+sol
+olje za peèenje 
+OSTANE : ['olje', 'peèenje']
+olje
+class=""label-inline"">1/2
+peteršilj
+èesen
+kisle repe
+OSTANE : ['kisle', 'repe']
+paprika
+paradižnikove mezge
+OSTANE : ['paradižnik', 'mezge']
+gorèice
+olje
+paradižnik
+èebula
+zrel avokado ( ko se ga dotaknete ni ne pretrd in ne premehek
+OSTANE : ['zrel', 'avokado', '', 'ko', 'ga', 'dotaknete', 'ni', 'ne', 'pretrd', 'ne', 'premehek']
+"olje; kis; sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> "
+OSTANE : ['olje', 'kis', 'sol', 'poper']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a> paprike"
+OSTANE : ['zelena', 'paprika']
+trdi paradižniki
+OSTANE : ['trdi', 'paradižniki']
+oliv
+kuhanega riža
+OSTANE : ['kuhanega', 'riž']
+"kuhane govedine ali pišèanèjega mesa; narezanega na trakove"
+OSTANE : ['kuhane', 'govedine', 'pišèanèjega', 'mesa', 'trakove']
+olje
+kis
+èesen
+"drobno nasekljanega <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+OSTANE : ['nasekljanega', 'peteršilj']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu "
+OSTANE : ['sol', 'poper']
+"glavica <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a> solate; lahko je mehka; endivija ali radiè"
+OSTANE : ['glavica', 'zelena', 'solate', 'lahko', 'mehka', 'endivija', 'radiè']
+sir
+slanine
+jabolènega kisa
+OSTANE : ['jabolènega', 'kis']
+olje
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+gorèice
+"skodele kuhanega; debelozrnatega fižola ali boba"
+OSTANE : ['kuhanega', 'debelozrnatega', 'fižola', 'boba']
+skodeli kuhanih jajènih polžkov Pekatete (žito)
+OSTANE : ['jajènih', 'polžkov', 'Pekatete', 'žito']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelena</a> paprika; narezana na rezine"
+OSTANE : ['zelena', 'paprika']
+èebula
+paradižnik
+"trdo kuhani jajci; narezani na èetrtine"
+OSTANE : ['kuhani', 'jajca', 'èetrtine']
+grobo nasekljanih orehov
+OSTANE : ['grobo', 'nasekljanih', 'orehi']
+"listi <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a> solate"
+OSTANE : ['listi', 'zelena', 'solate']
+zdrobljenega ali nasekljanega koprca
+OSTANE : ['zdrobljenega', 'nasekljanega', 'koprca']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+olje in kis po okusu
+OSTANE : ['olje', 'kis']
+"kuhane govedine (lahko tiste; ki je ostala od goveje juhe)"
+OSTANE : ['kuhane', 'govedine', 'lahko', 'tiste', 'ki', 'ostala', 'od', 'goveje', 'juhe']
+paradižnik
+paprika
+trdo kuhana jajca
+OSTANE : ['kuhana', 'jajca']
+sol
+poper
+olje
+kis
+èebula
+èesen
+bazilika
+cikorije
+endivije
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>; olupljeno in narezano na rezine"
+OSTANE : ['jabolko', 'olupljeno']
+sok polovice limone
+OSTANE : ['polovice', 'limona']
+"naribane <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a>"
+OSTANE : ['naribane', 'zelena']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>ženih <a href=""https://www.kulinarika.net/recepti/zacimbe/39/mandelj/"">mandljev</a>"
+OSTANE : ['popra</a>že', 'mandlji']
+mlada drobno sesekljana èebula
+OSTANE : ['mlada', 'èebula']
+èesen
+gorèiènih
+drobnjaka
+sladkor
+olivnega ali koruznega olja
+OSTANE : ['koruznega', 'olje']
+kis
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+paradižnik
+èebula
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelena</a> pekoèa paprika; narezana na drobno"
+OSTANE : ['zelena', 'pekoèa', 'paprika']
+"paprika; narezana na rezance"
+OSTANE : ['paprika', 'rezance']
+kumara
+sir
+olje in zelo malo kisa
+OSTANE : ['olje', 'zelo', 'kis']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"Za <span class=""label-inline"">4"
+OSTANE : ['Za', 'class=""label-inline"">4']
+kodraste endivije ali eskarjolke
+OSTANE : ['kodraste', 'endivije', 'eskarjolke']
+pišèanèjih jeter
+OSTANE : ['pišèanèjih', 'jeter']
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
+OSTANE : ['sol', 'poper']
+olja (po potrebi malo veè)
+OSTANE : ['olje', 'veè']
+trakasto narezane mesnate slanine
+OSTANE : ['trakasto', 'mesnate', 'slanine']
+"debele; na kocke narezane rezine francoskega belega kruha"
+OSTANE : ['debele', 'francoskega', 'kruh']
+drobno nasekljane šalotke
+OSTANE : ['nasekljane', 'šalotka']
+èesen
+malinovega ali drugega sadnega kisa
+OSTANE : ['malinovega', 'drugega', 'sadnega', 'kis']
+drobnjaka
+glavice vitlofa
+OSTANE : ['glavice', 'vitlofa']
+jajca
+sir
+hrustljavo zapeèenih košèkov slanine
+OSTANE : ['hrustljavo', 'zapeèenih', 'košèkov', 'slanine']
+èesen
+limona
+olje
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+"veèji gomolj <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a>"
+OSTANE : ['gomolj', 'zelena']
+majoneze
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorèice</a>; zaželena je pekoèa"
+OSTANE : ['gorèice', 'zaželena', 'pekoèa']
+sardelni filet
+OSTANE : ['sardelni', 'filet']
+"kisla kumarica; narezana na drobne košèke"
+OSTANE : ['kisla', 'kumarica', 'drobne']
+kisa od kislih kumaric
+OSTANE : ['kis', 'od', 'kislih', 'kumaric']
+peteršilj
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+ploèevinka graha
+OSTANE : ['ploèevinka', 'graha']
+testenin
+ploèevinka rakcev
+OSTANE : ['ploèevinka', 'rakci']
+ploèevinka belušev
+OSTANE : ['ploèevinka', 'belušev']
+majoneze
+limona
+"sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a> po okusu"
+OSTANE : ['sol', 'poper']
+sladkor
+olje
+vložene hruške
+OSTANE : ['vložene', 'hruške']
+kepica sladoleda
+OSTANE : ['kepica', 'sladoleda']
+Èokolada
+sladka smetana
+OSTANE : ['sladka', 'smetana']
+<b>Za 5 oseb potrebujete:</b>
+OSTANE : ['b>Za', '', 'oseb', 'potrebujete:</b']
+b>Testo:</b
+kvasa
+ajdove moke
+OSTANE : ['ajdove', 'moka']
+moka
+vode li mleka
+OSTANE : ['voda', 'li', 'mleko']
+maslo
+sladkor
+maslo
+sol
+b>Nadev:</b
+skute
+.5 dl kisle smetane
+OSTANE : ['', 'kisle', 'smetana']
+jajca
+cimet
+sladkor
+rozin
+orehi
+instant ajdove moke
+OSTANE : ['instant', 'ajdove', 'moka']
+sladkor
+jajca
+limonina
+mašèoba za pekaè
+OSTANE : ['mašèoba', 'pekaè']
+<b>Za poliv:</b>
+OSTANE : ['b>Za', 'poliv:</b']
+vina
+voda
+rum
+sladkor
+limonina
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/87/nageljnove-zbice-klincki-/"">nageljnove žbice</a>"
+OSTANE : ['nageljn', 'žbice</a']
+"palièica <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a>"
+OSTANE : ['palièica', 'cimet']
+sodavice
+malinovega ali ribezovega sirupa
+OSTANE : ['malinovega', 'ribezovega', 'sirupa']
+sladkor
+limonin
+ledu
+<b>Sestavine za palaèinke:</b>
+OSTANE : ['b>Sestavine', 'palaèinke:</b']
+class=""label-inline"">12
+skodele pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+sol
+sladkor
+mleènega
+sode
+Vse sestavine presejemo in dobro zmešamo. Lahko jih hranimo v stekleni posodi do 3 mesece.
+OSTANE : ['Vse', 'sestavine', 'presejemo', 'zmešamo', 'Lahko', 'jih', 'hranimo', 'stekleni', 'posodi', '', 'mesece']
+skodeli prejšnje mešanice
+OSTANE : ['prejšnje', 'mešanice']
+mleko
+jajca
+jajca
+skodelo sladkorja
+OSTANE : ['skodelo', 'sladkor']
+skodelo mleka
+OSTANE : ['skodelo', 'mleko']
+dobro umešane margarine ali masla
+OSTANE : ['umešane', 'margarine', 'maslo']
+skodele presejane moke
+OSTANE : ['presejane', 'moka']
+žlicke pecilnega praška
+OSTANE : ['žlicke', 'pecilnega', 'praška']
+"žlicke <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a> v prahu"
+OSTANE : ['žlicke', 'cimet']
+žlièko nastrgane limonine lupinice
+OSTANE : ['žlièko', 'limona', 'lupinice']
+sol
+nastrganega muškatnega orešèka
+OSTANE : ['nastrganega', 'muškatnega', 'orešèka']
+sladkor
+voda
+margarina
+o dag zmletih keksov
+OSTANE : ['o', 'keksov']
+orehi
+kuhalne èokolade
+OSTANE : ['kuhalne', 'èokolade']
+èokoladna glazura
+OSTANE : ['èokoladna', 'glazura']
+"testa (<span class=""label-inline"">12"
+OSTANE : ['testa', 'class=""label-inline"">12']
+jajca
+sladkor
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+jogurt
+jogurtni lonèek olja
+OSTANE : ['jogurtni', 'olje']
+"orehov ali <a href=""https://www.kulinarika.net/recepti/zacimbe/77/mak/"">maka</a>"
+OSTANE : ['orehi', 'maka']
+rozin
+"voda; sladkor in limona za sirup "
+OSTANE : ['sladkor', 'limona', 'sirup']
+"kepice <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> sladoleda"
+OSTANE : ['kepice', 'vanilijevega', 'sladoleda']
+banane
+"narezanih <a href=""https://www.kulinarika.net/recepti/zacimbe/39/mandelj/"">mandljev</a>; lešnikov ali orehov"
+OSTANE : ['mandlji', 'lešnikov', 'orehi']
+èokoladnega ali kakega drugega preliva
+OSTANE : ['èokoladnega', 'kakega', 'drugega', 'preliva']
+moka
+"zavitek <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> pudinga"
+OSTANE : ['zavitek', 'vanilijevega', 'pudinga']
+zavitek pecilnega praška
+OSTANE : ['zavitek', 'pecilnega', 'praška']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> sladkor"
+OSTANE : ['vanilijev', 'sladkor']
+sladkor
+olje
+mleko
+"srednje velike <a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banane</a>"
+OSTANE : ['srednje', 'velike', 'banane']
+jajca
+kozarca olja
+OSTANE : ['kozarca', 'olje']
+kozarca moke
+OSTANE : ['kozarca', 'moka']
+kozarca mleka
+OSTANE : ['kozarca', 'mleko']
+kozarca sladkorja
+OSTANE : ['kozarca', 'sladkor']
+jajca
+pecilna praška
+OSTANE : ['pecilna', 'praška']
+vanilijeva sladkorja
+OSTANE : ['vanilijeva', 'sladkor']
+moka
+<b>Za nadev potrebujemo:</b>
+OSTANE : ['b>Za', 'nadev', 'potrebujemo:</b']
+maslo
+sladkor
+jajca
+èokolade
+<b>Testo: (za 3 plošèe)-velik pekaè:</b>
+OSTANE : ['b>Testo:', '', 'plošèe)-velik', 'pekaè:</b']
+moka
+jajca
+margarine
+sladkor
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+mleko
+b>Krema:</b
+mleko
+sladkor
+zvrhanih žlic ostre moke
+OSTANE : ['zvrhanih', 'ostre', 'moka']
+margarine
+vanili sladkor
+OSTANE : ['vanili', 'sladkor']
+rum
+b>Preliv:</b
+èokolade
+margarine
+sladkor
+mleko
+"beljakov (okoli <span class=""label-inline"">6"
+OSTANE : ['beljakov', 'okoli', 'class=""label-inline"">6']
+sladkor
+moka
+pecilnega praška 
+OSTANE : ['pecilnega', 'praška']
+orehi
+kokosove moke 
+OSTANE : ['kokosove', 'moka']
+rebro naribane èokolade 
+OSTANE : ['rebro', 'naribane', 'èokolade']
+limona
+"v rumu namoèenih rozin <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a> "
+OSTANE : ['rumu', 'rozin', 'cimet']
+<b>Testo I:</b>
+OSTANE : ['b>Testo', 'I:</b']
+jajca
+sladkor
+margarine
+pec.praška
+moka
+naribana lupina 1 limone
+OSTANE : ['', 'limona']
+Testo II
+OSTANE : ['Testo', 'II']
+jajca
+"za težo <span class=""label-inline"">3"
+OSTANE : ['težo', 'class=""label-inline"">3']
+"za težo <span class=""label-inline"">3"
+OSTANE : ['težo', 'class=""label-inline"">3']
+olje
+pec.praška
+Nadev
+"jabolka (ca 4 velika); <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a>; malo sladk."
+OSTANE : ['jabolka', 'ca', '', 'cimet', 'sladk']
+Glazura
+"sladk .v prahu; sok 1 limone"
+OSTANE : ['sladk', '', 'limona']
+pšeniène bele moke
+OSTANE : ['pšeniène', 'moka']
+ajdove moke
+OSTANE : ['ajdove', 'moka']
+sojine moke
+OSTANE : ['sojine', 'moka']
+koruzne moke
+OSTANE : ['koruzne', 'moka']
+margarina za peko
+OSTANE : ['margarina', 'peko']
+sladkor
+jajca
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+jajca
+sladkor
+moka
+vanilij
+rumenjaki
+voda
+sladkor
+<b>in še:</b>
+OSTANE : ['b>in', 'še:</b']
+moka
+žl kakava ali èokolade v prahu
+OSTANE : ['žl', 'kakava', 'èokolade']
+olje
+pecilni
+žl ruma 
+OSTANE : ['žl', 'rum']
+Testo
+jajca
+sladkor
+moka
+"pecilni prašek;"
+OSTANE : ['pecilni', 'prašek']
+olje
+mleko
+Nadev
+skute
+kislo smetano
+OSTANE : ['kislo', 'smetano']
+limonina lupinica naribana vanilin sladkor
+OSTANE : ['limonina', 'vanilin', 'sladkor']
+po želji lahko še malo sladkorja. 
+OSTANE : ['lahko', 'še', 'sladkor']
+b>Biskvit:</b
+jajca
+voda
+sladkor
+moka
+pec. praška
+OSTANE : ['pec', 'praška']
+<b>Testo za potico:</b>
+OSTANE : ['b>Testo', 'potico:</b']
+moka
+jajca
+olje
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+"kvasa (v kvas zamešaj <span class=""label-inline"">2 žlici"
+OSTANE : ['kvasa', 'kvas', 'zamešaj', 'class=""label-inline"">2', 'žlici']
+<b>Skutni nadev:</b>
+OSTANE : ['b>Skutni', 'nadev:</b']
+skute
+sladkor
+kisla smetana
+OSTANE : ['kisla', 'smetana']
+vanilij
+class=""label-inline"">1
+<b>Orehov nadev:</b>
+OSTANE : ['b>Orehov', 'nadev:</b']
+orehi
+sladkor
+kisla smetana
+OSTANE : ['kisla', 'smetana']
+rum
+<b>Za biskvit potrebujemo:</b>
+OSTANE : ['b>Za', 'biskvit', 'potrebujemo:</b']
+jajca
+moka
+sladkor
+kakava
+<b>Vanili krema:</b>
+OSTANE : ['b>Vanili', 'krema:</b']
+mleko
+jajca
+sladkor
+moka
+zavitek vanili sladkorja
+OSTANE : ['zavitek', 'vanili', 'sladkor']
+<b>Sladkorni sirup:</b>
+OSTANE : ['b>Sladkorni', 'sirup:</b']
+sladkor
+voda
+class=""label-inline"">5
+rozin
+"Potrebujemo še 50 dag mletih orehov; sladko smetano in jedilno èokolado"
+OSTANE : ['Potrebujemo', 'še', '', 'mletih', 'orehi', 'sladko', 'smetano', 'jedilno', 'èokolado']
+jajca
+mleko
+sladkor
+sladkorja za beljake
+OSTANE : ['sladkor', 'beljake']
+moka
+zavitek vanilin sladkorja
+OSTANE : ['zavitek', 'vanilin', 'sladkor']
+class=""label-inline"">3
+"sladkorja in <span class=""label-inline"">1"
+OSTANE : ['sladkor', 'class=""label-inline"">1']
+"jajc loèimo (<span class=""label-inline"">6 kosov"
+OSTANE : ['jajca', 'loèimo', 'class=""label-inline"">6', 'kosov']
+sladkor
+piškotnih drobtin (Albert keksi)
+OSTANE : ['piškotnih', 'drobtin', 'Albert', 'keksi']
+mletih orehov
+OSTANE : ['mletih', 'orehi']
+taljene èokolade
+OSTANE : ['taljene', 'èokolade']
+drobno narezana lupina ene pomaranèe (neškropljene)
+OSTANE : ['pomaranèe', 'neškropljene']
+<b>Èokoladni obliv:</b>
+OSTANE : ['b>Èokoladni', 'obliv:</b']
+èokolade
+maslo
+veèjih razpolovljenih svežih breskev
+OSTANE : ['veèjih', 'razpolovljenih', 'svežih', 'breskev']
+vina
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>ženih in narezanih mandeljev"
+OSTANE : ['popra</a>že', 'mandeljev']
+stepene smetane ali sladoleda
+OSTANE : ['smetana', 'sladoleda']
+voda
+sadnega sladkorja
+OSTANE : ['sadnega', 'sladkor']
+sirupa natreen
+OSTANE : ['sirupa', 'natreen']
+breskev
+pomaranènega
+limona
+mineralne vode
+OSTANE : ['mineralne', 'voda']
+maslo
+sladkor
+vanilij sladkor
+OSTANE : ['vanilij', 'sladkor']
+sol
+jajca
+moka
+zavitka pecilnega praška
+OSTANE : ['zavitka', 'pecilnega', 'praška']
+maslo ali margarina 
+OSTANE : ['maslo', 'margarina']
+srednje velika jajca
+OSTANE : ['srednje', 'jajca']
+sladkor
+moka
+Biskvit
+rumenjakov
+lic sladkorja
+OSTANE : ['lic', 'sladkor']
+lic ostre moke
+OSTANE : ['lic', 'ostre', 'moka']
+lic vode
+OSTANE : ['lic', 'voda']
+beljakov - trdi sneg
+OSTANE : ['beljakov', '-', 'trdi', 'sneg']
+b>Nadev:</b
+masla ali margarine
+OSTANE : ['maslo', 'margarine']
+sladkor
+mletih orehov
+OSTANE : ['mletih', 'orehi']
+"""albert"" piškotov"
+OSTANE : ['albert', 'piškotov']
+coca-cole
+rum
+class=""label-inline"">50
+sol
+limona
+maslo
+sladkor
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+cimet
+jajca
+maslo
+o dag sladkorja
+OSTANE : ['o', 'sladkor']
+rumenjakov
+žlico ruma
+OSTANE : ['žlico', 'rum']
+vanilij sladkor
+OSTANE : ['vanilij', 'sladkor']
+limonina
+mleko
+moka
+zavitka pecilnega praška
+OSTANE : ['zavitka', 'pecilnega', 'praška']
+o dag èešenj brez košèic
+OSTANE : ['o', 'èešenj', 'brez', 'košèic']
+cimet
+trdi sneg petih beljakov 
+OSTANE : ['trdi', 'sneg', 'petih', 'beljakov']
+èokolade za kuhanje
+OSTANE : ['èokolade', 'kuhanje']
+sladkor
+jajca
+orehi
+grobo narezanih orehov
+OSTANE : ['grobo', 'orehi']
+rum
+maslo
+jajca
+l4 dag sladkorja
+OSTANE : ['l4', 'sladkor']
+"l<span class=""label-inline"">4 dag"
+OSTANE : ['l<span', 'class=""label-inline"">4']
+"l<span class=""label-inline"">4 dag"
+OSTANE : ['l<span', 'class=""label-inline"">4']
+sadnega
+mleka-2;5
+èokoladnega sladoleda
+OSTANE : ['èokoladnega', 'sladoleda']
+èokoladni opilki za okras
+OSTANE : ['èokoladni', 'opilki', 'okras']
+"kuhalne èokolade; poldrugi dl mleka"
+OSTANE : ['kuhalne', 'èokolade', 'poldrugi', 'mleko']
+sladkornega sirupa
+OSTANE : ['sladkornega', 'sirupa']
+vanilija
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+<b>Ža biskvit:</b>
+OSTANE : ['b>Ža', 'biskvit:</b']
+moka
+sladorja
+voda
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+vaniljev sladkor
+OSTANE : ['vaniljev', 'sladkor']
+jajca
+<b>Za nadev:</b>
+OSTANE : ['b>Za', 'nadev:</b']
+breskev
+vaniljeva pudinga
+OSTANE : ['vaniljeva', 'pudinga']
+voda
+smetana za dekoracijo
+OSTANE : ['smetana', 'dekoracijo']
+sladkor
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> sladoleda"
+OSTANE : ['vanilijevega', 'sladoleda']
+èokoladnega sladoleda
+OSTANE : ['èokoladnega', 'sladoleda']
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+sladkor
+narezanega kandiranega sadja
+OSTANE : ['kandiranega', 'sadja']
+beljak
+Albertovih keksov
+OSTANE : ['Albertovih', 'keksov']
+kokosove moke
+OSTANE : ['kokosove', 'moka']
+masla ali margarine
+OSTANE : ['maslo', 'margarine']
+sladkor
+voda
+èokolade
+rum
+margarine
+b>Testo:</b
+moka
+kvasa
+rumenjaka
+mleko
+sol
+sladkor
+b>Nadev:</b
+maslo
+sladkor
+vanilijin sladkor
+OSTANE : ['vanilijin', 'sladkor']
+limona
+<b>Preliv: </b>
+OSTANE : ['b>Preliv:', 'b']
+mleko
+vanilijina sladkorja
+OSTANE : ['vanilijina', 'sladkor']
+veliki žlici sladkorja
+OSTANE : ['veliki', 'žlici', 'sladkor']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banana</a>; narezana na košèke in poškropljena z limoninim sokom"
+OSTANE : ['banana', 'poškropljena', 'limoninim', 'sokom']
+"kuhani hruški; narezani na košèke"
+OSTANE : ['kuhani', 'hruški']
+pomaranèa
+mandlji
+sladke stolèene smetane
+OSTANE : ['sladke', 'stolèene', 'smetana']
+maslo
+mareliène marmelade ali džema
+OSTANE : ['mareliène', 'marmelade', 'džema']
+limona
+pomaranènega
+sladkor
+rum
+vinjaka
+maraskina
+"kepice <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> sladoleda"
+OSTANE : ['kepice', 'vanilijevega', 'sladoleda']
+maslo
+medu
+sladkor
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+mandljevih listièev
+OSTANE : ['mandljevih', 'listièev']
+"mletih <a href=""https://www.kulinarika.net/recepti/zacimbe/39/mandelj/"">mandljev</a>"
+OSTANE : ['mletih', 'mandlji']
+kandiranih èešenj
+OSTANE : ['kandiranih', 'èešenj']
+citronata
+oranžata
+grenka èokolada 
+OSTANE : ['grenka', 'èokolada']
+srednje trde hruške
+OSTANE : ['srednje', 'trde', 'hruške']
+maslo
+sladkor
+rum
+<b>Za testo potrebujemo: </b>
+OSTANE : ['b>Za', 'testo', 'potrebujemo:', 'b']
+moka
+mleko
+jajca
+rumenjak
+sladkor
+maslo
+sol in naribano limonino lupino
+OSTANE : ['sol', 'naribano', 'limonino', 'lupino']
+<b>Za pripravo kvasa:</b>
+OSTANE : ['b>Za', 'pripravo', 'kvasa:</b']
+kvasa
+mleko
+moka
+sladkor
+<b>Vanilijeva krema:</b>
+OSTANE : ['b>Vanilijeva', 'krema:</b']
+rumenjaka
+sladkor
+škrobne moke
+OSTANE : ['škrobne', 'moka']
+vanilijevega
+mleko
+rum
+maraskina
+oblata za napolitanke
+OSTANE : ['oblata', 'napolitanke']
+sladkor
+medu
+orehi
+jajènih beljakov
+OSTANE : ['jajènih', 'beljakov']
+class=""label-inline"">10
+<b>Biskvitno testo :</b>
+OSTANE : ['b>Biskvitno', 'testo', ':</b']
+"moke tip <span class=""label-inline"">500"
+OSTANE : ['moka', 'tip', 'class=""label-inline"">500']
+kristalnega sladkorja
+OSTANE : ['kristalnega', 'sladkor']
+beljake
+rumenjaka
+<b>Beljakova masa:</b>
+OSTANE : ['b>Beljakova', 'masa:</b']
+beljakov
+kristalnega sladkorja
+OSTANE : ['kristalnega', 'sladkor']
+voda
+Obliv je narejen iz mleènega èokoladnega ali belega obliva tovarne Gorenjka.
+OSTANE : ['Obliv', 'narejen', 'mleènega', 'èokoladnega', 'obliva', 'tovarne', 'Gorenjka']
+b>Keksi:</b
+jajci (beljak posebej)
+OSTANE : ['jajca', 'beljak', 'posebej']
+sladkor
+moka
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+b>Sneg:</b
+beljaki
+sladkor
+voda
+b>Èokolada:</b
+èokolade
+margarine ali olja
+OSTANE : ['margarine', 'olje']
+b>Testo:</b
+jajca
+moka
+sladkor
+b>Krema:</b
+voda
+kislih jabolk
+OSTANE : ['kislih', 'jabolk']
+vanili pudinga
+OSTANE : ['vanili', 'pudinga']
+limonina
+klinèki
+cimet
+smetana
+maslo
+moka
+zavitka pecilnega praška
+OSTANE : ['zavitka', 'pecilnega', 'praška']
+jajca
+sladkor
+naribana lupinica 1/2 limone
+OSTANE : ['', 'limona']
+b>Nadev:</b
+jabolk
+maslo
+sladkor
+zavitek vanilinega sladkor
+OSTANE : ['zavitek', 'vanilinega', 'sladkor']
+rozin
+cimet
+jabolka
+listnatega testa
+OSTANE : ['listnatega', 'testa']
+marcipana
+mletih lešnikov
+OSTANE : ['mletih', 'lešnikov']
+mareliène marmelade
+OSTANE : ['mareliène', 'marmelade']
+smetana
+sladkor
+rum
+grobega sladkorja
+OSTANE : ['grobega', 'sladkor']
+jajca
+voda
+sladkor
+olje
+moka
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+pomaranèe
+mareliène marmelade
+OSTANE : ['mareliène', 'marmelade']
+èokolade
+margarine
+svežih jagod
+OSTANE : ['svežih', 'jagod']
+sladkor
+ruma ali maraskina
+OSTANE : ['rum', 'maraskina']
+kozarec sladke smetane
+OSTANE : ['kozarec', 'sladke', 'smetana']
+zavitek vanilin sladkorja
+OSTANE : ['zavitek', 'vanilin', 'sladkor']
+jagod
+limona
+sladkor
+mleko
+<b>Biskvitno testo:</b>
+OSTANE : ['b>Biskvitno', 'testo:</b']
+b>Sestavine:</b
+rumenjakov
+sladkor
+tople vode
+OSTANE : ['tople', 'voda']
+moka
+pecilni in vanilni prašek
+OSTANE : ['pecilni', 'vanilni', 'prašek']
+beljakov
+<b>Èokoladna krema:</b>
+OSTANE : ['b>Èokoladna', 'krema:</b']
+mleko
+sladkor
+margarine (Rama ali Petra)
+OSTANE : ['margarine', 'Rama', 'Petra']
+èokolade v prahu in 20 dag kokosove moke 
+OSTANE : ['èokolade', '', 'kokosove', 'moka']
+lonèek navadnega jogurta
+OSTANE : ['navadnega', 'jogurt']
+jogurtova lonèka moke
+OSTANE : ['jogurtova', 'lonèka', 'moka']
+jajca
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+sladkor
+sol
+kanèek ruma 
+OSTANE : ['kanèek', 'rum']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>; naribano na strgalnik"
+OSTANE : ['jabolko', 'naribano', 'strgalnik']
+cimet
+lonèek navadnega jogurta
+OSTANE : ['navadnega', 'jogurt']
+lonèka ostre moke
+OSTANE : ['lonèka', 'ostre', 'moka']
+sladkor
+maslo
+vanilij sladkor
+OSTANE : ['vanilij', 'sladkor']
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+jajca
+voda
+mleko
+jajca
+sladkor
+moka
+orehi
+zmlete èrne kave
+OSTANE : ['zmlete', 'èrne', 'kave']
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+lista podolgovatih oblat
+OSTANE : ['lista', 'podolgovatih', 'oblat']
+b>Nadev:</b
+margarine
+sladkor
+zmlete èrne kave 
+OSTANE : ['zmlete', 'èrne', 'kave']
+<b>Za testo: </b>
+OSTANE : ['b>Za', 'testo:', 'b']
+maslo
+sladkor
+jajca
+cimet
+"èajne žlièke <a href=""https://www.kulinarika.net/recepti/zacimbe/87/nageljnove-zbice-klincki-/"">klinèkov</a>"
+OSTANE : ['èajne', 'žlièke', 'klinèkov']
+mletih lešnikov
+OSTANE : ['mletih', 'lešnikov']
+èokolade
+moka
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+jedilni žlici ruma
+OSTANE : ['jedilni', 'žlici', 'rum']
+<b>Za glazuro:</b>
+OSTANE : ['b>Za', 'glazuro:</b']
+èajne žlièke Nescafe
+OSTANE : ['èajne', 'žlièke', 'Nescafe']
+sladkor
+kavni bonboni
+OSTANE : ['kavni', 'bonboni']
+moka
+sladkor
+kisla smetana
+OSTANE : ['kisla', 'smetana']
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+jajca
+rumenjaki
+sladkor
+kokosove moke
+OSTANE : ['kokosove', 'moka']
+mleko
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+kokosove esence
+OSTANE : ['kokosove', 'esence']
+<b>Testo (za mali pekaè):</b>
+OSTANE : ['b>Testo', 'mali', 'pekaè):</b']
+beljakov
+sladkor
+ostre moke
+OSTANE : ['ostre', 'moka']
+kokosove moke
+OSTANE : ['kokosove', 'moka']
+voda
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+b>Krema:</b
+vanili pudinga
+OSTANE : ['vanili', 'pudinga']
+mleko
+rastlinske smetane
+OSTANE : ['rastlinske', 'smetana']
+sladkor v prahu po potrebi(ni nujno)
+OSTANE : ['sladkor', 'potrebi(ni', 'nujno']
+rum
+b>Posip:</b
+kokosove moke 
+OSTANE : ['kokosove', 'moka']
+margarine
+sladkor
+jajca
+jogurt
+kokosove moke
+OSTANE : ['kokosove', 'moka']
+moka
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+olupljeni mandlji
+OSTANE : ['olupljeni', 'mandlji']
+jogurt
+jajca
+sladkor
+olje
+vanilin
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+moka
+marelic ali èešenj 
+OSTANE : ['marelice', 'èešenj']
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> pudinga"
+OSTANE : ['vanilijevega', 'pudinga']
+jabolki
+hruški
+sladkor
+cimet
+stepena sladka smetana
+OSTANE : ['stepena', 'sladka', 'smetana']
+voda
+OSTANE : []
+korenje
+mleka ali vode
+OSTANE : ['mleko', 'voda']
+sladkor
+žafrana
+kuhanega masla
+OSTANE : ['kuhanega', 'maslo']
+mandlji
+muškatnega orešèka
+OSTANE : ['muškatnega', 'orešèka']
+instant polente
+OSTANE : ['instant', 'polente']
+mleko
+sladkor
+margarine
+sol
+rozin
+jabolk
+sladkor
+krompir
+maslo
+sladkor
+cca 3 žlice ruma
+OSTANE : ['cca', '', 'rum']
+mletih orehov
+OSTANE : ['mletih', 'orehi']
+èokolada
+smetana
+margarine
+sladkor
+moka
+jajca
+pecilnega
+vanili sladkor
+OSTANE : ['vanili', 'sladkor']
+rum
+èokolade
+orehi
+rozin
+rumenjaki
+moka
+jajca
+rum
+mleko
+vanili sladkorja
+OSTANE : ['vanili', 'sladkor']
+sol
+kandiranih pomaranènih lupin (oranžat)
+OSTANE : ['kandiranih', 'pomaranènih', 'lupin', 'oranžat']
+"mletih <a href=""https://www.kulinarika.net/recepti/zacimbe/39/mandelj/"">mandljev</a>"
+OSTANE : ['mletih', 'mandlji']
+grenke èokolade
+OSTANE : ['grenke', 'èokolade']
+svež rumenjak
+OSTANE : ['svež', 'rumenjak']
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+hruha ali prepeèenca
+OSTANE : ['hruha', 'prepeèenca']
+grobo naribanih soènih jabolk
+OSTANE : ['grobo', 'naribanih', 'soènih', 'jabolk']
+sladkor
+maslo
+mleko
+jajca
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+rum
+b>Testo:</b
+gladke bele moke
+OSTANE : ['gladke', 'moka']
+kvasa
+šèepa soli
+OSTANE : ['šèepa', 'sol']
+jajca
+sladkor
+jedilnih žlic olja
+OSTANE : ['jedilnih', 'olje']
+class=""label-inline"">2
+<b>. nadev:</b>
+OSTANE : ['b', 'nadev:</b']
+mletih orehov
+OSTANE : ['mletih', 'orehi']
+lonèek kisle smetane
+OSTANE : ['kisle', 'smetana']
+sladkor
+<b>. nadev:</b>
+OSTANE : ['b', 'nadev:</b']
+skute
+lonèka kisle smetane
+OSTANE : ['lonèka', 'kisle', 'smetana']
+jajca
+zavitek vanilin sladkorja
+OSTANE : ['zavitek', 'vanilin', 'sladkor']
+sladkorja v kristalu
+OSTANE : ['sladkor', 'kristalu']
+voda
+planinskega èaja
+OSTANE : ['planinskega', 'èaja']
+breskovega èaja
+OSTANE : ['breskovega', 'èaja']
+èaja divjih èešenj
+OSTANE : ['èaja', 'divjih', 'èešenj']
+vreèko odvajalnega èaja
+OSTANE : ['vreèko', 'odvajalnega', 'èaja']
+vreèko èaja za ledvica
+OSTANE : ['vreèko', 'èaja', 'ledvica']
+žajbla
+zvrhanih žlic sladkorja 
+OSTANE : ['zvrhanih', 'sladkor']
+medu
+maslo
+sladkor
+jajca
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+sol
+èokolade
+moka
+lešnikov
+rum
+lešnikova glazura 
+OSTANE : ['lešnikova', 'glazura']
+omehèanega masla
+OSTANE : ['omehèanega', 'maslo']
+sladkor
+limona
+mleko
+jajca
+limona
+moka
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+sol
+lešnikov
+sladkor
+muškatnega orešèka
+OSTANE : ['muškatnega', 'orešèka']
+"Kolièine za <span class=""label-inline"">8"
+OSTANE : ['Kolièine', 'class=""label-inline"">8']
+<b>Testo: </b>
+OSTANE : ['b>Testo:', 'b']
+margarine
+sladkor
+jajca
+moka
+maka
+in pol zavitka pecilnega praška
+OSTANE : ['pol', 'zavitka', 'pecilnega', 'praška']
+mleko
+b>Preliv:</b
+suhih sliv
+OSTANE : ['suhih', 'sliv']
+vina
+sladkor
+cimet
+popeèenih mandeljev
+OSTANE : ['popeèenih', 'mandeljev']
+o dag sladkorja
+OSTANE : ['o', 'sladkor']
+limona
+zžlica medu
+OSTANE : ['zžlica', 'medu']
+pinjol
+marelice
+lonèek sladke smetane
+OSTANE : ['sladke', 'smetana']
+"zavitek <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> sladkorja"
+OSTANE : ['zavitek', 'vanilijevega', 'sladkor']
+sladkor
+orehi
+pistacij
+marcipana
+sladkor
+sesekljanih kandiranih pomaranènih lupin
+OSTANE : ['kandiranih', 'pomaranènih', 'lupin']
+jedilni žlici pomaranènega likerja
+OSTANE : ['jedilni', 'žlici', 'pomaranènega', 'likerja']
+košèkov èokolade
+OSTANE : ['košèkov', 'èokolade']
+jedilni žlici konjaka
+OSTANE : ['jedilni', 'žlici', 'konjaka']
+jajca
+sladkorja + vanili sladkor(po želji)
+OSTANE : ['sladkor', '+', 'vanili', 'sladkor(po']
+olje
+moke + 1 zavitek pecilnega praška
+OSTANE : ['moka', '+', '', 'zavitek', 'pecilnega', 'praška']
+mleko
+kakava ali kave
+OSTANE : ['kakava', 'kave']
+beljaki
+sladkor
+mletih orehov
+OSTANE : ['mletih', 'orehi']
+moka
+maslo
+Ostale sestavine najdeš pri samem postopku.
+OSTANE : ['Ostale', 'sestavine', 'najdeš', 'pri', 'samem', 'postopku']
+b>TESTO:</b
+jajca
+sladkor
+medu
+moka
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+"žlicke <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a>"
+OSTANE : ['žlicke', 'cimet']
+b>NADEV:</b
+maslo
+sladkorne moke
+OSTANE : ['sladkorne', 'moka']
+zmletih orehov ali lešnikov
+OSTANE : ['orehi', 'lešnikov']
+soka limone ali pomaranèe
+OSTANE : ['limona', 'pomaranèe']
+moka
+sladkor
+jajca
+medu
+"noževi konici <a href=""https://www2.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a>"
+OSTANE : ['noževi', 'konici', 'href=""https://www2.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a']
+"noževi konici mletih <a href=""https://www2.kulinarika.net/recepti/zacimbe/87/nageljnove-zbice-klincki-/"">klinèkov</a>"
+OSTANE : ['noževi', 'konici', 'mletih', 'href=""https://www2.kulinarika.net/recepti/zacimbe/87/nageljnove-zbice-klincki-/"">klinèkov</a']
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+mletih orehov
+OSTANE : ['mletih', 'orehi']
+masla ali margarine
+OSTANE : ['maslo', 'margarine']
+b>TESTO:</b
+"margarine; <span class=""label-inline"">75g"
+OSTANE : ['margarine', 'class=""label-inline"">75g']
+<b>NADEV - MINCEMEAT:</b>
+OSTANE : ['b>NADEV', '-', 'MINCEMEAT:</b']
+"rozin; <span class=""label-inline"">100g"
+OSTANE : ['rozin', 'class=""label-inline"">100g']
+margarine
+rumenjaki
+sladkor
+mleko
+rum
+presejane moke
+OSTANE : ['presejane', 'moka']
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+èokolade
+mleko
+marmelada
+beljaki
+sladkor
+èokolade
+olje
+<b>Za 4 do 6 oseb potrebujete:</b>
+OSTANE : ['b>Za', '', '', 'oseb', 'potrebujete:</b']
+"skodelic <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> ali kakšnega drugega sladoleda"
+OSTANE : ['skodelic', 'vanilijevega', 'kakšnega', 'drugega', 'sladoleda']
+stepena jajca
+OSTANE : ['stepena', 'jajca']
+moka
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+olje
+"Recept smo vzeli iz knjige Slovenska kuharica avtorice Felicite Kalinšek; katero je izdala Cankarjeva založba iz Ljubljane. V knjigi boste našli še ogromno receptov za pripravo izvrstnih jedi; ki bodo zadovoljile razliène okuse."
+OSTANE : ['Recept', 'smo', 'vzeli', 'knjige', 'Slovenska', 'kuharica', 'avtorice', 'Felicite', 'Kalinšek', 'katero', 'izdala', 'Cankarjeva', 'založba', 'Ljubljane', 'V', 'knjigi', 'boste', 'našli', 'še', 'ogromno', 'receptov', 'pripravo', 'izvrstnih', 'jedi', 'ki', 'bodo', 'zadovoljile', 'razliène', 'okuse']
+mlaènega mleka
+OSTANE : ['mlaènega', 'mleko']
+moka
+sol
+sladkor
+rumenjaki
+sneg treh beljakov
+OSTANE : ['sneg', 'treh', 'beljakov']
+"do 12 <a href=""https://www.kulinarika.net/recepti/zacimbe/11/bezeg/"">bezgovih</a> cvetov"
+OSTANE : ['', 'bezgovih', 'cvetov']
+mašèoba
+keksov petit beurre
+OSTANE : ['keksov', 'petit', 'beurre']
+orehi
+sladkor
+maslo
+narezanih bonbonov iz želeja
+OSTANE : ['bonbonov', 'želeja']
+kašastega soka (npr. marelic)
+OSTANE : ['kašastega', 'npr', 'marelice']
+jajca
+b>TESTO:</b
+moka
+sladkor
+margarine
+jajca
+pecilna praška
+OSTANE : ['pecilna', 'praška']
+mleko
+NADEV
+mletih orehov
+OSTANE : ['mletih', 'orehi']
+sladkor
+marmelada
+GLAZURA
+èokolade
+margarine
+maslo
+moka
+sladkor
+orehi
+jajca
+jajca
+sladkor
+moka
+orehi
+kakava
+hladne sladke kave
+OSTANE : ['hladne', 'sladke', 'kave']
+Èokoladna krema
+OSTANE : ['Èokoladna', 'krema']
+maslo
+sladkor
+zravnani žlici kakava 
+OSTANE : ['zravnani', 'žlici', 'kakava']
+jajca
+mleko
+rum
+Èokoladni obliv
+OSTANE : ['Èokoladni', 'obliv']
+sladkor
+kakava
+beljak
+do 7 žlic vrele vode
+OSTANE : ['', 'vrele', 'voda']
+sladkor
+"zavitka <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> sladkorja"
+OSTANE : ['zavitka', 'vanilijevega', 'sladkor']
+jajca
+mletih orehov in nekaj celih jedrc za dekoracijo
+OSTANE : ['mletih', 'orehi', 'celih', 'jedrc', 'dekoracijo']
+temne èokolade
+OSTANE : ['temne', 'èokolade']
+maslo
+<b>Testo: </b>
+OSTANE : ['b>Testo:', 'b']
+moka
+rumenjaki
+margarine
+mleko
+sladkor
+kvasa
+<b>Nadev: </b>
+OSTANE : ['b>Nadev:', 'b']
+"sneg <span class=""label-inline"">4"
+OSTANE : ['sneg', 'class=""label-inline"">4']
+orehi
+sladkor
+banani
+sladkor
+cimet
+maslo
+rum
+sladke smetane ali sladoleda
+OSTANE : ['sladke', 'smetana', 'sladoleda']
+Testo
+kvasa
+mlaènega mleka
+OSTANE : ['mlaènega', 'mleko']
+sladkor
+moka
+"To damo v loncek potresemo z moko in poèakamo; da nam kvas vzhaja."
+OSTANE : ['To', 'damo', 'loncek', 'potresemo', 'moko', 'poèakamo', 'da', 'nam', 'kvas', 'vzhaja']
+presejane moke
+OSTANE : ['presejane', 'moka']
+mlaènega mleka
+OSTANE : ['mlaènega', 'mleko']
+class=""label-inline"">4
+limonine lupinice
+OSTANE : ['limona', 'lupinice']
+žlico ruma
+OSTANE : ['žlico', 'rum']
+stopljenega masla ali smetane
+OSTANE : ['maslo', 'smetana']
+sladkor
+vanilij sladkor
+OSTANE : ['vanilij', 'sladkor']
+sol
+b>Nadev:</b
+skute
+sladkor
+rum
+"beljaki; ki so ostali od testa"
+OSTANE : ['beljaki', 'ki', 'so', 'ostali', 'od', 'testa']
+šopka pehtrana narezana ne drobno
+OSTANE : ['šopka', 'pehtrana', 'ne']
+kruhovih drobtin po potrebi
+OSTANE : ['kruhovih', 'drobtin']
+maslo
+medu
+moka
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+muškatnega oreha
+OSTANE : ['muškatnega', 'oreha']
+maslo
+sladkor
+jajca
+višnjevega ali kakšnega drugega aromatiènega likerja
+OSTANE : ['višnjevega', 'kakšnega', 'drugega', 'aromatiènega', 'likerja']
+naribane limonine lupine
+OSTANE : ['naribane', 'limona', 'lupine']
+moka
+mleko
+olje
+sladkor
+kakava ali èokolade v prahu 1pecilni prašek
+OSTANE : ['kakava', 'èokolade', 'pecilni', 'prašek']
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+jajca
+Za preliv
+OSTANE : ['Za', 'preliv']
+mleko
+sladkor
+rum
+"pudinga(najboljši je <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a>)"
+OSTANE : ['pudinga(najboljši', 'vanilijev']
+mleko
+in pol sladke smetane 
+OSTANE : ['pol', 'sladke', 'smetana']
+<b>Za testo:</b>
+OSTANE : ['b>Za', 'testo:</b']
+moka
+sladkor
+sol
+jajce ali 2 rumenjaka
+OSTANE : ['jajca', '', 'rumenjaka']
+maslo
+Testo naj vsaj 2 uri poèiva v hladilniku.
+OSTANE : ['Testo', 'naj', 'vsaj', '', 'uri', 'poèiva', 'hladilniku']
+<b>Za nedev:</b>
+OSTANE : ['b>Za', 'nedev:</b']
+maka
+marcipana
+rozin
+sladkor
+jedilni žlici ruma
+OSTANE : ['jedilni', 'žlici', 'rum']
+strt prepeèenec
+OSTANE : ['strt', 'prepeèenec']
+cimet
+"sneg <span class=""label-inline"">2"
+OSTANE : ['sneg', 'class=""label-inline"">2']
+<b>Za glazuro:</b>
+OSTANE : ['b>Za', 'glazuro:</b']
+sladkor
+limonin
+sladkor
+voda
+želatine
+voda
+bananin ekstrakt 
+OSTANE : ['bananin', 'ekstrakt']
+èokolade
+margarine ali olja 
+OSTANE : ['margarine', 'olje']
+oblate (napolitanke) 
+OSTANE : ['oblate', 'napolitanke']
+pomaranè
+sladkor
+jabolk
+limona
+jajca
+sladkor
+mleko
+olje
+moka
+<b>Sestavine za testo:</b>
+OSTANE : ['b>Sestavine', 'testo:</b']
+moka
+sol
+class=""label-inline"">5
+olje
+<b>Makov nadev:</b>
+OSTANE : ['b>Makov', 'nadev:</b']
+maka
+sladkor
+cimet
+vroèega mleka
+OSTANE : ['vroèega', 'mleko']
+<b>Skutin nadev:</b>
+OSTANE : ['b>Skutin', 'nadev:</b']
+skute
+jajca
+kisle smetane
+OSTANE : ['kisle', 'smetana']
+v rumu namoèenih rozin
+OSTANE : ['rumu', 'rozin']
+vanilije
+sladkor
+<b>Orehov nadev :</b>
+OSTANE : ['b>Orehov', 'nadev', ':</b']
+orehi
+sladkor
+cimet
+"Jabolèni nadev naredimo kot za zavitek. Naribana jabolka malo poškropimo z limoninim sokom; da ne oksidirajo; dodamo sladkor in naribano lupino limone. Dodamo"
+OSTANE : ['Jabolèni', 'nadev', 'naredimo', 'kot', 'zavitek', 'Naribana', 'jabolka', 'poškropimo', 'limoninim', 'sokom', 'da', 'ne', 'oksidirajo', 'dodamo', 'sladkor', 'naribano', 'lupino', 'limona', 'Dodamo']
+cimet
+masla ali margarine
+OSTANE : ['maslo', 'margarine']
+sladkor
+jajca
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>ženih <a href=""https://www.kulinarika.net/recepti/zacimbe/39/mandelj/"">mandljev</a>"
+OSTANE : ['popra</a>že', 'mandlji']
+rum
+limona
+sol
+moka
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>ženih <a href=""https://www.kulinarika.net/recepti/zacimbe/39/mandelj/"">mandljev</a>"
+OSTANE : ['popra</a>že', 'mandlji']
+sladkor
+moke /najboljše/
+OSTANE : ['moka', 'najboljše']
+rumenjakov
+jajca
+maslo
+sladkor
+ruma ali vina
+OSTANE : ['rum', 'vina']
+cimone
+mlaènega mleka
+OSTANE : ['mlaènega', 'mleko']
+sol
+kvasa
+poljubna kolièina rabarbare
+OSTANE : ['poljubna', 'rabarbare']
+sladkor
+vanilija
+sok limone ali pomaranèe
+OSTANE : ['limona', 'pomaranèe']
+mleko
+kokosove moke
+OSTANE : ['kokosove', 'moka']
+mandlji
+margarine ali masla
+OSTANE : ['margarine', 'maslo']
+sladkor
+voda
+OSTANE : []
+b>Testo:</b
+beljakov
+sladkor
+kokos moke
+OSTANE : ['kokos', 'moka']
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+class=""label-inline"">1
+b>Krema:</b
+rumenjakov
+sladkor
+moka
+vanilin sladkorja
+OSTANE : ['vanilin', 'sladkor']
+mleko
+margarine
+jajca
+sladkor
+moka
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+sadje
+riž
+mleko
+maslo
+sol
+rumenjaki
+zavitek vanilij sladkorja
+OSTANE : ['zavitek', 'vanilij', 'sladkor']
+limona
+rozin namoèenih v rumu
+OSTANE : ['rozin', 'rumu']
+beljaki
+sol
+mašèoba za pekaè
+OSTANE : ['mašèoba', 'pekaè']
+<b>za 4 osebe:</b>
+OSTANE : ['b>za', '', 'osebe:</b']
+moka
+sladkor
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+sol
+jajca ( rumenjaki in beljaki posebej!)
+OSTANE : ['jajca', '', 'rumenjaki', 'beljaki', 'posebej!']
+mleko
+"raztopljene margarine <span class=""label-inline"">1;5 skodelice"
+OSTANE : ['raztopljene', 'margarine', 'class=""label-inline"">1;5', 'skodelice']
+b>TESTO:</b
+jajca
+voda
+sol
+sladkor
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+moka
+škroba
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+par kapljic ruma
+OSTANE : ['par', 'kapljic', 'rum']
+b>NADEV:</b
+class=""label-inline"">5
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+utrjevalca smetane (kremfix)
+OSTANE : ['utrjevalca', 'smetana', 'kremfix']
+nastrgana limonina ali pomaranèna lupina
+OSTANE : ['limonina', 'pomaranèna']
+"vložene breskve ali marelice ali mandarine; narezane na kocke"
+OSTANE : ['vložene', 'breskve', 'marelice', 'mandarine']
+sladkor
+b>TESTO:</b
+jajca
+voda
+sol
+sladkor
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+moka
+škroba
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+par kapljic ruma
+OSTANE : ['par', 'kapljic', 'rum']
+b>NADEV:</b
+class=""label-inline"">5
+vanilin sladkor
+OSTANE : ['vanilin', 'sladkor']
+utrjevalca smetane (kremfix)
+OSTANE : ['utrjevalca', 'smetana', 'kremfix']
+nastrgana limonina ali pomaranèna lupina
+OSTANE : ['limonina', 'pomaranèna']
+"vložene breskve ali marelice ali mandarine; narezane na kocke"
+OSTANE : ['vložene', 'breskve', 'marelice', 'mandarine']
+sladkor
+jajca
+margarine ali masla
+OSTANE : ['margarine', 'maslo']
+sladkor
+mleko
+skodeli rožièeve moke
+OSTANE : ['rožièeve', 'moka']
+moka
+beljak
+sladkor
+èokolade
+kokosove moke ali po okusu mleti orehi
+OSTANE : ['kokosove', 'moka', 'mleti', 'orehi']
+rum
+sladkor
+jajca
+sladkor
+margarine
+moka
+mletih orehov
+OSTANE : ['mletih', 'orehi']
+pecilni prašek
+OSTANE : ['pecilni', 'prašek']
+mleko
+sladkor
+voda
+rum
+margarine in èokolade
+OSTANE : ['margarine', 'èokolade']
+kakav
+"Sestavine (napisane za torto s tremi plastmi testa; za èetrto plast kolièino vseh sestavin poveèamo za <span class=""label-inline"">1/3"
+OSTANE : ['Sestavine', 'napisane', 'torto', 'tremi', 'plastmi', 'testa', 'èetrto', 'plast', 'kolièino', 'vseh', 'sestavin', 'poveèamo', 'class=""label-inline"">1/3']
+<b>Za testo:</b>
+OSTANE : ['b>Za', 'testo:</b']
+jajca
+voda
+sladkor
+"<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijeve</a> sladkorje"
+OSTANE : ['vanilijeve', 'sladkorje']
+moka
+gustina (jedilnega škroba)
+OSTANE : ['gustina', 'škroba']
+pecilnega praška
+OSTANE : ['pecilnega', 'praška']
+<b>Za nadev:</b>
+OSTANE : ['b>Za', 'nadev:</b']
+"konzervi sadja (najbolje je uporabiti breskve; olupljene mandarine ali maline) ter sveže sadje; kot je kivi."
+OSTANE : ['konzervi', 'sadja', 'najbolje', 'uporabiti', 'breskve', 'mandarine', 'maline', 'ter', 'sveže', 'sadje', 'kot', 'kivi']
+Lonèek marmelade (najboljša je marelièna ali gozdni sadeži)
+OSTANE : ['Lonèek', 'marmelade', 'najboljša', 'marelièna', 'gozdni', 'sadeži']
+rum
+sladke smetane
+OSTANE : ['sladke', 'smetana']
+mleko
