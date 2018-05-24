@@ -1,0 +1,37 @@
+CREATE TABLE recept (
+	id integer PRIMARY KEY,
+	ime text NOT NULL,
+	avtor integer NOT NULL REFERENCES uporabnik(id)
+	vrsta text NOT NULL,
+	cas integer, --minute
+	datum date NOT NULL,
+	navodilo text NOT NULL
+);
+-- tezavnost
+
+CREATE TABLE uporabnik (
+	id serial PRIMARY KEY,
+	ime text UNIQUE NOT NULL,
+	datum date DEFAULT now() CHECK (datum <= now()),
+	opis text
+);
+
+CREATE TABLE objava (
+	recept integer UNIQUE REFERENCES recept(id),
+	avtor integer REFERENCES uporabnik(id)
+);
+
+CREATE TABLE priloznost (
+	id serial PRIMARY KEY,
+	ime text NOT NULL
+);
+
+CREATE TABLE primernost (
+	recept integer REFERENCES recept(id),
+	priloznost integer REFERENCES priloznost(id)
+);
+
+CREATE TABLE sestavina (
+	id serial PRIMARY KEY,
+	ime text UNIQUE NOT NULL
+);

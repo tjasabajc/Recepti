@@ -1,0 +1,383 @@
+id,vrsta_jedi
+001,juhe in zakuhe: hladne juhe
+002,juhe in zakuhe: hladne juhe
+003,sladice: ostalo
+010,juhe in zakuhe: zelenjavne juhe
+011,juhe in zakuhe: zelenjavne juhe
+012,juhe in zakuhe: zelenjavne juhe
+013,juhe in zakuhe: mesne juhe
+014,juhe in zakuhe: hladne juhe
+015,juhe in zakuhe: zelenjavne juhe
+016,juhe in zakuhe: mesne juhe
+017,juhe in zakuhe: ostale juhe
+018,juhe in zakuhe: hladne juhe
+019,juhe in zakuhe: mesne juhe
+020,juhe in zakuhe: mesne juhe
+021,juhe in zakuhe: ostale juhe
+022,enolonènice
+023,enolonènice
+024,enolonènice
+025,juhe in zakuhe: ostale juhe
+026,juhe in zakuhe: jušne zakuhe
+027,predjedi: hladne
+028,mesne jedi: mešano meso
+029,predjedi: hladne
+030,mesne jedi: sesekljano meso
+031,mesne jedi: sesekljano meso
+032,mesne jedi: govedina
+033,mesne jedi: svinjina
+034,mesne jedi: perutnina
+035,mesne jedi: govedina
+036,mesne jedi: govedina
+037,mesne jedi: govedina
+038,mesne jedi: govedina
+039,mesne jedi: ostalo
+040,predjedi: tople
+041,predjedi: hladne
+042,napitki: alkoholni
+043,jajène jedi: ostalo
+044,predjedi: hladne
+045,jajène jedi: ostalo
+046,predjedi: tople
+047,predjedi: tople
+048,zelenjavne jedi
+049,sirove jedi
+050,predjedi: hladne
+052,predjedi: tople
+053,predjedi: hladne
+054,predjedi: tople
+055,predjedi: hladne
+056,predjedi: hladne
+057,predjedi: hladne
+058,predjedi: hladne
+059,mesne jedi: sesekljano meso
+060,mesne jedi: divjaèina
+061,mesne jedi: perutnina
+062,mesne jedi: perutnina
+063,mesne jedi: divjaèina
+064,mesne jedi: mešano meso
+065,mesne jedi: sesekljano meso
+066,mesne jedi: svinjina
+067,mesne jedi: ostalo
+068,mesne jedi: teletina
+069,mesne jedi: teletina
+070,jajène jedi: omlete
+071,predjedi: tople
+072,mesne jedi: ostalo
+073,mesne jedi: drobnica
+074,mesne jedi: ostalo
+075,mesne jedi: perutnina
+076,mesne jedi: teletina
+077,mesne jedi: perutnina
+078,mesne jedi: perutnina
+079,mesne jedi: perutnina
+080,mesne jedi: svinjina
+081,mesne jedi: sesekljano meso
+082,mesne jedi: sesekljano meso
+083,mesne jedi: ostalo
+084,mesne jedi: govedina
+085,mesne jedi: divjaèina
+086,mesne jedi: divjaèina
+087,mesne jedi: svinjina
+088,mesne jedi: svinjina
+089,mesne jedi: svinjina
+090,mesne jedi: svinjina
+091,mesne jedi: svinjina
+092,mesne jedi: govedina
+093,mesne jedi: teletina
+094,mesne jedi: svinjina
+095,mesne jedi: sesekljano meso
+096,gobje jedi
+097,žar
+098,žar
+099,žar
+100,žar
+101,žar
+102,jajène jedi: omlete
+103,priloge: ostalo
+104,priloge: ostalo
+105,priloge: ostalo
+106,priloge: ostalo
+107,priloge: ostalo
+108,priloge: ostalo
+109,priloge: ostalo
+110,eksotika: Kitajska
+111,priloge: ostalo
+113,priloge: krompir
+114,priloge: krompir
+115,priloge: cmoki
+116,napitki: alkoholni
+117,priloge: ostalo
+118,priloge: ostalo
+119,priloge: krompir
+120,sirove jedi
+121,priloge: ostalo
+122,predjedi: tople
+123,priloge: ostalo
+124,priloge: ostalo
+125,priloge: ostalo
+126,priloge: ostalo
+127,napitki: alkoholni
+128,sirove jedi
+129,sirove jedi
+130,testenine
+131,testenine
+132,testenine
+133,testenine
+134,testenine
+135,testenine
+136,testenine
+137,testenine
+138,testenine
+139,testenine
+140,testenine
+141,sladice: ostalo
+142,testenine
+143,testenine
+144,testenine
+145,testenine
+146,testenine
+147,testenine
+148,testenine
+149,testenine
+150,juhe in zakuhe: jušne zakuhe
+151,juhe in zakuhe: jušne zakuhe
+152,testenine
+153,kruh
+155,kruh
+156,kruh
+157,kruh
+158,kruh
+159,kruh
+160,kruh
+161,juhe in zakuhe: jušne zakuhe
+162,prikuhe
+163,prikuhe
+164,juhe in zakuhe: jušne zakuhe
+165,prikuhe
+166,prikuhe
+167,juhe in zakuhe: jušne zakuhe
+168,zelenjavne jedi
+169,zelenjavne jedi
+170,zelenjavne jedi
+171,zelenjavne jedi
+172,zelenjavne jedi
+173,zelenjavne jedi
+174,zelenjavne jedi
+175,zelenjavne jedi
+176,eksotika: ostale dežele
+177,eksotika: ostale dežele
+178,priloge: ostalo
+179,zelenjavne jedi
+180,zelenjavne jedi
+181,testenine
+182,zelenjavne jedi
+183,zelenjavne jedi
+184,zelenjavne jedi
+185,zelenjavne jedi
+186,zelenjavne jedi
+187,zelenjavne jedi
+188,zelenjavne jedi
+189,zelenjavne jedi
+190,zelenjavne jedi
+191,zelenjavne jedi
+192,zelenjavne jedi
+193,zelenjavne jedi
+194,zelenjavne jedi
+195,enolonènice
+196,zelenjavne jedi
+197,ozimnica: slani shranki
+198,ozimnica: slani shranki
+199,zelenjavne jedi
+200,zelenjavne jedi
+201,zelenjavne jedi
+202,gobje jedi
+203,gobje jedi
+204,gobje jedi
+205,gobje jedi
+206,gobje jedi
+207,gobje jedi
+208,gobje jedi
+209,gobje jedi
+210,gobje jedi
+211,gobje jedi
+212,gobje jedi
+213,gobje jedi
+214,gobje jedi
+215,morska hrana: školjke
+216,morska hrana: ostalo
+217,morska hrana: raki
+218,morska hrana: ribe
+219,morska hrana: školjke
+220,morska hrana: ribe
+221,morska hrana: ribe
+222,morska hrana: ribe
+223,morska hrana: ostalo
+224,morska hrana: ostalo
+225,morska hrana: raki
+226,morska hrana: ostalo
+227,morska hrana: ostalo
+228,morska hrana: ribe
+229,morska hrana: ribe
+230,morska hrana: ribe
+232,morska hrana: ostalo
+233,morska hrana: ribe
+234,morska hrana: školjke
+235,omake: tople
+236,omake: hladne
+237,omake: hladne
+238,omake: tople
+239,omake: tople
+240,omake: hladne
+241,omake: tople
+242,omake: hladne
+243,omake: hladne
+244,omake: hladne
+245,ostale jedi: polizdelki
+246,omake: tople
+247,omake: tople
+248,omake: tople
+249,omake: hladne
+250,omake: tople
+251,omake: hladne
+252,omake: tople
+253,solate
+254,solate
+255,solate
+256,solate
+257,solate
+258,solate
+259,solate
+260,solate
+261,solate
+262,solate
+263,solate
+264,solate
+265,solate
+266,solate
+267,solate
+268,solate
+269,solate
+270,solate
+272,solate
+273,solate
+274,solate
+275,solate
+276,solate
+277,solate
+278,solate
+279,solate
+280,solate
+281,sladice: kompoti
+282,sladice: potice
+283,sladice: pecivo
+284,napitki: brezalkoholni
+285,sladice: palaèinke
+286,sladice: pecivo
+287,sladice: ostalo
+288,sladice: pecivo
+290,sladice: sladoledi
+291,sladice: pecivo
+292,sladice: piškoti
+293,sladice: pecivo
+294,sladice: pecivo
+295,sladice: pecivo
+296,sladice: piškoti
+297,sladice: pecivo
+298,sladice: pecivo
+299,sladice: pecivo
+300,sladice: potice
+301,sladice: pecivo
+302,sladice: pecivo
+303,sladice: torte
+304,sladice: ostalo
+305,sladice: kompoti
+306,sladice: pecivo
+307,sladice: pecivo
+308,sladice: pecivo
+309,sladice: pecivo
+310,sladice: pecivo
+311,sladice: pecivo
+312,sladice: torte
+313,napitki: brezalkoholni
+314,sladice: sladoledi
+315,sladice: pudingi
+316,sladice: sladoledi
+317,sladice: ostalo
+318,sladice: pecivo
+319,sladice: ostalo
+320,sladice: piškoti
+321,sladice: ostalo
+322,sladice: pecivo
+323,sladice: pecivo
+324,sladice: pecivo
+325,sladice: pecivo
+326,sladice: pecivo
+327,sladice: pecivo
+328,sladice: pecivo
+329,sladice: pecivo
+330,sladice: ostalo
+331,napitki: brezalkoholni
+332,sladice: pecivo
+333,sladice: pecivo
+334,sladice: pecivo
+338,sladice: pecivo
+339,sladice: piškoti
+340,sladice: piškoti
+341,sladice: sladoledi
+342,sladice: pecivo
+343,sladice: pecivo
+344,sladice: torte
+345,ozimnica: kompoti
+346,sladice: pecivo
+347,sladice: pecivo
+348,sladice: torte
+349,sladice: piškoti
+350,sladice: ostalo
+351,sladice: piškoti
+352,sladice: pecivo
+353,sladice: torte
+354,napitki: brezalkoholni
+355,sladice: piškoti
+356,sladice: pecivo
+358,sladice: pecivo
+359,sladice: piškoti
+360,napitki: brezalkoholni
+361,sladice: piškoti
+362,sladice: pecivo
+363,sladice: pecivo
+364,sladice: pecivo
+365,sladice: piškoti
+366,sladice: pecivo
+367,sladice: ostalo
+368,sladice: sladoledi
+369,sladice: ostalo
+370,sladice: ostalo
+371,sladice: pecivo
+373,sladice: piškoti
+374,sladice: torte
+375,sladice: torte
+376,sladice: pecivo
+377,sladice: ostalo
+378,sladice: potice
+379,sladice: pecivo
+380,sladice: pecivo
+381,sladice: piškoti
+383,sladice: pecivo
+384,sladice: ostalo
+385,sladice: piškoti
+386,sladice: ostalo
+387,sladice: pecivo
+388,sladice: ostalo
+389,sladice: ostalo
+390,sladice: ostalo
+391,sladice: pecivo
+392,sladice: pecivo
+393,sladice: pecivo
+394,sladice: palaèinke
+395,sladice: pecivo
+396,sladice: pecivo
+397,sladice: pecivo
+398,sladice: ostalo
+399,sladice: pecivo
+400,sladice: torte

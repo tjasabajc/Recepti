@@ -1,0 +1,383 @@
+id,ime_recepta,vrsta_jedi,dan,mesec,leto,cas_priprave
+001,Hladna avokadova juha,juhe in zakuhe: hladne juhe,16,6,1998,ni doloèen
+002,Bolgarska hladna juha,juhe in zakuhe: hladne juhe,16,6,1998,ni doloèen
+003,Baklava,sladice: ostalo,7,7,2000,ni doloèen
+010,Buèna juha,juhe in zakuhe: zelenjavne juhe,16,6,1998,ni doloèen
+011,Èebulna juha,juhe in zakuhe: zelenjavne juhe,4,9,2000,ni doloèen
+012,Èesnova kremna juha,juhe in zakuhe: zelenjavne juhe,19,7,2000,ni doloèen
+013,Goveja juha,juhe in zakuhe: mesne juhe,16,6,1998,ni doloèen
+014,Hladna paradižnikova juha,juhe in zakuhe: hladne juhe,19,7,1999,ni doloèen
+015,Juha iz korenja; marelic in ingverja,juhe in zakuhe: zelenjavne juhe,7,7,1998,ni doloèen
+016,Juha kvak,juhe in zakuhe: mesne juhe,29,6,1998,ni doloèen
+017,Juha omame,juhe in zakuhe: ostale juhe,24,2,1999,ni doloèen
+018,Juha za vroèe dni,juhe in zakuhe: hladne juhe,19,7,1999,ni doloèen
+019,Kisla juha,juhe in zakuhe: mesne juhe,13,5,1999,ni doloèen
+020,Kislo sladka juha,juhe in zakuhe: mesne juhe,16,6,1998,ni doloèen
+021,Kremna juha,juhe in zakuhe: ostale juhe,16,6,1998,ni doloèen
+022,Poletna zelenjavna juha,enolonènice,19,6,1999,ni doloèen
+023,Prekmurski bograè,enolonènice,11,4,1999,ni doloèen
+024,Primorska enolonènica,enolonènice,24,2,1999,ni doloèen
+025,Rahlo pekoèa juha,juhe in zakuhe: ostale juhe,16,6,1998,ni doloèen
+026,Zdrobova juha,juhe in zakuhe: jušne zakuhe,25,10,2000,ni doloèen
+027,Avokado z rakci,predjedi: hladne,24,12,1999,ni doloèen
+028,Bosanski lonec,mesne jedi: mešano meso,30,10,1999,ni doloèen
+029,Carpacio,predjedi: hladne,26,6,1998,ni doloèen
+030,Chilli con carne,mesne jedi: sesekljano meso,20,12,1999,ni doloèen
+031,Èebularji,mesne jedi: sesekljano meso,5,8,1998,ni doloèen
+032,Èesnova govedina,mesne jedi: govedina,17,1,2000,ni doloèen
+033,Djuveè z rižem,mesne jedi: svinjina,13,4,1999,ni doloèen
+034,Dušena pišèanèja bedra,mesne jedi: perutnina,22,11,1998,ni doloèen
+035,Goveji golaž,mesne jedi: govedina,26,4,1999,ni doloèen
+036,Goveji zrezki z zelenjavo,mesne jedi: govedina,17,3,1999,ni doloèen
+037,Havajski ražnjièi,mesne jedi: govedina,17,5,1998,ni doloèen
+038,Hladna goveja peèenka,mesne jedi: govedina,20,12,1997,ni doloèen
+039,Jajènik z mesnimi ostanki,mesne jedi: ostalo,3,12,1998,ni doloèen
+040,Bakalar,predjedi: tople,13,4,1999,ni doloèen
+041,Datelji s sirom,predjedi: hladne,27,12,1999,ni doloèen
+042,Grapefruit's cocktail,napitki: alkoholni,24,6,1999,ni doloèen
+043,Jajca s curryjevo majonezo in riževo solato,jajène jedi: ostalo,28,12,1998,ni doloèen
+044,Liptaverski namaz,predjedi: hladne,16,2,2000,ni doloèen
+045,Nadevana jajca,jajène jedi: ostalo,3,3,1999,ni doloèen
+046,Nadevane olive,predjedi: tople,7,8,2000,ni doloèen
+047,Nadevani paradižniki,predjedi: tople,3,3,1999,ni doloèen
+048,Okus po kumaricah in jajcih,zelenjavne jedi,27,9,1999,ni doloèen
+049,Sirove kroglice,sirove jedi,27,12,1999,ni doloèen
+050,Skutina pašteta,predjedi: hladne,3,3,1999,ni doloèen
+052,Skutni njoki po gurmansko,predjedi: tople,30,3,1999,ni doloèen
+053,Sladka šunka,predjedi: hladne,20,12,1997,ni doloèen
+054,Slane palèke,predjedi: tople,12,12,1999,ni doloèen
+055,S tunino nadevana jajca,predjedi: hladne,3,3,1999,ni doloèen
+056,Škampov cocktail,predjedi: hladne,1,7,1999,ni doloèen
+057,Tunin namaz,predjedi: hladne,17,2,2000,ni doloèen
+058,Zavitki iz prekajenega lososa,predjedi: hladne,24,12,1999,ni doloèen
+059,Krompirjev narastek z mesom,mesne jedi: sesekljano meso,16,5,1999,ni doloèen
+060,Kvašena srna s smetano,mesne jedi: divjaèina,15,5,2000,ni doloèen
+061,Martinova gos ali raca,mesne jedi: perutnina,13,11,1998,ni doloèen
+062,Martinova gos ali raca,mesne jedi: perutnina,2,11,1999,ni doloèen
+063,Meso mlade košute,mesne jedi: divjaèina,26,6,1998,ni doloèen
+064,Mesni sir,mesne jedi: mešano meso,13,3,2000,ni doloèen
+065,Musaka,mesne jedi: sesekljano meso,2,10,2000,ni doloèen
+066,Nadevani kotleti,mesne jedi: svinjina,24,12,1999,ni doloèen
+067,Nadevan kunec,mesne jedi: ostalo,15,5,2000,ni doloèen
+068,Nadevane teleèje prsi,mesne jedi: teletina,29,12,1998,ni doloèen
+069,Nadevane teleèje prsi,mesne jedi: teletina,28,12,1999,ni doloèen
+070,Omleta suffle po koprsko,jajène jedi: omlete,7,6,1999,ni doloèen
+071,Obloženi topli kruhki,predjedi: tople,1,9,1999,ni doloèen
+072,Ocvrti zajec,mesne jedi: ostalo,24,12,1999,ni doloèen
+073,Peèen jagenjèek,mesne jedi: drobnica,22,4,1998,ni doloèen
+074,Peèen zajec,mesne jedi: ostalo,26,6,1998,ni doloèen
+075,Peèena puranova ali pišèanèja prsa,mesne jedi: perutnina,24,12,1999,ni doloèen
+076,Peèena teleèja kraèa,mesne jedi: teletina,28,12,1999,ni doloèen
+077,Pišèanec po kitajsko,mesne jedi: perutnina,6,11,1999,ni doloèen
+078,Pišèanec v kokosu,mesne jedi: perutnina,1,2,2000,ni doloèen
+079,Pišèanec v omaki,mesne jedi: perutnina,3,5,2000,ni doloèen
+080,Podvarak svinina z zeljem,mesne jedi: svinjina,22,11,1998,ni doloèen
+081,Polpeti - sesekljani zrezki,mesne jedi: sesekljano meso,25,1,1999,ni doloèen
+082,Sesekljan polpet s skuto,mesne jedi: sesekljano meso,11,7,2000,ni doloèen
+083,Popeèeni košèki mesa,mesne jedi: ostalo,20,12,1997,ni doloèen
+084,Poprov zrezek,mesne jedi: govedina,22,11,1999,ni doloèen
+085,Srnin golaž,mesne jedi: divjaèina,2,6,2000,ni doloèen
+086,Srnin hrbet v lovski omaki,mesne jedi: divjaèina,24,9,1998,ni doloèen
+087,Svinjina s pivom,mesne jedi: svinjina,22,4,1998,30 minut
+088,Svinjske zarebrnice z jabolki in smetano,mesne jedi: svinjina,29,12,1998,ni doloèen
+089,Svinjski file v mrežici,mesne jedi: svinjina,24,1,2000,ni doloèen
+090,Svinjski zrezki v omaki,mesne jedi: svinjina,17,3,1999,ni doloèen
+091,Šunka v testu,mesne jedi: svinjina,26,6,1998,ni doloèen
+092,Tatarski biftek,mesne jedi: govedina,14,12,1998,ni doloèen
+093,Teleèja kraèa,mesne jedi: teletina,26,9,2000,ni doloèen
+094,Zagrebški zrezki,mesne jedi: svinjina,18,12,1998,ni doloèen
+095,Zdrobovi zrezki,mesne jedi: sesekljano meso,25,1,1999,ni doloèen
+096,Golobice na žaru,gobje jedi,26,7,1999,ni doloèen
+097,Kebabe,žar,16,6,1998,ni doloèen
+098,Ledvice po korejsko,žar,11,10,1999,ni doloèen
+099,Nabodena jetra,žar,16,6,1998,ni doloèen
+100,Radiè na žaru,žar,16,6,1998,ni doloèen
+101,Zrezki na žaru,žar,26,7,1999,ni doloèen
+102,Omleta iz buèk,jajène jedi: omlete,20,12,1997,ni doloèen
+103,Ajdovi zvitki,priloge: ostalo,30,1,1999,ni doloèen
+104,Ajdovi žganci s krompirjem,priloge: ostalo,30,1,1999,ni doloèen
+105,Burek,priloge: ostalo,21,10,1999,ni doloèen
+106,Cvetaèa s kislo smetano,priloge: ostalo,30,3,1999,ni doloèen
+107,Dolma,priloge: ostalo,21,6,2000,ni doloèen
+108,Gluhi štruklji po gorenjsko,priloge: ostalo,1,12,1998,ni doloèen
+109,Gravèe na tavèe,priloge: ostalo,2,10,2000,ni doloèen
+110,Kitajski spomladanski zvitki,eksotika: Kitajska,22,3,1999,ni doloèen
+111,Koruzni poljubèki,priloge: ostalo,11,8,1999,ni doloèen
+113,Krompir iz mikrovalovne peèice,priloge: krompir,1,12,1998,ni doloèen
+114,Krompir za gobarje,priloge: krompir,11,10,1999,ni doloèen
+115,Kruhovi cmoki,priloge: cmoki,13,10,1998,ni doloèen
+116,Kuhano vino,napitki: alkoholni,21,2,2000,ni doloèen
+117,Palaèinke po kranjsko,priloge: ostalo,30,1,1999,ni doloèen
+118,Pasticio iz polente in klobas,priloge: ostalo,27,1,1999,ni doloèen
+119,Peèen krompir,priloge: krompir,22,4,1998,ni doloèen
+120,Peèen sir,sirove jedi,27,12,1999,ni doloèen
+121,Pire iz jajèevcev,priloge: ostalo,22,11,1999,ni doloèen
+122,Polnjene lune,predjedi: tople,11,10,1999,ni doloèen
+123,Popeèena polenta,priloge: ostalo,27,1,1999,ni doloèen
+124,Por kot priloga,priloge: ostalo,23,11,1998,ni doloèen
+125,Prebranac,priloge: ostalo,3,12,1998,ni doloèen
+126,Priloga za vse,priloge: ostalo,5,9,1999,ni doloèen
+127,Sangria po moje,napitki: alkoholni,7,8,2000,ni doloèen
+128,Sirov burek,sirove jedi,22,10,2000,ni doloèen
+129,Sirov fondue,sirove jedi,1,12,1998,ni doloèen
+130,Gratinirane testenine,testenine,24,1,2000,ni doloèen
+131,Krompirjevi njoki,testenine,26,6,1998,ni doloèen
+132,Koushari,testenine,19,4,2000,ni doloèen
+133,Lazanja,testenine,24,11,1998,ni doloèen
+134,Lazanja s špinaèo in skuto,testenine,29,12,1998,ni doloèen
+135,Mesni njoki,testenine,26,6,1998,ni doloèen
+136,Mlinci,testenine,2,11,1999,ni doloèen
+137,Njoki,testenine,9,1,1998,ni doloèen
+138,Njoki z gorgonzolo,testenine,24,6,1999,ni doloèen
+139,Pašta s paradižnikom in skuto,testenine,22,4,1998,ni doloèen
+140,Ravioli z gorgonzolo,testenine,5,4,1998,ni doloèen
+141,Slivovi cmoki,sladice: ostalo,24,9,1998,60 minut
+142,Široki rezanci z brokolijem,testenine,21,9,2000,ni doloèen
+143,Špageti - ala Brenèo,testenine,26,9,2000,ni doloèen
+144,Špageti - ala Maja,testenine,22,2,1999,ni doloèen
+145,Špageti s paradižnikom,testenine,21,3,2000,ni doloèen
+146,Testenine ala carbonara,testenine,5,2,2000,ni doloèen
+147,Testenine s tuno,testenine,6,11,1999,ni doloèen
+148,Testenine z bešamelom,testenine,16,7,1998,ni doloèen
+149,Zdrobove kocke za juho,testenine,25,1,1999,ni doloèen
+150,Zdrobove kocke za juho,juhe in zakuhe: jušne zakuhe,25,1,1999,ni doloèen
+151,Zdrobovi cmoki,juhe in zakuhe: jušne zakuhe,1,7,1999,ni doloèen
+152,Zdrobovi njoki,testenine,26,6,1998,ni doloèen
+153,Francoski rogljièki,kruh,26,6,1998,ni doloèen
+155,Klasièna Pizza,kruh,3,7,1998,ni doloèen
+156,Ovseni kruh,kruh,25,10,2000,ni doloèen
+157,Polržen kruh,kruh,29,11,1999,ni doloèen
+158,Polržen kruh s suhim sadjem,kruh,26,4,1999,ni doloèen
+159,Pšeniène tortilje,kruh,30,3,1999,ni doloèen
+160,Skavtski kruhki,kruh,26,4,1999,ni doloèen
+161,Biskvitni vložek,juhe in zakuhe: jušne zakuhe,27,1,2000,ni doloèen
+162,Dušeno rdeèe zelje,prikuhe,2,11,1999,ni doloèen
+163,Jernejeve dušene buèke,prikuhe,17,3,1999,ni doloèen
+164,Jetrni cmoèki,juhe in zakuhe: jušne zakuhe,27,1,2000,ni doloèen
+165,Leèa v omaki,prikuhe,22,4,1998,ni doloèen
+166,Rumena buèa,prikuhe,7,7,1998,ni doloèen
+167,Zdrobovi žlièniki,juhe in zakuhe: jušne zakuhe,11,7,2000,ni doloèen
+168,Sezona belušev,zelenjavne jedi,22,4,1998,ni doloèen
+169,Beluši po milansko,zelenjavne jedi,10,6,1999,ni doloèen
+170,Beluši po poljsko,zelenjavne jedi,29,12,1998,ni doloèen
+171,Blitvine polpete,zelenjavne jedi,1,9,1999,ni doloèen
+172,Brstièni ohrovt v omaki,zelenjavne jedi,26,4,1999,ni doloèen
+173,Buèna omleta,zelenjavne jedi,11,8,1999,ni doloèen
+174,Dušena blitva,zelenjavne jedi,8,2,1999,ni doloèen
+175,Dušene buèe s smetano,zelenjavne jedi,10,6,1999,ni doloèen
+176,Egiptovski falafel,eksotika: ostale dežele,22,11,1998,ni doloèen
+177,Falafel,eksotika: ostale dežele,19,4,2000,ni doloèen
+178,Grahov pire,priloge: ostalo,11,7,2000,ni doloèen
+179,Jajèna jed z zelenjavo,zelenjavne jedi,7,6,1999,ni doloèen
+180,Regrat po kraljevsko,zelenjavne jedi,12,3,1998,ni doloèen
+181,Lasagna z malancani,testenine,1,8,2000,ni doloèen
+182,Loparnica,zelenjavne jedi,15,2,2000,ni doloèen
+183,Malancani po moje,zelenjavne jedi,22,11,1999,ni doloèen
+184,Nadevane buèke,zelenjavne jedi,20,7,2000,ni doloèen
+185,Ocvrte nadevane paprike,zelenjavne jedi,27,12,1999,ni doloèen
+186,Ocvrti beluši,zelenjavne jedi,19,6,1999,ni doloèen
+187,Ohrovtovi žlièniki,zelenjavne jedi,26,1,1999,ni doloèen
+188,Polnjene artièoke,zelenjavne jedi,13,3,2000,ni doloèen
+189,Polpetki iz buèk,zelenjavne jedi,7,7,1998,ni doloèen
+190,Porov narastek,zelenjavne jedi,1,7,1999,ni doloèen
+191,Pozejdonova cvetaèa,zelenjavne jedi,29,6,1998,ni doloèen
+192,Ragu s stroènicami,zelenjavne jedi,26,11,1998,ni doloèen
+193,Sarma,zelenjavne jedi,21,2,2000,ni doloèen
+194,Sladko dušeno zelje z obranimi suhimi kostmi,zelenjavne jedi,3,5,2000,ni doloèen
+195,Šara,enolonènice,11,10,2000,ni doloèen
+196,Špinaèni timbale,zelenjavne jedi,28,12,1998,ni doloèen
+197,Vloženi malancani,ozimnica: slani shranki,6,11,1999,ni doloèen
+198,Vloženi malancani,ozimnica: slani shranki,5,4,2000,ni doloèen
+199,Zelenjavna gibanica,zelenjavne jedi,15,3,2000,ni doloèen
+200,Zelenjavna ponev,zelenjavne jedi,26,7,1999,ni doloèen
+201,Zelenjavni zvitki,zelenjavne jedi,14,1,1998,ni doloèen
+202,Èebula kralja Matjaža,gobje jedi,29,6,1998,ni doloèen
+203,Gobe na žaru,gobje jedi,22,4,1998,ni doloèen
+204,Gobji narastek,gobje jedi,16,9,1999,ni doloèen
+205,Gobji sendviè,gobje jedi,21,3,2000,ni doloèen
+206,Gobove bombice,gobje jedi,11,8,1999,ni doloèen
+207,Gobe s sirom,gobje jedi,16,9,1999,ni doloèen
+208,Hladne gobe,gobje jedi,29,6,1998,ni doloèen
+209,Mavrahi z jajci,gobje jedi,22,4,1998,ni doloèen
+210,Omleta z gobami,gobje jedi,16,9,1999,ni doloèen
+211,Peèene nadevane gobe na ohrovtovih listih,gobje jedi,16,9,1999,ni doloèen
+212,Polnjene golobice,gobje jedi,29,6,1998,ni doloèen
+213,Polnjeni šampinjoni,gobje jedi,7,7,1998,ni doloèen
+214,Polpetki iz šampinjonov,gobje jedi,7,7,1998,ni doloèen
+215,Gratinirane školjke,morska hrana: školjke,27,12,1999,ni doloèen
+216,Hobotnica v solati,morska hrana: ostalo,13,11,1998,ni doloèen
+217,Koktejl iz škampovih repkov,morska hrana: raki,1,9,1998,ni doloèen
+218,Kuhana riba,morska hrana: ribe,6,4,1998,ni doloèen
+219,Kapitanove školjke,morska hrana: školjke,22,7,1999,ni doloèen
+220,Lososovi zrezki,morska hrana: ribe,20,12,1997,ni doloèen
+221,Lososovi zrezki s sadjem,morska hrana: ribe,28,12,1999,ni doloèen
+222,Marinirane ribe,morska hrana: ribe,26,7,1999,ni doloèen
+223,Morska èrna rižota,morska hrana: ostalo,1,9,1998,ni doloèen
+224,Morski sadeži v solati,morska hrana: ostalo,1,12,1998,ni doloèen
+225,Ocvrti škampovi repki,morska hrana: raki,20,12,1997,ni doloèen
+226,Paella,morska hrana: ostalo,26,6,1998,ni doloèen
+227,Polnjeni lignji,morska hrana: ostalo,25,12,1998,ni doloèen
+228,Ribji zrezki,morska hrana: ribe,22,7,1999,ni doloèen
+229,Rusli,morska hrana: ribe,7,8,2000,ni doloèen
+230,Som po donavsko,morska hrana: ribe,5,7,2000,ni doloèen
+232,Široki rezanci z morskimi sadeži,morska hrana: ostalo,22,11,1998,ni doloèen
+233,Tunina v pivskem testu,morska hrana: ribe,17,5,1998,ni doloèen
+234,Zvite rože,morska hrana: školjke,20,12,1997,ni doloèen
+235,Ameriška sirova omaka,omake: tople,24,1,1999,ni doloèen
+236,Èesnova omaka,omake: hladne,15,4,1999,ni doloèen
+237,Èesnova omaka,omake: hladne,15,4,1999,ni doloèen
+238,Drobnjakova omaka,omake: tople,17,1,2000,ni doloèen
+239,Gobanova omaka,omake: tople,5,9,1999,ni doloèen
+240,Jabolèni hren,omake: hladne,17,1,2000,ni doloèen
+241,Kumarièna omaka s krompirjem,omake: tople,13,1,1998,ni doloèen
+242,Majoneza,omake: hladne,20,12,1997,ni doloèen
+243,Majoneza,omake: hladne,20,12,1997,ni doloèen
+244,Mutabal,omake: hladne,26,6,1998,ni doloèen
+245,Namaz iz gorgonzole,ostale jedi: polizdelki,14,2,1999,ni doloèen
+246,Omaka iz buèk,omake: tople,7,7,1998,ni doloèen
+247,Omaka iz svežih sliv,omake: tople,7,7,1998,ni doloèen
+248,Paradižnikova omaka za špagete,omake: tople,30,3,1999,ni doloèen
+249,Salsa,omake: hladne,25,1,1999,ni doloèen
+250,Sirova omaka,omake: tople,24,1,1999,ni doloèen
+251,Smetanov hren,omake: hladne,17,1,2000,ni doloèen
+252,Zelenjavna omaka za špagete,omake: tople,26,11,1998,ni doloèen
+253,Ajvar,solate,1,8,2000,ni doloèen
+254,Ameriška zeljna solata,solate,30,3,1999,ni doloèen
+255,Božanska solata,solate,19,7,1999,ni doloèen
+256,Èebula v solati,solate,19,7,1999,ni doloèen
+257,Eksotièna solata,solate,19,6,1999,ni doloèen
+258,Francoska solata,solate,9,3,1999,ni doloèen
+259,Hladna krompirjeva solata,solate,20,12,1999,ni doloèen
+260,Kraljevska solata,solate,11,7,2000,ni doloèen
+261,Kumarièna solata z jogurtom,solate,7,6,1999,ni doloèen
+262,Madžarska solata s fižolom,solate,4,9,2000,ni doloèen
+263,Osvežilna solata,solate,5,8,1998,ni doloèen
+264,Paradižnikova solata z mozarela sirom,solate,22,5,1998,ni doloèen
+265,Ravioli v solati,solate,22,5,1998,ni doloèen
+266,Riž v solati,solate,9,3,1999,ni doloèen
+267,Solata iz jajèevcev,solate,23,11,1998,ni doloèen
+268,Solata iz kisle repe,solate,22,5,1998,ni doloèen
+269,Solata Karakas,solate,15,3,2000,ni doloèen
+270,Solata Piki,solate,24,2,1999,ni doloèen
+272,Solata s sirom,solate,22,5,1998,ni doloèen
+273,Solata strelcev,solate,22,5,1998,ni doloèen
+274,Solata z govedino,solate,17,3,1999,ni doloèen
+275,Solata za angele,solate,22,5,1998,ni doloèen
+276,Šobska solata,solate,6,4,2000,ni doloèen
+277,Topla solata s pišèanèjimi jetrci,solate,28,12,1998,ni doloèen
+278,Vitlof v solati,solate,20,12,1997,ni doloèen
+279,Zelena v solati z majonezo,solate,9,3,1999,ni doloèen
+280,Zimska solata,solate,9,3,1999,ni doloèen
+281,Afroditina hruška,sladice: kompoti,22,6,1998,ni doloèen
+282,Ajdova potica,sladice: potice,23,12,1998,ni doloèen
+283,Ajdov trijet,sladice: pecivo,30,1,1999,ni doloèen
+284,Ameriška limonada,napitki: brezalkoholni,22,6,1998,ni doloèen
+285,Ameriške palaèinke,sladice: palaèinke,19,6,2000,ni doloèen
+286,Ameriški krofki,sladice: pecivo,10,8,1998,ni doloèen
+287,Bajadere,sladice: ostalo,22,3,1999,ni doloèen
+288,Baklava,sladice: pecivo,22,2,1999,ni doloèen
+290,Banana split,sladice: sladoledi,22,6,1998,ni doloèen
+291,Bananov kruh,sladice: pecivo,29,12,1999,ni doloèen
+292,Barbine breskvice,sladice: piškoti,26,6,1998,ni doloèen
+293,Bela pita,sladice: pecivo,6,11,1999,ni doloèen
+294,Beljakov kolaè,sladice: pecivo,12,7,1999,ni doloèen
+295,Berlinske rezine,sladice: pecivo,3,5,2000,ni doloèen
+296,Bio rogljièki,sladice: piškoti,1,2,2000,ni doloèen
+297,Biskvit,sladice: pecivo,1,2,2000,ni doloèen
+298,Biskvit s kislo smetano,sladice: pecivo,22,11,1998,ni doloèen
+299,Biskvit s skuto in kislo smetano,sladice: pecivo,26,10,1999,ni doloèen
+300,Biskvitna potica,sladice: potice,21,3,2000,ni doloèen
+301,Blejska grmada,sladice: pecivo,29,3,2000,60 minut
+302,Blejske kremne rezine,sladice: pecivo,6,4,2000,ni doloèen
+303,Božièna torta,sladice: torte,29,12,1998,ni doloèen
+304,Breskve na žaru,sladice: ostalo,24,6,1999,ni doloèen
+305,Brezalkoholna bovla,sladice: kompoti,16,6,1998,ni doloèen
+306,Brizgano pecivo,sladice: pecivo,29,11,1999,ni doloèen
+307,Brizgano pecivo,sladice: pecivo,29,11,1999,ni doloèen
+308,Coca cola rezine,sladice: pecivo,20,12,1999,ni doloèen
+309,Èešnjeva pita,sladice: pecivo,20,7,2000,ni doloèen
+310,Èešnjeve rezine,sladice: pecivo,22,5,1998,ni doloèen
+311,Èokoladna nebesa,sladice: pecivo,24,2,1999,ni doloèen
+312,Èokoladna torta,sladice: torte,22,4,1998,ni doloèen
+313,Èokoladni shake,napitki: brezalkoholni,28,8,1999,ni doloèen
+314,Èokoladni sladoled,sladice: sladoledi,1,9,1998,ni doloèen
+315,Diplomatski puding,sladice: pudingi,21,9,2000,ni doloèen
+316,Domaèa kasata,sladice: sladoledi,19,7,1999,ni doloèen
+317,Eksotièna bajadera,sladice: ostalo,24,2,1999,ni doloèen
+318,Fernandelni,sladice: pecivo,17,2,2000,ni doloèen
+319,Flambirano sadje,sladice: ostalo,22,6,1998,ni doloèen
+320,Florentiner,sladice: piškoti,21,12,1998,ni doloèen
+321,Frapirane hruške,sladice: ostalo,23,11,1998,ni doloèen
+322,Germknoedel,sladice: pecivo,21,12,1998,ni doloèen
+323,Halva,sladice: pecivo,1,12,1998,ni doloèen
+324,Indijanèki,sladice: pecivo,13,10,1999,ni doloèen
+325,Indijanèki,sladice: pecivo,11,8,1999,ni doloèen
+326,Jabolène kremšnite,sladice: pecivo,30,10,1999,ni doloèen
+327,Jabolèni kolaè,sladice: pecivo,14,11,1999,ni doloèen
+328,Jabolèni kolaè z rumovo smetano,sladice: pecivo,25,12,1998,ni doloèen
+329,Jaffa pecivo,sladice: pecivo,26,1,1998,ni doloèen
+330,Jagode v kozarcu,sladice: ostalo,16,6,1999,ni doloèen
+331,Jagodov napitek,napitki: brezalkoholni,19,6,1999,ni doloèen
+332,Ježki,sladice: pecivo,22,11,1998,ni doloèen
+333,Jogurtove miške,sladice: pecivo,8,2,1999,ni doloèen
+334,Jogurtovo testo,sladice: pecivo,13,10,1998,ni doloèen
+338,Kavne rezine,sladice: pecivo,7,8,1998,ni doloèen
+339,Kavni trikotniki,sladice: piškoti,21,12,1998,ni doloèen
+340,Keksi,sladice: piškoti,5,3,2000,ni doloèen
+341,Kokosov sladoled,sladice: sladoledi,22,6,1998,ni doloèen
+342,Kokosove rezine,sladice: pecivo,30,10,1999,ni doloèen
+343,Kokosovi mafni,sladice: pecivo,1,2,2000,ni doloèen
+344,Kolaè s sadjem (brez tehtnice),sladice: torte,7,7,1998,ni doloèen
+345,Kompotov puding,ozimnica: kompoti,26,10,1999,ni doloèen
+346,Korenèkova halva,sladice: pecivo,1,12,1998,ni doloèen
+347,Koruzni peèenjak,sladice: pecivo,27,1,1999,ni doloèen
+348,Krompirjeva torta,sladice: torte,13,3,2000,ni doloèen
+349,Kraljeve rezine,sladice: piškoti,15,3,2000,ni doloèen
+350,Krhki flancati,sladice: ostalo,8,2,1999,ni doloèen
+351,Kroglice s pomaranèami,sladice: piškoti,24,1,2000,ni doloèen
+352,Kruhova pita,sladice: pecivo,19,5,2000,ni doloèen
+353,Kvasenica s skuto in orehi,sladice: torte,24,11,1998,ni doloèen
+354,Ledeni èaj,napitki: brezalkoholni,16,7,1998,ni doloèen
+355,Lešnikovi piškoti,sladice: piškoti,21,12,1998,ni doloèen
+356,Limonini kolaèki,sladice: pecivo,1,11,2000,ni doloèen
+358,Makove rezine,sladice: pecivo,29,12,1998,ni doloèen
+359,Mandeljev nougat,sladice: piškoti,22,4,1998,ni doloèen
+360,Marelièna pena,napitki: brezalkoholni,18,6,1999,ni doloèen
+361,Marcipanovi kruhki,sladice: piškoti,27,1,2000,ni doloèen
+362,Marmorni kolaè,sladice: pecivo,11,7,2000,ni doloèen
+363,Maslene kocke,sladice: pecivo,3,4,2000,ni doloèen
+364,Medena rolada,sladice: pecivo,29,11,1999,ni doloèen
+365,Medenjaki,sladice: piškoti,22,3,1999,ni doloèen
+366,Mince pies,sladice: pecivo,24,11,1998,ni doloèen
+367,Munchmallow,sladice: ostalo,12,12,1999,ni doloèen
+368,Ocvrti sladoled,sladice: sladoledi,7,8,1998,ni doloèen
+369,Ocvrto bezgovo cvetje,sladice: ostalo,9,6,1999,ni doloèen
+370,Orehova klobasa,sladice: ostalo,29,12,1999,ni doloèen
+371,Orehova pita,sladice: pecivo,28,8,1999,ni doloèen
+373,Orehovi rogljièki,sladice: piškoti,7,1,1998,ni doloèen
+374,Orehova torta,sladice: torte,14,11,1999,ni doloèen
+375,Panama torta,sladice: torte,1,2,2000,ni doloèen
+376,Pariške rože,sladice: pecivo,5,4,2000,ni doloèen
+377,Peèene banane,sladice: ostalo,29,11,1999,ni doloèen
+378,Pehtranova potica,sladice: potice,24,12,1999,180 minut
+379,Pešèeni kolaè,sladice: pecivo,29,12,1999,ni doloèen
+380,Pijana nevesta,sladice: pecivo,12,7,1999,60 minut
+381,Piškoti z makom,sladice: piškoti,21,12,1998,ni doloèen
+383,Peèene banane,sladice: pecivo,22,7,1999,ni doloèen
+384,Pomaranèna marmelada,sladice: ostalo,6,4,2000,ni doloèen
+385,Ponarejene breskve,sladice: piškoti,26,6,1998,ni doloèen
+386,Prekmurska gibanica,sladice: ostalo,21,6,2000,ni doloèen
+387,Punèeve kocke,sladice: pecivo,7,8,2000,ni doloèen
+388,Pustni krofi,sladice: ostalo,8,2,1999,ni doloèen
+389,Rabarbarina marmelada,sladice: ostalo,6,4,2000,ni doloèen
+390,Rafaelo,sladice: ostalo,22,9,1999,ni doloèen
+391,Rafaelo kolaè,sladice: pecivo,30,10,1999,ni doloèen
+392,Rahla rolada,sladice: pecivo,16,9,1999,ni doloèen
+393,Rižev narastek,sladice: pecivo,2,6,2000,75 minut
+394,Riževe palaèinke,sladice: palaèinke,20,12,1997,ni doloèen
+395,Rolada,sladice: pecivo,29,11,1999,ni doloèen
+396,Rolada,sladice: pecivo,29,11,1999,ni doloèen
+397,Rožièev kolaè,sladice: pecivo,29,12,1999,ni doloèen
+398,Rumove kroglice,sladice: ostalo,7,6,1999,ni doloèen
+399,Rumovo pecivo,sladice: pecivo,19,4,1999,ni doloèen
+400,Jernejeva sadna torta s smetano,sladice: torte,8,2,2000,90 minut

@@ -1,0 +1,383 @@
+id,ime_recepta
+001,Hladna avokadova juha
+002,Bolgarska hladna juha
+003,Baklava
+010,Buèna juha
+011,Èebulna juha
+012,Èesnova kremna juha
+013,Goveja juha
+014,Hladna paradižnikova juha
+015,Juha iz korenja; marelic in ingverja
+016,Juha kvak
+017,Juha omame
+018,Juha za vroèe dni
+019,Kisla juha
+020,Kislo sladka juha
+021,Kremna juha
+022,Poletna zelenjavna juha
+023,Prekmurski bograè
+024,Primorska enolonènica
+025,Rahlo pekoèa juha
+026,Zdrobova juha
+027,Avokado z rakci
+028,Bosanski lonec
+029,Carpacio
+030,Chilli con carne
+031,Èebularji
+032,Èesnova govedina
+033,Djuveè z rižem
+034,Dušena pišèanèja bedra
+035,Goveji golaž
+036,Goveji zrezki z zelenjavo
+037,Havajski ražnjièi
+038,Hladna goveja peèenka
+039,Jajènik z mesnimi ostanki
+040,Bakalar
+041,Datelji s sirom
+042,Grapefruit's cocktail
+043,Jajca s curryjevo majonezo in riževo solato
+044,Liptaverski namaz
+045,Nadevana jajca
+046,Nadevane olive
+047,Nadevani paradižniki
+048,Okus po kumaricah in jajcih
+049,Sirove kroglice
+050,Skutina pašteta
+052,Skutni njoki po gurmansko
+053,Sladka šunka
+054,Slane palèke
+055,S tunino nadevana jajca
+056,Škampov cocktail
+057,Tunin namaz
+058,Zavitki iz prekajenega lososa
+059,Krompirjev narastek z mesom
+060,Kvašena srna s smetano
+061,Martinova gos ali raca
+062,Martinova gos ali raca
+063,Meso mlade košute
+064,Mesni sir
+065,Musaka
+066,Nadevani kotleti
+067,Nadevan kunec
+068,Nadevane teleèje prsi
+069,Nadevane teleèje prsi
+070,Omleta suffle po koprsko
+071,Obloženi topli kruhki
+072,Ocvrti zajec
+073,Peèen jagenjèek
+074,Peèen zajec
+075,Peèena puranova ali pišèanèja prsa
+076,Peèena teleèja kraèa
+077,Pišèanec po kitajsko
+078,Pišèanec v kokosu
+079,Pišèanec v omaki
+080,Podvarak svinina z zeljem
+081,Polpeti - sesekljani zrezki
+082,Sesekljan polpet s skuto
+083,Popeèeni košèki mesa
+084,Poprov zrezek
+085,Srnin golaž
+086,Srnin hrbet v lovski omaki
+087,Svinjina s pivom
+088,Svinjske zarebrnice z jabolki in smetano
+089,Svinjski file v mrežici
+090,Svinjski zrezki v omaki
+091,Šunka v testu
+092,Tatarski biftek
+093,Teleèja kraèa
+094,Zagrebški zrezki
+095,Zdrobovi zrezki
+096,Golobice na žaru
+097,Kebabe
+098,Ledvice po korejsko
+099,Nabodena jetra
+100,Radiè na žaru
+101,Zrezki na žaru
+102,Omleta iz buèk
+103,Ajdovi zvitki
+104,Ajdovi žganci s krompirjem
+105,Burek
+106,Cvetaèa s kislo smetano
+107,Dolma
+108,Gluhi štruklji po gorenjsko
+109,Gravèe na tavèe
+110,Kitajski spomladanski zvitki
+111,Koruzni poljubèki
+113,Krompir iz mikrovalovne peèice
+114,Krompir za gobarje
+115,Kruhovi cmoki
+116,Kuhano vino
+117,Palaèinke po kranjsko
+118,Pasticio iz polente in klobas
+119,Peèen krompir
+120,Peèen sir
+121,Pire iz jajèevcev
+122,Polnjene lune
+123,Popeèena polenta
+124,Por kot priloga
+125,Prebranac
+126,Priloga za vse
+127,Sangria po moje
+128,Sirov burek
+129,Sirov fondue
+130,Gratinirane testenine
+131,Krompirjevi njoki
+132,Koushari
+133,Lazanja
+134,Lazanja s špinaèo in skuto
+135,Mesni njoki
+136,Mlinci
+137,Njoki
+138,Njoki z gorgonzolo
+139,Pašta s paradižnikom in skuto
+140,Ravioli z gorgonzolo
+141,Slivovi cmoki
+142,Široki rezanci z brokolijem
+143,Špageti - ala Brenèo
+144,Špageti - ala Maja
+145,Špageti s paradižnikom
+146,Testenine ala carbonara
+147,Testenine s tuno
+148,Testenine z bešamelom
+149,Zdrobove kocke za juho
+150,Zdrobove kocke za juho
+151,Zdrobovi cmoki
+152,Zdrobovi njoki
+153,Francoski rogljièki
+155,Klasièna Pizza
+156,Ovseni kruh
+157,Polržen kruh
+158,Polržen kruh s suhim sadjem
+159,Pšeniène tortilje
+160,Skavtski kruhki
+161,Biskvitni vložek
+162,Dušeno rdeèe zelje
+163,Jernejeve dušene buèke
+164,Jetrni cmoèki
+165,Leèa v omaki
+166,Rumena buèa
+167,Zdrobovi žlièniki
+168,Sezona belušev
+169,Beluši po milansko
+170,Beluši po poljsko
+171,Blitvine polpete
+172,Brstièni ohrovt v omaki
+173,Buèna omleta
+174,Dušena blitva
+175,Dušene buèe s smetano
+176,Egiptovski falafel
+177,Falafel
+178,Grahov pire
+179,Jajèna jed z zelenjavo
+180,Regrat po kraljevsko
+181,Lasagna z malancani
+182,Loparnica
+183,Malancani po moje
+184,Nadevane buèke
+185,Ocvrte nadevane paprike
+186,Ocvrti beluši
+187,Ohrovtovi žlièniki
+188,Polnjene artièoke
+189,Polpetki iz buèk
+190,Porov narastek
+191,Pozejdonova cvetaèa
+192,Ragu s stroènicami
+193,Sarma
+194,Sladko dušeno zelje z obranimi suhimi kostmi
+195,Šara
+196,Špinaèni timbale
+197,Vloženi malancani
+198,Vloženi malancani
+199,Zelenjavna gibanica
+200,Zelenjavna ponev
+201,Zelenjavni zvitki
+202,Èebula kralja Matjaža
+203,Gobe na žaru
+204,Gobji narastek
+205,Gobji sendviè
+206,Gobove bombice
+207,Gobe s sirom
+208,Hladne gobe
+209,Mavrahi z jajci
+210,Omleta z gobami
+211,Peèene nadevane gobe na ohrovtovih listih
+212,Polnjene golobice
+213,Polnjeni šampinjoni
+214,Polpetki iz šampinjonov
+215,Gratinirane školjke
+216,Hobotnica v solati
+217,Koktejl iz škampovih repkov
+218,Kuhana riba
+219,Kapitanove školjke
+220,Lososovi zrezki
+221,Lososovi zrezki s sadjem
+222,Marinirane ribe
+223,Morska èrna rižota
+224,Morski sadeži v solati
+225,Ocvrti škampovi repki
+226,Paella
+227,Polnjeni lignji
+228,Ribji zrezki
+229,Rusli
+230,Som po donavsko
+232,Široki rezanci z morskimi sadeži
+233,Tunina v pivskem testu
+234,Zvite rože
+235,Ameriška sirova omaka
+236,Èesnova omaka
+237,Èesnova omaka
+238,Drobnjakova omaka
+239,Gobanova omaka
+240,Jabolèni hren
+241,Kumarièna omaka s krompirjem
+242,Majoneza
+243,Majoneza
+244,Mutabal
+245,Namaz iz gorgonzole
+246,Omaka iz buèk
+247,Omaka iz svežih sliv
+248,Paradižnikova omaka za špagete
+249,Salsa
+250,Sirova omaka
+251,Smetanov hren
+252,Zelenjavna omaka za špagete
+253,Ajvar
+254,Ameriška zeljna solata
+255,Božanska solata
+256,Èebula v solati
+257,Eksotièna solata
+258,Francoska solata
+259,Hladna krompirjeva solata
+260,Kraljevska solata
+261,Kumarièna solata z jogurtom
+262,Madžarska solata s fižolom
+263,Osvežilna solata
+264,Paradižnikova solata z mozarela sirom
+265,Ravioli v solati
+266,Riž v solati
+267,Solata iz jajèevcev
+268,Solata iz kisle repe
+269,Solata Karakas
+270,Solata Piki
+272,Solata s sirom
+273,Solata strelcev
+274,Solata z govedino
+275,Solata za angele
+276,Šobska solata
+277,Topla solata s pišèanèjimi jetrci
+278,Vitlof v solati
+279,Zelena v solati z majonezo
+280,Zimska solata
+281,Afroditina hruška
+282,Ajdova potica
+283,Ajdov trijet
+284,Ameriška limonada
+285,Ameriške palaèinke
+286,Ameriški krofki
+287,Bajadere
+288,Baklava
+290,Banana split
+291,Bananov kruh
+292,Barbine breskvice
+293,Bela pita
+294,Beljakov kolaè
+295,Berlinske rezine
+296,Bio rogljièki
+297,Biskvit
+298,Biskvit s kislo smetano
+299,Biskvit s skuto in kislo smetano
+300,Biskvitna potica
+301,Blejska grmada
+302,Blejske kremne rezine
+303,Božièna torta
+304,Breskve na žaru
+305,Brezalkoholna bovla
+306,Brizgano pecivo
+307,Brizgano pecivo
+308,Coca cola rezine
+309,Èešnjeva pita
+310,Èešnjeve rezine
+311,Èokoladna nebesa
+312,Èokoladna torta
+313,Èokoladni shake
+314,Èokoladni sladoled
+315,Diplomatski puding
+316,Domaèa kasata
+317,Eksotièna bajadera
+318,Fernandelni
+319,Flambirano sadje
+320,Florentiner
+321,Frapirane hruške
+322,Germknoedel
+323,Halva
+324,Indijanèki
+325,Indijanèki
+326,Jabolène kremšnite
+327,Jabolèni kolaè
+328,Jabolèni kolaè z rumovo smetano
+329,Jaffa pecivo
+330,Jagode v kozarcu
+331,Jagodov napitek
+332,Ježki
+333,Jogurtove miške
+334,Jogurtovo testo
+338,Kavne rezine
+339,Kavni trikotniki
+340,Keksi
+341,Kokosov sladoled
+342,Kokosove rezine
+343,Kokosovi mafni
+344,Kolaè s sadjem (brez tehtnice)
+345,Kompotov puding
+346,Korenèkova halva
+347,Koruzni peèenjak
+348,Krompirjeva torta
+349,Kraljeve rezine
+350,Krhki flancati
+351,Kroglice s pomaranèami
+352,Kruhova pita
+353,Kvasenica s skuto in orehi
+354,Ledeni èaj
+355,Lešnikovi piškoti
+356,Limonini kolaèki
+358,Makove rezine
+359,Mandeljev nougat
+360,Marelièna pena
+361,Marcipanovi kruhki
+362,Marmorni kolaè
+363,Maslene kocke
+364,Medena rolada
+365,Medenjaki
+366,Mince pies
+367,Munchmallow
+368,Ocvrti sladoled
+369,Ocvrto bezgovo cvetje
+370,Orehova klobasa
+371,Orehova pita
+373,Orehovi rogljièki
+374,Orehova torta
+375,Panama torta
+376,Pariške rože
+377,Peèene banane
+378,Pehtranova potica
+379,Pešèeni kolaè
+380,Pijana nevesta
+381,Piškoti z makom
+383,Peèene banane
+384,Pomaranèna marmelada
+385,Ponarejene breskve
+386,Prekmurska gibanica
+387,Punèeve kocke
+388,Pustni krofi
+389,Rabarbarina marmelada
+390,Rafaelo
+391,Rafaelo kolaè
+392,Rahla rolada
+393,Rižev narastek
+394,Riževe palaèinke
+395,Rolada
+396,Rolada
+397,Rožièev kolaè
+398,Rumove kroglice
+399,Rumovo pecivo
+400,Jernejeva sadna torta s smetano
