@@ -1,7 +1,7 @@
 import csv
 import os
 import urllib
-import requests
+#import requests
 import sys
 
 def pripravi_imenik(ime_datoteke):
