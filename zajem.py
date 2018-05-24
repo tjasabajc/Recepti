@@ -2,11 +2,18 @@ import re
 import orodja
 #import requests
 
-def zajemi():
+def zajemi_recepte():
     for id in range(1, 401):
         osnovno = 'https://www.kulinarika.net/recepti/'
         naslov = ('{}{}'.format(osnovno, id))
         datoteka = 'Recepti/{:03}.html'.format(id)
+        orodja.shrani(naslov, datoteka)
+
+def zajemi_uporabnike():
+    for i in range(1, 10):
+        osnovno = 'https://www.kulinarika.net/uporabniki/seznam/?offset'
+        naslov = ('{}={}'.format(osnovno, (i-1)*20))
+        datoteka = 'Uporabniki/{:02}.html'.format(i)
         orodja.shrani(naslov, datoteka)
 
 
@@ -53,7 +60,8 @@ def izloci_podatke(imenik):
     return recepti
 
 # Zajemi se kliče samo enkrat, potem so html datoteke že v mapi in te funkcije ne potrebujemo več.
-# zajemi()
+# zajemi_recepte()
+# zajemi_uporabnike()
 
 
 recepti = izloci_podatke('Recepti/')
