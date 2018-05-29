@@ -1,7 +1,7 @@
 import csv
 import os
 import urllib
-# import requests
+import requests
 import sys
 
 def pripravi_imenik(ime_datoteke):
@@ -42,7 +42,7 @@ def datoteke(imenik):
 
 def zapisi_tabelo(slovarji, imena_polj, ime_datoteke):
     pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w') as csv_dat:
+    with open(ime_datoteke, 'w', encoding='utf-8') as csv_dat:
         writer = csv.DictWriter(csv_dat, fieldnames=imena_polj)
         writer.writeheader()
         for slovar in slovarji:
