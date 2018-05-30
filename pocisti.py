@@ -4,6 +4,7 @@ slovar = {
     'avokada' : 'avokado',
     #B
     'bazilike' : 'bazilika',
+    'buče' : 'buča',
     'bučk' : 'bučka',
     'bučke' : 'bučka',
     #C
@@ -11,28 +12,42 @@ slovar = {
     'čebuli' : 'čebula',
     'česna' : 'česen',
     'cimeta' : 'cimet',
+    #Č
+    'čokolade' : 'čokolada',
     #D
     'drobnjaka' : 'drobnjak',
+    'drobtin' : 'drobtine',
     #E
     #F
+    'feta' : 'sir',
+    'fete' : 'sir',
+    'fižola' : 'fižol',
     #G
     'gob' : 'gobe',
     'govedine' : 'govedina',
+    'govejega' : 'govedina',
+    'gustina' : 'škrob',
     #H
+    'hrušk' : 'hruška',
+    'hruške' : 'hruška',
+    'hruškovega' : 'hruška',
     #I
     'ingverja' : 'ingver',
     #J
     'jajc' : 'jajca',
     'jajce' : 'jajca',
     'jajci' : 'jajca',
+    'jelenovega' : 'divjačina',
     'jogurta' : 'jogurt',
     #K
+    'kakava' : 'kakav',
     'kisa' : 'kis',
-    'kisle' : 'kisla',
     'kolerabe' : 'koleraba',
+    'korenčka' : 'korenje',
     'korenček' : 'korenje',
     'korenčke' : 'korenje',
     'korenja' : 'korenje',
+    'koruze' : 'koruza',
     'krompirji' : 'krompir',
     'krompirja' : 'krompir',
     'kruha' : 'kruh',
@@ -47,18 +62,23 @@ slovar = {
     'limonine' : 'limona',
     'limoninega' : 'limona',
     'lista' : 'list',
+    'listi' : 'list',
     'lovorja' : 'lovorjev',
+    'lovorjevi' : 'lovorjev',
     'lovorov' : 'lovorjev',
     'lovorova' : 'lovorjev',
     #M
+    'makaronov' : 'testenine',
     'mandljev' : 'mandlji',
     'marelic' : 'marelice',
+    'margarine' : 'margarina',
     'masla' : 'maslo',
     'mesa' : 'meso',
     'mleka' : 'mleko',
     'moke' : 'moka',
     #N
     #O
+    'oliv' : 'olive',
     'olja' : 'olje',
     'orehov' : 'orehi',
     'origana' : 'origano',
@@ -69,14 +89,18 @@ slovar = {
     'paradižnikov' : 'paradižnik',
     'paradižnikove' : 'paradižnik',
     'paradižnikovega' : 'paradižnik',
+    'permezana' : 'sir',
     'peteršilja' : 'peteršilj',
+    'pistacij' : 'pistacija',
     'piva' : 'pivo',
     'popra' : 'poper',
     'pora' : 'por',
     'porovo' : 'por',
+    'puranji' : 'perutnina',
     #R
     'rakcev' : 'rakci',
     'riža' : 'riž',
+    'rožmarina' : 'rožmarin',
     'ruma' : 'rum',
     'rumenjak' : 'jajca',
     'rumenjaka' : 'jajca',
@@ -94,19 +118,27 @@ slovar = {
     'šalotke' : 'šalotka',
     'šampinjini' : 'gobe',
     'šampinjonov' : 'gobe',
+    'šetraja' : 'šetraj',
     'špageti' : 'testenine',
     'špagetov' : 'testenine',
     #T
+    'testa' : 'testo',
     'testenin' : 'testenine',
     'timijana' : 'timijan',
+    'tuna' : 'ribe',
+    'tune' : 'ribe',
     #U
     #V
+    'vanilije' : 'vanilija',
     'vina' : 'vino',
     'vode' : 'voda',
     #Z
     'zdroba' : 'zdrob',
     'zelene' : 'zelena',
-    'zelja' : 'zelje'
+    'zelja' : 'zelje',
+    'zrezki' : 'meso',
+    #Ž
+    'želatine' : 'želatina'
     }
 
 brisi = [
@@ -120,6 +152,7 @@ brisi = [
     'beli',
     'belega',
     'brez',
+    'burbonske',
     #C
     'cel',
     'cela',
@@ -144,9 +177,12 @@ brisi = [
     'eno',
     'Eno',
     #F
+    'file',
+    'fileja',
     #G
     'glava',
     #H
+    'hokaido',
     #I    
     'in',
     'iz',
@@ -161,6 +197,9 @@ brisi = [
     #K
     'kg',
     'kg.',
+    'kisla',
+    'kisle',
+    'kislih',
     'kock',
     'kocka',
     'kocke',
@@ -168,6 +207,9 @@ brisi = [
     'količina',
     'kolobarčke',
     'kolobarje',
+    'konzerva',
+    'konzerve',
+    'konzervi',
     'korenino',
     'kos',
     'kose',
@@ -175,12 +217,15 @@ brisi = [
     'kosti',
     'košček',
     'koščke',
+    'kruhove',
+    'kruhovih',
     'kuhana',
     'kuhane',
     'kuhanega',
     'kuhanih',
     'kuhano',
     #L
+    'listnatega',
     'litrov',
     'lonček',
     'lupina',
@@ -188,9 +233,15 @@ brisi = [
     #M
     'majhen',
     'majhna',
+    'majhne',
+    'majhni',
     'malo',
     'manjša',
     'mehke',
+    'mehkih',
+    'mehiškega',
+    'mezga',
+    'mezge',
     'mlade',
     'mladega',
     'mladi',
@@ -217,6 +268,7 @@ brisi = [
     'narezano',
     'nariban',
     'naribana',
+    'naribane',
     'naribanega',
     'nekaj',
     'nemastnega',
@@ -230,18 +282,30 @@ brisi = [
     'olupljenih',
     'oprana',
     'osnove',
+    'ostra',
+    'ostre',
     'oz',
     #P
+    'pecilni',
+    'pecilnega',
     'pekoče',
     'pločevinka',
     'pločevinke',
     'po',
+    'polnozrnata',
+    'polnozrnate',
     'popečen',
     'popečenega',
+    'posip',
     'posipanje',
+    'posušena',
+    'posušene',
+    'posušenega',
     'potrebi',
     'prah',
     'prahu',
+    'praška',
+    'prašku',
     #R
     'razkoščičenih',
     'rdeč',
@@ -251,6 +315,7 @@ brisi = [
     'rezin',
     'rezina',
     'rezine',
+    'riževega',
     'rjavega',
     #S
     's',
@@ -274,12 +339,16 @@ brisi = [
     'stebla',
     'steblo',
     'stopljenega',
+    'stročjega',
     'strok',
     'stroka',
     'stroke',
     'stroki',
     'strtega',
     'svetlega',
+    'sveža',
+    'sveže',
+    'sveži',
     'svežega',
     'suh',
     'suha',
@@ -290,6 +359,7 @@ brisi = [
     'ščepec',
     #T
     'tenkega',
+    'temne',
     'temnega',
     'trd',
     'trdo',
@@ -317,6 +387,8 @@ brisi = [
     'z',
     'za',
     'začinko',
+    'zamrznjenega',
+    'zavitek',
     'zmlet',
     'zmleta',
     'zmlete',
@@ -383,20 +455,29 @@ def pocisti(sestavina):
 ##                                                    # (obema dodamo ID recepta?)
         elif 'list' in kljucna and 'lovorjev' in kljucna:
             k = 'lovorjev list'                     # DVE BESEDI!
-        if 'smetana' in kljucna:
-            if 'kisla' in kljucna:
-                k = 'kisla smetana'                 # DVE BESEDI!
-            elif 'sladka' in kljucna:
-                k = 'sladka smetana'                # DVE BESEDI!
+##        if 'smetana' in kljucna:
+##            if 'kisla' in kljucna:
+##                k = 'kisla smetana'                 # DVE BESEDI!
+##            elif 'sladka' in kljucna:
+##                k = 'sladka smetana'                # DVE BESEDI!
+        else:
+            k = sestavina + 'OSTANE : ' + str(kljucna) 
     else:
         k = sestavina + 'OSTANE : ' + str(kljucna)  
     return k
 
 #print(pocisti('močne jušne osnove ali vode z jušno kocko'))
 
-with open('kljucne_sestavine.txt','w') as g:
-    with open('CSV/sestavina_loceno.csv','r') as f:
+with open('kljucne_nove.txt','w', encoding='utf-8') as g:
+    with open('CSV/sestavina_popravljam_rocno.csv','r', encoding='utf-8') as f:
         for vrstica in f.readlines():
-            id, sestavina = vrstica.split(',')
-            g.write(str(pocisti(sestavina)) + ' <- - - - - - ' + sestavina + '\n')
+            if vrstica != '\n':
+                ime, sestavina = vrstica.split(',,')
+                g.write(str(pocisti(sestavina)) + ' <- - - - - - ' + sestavina + '\n')
+
+
+# TESTA?
+
+
+
 

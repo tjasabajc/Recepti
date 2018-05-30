@@ -20,7 +20,7 @@ def zajemi_uporabnike():
 def pocisti(recept,datoteka):
     podatki = recept.groupdict()
     podatki['id'] = str(datoteka)
-    podatki['ime_recepta'] = str(podatki['ime_recepta'])
+##    podatki['ime_recepta'] = str(podatki['ime_recepta'])
 ##    podatki['ime_uporabnika'] = str(podatki['ime_uporabnika'])
 ##    podatki['leto'] = int(podatki['leto'])
 ##    podatki['mesec'] = int(podatki['mesec'])
@@ -36,7 +36,7 @@ def pocisti(recept,datoteka):
     return podatki
 
 regex_recepta = re.compile(
-    r'<title>Recept: (?P<ime_recepta>(.*?))</title>.*?'
+##    r'<title>Recept: (?P<ime_recepta>(.*?))</title>.*?'
 ##    r"itemprop='author'>(?P<ime_uporabnika>(.*?))<.*?"
 ##    r"itemprop='datePublished'>(\d{1,2}).(\d{1,2}).(\d{4})</span.*?"
 ##    r"itemprop='datePublished'>(?P<dan>(\d{1,2})).(?P<mesec>(\d{1,2})).(?P<leto>(\d{4}))</span.*?"
@@ -65,7 +65,7 @@ def izloci_podatke(imenik):
 
 
 recepti = izloci_podatke('Recepti/')
-orodja.zapisi_tabelo(recepti, ['id','ime_recepta', 'sestavina'], 'CSV/sestavina.csv')
+orodja.zapisi_tabelo(recepti, ['id','.','sestavina'], 'CSV/sestavina_loceno.csv')
 
 vsebina1 = orodja.vsebina_datoteke('Recepti/20010.html')
 
