@@ -1,6 +1,6 @@
 import re
 import orodja
-#import requests
+import requests
 
 def zajemi_recepte():
     for id in range(20002, 20401):
@@ -19,7 +19,8 @@ def zajemi_uporabnike():
 def zajemi_ocene():
     with open('CSV/zajemi_ocene.csv','r') as f:
         for naslov in f.readlines():
-            id = naslov[-6:]
+            i = naslov.index('=')
+            id = naslov[i+1:i+6]
             print(id)
             print(naslov)
             datoteka = 'Ocene/{}.html'.format(str(id))
@@ -82,7 +83,7 @@ def izloci_podatke(imenik):
 # Zajemi se kliče samo enkrat, potem so html datoteke že v mapi in te funkcije ne potrebujemo več.
 # zajemi_recepte()
 # zajemi_uporabnike()
-zajemi_ocene()
+#zajemi_ocene()
 
 
 #recepti = izloci_podatke('Recepti/')
@@ -95,6 +96,12 @@ vsebina1 = orodja.vsebina_datoteke('Recepti/20010.html')
 
 for x in re.finditer(regex_recepta, vsebina1):
     print(x)
-
+def pripravi():
+    with open('CSV/zajemi_ocene.csv','r') as f:
+        for naslov in f.readlines():
+            print('orodja.shrani('+"'{}'".format(naslov)+', '+"'Ocene/{}.html'".format(naslov[-6:-1]) + ')')
+pripravi()
+    
+    
 # =================== K O N E C   D O K U M E N T A ============================
 #             print(potres.group('id'))
