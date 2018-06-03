@@ -4,6 +4,8 @@ slovar = {
     'avokada' : 'avokado',
     #B
     'bazilike' : 'bazilika',
+    'beljaki' : 'jajca',
+    'blitve' : 'blitva', 
     'buče' : 'buča',
     'bučk' : 'bučka',
     'bučke' : 'bučka',
@@ -24,6 +26,7 @@ slovar = {
     'fižola' : 'fižol',
     #G
     'gob' : 'gobe',
+    'gorgonzole' : 'sir',
     'govedine' : 'govedina',
     'govejega' : 'govedina',
     'gustina' : 'škrob',
@@ -34,15 +37,18 @@ slovar = {
     #I
     'ingverja' : 'ingver',
     #J
+    'jabolko' : 'jabolka',
     'jajc' : 'jajca',
     'jajce' : 'jajca',
     'jajci' : 'jajca',
+    'jajčni' : 'jajca',
     'jelenovega' : 'divjačina',
     'jogurta' : 'jogurt',
     #K
     'kakava' : 'kakav',
     'kisa' : 'kis',
     'kolerabe' : 'koleraba',
+    'kostanja' : 'kostanj',
     'korenčka' : 'korenje',
     'korenček' : 'korenje',
     'korenčke' : 'korenje',
@@ -50,6 +56,7 @@ slovar = {
     'koruze' : 'koruza',
     'krompirji' : 'krompir',
     'krompirja' : 'krompir',
+    'krompirjev' : 'krompir',
     'kruha' : 'kruh',
     'kumar' : 'kumara',
     'kumine' : 'kumina',
@@ -67,6 +74,7 @@ slovar = {
     'lovorjevi' : 'lovorjev',
     'lovorov' : 'lovorjev',
     'lovorova' : 'lovorjev',
+    'luštreka' : 'luštrek',
     #M
     'makaronov' : 'testenine',
     'mandljev' : 'mandlji',
@@ -82,20 +90,23 @@ slovar = {
     'olja' : 'olje',
     'orehov' : 'orehi',
     'origana' : 'origano',
+    'osliči' : 'ribe',
     #P
     'paprike' : 'paprika',
     'papriki' : 'paprika',
     'paradižnika' : 'paradižnik',
+    'paradižniki' : 'paradižnik',
     'paradižnikov' : 'paradižnik',
     'paradižnikove' : 'paradižnik',
     'paradižnikovega' : 'paradižnik',
-    'permezana' : 'sir',
+    'parmezana' : 'sir',
     'peteršilja' : 'peteršilj',
     'pistacij' : 'pistacija',
     'piva' : 'pivo',
     'popra' : 'poper',
     'pora' : 'por',
     'porovo' : 'por',
+    'pršuta' : 'svinjina',
     'puranji' : 'perutnina',
     #R
     'rakcev' : 'rakci',
@@ -109,11 +120,13 @@ slovar = {
     'rumenjakov' : 'jajca',
     #S
     'sira' : 'sir',
+    'skute' : 'skuta',
     'sladkorja' : 'sladkor',
     'smetane' : 'smetana',
     'soli' : 'sol',
     'svinine' : 'svinjina',
     'svinjine' : 'svinjina',
+    'svinjska' : 'svinjina',
     #Š
     'šalotke' : 'šalotka',
     'šampinjini' : 'gobe',
@@ -121,6 +134,7 @@ slovar = {
     'šetraja' : 'šetraj',
     'špageti' : 'testenine',
     'špagetov' : 'testenine',
+    'špargljev' : 'šparglji',
     #T
     'testa' : 'testo',
     'testenin' : 'testenine',
@@ -152,6 +166,7 @@ brisi = [
     'beli',
     'belega',
     'brez',
+    'bučno',
     'burbonske',
     #C
     'cel',
@@ -170,6 +185,9 @@ brisi = [
     'do',
     'dobro',
     'dobrega',
+    'domač',
+    'domača',
+    'domače',
     'drobno',
     #E
     'ena',
@@ -181,12 +199,14 @@ brisi = [
     'fileja',
     #G
     'glava',
+    'grobo',
     #H
     'hokaido',
     #I    
     'in',
     'iz',
     #J
+    'jabolčni',
     'je',
     'jedilna',
     'jedilne',
@@ -199,6 +219,7 @@ brisi = [
     'kg.',
     'kisla',
     'kisle',
+    'kislo',
     'kislih',
     'kock',
     'kocka',
@@ -217,6 +238,8 @@ brisi = [
     'kosti',
     'košček',
     'koščke',
+    'kotleta',
+    'kraškega',
     'kruhove',
     'kruhovih',
     'kuhana',
@@ -237,7 +260,10 @@ brisi = [
     'majhni',
     'malo',
     'manjša',
+    'manjše',
+    'manjši',
     'mehke',
+    'mehkega',
     'mehkih',
     'mehiškega',
     'mezga',
@@ -256,9 +282,10 @@ brisi = [
     #N
     'na',
     'namočenih',
+    'narezanega',
+    'nasekljanega',
     'nastrgana',
     'nastrgane',
-    'narezanega',
     'nastrganih',
     'narezan',
     'narezana',
@@ -272,14 +299,18 @@ brisi = [
     'naribanega',
     'nekaj',
     'nemastnega',
+    'nepasirane',
     #O
     'okusu',
+    'olivega',
     'olivno',
     'olivnega',
     'olupljen',
     'olupljena',
     'olupljene',
     'olupljenih',
+    'omaka',
+    'omake',
     'oprana',
     'osnove',
     'ostra',
@@ -306,6 +337,7 @@ brisi = [
     'prahu',
     'praška',
     'prašku',
+    'pšeničnega',
     #R
     'razkoščičenih',
     'rdeč',
@@ -334,7 +366,10 @@ brisi = [
     'sok',
     'soka',
     'span',
+    'srednja',
     'srednje',
+    'srednji',
+    'stepanje',
     'stepene',
     'stebla',
     'steblo',
@@ -344,32 +379,38 @@ brisi = [
     'stroka',
     'stroke',
     'stroki',
+    'strokov',
     'strtega',
+    'suh',
+    'suha',
+    'suhega',
+    'surovega',
     'svetlega',
     'sveža',
     'sveže',
     'sveži',
     'svežega',
-    'suh',
-    'suha',
-    'suhega',
-    'surovega',
     #Š
     'šcepec',
     'ščepec',
+    'šopek',
+    'šopka',
     #T
     'tenkega',
     'temne',
     'temnega',
+    'tip',
+    'tipa',
     'trd',
     'trdo',
     'tudi',
     #U
     #V
     'v',
+    'vejice',
     'velik',
     'velika',
-    'veliki'
+    'veliki',
     'velikih',
     'velike',
     'večja',
@@ -394,9 +435,11 @@ brisi = [
     'zmlete',
     'zmletih',
     'zrn',
+    'zrna',
     'zrnih',
     #Ž
     'želji',
+    'žička',
     'žlic',
     'žlica',
     'žlice'
@@ -437,13 +480,15 @@ def pocisti(sestavina):
     while [] in kljucna:
         kljucna.remove([])
     k = []
+    #print('Cistim tole : ', sestavina, 'zaenkrat imamo tole : ', kljucna)
     if len(kljucna) == 1:                         # and kljucna[0] not in slovar -
             #if kljucna[0] not in slovar.values():            #da vidimo, kaj je treba še popravit
             #    k = kljucna[0]
             if kljucna[0] in [
                 'govedina',
                 'svinjina',
-                'jagnjetina'
+                'jagnjetina',
+                'perutnina'
                 ]:
                 k = kljucna[0] + '\n' + 'meso'
             else:
