@@ -1,0 +1,385 @@
+﻿id,vrsta_jedi
+20002,sladice: torte
+20003,sladice: pecivo
+20004,sladice: torte
+20005,enolončnice
+20006,enolončnice
+20007,mesne jedi: perutnina
+20008,testenine
+20009,prikuhe
+20010,zelenjavne jedi
+20011,mesne jedi: divjačina
+20012,morska hrana: ribe
+20013,zelenjavne jedi
+20014,juhe in zakuhe: ostale juhe
+20015,mesne jedi: svinjina
+20016,morska hrana: ribe
+20017,enolončnice
+20018,morska hrana: ostalo
+20019,priloge: ostalo
+20020,kruh
+20021,juhe in zakuhe: zelenjavne juhe
+20022,enolončnice
+20023,sladice: pecivo
+20024,sladice: pecivo
+20025,zelenjavne jedi
+20026,sladice: pecivo
+20027,enolončnice
+20028,juhe in zakuhe: ostale juhe
+20029,sladice: piškoti
+20030,zelenjavne jedi
+20031,mesne jedi: perutnina
+20032,sladice: piškoti
+20033,sladice: torte
+20034,sladice: piškoti
+20035,mesne jedi: sesekljano meso
+20036,sladice: potice
+20037,ozimnica: sladki shranki
+20038,sladice: piškoti
+20039,sladice: pecivo
+20040,sladice: pecivo
+20041,predjedi: namazi
+20043,testenine
+20044,sladice: torte
+20045,priloge: krompir
+20046,sladice: pecivo
+20047,sladice: torte
+20048,priloge: ostalo
+20049,priloge: krompir
+20051,kruh
+20052,priloge: cmoki
+20053,kruh
+20054,mesne jedi: govedina
+20055,morska hrana: ribe
+20056,sladice: pudingi
+20057,sladice: torte
+20058,ozimnica: ostalo
+20059,ozimnica: ostalo
+20060,sladice: piškoti
+20061,sladice: pecivo
+20062,sladice: torte
+20063,sladice: pecivo
+20064,sladice: pecivo
+20065,zelenjavne jedi
+20066,napitki: alkoholni
+20067,sladice: torte
+20068,predjedi: tople
+20069,kruh
+20070,otroška hrana: otroci
+20071,sladice: pecivo
+20072,sladice: ostalo
+20073,sladice: torte
+20074,mesne jedi: sesekljano meso
+20075,testenine
+20076,kruh
+20077,zelenjavne jedi
+20078,testenine
+20079,ozimnica: pijače
+20080,sladice: pecivo
+20081,sladice: ostalo
+20082,morska hrana: ribe
+20083,mesne jedi: sesekljano meso
+20084,mesne jedi: sesekljano meso
+20085,sladice: pecivo
+20086,juhe in zakuhe: zelenjavne juhe
+20087,sladice: ostalo
+20088,mesne jedi: divjačina
+20089,morska hrana: ostalo
+20090,sladice: pecivo
+20091,sladice: pecivo
+20092,mesne jedi: perutnina
+20093,solate
+20094,napitki: brezalkoholni
+20095,priloge: ostalo
+20096,sladice: pecivo
+20097,kruh
+20098,sladice: pecivo
+20099,mesne jedi: perutnina
+20101,mesne jedi: svinjina
+20102,zelenjavne jedi
+20103,sladice: piškoti
+20104,sladice: piškoti
+20105,sladice: ostalo
+20106,jajčne jedi: ostalo
+20107,sladice: piškoti
+20108,ozimnica: ostalo
+20109,jajčne jedi: ostalo
+20110,sladice: ostalo
+20111,zelenjavne jedi
+20112,ostale jedi: dodatki jedem
+20113,sladice: pecivo
+20114,sladice: pecivo
+20115,sladice: potice
+20116,ostale jedi: dodatki jedem
+20117,omake: tople
+20118,mesne jedi: perutnina
+20119,mesne jedi: ostalo
+20120,sladice: torte
+20121,mesne jedi: sesekljano meso
+20122,enolončnice
+20123,sladice: pecivo
+20124,priloge: ostalo
+20125,napitki: brezalkoholni
+20126,sladice: piškoti
+20127,morska hrana: ribe
+20128,ozimnica: sladki shranki
+20129,napitki: brezalkoholni
+20130,mesne jedi: sesekljano meso
+20131,eksotika: ostale dežele
+20132,morska hrana: raki
+20133,kruh
+20134,morska hrana: ostalo
+20135,napitki: brezalkoholni
+20136,sladice: potice
+20137,sladice: pecivo
+20138,sladice: pudingi
+20139,sladice: potice
+20140,mesne jedi: perutnina
+20141,predjedi: tople
+20142,sladice: pecivo
+20143,sladice: pecivo
+20144,sladice: piškoti
+20145,sladice: piškoti
+20146,sladice: piškoti
+20147,sladice: piškoti
+20148,sladice: pecivo
+20149,sladice: pecivo
+20150,sladice: piškoti
+20151,napitki: alkoholni
+20152,sladice: piškoti
+20153,sladice: piškoti
+20154,zelenjavne jedi
+20155,ostale jedi: dodatki jedem
+20156,ostale jedi: dodatki jedem
+20157,mesne jedi: perutnina
+20159,sladice: pecivo
+20160,napitki: alkoholni
+20161,sladice: pecivo
+20162,sladice: torte
+20163,napitki: brezalkoholni
+20164,sladice: ostalo
+20165,solate
+20166,zelenjavne jedi
+20167,sladice: ostalo
+20168,solate
+20169,morska hrana: ostalo
+20170,zelenjavne jedi
+20171,mesne jedi: svinjina
+20172,sladice: pecivo
+20173,sladice: pecivo
+20174,sladice: pecivo
+20175,napitki: brezalkoholni
+20176,solate
+20177,ostale jedi: dodatki jedem
+20178,sladice: palačinke
+20180,testenine
+20181,sladice: ostalo
+20182,sladice: pudingi
+20183,kruh
+20184,sladice: torte
+20185,mesne jedi: mešano meso
+20186,sladice: torte
+20187,jajčne jedi: ostalo
+20188,enolončnice
+20189,ozimnica: slani shranki
+20190,ostale jedi: dodatki jedem
+20191,predjedi: tople
+20192,kruh
+20193,sladice: ostalo
+20194,kruh
+20195,sladice: pecivo
+20196,zelenjavne jedi
+20197,sladice: palačinke
+20198,sladice: ostalo
+20199,morska hrana: ostalo
+20200,jajčne jedi: ostalo
+20201,mesne jedi: ostalo
+20202,mesne jedi: notranji deli
+20203,solate
+20204,kruh
+20205,sladice: pecivo
+20206,sladice: pecivo
+20207,sladice: pecivo
+20208,sladice: pecivo
+20209,sladice: torte
+20210,sladice: ostalo
+20211,sladice: torte
+20212,sladice: torte
+20213,kruh
+20214,sladice: pecivo
+20215,sladice: pecivo
+20216,sladice: piškoti
+20217,predjedi: hladne
+20218,priloge: ostalo
+20219,testenine
+20220,enolončnice
+20221,sladice: ostalo
+20222,solate
+20223,sladice: ostalo
+20224,napitki: brezalkoholni
+20225,sladice: pecivo
+20226,sladice: pecivo
+20227,sladice: piškoti
+20228,sladice: piškoti
+20229,kruh
+20230,sladice: pecivo
+20231,sladice: pecivo
+20232,mesne jedi: svinjina
+20233,sladice: torte
+20234,sladice: ostalo
+20235,sirove jedi
+20236,sladice: torte
+20237,sladice: piškoti
+20238,kruh
+20239,sladice: ostalo
+20240,sladice: torte
+20241,sladice: pecivo
+20242,sladice: piškoti
+20243,sladice: piškoti
+20244,sladice: pecivo
+20245,predjedi: namazi
+20246,sladice: slano pecivo
+20247,sladice: pecivo
+20248,sladice: torte
+20249,sladice: pecivo
+20250,kruh
+20251,sladice: pecivo
+20252,juhe in zakuhe: zelenjavne juhe
+20253,sladice: ostalo
+20254,sladice: ostalo
+20255,sladice: piškoti
+20256,omake: prelivi
+20257,solate
+20258,mesne jedi: mešano meso
+20259,sladice: ostalo
+20260,sladice: torte
+20261,sladice: piškoti
+20262,sladice: ostalo
+20263,sladice: torte
+20264,sladice: torte
+20265,sirove jedi
+20266,sladice: pecivo
+20267,sladice: torte
+20268,solate
+20269,mesne jedi: svinjina
+20270,morska hrana: raki
+20271,sladice: torte
+20272,enolončnice
+20275,priloge: ostalo
+20276,sladice: pecivo
+20277,sladice: pecivo
+20278,ozimnica: sladki shranki
+20279,sladice: pecivo
+20280,kruh
+20281,kruh
+20282,kruh
+20283,sladice: palačinke
+20284,sladice: ostalo
+20285,mesne jedi: govedina
+20286,sladice: pecivo
+20287,morska hrana: ribe
+20288,sladice: torte
+20289,sladice: torte
+20290,eksotika: ostale dežele
+20291,juhe in zakuhe: ostale juhe
+20292,sladice: ostalo
+20293,mesne jedi: ostalo
+20294,testenine
+20295,sladice: pecivo
+20296,sladice: ostalo
+20298,solate
+20299,sladice: pecivo
+20300,sladice: pecivo
+20301,mesne jedi: perutnina
+20302,kruh
+20303,eksotika: Indija
+20304,sladice: torte
+20305,sladice: kreme za torte in peciva
+20306,sladice: piškoti
+20307,solate
+20308,sladice: piškoti
+20309,sladice: torte
+20310,testenine
+20311,mesne jedi: ostalo
+20312,gobje jedi
+20313,sladice: pecivo
+20314,juhe in zakuhe: zelenjavne juhe
+20315,testenine
+20316,sladice: pecivo
+20317,sladice: torte
+20318,sladice: pudingi
+20319,mesne jedi: govedina
+20320,sladice: pecivo
+20321,juhe in zakuhe: jušne zakuhe
+20322,eksotika: Kitajska
+20323,sladice: palačinke
+20324,mesne jedi: svinjina
+20325,sladice: ostalo
+20326,predjedi: hladne
+20327,mesne jedi: drobnica
+20328,sladice: ostalo
+20329,mesne jedi: perutnina
+20330,sladice: pecivo
+20331,sladice: pudingi
+20332,testenine
+20333,sladice: ostalo
+20334,gobje jedi
+20337,sladice: ostalo
+20338,testenine
+20339,sladice: torte
+20340,sladice: torte
+20341,sladice: pecivo
+20342,sladice: pecivo
+20343,sladice: pecivo
+20344,sladice: pecivo
+20345,sirove jedi
+20346,sladice: pecivo
+20347,zelenjavne jedi
+20348,mesne jedi: perutnina
+20349,mesne jedi: ostalo
+20350,solate
+20351,sladice: ostalo
+20352,zelenjavne jedi
+20355,mesne jedi: perutnina
+20356,sladice: pecivo
+20357,juhe in zakuhe: ostale juhe
+20358,sladice: pecivo
+20359,sladice: pudingi
+20360,morska hrana: ribe
+20361,sladice: palačinke
+20363,kruh
+20364,kruh
+20365,ozimnica: pijače
+20366,juhe in zakuhe: ostale juhe
+20367,enolončnice
+20368,sladice: piškoti
+20369,sladice: pecivo
+20370,ostale jedi: polizdelki
+20371,sladice: pecivo
+20372,zelenjavne jedi
+20373,priloge: ostalo
+20374,jajčne jedi: omlete
+20375,prikuhe
+20376,enolončnice
+20378,juhe in zakuhe: zelenjavne juhe
+20379,sladice: torte
+20380,sladice: ostalo
+20381,sladice: pecivo
+20382,sladice: sladoledi
+20384,sladice: ostalo
+20385,mesne jedi: svinjina
+20386,sladice: pecivo
+20387,sladice: pecivo
+20388,priloge: ostalo
+20389,testenine
+20390,morska hrana: ribe
+20391,sladice: pecivo
+20392,mesne jedi: sesekljano meso
+20393,omake: prelivi
+20394,sladice: ostalo
+20395,predjedi: tople
+20396,kruh
+20397,predjedi: namazi
+20398,sladice: ostalo
+20399,sladice: ostalo
+20400,zelenjavne jedi
