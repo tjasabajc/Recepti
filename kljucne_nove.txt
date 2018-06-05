@@ -74,7 +74,7 @@ sladkor <- - - - - - sladkorja v prahu
 
 želatina <- - - - - - želatine
 
-hruške <- - - - - - hruške
+hruška <- - - - - - hruške
 
 sir <- - - - - - sira
 
@@ -162,7 +162,7 @@ poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/pop
 
 paprika <- - - - - - rdeča paprika
 
-parmezana <- - - - - - parmezana
+sir <- - - - - - parmezana
 
 testenine <- - - - - - makaronov
 
@@ -173,7 +173,7 @@ olje <- - - - - - olivno olje
 rdeče sveže  paprike
 OSTANE : ['', 'paprika'] <- - - - - - rdeče sveže  paprike
 
-paradižniki <- - - - - - sveži paradižniki
+paradižnik <- - - - - - sveži paradižniki
 
 olive <- - - - - - oliv 
 
@@ -190,8 +190,7 @@ sol <- - - - - - sol
 
 zelje <- - - - - - zelje
 
-lovorjevi listi 
-OSTANE : ['lovorjev', 'listi'] <- - - - - - lovorjevi listi 
+lovorjev list <- - - - - - lovorjevi listi 
 
 kumina <- - - - - - kumine 
 
@@ -227,7 +226,7 @@ buča <- - - - - - hokaido buče
 feta sira
 OSTANE : ['sir', 'sir'] <- - - - - - feta sira
 
-skute <- - - - - - "skute
+skuta <- - - - - - "skute
 
 jajca <- - - - - - jajca
 
@@ -255,8 +254,7 @@ OSTANE : ['goveje', 'juhe'] <- - - - - - goveje juhe
 brinove jagode
 OSTANE : ['brinove', 'jagode'] <- - - - - - brinove jagode
 
-lovorjevi listi 
-OSTANE : ['lovorjev', 'listi'] <- - - - - - lovorjevi listi 
+lovorjev list <- - - - - - lovorjevi listi 
 
 brusnične marmelade 
 OSTANE : ['brusnične', 'marmelade'] <- - - - - - brusnične marmelade 
@@ -270,21 +268,19 @@ ribe <- - - - - - ribe
 sol <- - - - - - sol
 
 jajčni beljaki 
-OSTANE : ['jajčni', 'beljaki'] <- - - - - - jajčni beljaki 
+OSTANE : ['jajca', 'jajca'] <- - - - - - jajčni beljaki 
 
 rožmarin <- - - - - - rožmarina
 
-"šopek sveže <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilike</a> "
-OSTANE : ['šopek', 'bazilika'] <- - - - - - "šopek sveže <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilike</a> "
+bazilika <- - - - - - "šopek sveže <a href=""https://www.kulinarika.net/recepti/zacimbe/10/bazilika/"">bazilike</a> "
 
 česen <- - - - - - stroki česna 
 
 olje <- - - - - - olivnega olja
 
-srednje velikih krompirjev 
-OSTANE : ['velikih', 'krompirjev'] <- - - - - - srednje velikih krompirjev 
+krompir <- - - - - - srednje velikih krompirjev 
 
-špargljev <- - - - - - špargljev 
+šparglji <- - - - - - špargljev 
 
 sol <- - - - - - soli 
 
@@ -316,33 +312,28 @@ sol <- - - - - - sol
 
 poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 
-nepasirane skute 
-OSTANE : ['nepasirane', 'skute'] <- - - - - - nepasirane skute 
+skuta <- - - - - - nepasirane skute 
 
 smetana <- - - - - - kisle smetane
 
 olje <- - - - - - olivnega olja 
 
-pšeničnega zdroba
-OSTANE : ['pšeničnega', 'zdrob'] <- - - - - - pšeničnega zdroba
+zdrob <- - - - - - pšeničnega zdroba
 
 jajca <- - - - - - jajce
 
-olivega olja
-OSTANE : ['olivega', 'olje'] <- - - - - - olivega olja
+olje <- - - - - - olivega olja
 
 šalotka <- - - - - - šalotke
 
-srednje veliki krompirji
-OSTANE : ['veliki', 'krompir'] <- - - - - - srednje veliki krompirji
+krompir <- - - - - - srednje veliki krompirji
 
-svinjska kotleta
-OSTANE : ['svinjska', 'kotleta'] <- - - - - - svinjska kotleta
+svinjina
+meso <- - - - - - svinjska kotleta
 
 korenje <- - - - - - večji korenček
 
-zrna česna
-OSTANE : ['zrna', 'česen'] <- - - - - - zrna česna
+česen <- - - - - - zrna česna
 
 paradižnik <- - - - - - paradižnikove mezge
 
@@ -351,44 +342,38 @@ OSTANE : ['', 'poper'] <- - - - - - "ali 2 <a href=""https://www.kulinarika.net/
 
 sol <- - - - - - soli
 
-grobo nasekljanega timijana
-OSTANE : ['grobo', 'nasekljanega', 'timijan'] <- - - - - - grobo nasekljanega timijana
+timijan <- - - - - - grobo nasekljanega timijana
 
 ingver <- - - - - - mletega ingverja
 
-"vejice <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
-OSTANE : ['vejice', 'peteršilj'] <- - - - - - "vejice <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+peteršilj <- - - - - - "vejice <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
 
-luštreka <- - - - - - luštreka
+luštrek <- - - - - - luštreka
 
 smetana <- - - - - - kisla smetana
 
 svinjska ribica
-OSTANE : ['svinjska', 'ribica'] <- - - - - - svinjska ribica
+OSTANE : ['svinjina', 'ribica'] <- - - - - - svinjska ribica
 
 sol <- - - - - - sol
 
 poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 
-"manjše kislo <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
-OSTANE : ['manjše', 'kislo', 'jabolko'] <- - - - - - "manjše kislo <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
+jabolka <- - - - - - "manjše kislo <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
 
-grobo naribanega parmezana
-OSTANE : ['grobo', 'parmezana'] <- - - - - - grobo naribanega parmezana
+sir <- - - - - - grobo naribanega parmezana
 
-kraškega pršuta
-OSTANE : ['kraškega', 'pršuta'] <- - - - - - kraškega pršuta
+svinjina
+meso <- - - - - - kraškega pršuta
 
 maslo <- - - - - - masla
 
-žička moke
-OSTANE : ['žička', 'moka'] <- - - - - - žička moke
+moka <- - - - - - žička moke
 
 goveje juhe
 OSTANE : ['goveje', 'juhe'] <- - - - - - goveje juhe
 
-srednje veliki osliči
-OSTANE : ['veliki', 'osliči'] <- - - - - - srednje veliki osliči
+ribe <- - - - - - srednje veliki osliči
 
 čebula <- - - - - - čebula
 
@@ -403,8 +388,7 @@ poper <- - - - - - "sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/
 
 poper <- - - - - - "zrn belega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
 
-"manjši šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
-OSTANE : ['manjši', 'šopek', 'peteršilj'] <- - - - - - "manjši šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+peteršilj <- - - - - - "manjši šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
 
 voda
 OSTANE : [] <- - - - - - voda
@@ -412,8 +396,7 @@ OSTANE : [] <- - - - - - voda
 "<b>Za paradižnikovo ""šalšo"":</b>"
 OSTANE : ['b>Za', 'paradižnikovo', 'šalšo"":</b'] <- - - - - - "<b>Za paradižnikovo ""šalšo"":</b>"
 
-"paradižnika (najboljši je volovsko srce, drugače pa pelate)"
-OSTANE : ['paradižnik', 'najboljši', 'volovsko', 'srce', 'drugače', 'pa', 'pelate'] <- - - - - - "paradižnika (najboljši je volovsko srce, drugače pa pelate)"
+paradižnik <- - - - - - paradižnika
 
 čebula <- - - - - - čebuli
 
@@ -432,7 +415,7 @@ OSTANE : ['listov', 'zelena'] <- - - - - - "listov <a href=""https://www.kulinar
 <b>Blitvina priloga:</b>
 OSTANE : ['b>Blitvina', 'priloga:</b'] <- - - - - - <b>Blitvina priloga:</b>
 
-blitve <- - - - - - blitve
+blitva <- - - - - - blitve
 
 česen <- - - - - - česna
 
@@ -446,20 +429,17 @@ poper <- - - - - - "sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/
 <b>Za enolončnico:</b>
 OSTANE : ['b>Za', 'enolončnico:</b'] <- - - - - - <b>Za enolončnico:</b>
 
-krompirjev <- - - - - - večjih krompirjev
+krompir <- - - - - - večjih krompirjev
 
 korenje <- - - - - - korenja
 
-paradižnikove omake
-OSTANE : ['paradižnik', 'omake'] <- - - - - - paradižnikove omake
+paradižnik <- - - - - - paradižnikove omake
 
-manjši kos pora (jaz kupim narezane v Hofru na zelenjavnem oddelku)
-OSTANE : ['manjši', 'por', 'jaz', 'kupim', 'Hofru', 'zelenjavnem', 'oddelku'] <- - - - - - manjši kos pora (jaz kupim narezane v Hofru na zelenjavnem oddelku)
+por <- - - - - - pora
 
 koruza <- - - - - - pločevinka koruze
 
-para klobas za kuhanje 
-OSTANE : ['para', 'klobas', 'kuhanje'] <- - - - - - para klobas za kuhanje 
+klobase <- - - - - - klobase 
 
 jušne osnove 
 OSTANE : [] <- - - - - - jušne osnove 
@@ -485,21 +465,18 @@ jajca <- - - - - - jajci
 do 6 žlic moke
 OSTANE : ['', 'moka'] <- - - - - - do 6 žlic moke
 
-očiščenih sip
-OSTANE : ['očiščenih', 'sip'] <- - - - - - očiščenih sip
+ribe <- - - - - - ribe
 
 česen <- - - - - - stroki česna
 
-"šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
-OSTANE : ['šopek', 'peteršilj'] <- - - - - - "šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
+peteršilj <- - - - - - "šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a>"
 
 vino <- - - - - - črnega vina
 
 do 5 žlic olivnega olja
 OSTANE : ['', 'olje'] <- - - - - - do 5 žlic olivnega olja
 
-pšeničnega zdroba
-OSTANE : ['pšeničnega', 'zdrob'] <- - - - - - pšeničnega zdroba
+zdrob <- - - - - - pšeničnega zdroba
 
 maslo <- - - - - - masla
 
@@ -515,16 +492,15 @@ OSTANE : ['gladke', 'moka'] <- - - - - - gladke moke
 
 mleko <- - - - - - mleka
 
-margarine/masla <- - - - - - margarine/masla
+maslo <- - - - - - masla
 
 sol <- - - - - - sol
 
 sladkor <- - - - - - sladkor 
 
-kvas <- - - - - - kocka kvasa
+kvas <- - - - - - kvasa
 
-jajce za mazanje
-OSTANE : ['jajca', 'mazanje'] <- - - - - - jajce za mazanje
+jajca <- - - - - - jajce
 
 brokoli <- - - - - - večji brokoli
 
@@ -532,14 +508,13 @@ brokoli <- - - - - - večji brokoli
 
 korenje <- - - - - - korenček
 
-peteršiljeva korenina
-OSTANE : ['peteršiljeva', 'korenina'] <- - - - - - peteršiljeva korenina
+peteršilj <- - - - - - peteršilj
 
 česen <- - - - - - stroki česna
 
 timijan <- - - - - - posušenega timijana
 
-luštreka <- - - - - - posušenega luštreka
+luštrek <- - - - - - posušenega luštreka
 
 krompir <- - - - - - srednje velika krompirja
 
@@ -549,21 +524,17 @@ sol <- - - - - - sol
 
 smetana <- - - - - - kisle smetane
 
-za dlan velika koža od prekajene slanine
-OSTANE : ['dlan', 'koža', 'od', 'prekajene', 'slanine'] <- - - - - - za dlan velika koža od prekajene slanine
+slanina <- - - - - - slanina
 
-jušna žlica svinjske masti
-OSTANE : ['svinjske', 'masti'] <- - - - - - jušna žlica svinjske masti
+mast <- - - - - - mast
 
 voda <- - - - - - vode
 
-sveže peteršiljevo listje
-OSTANE : ['peteršiljevo', 'listje'] <- - - - - - sveže peteršiljevo listje
+peteršilj <- - - - - - peteršilj
 
-kumari <- - - - - - kumari 
+kumara <- - - - - - kumara 
 
-"krompirji (2 velika, 2 srednja)"
-OSTANE : ['krompir', '', '', 'srednja'] <- - - - - - "krompirji (2 velika, 2 srednja)"
+krompir <- - - - - - "krompir
 
 čebula <- - - - - - čebule
 
@@ -574,13 +545,11 @@ paprika <- - - - - - mleta paprika
 
 poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 
-"skute (lahke, pasirane)"
-OSTANE : ['skute', 'lahke', 'pasirane'] <- - - - - - "skute (lahke, pasirane)"
+skuta <- - - - - - "skute"
 
-mali lahki tekoči jogurt
-OSTANE : ['mali', 'lahki', 'tekoči', 'jogurt'] <- - - - - - mali lahki tekoči jogurt
+jogurt <- - - - - - jogurt
 
-jabolki <- - - - - - jabolki
+jabolka <- - - - - - jabolka
 
 banana <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banana</a>"
 
@@ -594,13 +563,9 @@ prašek <- - - - - - pecilni prašek
 
 jajca <- - - - - - jajca
 
-merica vanilijevih proteinov
-OSTANE : ['merica', 'vanilijevih', 'proteinov'] <- - - - - - merica vanilijevih proteinov
-
 cimet <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a> po okusu"
 
-po želji lahko koščki temne čokolade
-OSTANE : ['lahko', 'koščki', 'čokolada'] <- - - - - - po želji lahko koščki temne čokolade
+čokolada <- - - - - - čokolada
 
 b>Biskvit:</b <- - - - - - <b>Biskvit:</b>
 
@@ -615,8 +580,7 @@ kakav <- - - - - - kakava
 
 moka <- - - - - - ostre moke
 
-sneg 6 beljakov
-OSTANE : ['sneg', '', 'beljakov'] <- - - - - - sneg 6 beljakov
+beljakov <- - - - - - beljakov
 
 b>Nadev:</b <- - - - - - <b>Nadev:</b>
 
@@ -626,13 +590,11 @@ sladkor <- - - - - - sladkorja
 
 mleko <- - - - - - mleka
 
-rebra čokolade (100 g)
-OSTANE : ['rebra', 'čokolada', '', 'g'] <- - - - - - rebra čokolade (100 g)
+čokolada <- - - - - - čokolade
 
 maslo <- - - - - - masla
 
-mletih orehov
-OSTANE : ['mletih', 'orehi'] <- - - - - - mletih orehov
+orehi <- - - - - - orehov
 
 ruma - po želji
 OSTANE : ['rum', ''] <- - - - - - ruma - po želji
@@ -643,14 +605,13 @@ OSTANE : ['banane', '', 'poiščemo', 'čimbolj', 'ravne'] <- - - - - - "<a href
 "do <span class=""label-inline"">700 g"
 OSTANE : ['class=""label-inline"">700', 'g'] <- - - - - - "do <span class=""label-inline"">700 g"
 
-sir <- - - - - - naribanega sira
+sir <- - - - - - sira
 
 jajca <- - - - - - jajci
 
 česen <- - - - - - česna
 
-do 3 žlice drobtin
-OSTANE : ['', 'drobtine'] <- - - - - - do 3 žlice drobtin
+drobtine <- - - - - - drobtin
 
 class=""label-inline"">3 <- - - - - - "do <span class=""label-inline"">3 žlice"
 
@@ -672,7 +633,7 @@ OSTANE : ['vanilijev', 'sladkor'] <- - - - - - "<a href=""https://www.kulinarika
 
 jajca <- - - - - - rumenjaka
 
-jabolk <- - - - - - jabolk
+jabolka <- - - - - - jabolka
 
 sladkor <- - - - - - sladkorja
 
@@ -680,40 +641,34 @@ cimet <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/16/cime
 
 smetana <- - - - - - kisle smetane
 
-veliki čebuli
-OSTANE : ['veliki', 'čebula'] <- - - - - - veliki čebuli
+čebula <- - - - - - veliki čebuli
 
 mali strok česna
 OSTANE : ['mali', 'česen'] <- - - - - - mali strok česna
 
-veliki papriki
-OSTANE : ['veliki', 'paprika'] <- - - - - - veliki papriki
+paprika <- - - - - - veliki papriki
 
 paradižnik <- - - - - - manjša paradižnika
 
-"slanine, pol para kranjske klobase"
-OSTANE : ['slanine', 'pol', 'para', 'kranjske', 'klobase'] <- - - - - - "slanine, pol para kranjske klobase"
+slanine <- - - - - - slanine
 
-konzerva fižola ali 2 mali
-OSTANE : ['fižol', '', 'mali'] <- - - - - - konzerva fižola ali 2 mali
+fižol <- - - - - - konzerva fižola
 
 "začimbe (vegeta, sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/76/majaron/"">majaron</a>, origano, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>,...)"
 OSTANE : ['začimbe', 'vegeta', 'sol', 'majaron', 'origano', 'poper'] <- - - - - - "začimbe (vegeta, sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/76/majaron/"">majaron</a>, origano, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>,...)"
 
-srednje veliki krompirji
-OSTANE : ['veliki', 'krompir'] <- - - - - - srednje veliki krompirji
+krompir <- - - - - - srednje veliki krompirji
 
 česen <- - - - - - stroki česna
 
 sol
 poper <- - - - - - "sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 
-kostanja <- - - - - - kuhanega kostanja
+kostanj <- - - - - - kostanja
 
 mleko <- - - - - - mleka
 
-listki žajblja
-OSTANE : ['listki', 'žajblja'] <- - - - - - listki žajblja
+žajbelj <- - - - - - žajbelj
 
 "vejica <a href=""https://www.kulinarika.net/recepti/zacimbe/76/majaron/"">majarona</a>"
 OSTANE : ['vejica', 'majarona'] <- - - - - - "vejica <a href=""https://www.kulinarika.net/recepti/zacimbe/76/majaron/"">majarona</a>"
@@ -722,8 +677,7 @@ moka <- - - - - - moke
 
 sladkor <- - - - - - sladkorja v prahu
 
-manjše jajce
-OSTANE : ['manjše', 'jajca'] <- - - - - - manjše jajce
+ajce <- - - - - - ajce
 
 pecilnega praška
 OSTANE : [] <- - - - - - pecilnega praška
@@ -731,8 +685,7 @@ OSTANE : [] <- - - - - - pecilnega praška
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> sladkor"
 OSTANE : ['vanilijev', 'sladkor'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> sladkor"
 
-margarine ali pol margarine in pol masla
-OSTANE : ['margarina', 'pol', 'margarina', 'pol', 'maslo'] <- - - - - - margarine ali pol margarine in pol masla
+maslo <- - - - - - masla
 
 marmelada <- - - - - - marmelada
 
@@ -741,7 +694,7 @@ bučka <- - - - - - bučk
 "paprike (1 rumena, 1 rdeča, 1 <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelena</a>)"
 OSTANE : ['paprika', '', 'rumena', '', '', 'zelena'] <- - - - - - "paprike (1 rumena, 1 rdeča, 1 <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelena</a>)"
 
-paradižniki <- - - - - - paradižniki
+paradižnik <- - - - - - paradižniki
 
 česen <- - - - - - stroki česna
 
@@ -750,8 +703,7 @@ OSTANE : ['šop', 'peteršilj'] <- - - - - - "šop <a href=""https://www.kulinar
 
 čebula <- - - - - - čebula
 
-paradižnik v tubi
-OSTANE : ['paradižnik', 'tubi'] <- - - - - - paradižnik v tubi
+paradižnik <- - - - - - paradižnik
 
 olje <- - - - - - olje
 
@@ -764,7 +716,7 @@ OSTANE : ['piščančje', 'prsi'] <- - - - - - piščančje prsi
 
 bučka <- - - - - - bučka
 
-paradižniki <- - - - - - paradižniki
+paradižnik <- - - - - - paradižniki
 
 por <- - - - - - por
 
@@ -776,9 +728,6 @@ OSTANE : ['listnato', 'testo'] <- - - - - - listnato testo
 sir <- - - - - - nariban sir
 
 sezam <- - - - - - sezam
-
-bučna semena
-OSTANE : ['bučna', 'semena'] <- - - - - - bučna semena
 
 moka <- - - - - - moke
 
@@ -792,14 +741,11 @@ margarina <- - - - - - margarine
 jajčna rumenjaka
 OSTANE : ['jajčna', 'jajca'] <- - - - - - jajčna rumenjaka
 
-marmelada <- - - - - - marmelada po potrebi
+marmelada <- - - - - - marmelada
 
 rum <- - - - - - ruma
 
-voda <- - - - - - "vode, po potrebi"
-
-jagodna aroma
-OSTANE : ['jagodna', 'aroma'] <- - - - - - jagodna aroma
+voda <- - - - - - "vode
 
 voda
 OSTANE : [] <- - - - - - voda
@@ -845,8 +791,7 @@ moka <- - - - - - moke
 
 sladkor <- - - - - - sladkorja v prahu
 
-manjše jajce
-OSTANE : ['manjše', 'jajca'] <- - - - - - manjše jajce
+jajca <- - - - - - manjše jajce
 
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> sladkor"
 OSTANE : ['vanilijev', 'sladkor'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> sladkor"
@@ -861,13 +806,12 @@ kakav <- - - - - - kakava
 "čokoladni namaz (Nutella,...)"
 OSTANE : ['čokoladni', 'namaz', 'Nutella'] <- - - - - - "čokoladni namaz (Nutella,...)"
 
-mlete govedine ali mešano ml. meso
-OSTANE : ['govedina', 'mešano', 'ml', 'meso'] <- - - - - - mlete govedine ali mešano ml. meso
+govedina
+meso <- - - - - - mlete govedine
 
 krompir <- - - - - - krompirja
 
-manjši čebuli
-OSTANE : ['manjši', 'čebula'] <- - - - - - manjši čebuli
+čebula <- - - - - - manjši čebuli
 
 česen <- - - - - - česna
 
@@ -916,44 +860,34 @@ OSTANE : ['mlačnega', 'mleko'] <- - - - - - mlačnega mleka
 
 jajca <- - - - - - rumenjaka
 
-masla sobne temperature
-OSTANE : ['maslo', 'sobne', 'temperature'] <- - - - - - masla sobne temperature
+maslo <- - - - - - masla
 
-zamašek ruma
-OSTANE : ['zamašek', 'rum'] <- - - - - - zamašek ruma
+rum <- - - - - - ruma
 
 b>Nadev:</b <- - - - - - <b>Nadev:</b>
-
-grobo zmletih bučnih semen
-OSTANE : ['grobo', 'bučnih', 'semen'] <- - - - - - grobo zmletih bučnih semen
 
 sladkor <- - - - - - rjavega sladkorja
 
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> sladkor"
 OSTANE : ['vanilijev', 'sladkor'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> sladkor"
 
-tople sladke smetane
-OSTANE : ['tople', 'smetana'] <- - - - - - tople sladke smetane
+smetana <- - - - - - sladke smetane
 
-zamaškov ruma
-OSTANE : ['zamaškov', 'rum'] <- - - - - - zamaškov ruma
+rum <- - - - - - ruma
 
-limona <- - - - - - naribana lupina ene limone 
+limona <- - - - - - limone 
 
 cimet <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a> "
 
-beljaka (nestepena)
-OSTANE : ['beljaka', 'nestepena'] <- - - - - - beljaka (nestepena)
+beljaka <- - - - - - beljaka
 
-"domače črno grozdje (<span class=""label-inline"">3 kg"
-OSTANE : ['domače', 'črno', 'grozdje', 'class=""label-inline"">3'] <- - - - - - "domače črno grozdje (<span class=""label-inline"">3 kg"
+grozdje <- - - - - - grozdje
 
-"želirni sladkor (<span class=""label-inline"">3 kg"
-OSTANE : ['želirni', 'sladkor', 'class=""label-inline"">3'] <- - - - - - "želirni sladkor (<span class=""label-inline"">3 kg"
+sladkor <- - - - - - sladkor
 
 limona <- - - - - - limona
 
-gelfix <- - - - - - gelfix
+želatina <- - - - - - želatina
 
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> ekstrakt"
 OSTANE : ['vanilijev', 'ekstrakt'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> ekstrakt"
@@ -1039,9 +973,6 @@ kakav <- - - - - - kakava
 
 b>Ostalo:</b <- - - - - - <b>Ostalo:</b>
 
-vanilijeva pudinga
-OSTANE : ['vanilijeva', 'pudinga'] <- - - - - - vanilijeva pudinga
-
 mleko <- - - - - - mleka
 
 Albert keksi
@@ -1057,15 +988,13 @@ OSTANE : ['fižol', 'zrnje'] <- - - - - - kuhanega fižola (zrnje)
 
 sardin <- - - - - - sardin iz konzerve
 
-čebulica <- - - - - - manjša čebulica
+čebula <- - - - - - manjša čebula
 
 jajca <- - - - - - trdo kuhano jajce
 
-kaper iz slanice
-OSTANE : ['kaper', 'slanice'] <- - - - - - kaper iz slanice
+kaper <- - - - - - kaper
 
-fileti inčunov iz olja
-OSTANE : ['fileti', 'inčunov', 'olje'] <- - - - - - fileti inčunov iz olja
+ribe <- - - - - - ribe
 
 smetana <- - - - - - kisle smetane
 
@@ -1085,8 +1014,7 @@ OSTANE : ['zrezka', 'trakove', 'cca', '', 'g'] <- - - - - - zrezka narezana na t
 
 por <- - - - - - narezanega pora
 
-oliv brez koščic
-OSTANE : ['olive', 'koščic'] <- - - - - - oliv brez koščic
+olive <- - - - - - oliv 
 
 "manjša rumena paprika, narezana na trakove"
 OSTANE : ['rumena', 'paprika', 'trakove'] <- - - - - - "manjša rumena paprika, narezana na trakove"
@@ -1095,7 +1023,7 @@ OSTANE : ['rumena', 'paprika', 'trakove'] <- - - - - - "manjša rumena paprika, 
 OSTANE : ['korenje', 'gomolja', 'zelena'] <- - - - - - "korenčka in gomolja <a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a>, narezane na kocke"
 
 "JŽ domače ""vegete"""
-OSTANE : ['JŽ', 'domače', 'vegete'] <- - - - - - "JŽ domače ""vegete"""
+OSTANE : ['JŽ', 'vegete'] <- - - - - - "JŽ domače ""vegete"""
 
 "ČŽ mlete paprike, pol žličke kajenskega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a> (odvisno od želje po pikantnosti)"
 OSTANE : ['ČŽ', 'paprika', 'pol', 'žličke', 'kajenskega', 'poper', 'odvisno', 'od', 'želje', 'pikantnosti'] <- - - - - - "ČŽ mlete paprike, pol žličke kajenskega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a> (odvisno od želje po pikantnosti)"
@@ -1107,10 +1035,9 @@ OSTANE : ['ČŽ', 'tajske', 'bazilika'] <- - - - - - "ČŽ posušene tajske <a h
 OSTANE : ['cca', 'class=""label-inline"">2dl'] <- - - - - - "cca. <span class=""label-inline"">2dl"
 
 JŽ sojine omake
-OSTANE : ['JŽ', 'sojine', 'omake'] <- - - - - - JŽ sojine omake
+OSTANE : ['JŽ', 'sojine'] <- - - - - - JŽ sojine omake
 
-špagetov Shirataki brez OH
-OSTANE : ['testenine', 'Shirataki', 'OH'] <- - - - - - špagetov Shirataki brez OH
+testenine <- - - - - - špagetov 
 
 <b>Za čokoladni biskvit:</b>
 OSTANE : ['b>Za', 'čokoladni', 'biskvit:</b'] <- - - - - - <b>Za čokoladni biskvit:</b>
@@ -1139,16 +1066,13 @@ OSTANE : ['sončničnega', 'olje'] <- - - - - - sončničnega olja
 
 kakav <- - - - - - temnega kakava v prahu
 
-po želji še kakšna žlica Nutelle
-OSTANE : ['še', 'kakšna', 'Nutelle'] <- - - - - - po želji še kakšna žlica Nutelle
-
 čokoladnega mleka za vlaženje
 OSTANE : ['čokoladnega', 'mleko', 'vlaženje'] <- - - - - - čokoladnega mleka za vlaženje
 
 <b>Za cookies nadev:</b>
 OSTANE : ['b>Za', 'cookies', 'nadev:</b'] <- - - - - - <b>Za cookies nadev:</b>
 
-mascarponeja <- - - - - - mascarponeja
+sir <- - - - - - sir
 
 smetana <- - - - - - sladke smetane
 
@@ -1166,11 +1090,7 @@ OSTANE : ['kvaliteten', 'vanilijev', 'ekstrakt', 'npr', 'Dr', 'Oetker'] <- - - -
 <b>Za dekoracijo:</b>
 OSTANE : ['b>Za', 'dekoracijo:</b'] <- - - - - - <b>Za dekoracijo:</b>
 
-ostružki iz bele čokolade za dekoracijo
-OSTANE : ['ostružki', 'čokolada', 'dekoracijo'] <- - - - - - ostružki iz bele čokolade za dekoracijo
-
-čokoladne palčke za dekoracijo
-OSTANE : ['čokoladne', 'palčke', 'dekoracijo'] <- - - - - - čokoladne palčke za dekoracijo
+čokolada <- - - - - - čokolada
 
 krompir <- - - - - - večja krompirja
 
@@ -1221,13 +1141,11 @@ sladkor <- - - - - - sladkorja
 noževa konica pecilnega praška
 OSTANE : ['noževa', 'konica'] <- - - - - - noževa konica pecilnega praška
 
-"listi želatine (<span class=""label-inline"">4,5 g"
-OSTANE : ['listi', 'želatina', 'class=""label-inline"">4,5', 'g'] <- - - - - - "listi želatine (<span class=""label-inline"">4,5 g"
+želatina <- - - - - - želatina
 
 kumari <- - - - - - kumari
 
-grški jogurt Total ali 1 kisla smetana
-OSTANE : ['grški', 'jogurt', 'Total', '', 'smetana'] <- - - - - - grški jogurt Total ali 1 kisla smetana
+smetana <- - - - - - kisla smetana
 
 česen <- - - - - - česna
 
@@ -1240,8 +1158,7 @@ sol <- - - - - - sol
 
 poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 
-koper (svež ali sušen)
-OSTANE : ['koper', 'svež', 'sušen'] <- - - - - - koper (svež ali sušen)
+koper <- - - - - - koper 
 
 <b>Krompirjevo testo:</b>
 OSTANE : ['b>Krompirjevo', 'testo:</b'] <- - - - - - <b>Krompirjevo testo:</b>
@@ -1260,11 +1177,10 @@ sol <- - - - - - sol
 <b>Mesni nadev:</b>
 OSTANE : ['b>Mesni', 'nadev:</b'] <- - - - - - <b>Mesni nadev:</b>
 
-mlete govedine (ali mleto mešano meso)
-OSTANE : ['govedina', 'mleto', 'mešano', 'meso'] <- - - - - - mlete govedine (ali mleto mešano meso)
+govedina
+meso <- - - - - - mlete govedine
 
-srednja čebula 
-OSTANE : ['srednja', 'čebula'] <- - - - - - srednja čebula 
+čebula <- - - - - - srednja čebula 
 
 jušni žlici paradižnikove mezge
 OSTANE : ['jušni', 'žlici', 'paradižnik'] <- - - - - - jušni žlici paradižnikove mezge
@@ -1282,18 +1198,16 @@ drobtine <- - - - - - drobtine
 polnozrnate pšenične moke
 OSTANE : ['pšenične', 'moka'] <- - - - - - polnozrnate pšenične moke
 
-bele moke (lahko tudi 500 g PZ pšenične moke)
-OSTANE : ['moka', 'lahko', '', 'g', 'PZ', 'pšenične', 'moka'] <- - - - - - bele moke (lahko tudi 500 g PZ pšenične moke)
+moka <- - - - - - bele moke 
 
 tople vode
 OSTANE : ['tople', 'voda'] <- - - - - - tople vode
 
-medu ali melase
-OSTANE : ['medu', 'melase'] <- - - - - - medu ali melase
+medu <- - - - - - medu
 
 kvas <- - - - - - suhega kvasa
 
-gorgonzole <- - - - - - gorgonzole
+sir <- - - - - - gorgonzole
 
 mletih orehov
 OSTANE : ['mletih', 'orehi'] <- - - - - - mletih orehov
@@ -1313,12 +1227,11 @@ moka <- - - - - - moke
 čž sode bikarbone
 OSTANE : ['čž', 'sode', 'bikarbone'] <- - - - - - čž sode bikarbone
 
-parmezana <- - - - - - parmezana
+sir <- - - - - - parmezana
 
 jajca <- - - - - - jajce
 
-nepasirane skute
-OSTANE : ['nepasirane', 'skute'] <- - - - - - nepasirane skute
+skuta <- - - - - - nepasirane skute
 
 <b>Za peko kruhovih skodelic:</b>
 OSTANE : ['b>Za', 'peko', 'skodelic:</b'] <- - - - - - <b>Za peko kruhovih skodelic:</b>
@@ -1337,8 +1250,7 @@ sladkor <- - - - - - sladkorja
 
 mleko <- - - - - - mleka 
 
-jedilna žlica stopljenega bio masla
-OSTANE : ['bio', 'maslo'] <- - - - - - jedilna žlica stopljenega bio masla
+maslo <- - - - - - jedilna žlica masla
 
 jajca <- - - - - - jajce
 
@@ -1768,7 +1680,7 @@ OSTANE : ['celih', 'bučnih', 'semen'] <- - - - - - celih bučnih semen
 
 slanine <- - - - - - rezin slanine
 
-gorgonzole <- - - - - - gorgonzole
+sir <- - - - - - gorgonzole
 
 suhih sliv
 OSTANE : ['suhih', 'sliv'] <- - - - - - suhih sliv
@@ -1914,8 +1826,7 @@ OSTANE : ['mletih', 'orehi'] <- - - - - - mletih orehov
 šlag pene + mleko
 OSTANE : ['šlag', 'pene', '+', 'mleko'] <- - - - - - šlag pene + mleko
 
-srednje velikih čebul
-OSTANE : ['velikih', 'čebul'] <- - - - - - srednje velikih čebul
+čebul <- - - - - - srednje velikih čebul
 
 govedina
 meso <- - - - - - mlete govedine
@@ -1964,7 +1875,8 @@ OSTANE : ['b>Za', 'omako:</b'] <- - - - - - <b>Za omako:</b>
 
 čebula <- - - - - - čebula
 
-pršuta <- - - - - - pršuta (narezanega na koščke) 
+svinjina
+meso <- - - - - - pršuta (narezanega na koščke) 
 
 smetane za kuhanje
 OSTANE : ['smetana', 'kuhanje'] <- - - - - - smetane za kuhanje
@@ -1984,14 +1896,13 @@ OSTANE : ['b>Za', 'kruh:</b'] <- - - - - - <b>Za kruh:</b>
 
 moka <- - - - - - polnozrnate moke 
 
-srednje veliki krompirji
-OSTANE : ['veliki', 'krompir'] <- - - - - - srednje veliki krompirji
+krompir <- - - - - - srednje veliki krompirji
 
 krompirjeve vode
 OSTANE : ['krompirjeve', 'voda'] <- - - - - - krompirjeve vode
 
 "šopek kuhanih divjih špargljev (sestavine za kuho: šopek divjih špargljev, malo soli, malo sladkorja, košček masla)"
-OSTANE : ['šopek', 'divjih', 'špargljev', 'sestavine', 'kuho:', 'šopek', 'divjih', 'špargljev', 'sol', 'sladkor', 'maslo'] <- - - - - - "šopek kuhanih divjih špargljev (sestavine za kuho: šopek divjih špargljev, malo soli, malo sladkorja, košček masla)"
+OSTANE : ['divjih', 'šparglji', 'sestavine', 'kuho:', 'divjih', 'šparglji', 'sol', 'sladkor', 'maslo'] <- - - - - - "šopek kuhanih divjih špargljev (sestavine za kuho: šopek divjih špargljev, malo soli, malo sladkorja, košček masla)"
 
 špargljeve vode
 OSTANE : ['špargljeve', 'voda'] <- - - - - - špargljeve vode
@@ -2017,7 +1928,7 @@ sira v slanici
 OSTANE : ['sir', 'slanici'] <- - - - - - sira v slanici
 
 "mešanice semen (sončnično seme, bučno seme, sezamovo seme in laneno seme)"
-OSTANE : ['mešanice', 'semen', 'sončnično', 'seme', 'bučno', 'seme', 'sezamovo', 'seme', 'laneno', 'seme'] <- - - - - - "mešanice semen (sončnično seme, bučno seme, sezamovo seme in laneno seme)"
+OSTANE : ['mešanice', 'semen', 'sončnično', 'seme', 'seme', 'sezamovo', 'seme', 'laneno', 'seme'] <- - - - - - "mešanice semen (sončnično seme, bučno seme, sezamovo seme in laneno seme)"
 
 class=""label-inline"">4 <- - - - - - "do <span class=""label-inline"">4"
 
@@ -2043,7 +1954,7 @@ OSTANE : ['', 'ekstra', 'deviškega', 'olje'] <- - - - - - do 5 žlic ekstra dev
 svežih kruhovih drobtin
 OSTANE : ['svežih', 'drobtine'] <- - - - - - svežih kruhovih drobtin
 
-parmezana <- - - - - - sveže naribanega parmezana
+sir <- - - - - - sveže naribanega parmezana
 
 pecorina <- - - - - - sveže naribanega pecorina
 
@@ -2060,8 +1971,7 @@ OSTANE : [] <- - - - - - voda
 vina (Sivi pinot)
 OSTANE : ['vino', 'Sivi', 'pinot'] <- - - - - - vina (Sivi pinot)
 
-"šopka sveže <a href=""https://www.kulinarika.net/recepti/zacimbe/81/melisa/"">melise</a>"
-OSTANE : ['šopka', 'melise'] <- - - - - - "šopka sveže <a href=""https://www.kulinarika.net/recepti/zacimbe/81/melisa/"">melise</a>"
+melise <- - - - - - "šopka sveže <a href=""https://www.kulinarika.net/recepti/zacimbe/81/melisa/"">melise</a>"
 
 b>Testo:</b <- - - - - - <b>Testo:</b>
 
@@ -2083,7 +1993,7 @@ rum <- - - - - - rum
 
 b>Krema:</b <- - - - - - <b>Krema:</b>
 
-beljaki <- - - - - - beljaki
+jajca <- - - - - - beljaki
 
 sladkor <- - - - - - sladkorja v prahu
 
@@ -2099,12 +2009,11 @@ pirine polnozrnate moke
 OSTANE : ['pirine', 'moka'] <- - - - - - pirine polnozrnate moke
 
 bele pšenične moke (tip 500)
-OSTANE : ['pšenične', 'moka', 'tip'] <- - - - - - bele pšenične moke (tip 500)
+OSTANE : ['pšenične', 'moka'] <- - - - - - bele pšenične moke (tip 500)
 
 sol <- - - - - - soli
 
-srednje veliki jajci
-OSTANE : ['veliki', 'jajca'] <- - - - - - srednje veliki jajci
+jajca <- - - - - - srednje veliki jajci
 
 olje <- - - - - - jušna žlica olja
 
@@ -2114,7 +2023,7 @@ OSTANE : ['jušni', 'žlici', 'voda', 'lahko', 'več'] <- - - - - - "jušni žli
 b>Nadev:</b <- - - - - - <b>Nadev:</b>
 
 "srednje veliko <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
-OSTANE : ['veliko', 'jabolko'] <- - - - - - "srednje veliko <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
+OSTANE : ['veliko', 'jabolka'] <- - - - - - "srednje veliko <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
 
 orehovih jedrc
 OSTANE : ['orehovih', 'jedrc'] <- - - - - - orehovih jedrc
@@ -2135,7 +2044,7 @@ beljak (za mazanje robov žepkov)
 OSTANE : ['beljak', 'mazanje', 'robov', 'žepkov'] <- - - - - - beljak (za mazanje robov žepkov)
 
 "manjše orade (približno <span class=""label-inline"">200 - 250 g"
-OSTANE : ['manjše', 'orade', 'približno', 'class=""label-inline"">200', '', '', 'g'] <- - - - - - "manjše orade (približno <span class=""label-inline"">200 - 250 g"
+OSTANE : ['orade', 'približno', 'class=""label-inline"">200', '', '', 'g'] <- - - - - - "manjše orade (približno <span class=""label-inline"">200 - 250 g"
 
 bučka <- - - - - - bučka
 
@@ -2147,12 +2056,11 @@ polente <- - - - - - polente
 Cabernet sauvignona
 OSTANE : ['Cabernet', 'sauvignona'] <- - - - - - Cabernet sauvignona
 
-parmezana <- - - - - - sveže naribanega parmezana
+sir <- - - - - - sveže naribanega parmezana
 
 olje <- - - - - - olivno olje
 
-zrna nasekljanega česna
-OSTANE : ['zrna', 'nasekljanega', 'česen'] <- - - - - - zrna nasekljanega česna
+česen <- - - - - - zrna nasekljanega česna
 
 "ali 2 <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
 OSTANE : ['', 'poper'] <- - - - - - "ali 2 <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
@@ -2242,11 +2150,11 @@ rum <- - - - - - ruma
 OSTANE : ['b>Skutin', 'nadev:</b'] <- - - - - - <b>Skutin nadev:</b>
 
 pasirane skute
-OSTANE : ['pasirane', 'skute'] <- - - - - - pasirane skute
+OSTANE : ['pasirane', 'skuta'] <- - - - - - pasirane skute
 
 sladkor <- - - - - - sladkorja
 
-beljaki <- - - - - - beljaki
+jajca <- - - - - - beljaki
 
 gresa <- - - - - - gresa
 
@@ -2425,8 +2333,7 @@ OSTANE : ['puding', 'vanilija', 'čokolada', 'lešnik'] <- - - - - - "puding (<a
 
 mleko <- - - - - - mleka
 
-sladke smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - sladke smetane za stepanje
+smetana <- - - - - - sladke smetane za stepanje
 
 "višnjev kompot (ali sočno sadje po izbiri, na primer jabolčna čežana)"
 OSTANE : ['višnjev', 'kompot', 'sočno', 'sadje', 'izbiri', 'primer', 'jabolčna', 'čežana'] <- - - - - - "višnjev kompot (ali sočno sadje po izbiri, na primer jabolčna čežana)"
@@ -2480,8 +2387,7 @@ jajca <- - - - - - jajc
 
 šunke <- - - - - - šunke
 
-šopek drobnjaka
-OSTANE : ['šopek', 'drobnjak'] <- - - - - - šopek drobnjaka
+drobnjak <- - - - - - šopek drobnjaka
 
 "tablica čokolade s <span class=""label-inline"">70%"
 OSTANE : ['tablica', 'čokolada', 'class=""label-inline"">70%'] <- - - - - - "tablica čokolade s <span class=""label-inline"">70%"
@@ -2490,7 +2396,7 @@ skodelic mleka
 OSTANE : ['skodelic', 'mleko'] <- - - - - - skodelic mleka
 
 veliki žlici sladkorja
-OSTANE : ['veliki', 'žlici', 'sladkor'] <- - - - - - veliki žlici sladkorja
+OSTANE : ['žlici', 'sladkor'] <- - - - - - veliki žlici sladkorja
 
 "mleti <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a> (po okusu)"
 OSTANE : ['mleti', 'cimet'] <- - - - - - "mleti <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a> (po okusu)"
@@ -2498,8 +2404,7 @@ OSTANE : ['mleti', 'cimet'] <- - - - - - "mleti <a href=""https://www.kulinarika
 <b>Za pripravo fižolovih njokov:</b>
 OSTANE : ['b>Za', 'pripravo', 'fižolovih', 'njokov:</b'] <- - - - - - <b>Za pripravo fižolovih njokov:</b>
 
-srednje veliki krompirji 
-OSTANE : ['veliki', 'krompir'] <- - - - - - srednje veliki krompirji 
+krompir <- - - - - - srednje veliki krompirji 
 
 rjavega fižola v slanici 
 OSTANE : ['fižol', 'slanici'] <- - - - - - rjavega fižola v slanici 
@@ -2562,13 +2467,11 @@ OSTANE : ['b>Skutin', 'nadev:</b'] <- - - - - - <b>Skutin nadev:</b>
 narezanih višenj iz kompota
 OSTANE : ['višenj', 'kompota'] <- - - - - - narezanih višenj iz kompota
 
-nepasirane skute
-OSTANE : ['nepasirane', 'skute'] <- - - - - - nepasirane skute
+skuta <- - - - - - nepasirane skute
 
 smetana <- - - - - - kisle smetane
 
-pšeničnega zdroba
-OSTANE : ['pšeničnega', 'zdrob'] <- - - - - - pšeničnega zdroba
+zdrob <- - - - - - pšeničnega zdroba
 
 sladkor <- - - - - - sladkorja
 
@@ -2588,10 +2491,10 @@ pirine moke
 OSTANE : ['pirine', 'moka'] <- - - - - - pirine moke
 
 srednje veliki žlički soli
-OSTANE : ['veliki', 'žlički', 'sol'] <- - - - - - srednje veliki žlički soli
+OSTANE : ['žlički', 'sol'] <- - - - - - srednje veliki žlički soli
 
 srednje veliki žlički sode bikarbone
-OSTANE : ['veliki', 'žlički', 'sode', 'bikarbone'] <- - - - - - srednje veliki žlički sode bikarbone
+OSTANE : ['žlički', 'sode', 'bikarbone'] <- - - - - - srednje veliki žlički sode bikarbone
 
 tople vode
 OSTANE : ['tople', 'voda'] <- - - - - - tople vode
@@ -2633,7 +2536,7 @@ male svinjske ribice
 OSTANE : ['male', 'svinjske', 'ribice'] <- - - - - - male svinjske ribice
 
 rezin slanine/ prekajene slanine/ pršuta
-OSTANE : ['slanine', 'prekajene', 'slanine', 'pršuta'] <- - - - - - rezin slanine/ prekajene slanine/ pršuta
+OSTANE : ['slanine', 'prekajene', 'slanine', 'svinjina'] <- - - - - - rezin slanine/ prekajene slanine/ pršuta
 
 gorčica <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorčica</a>"
 
@@ -2642,7 +2545,7 @@ OSTANE : ['maslo', 'lahko', 'zeliščno'] <- - - - - - maslo (lahko zeliščno)
 
 čebula <- - - - - - čebula
 
-skute <- - - - - - skute
+skuta <- - - - - - skute
 
 smetane za kuhanje
 OSTANE : ['smetana', 'kuhanje'] <- - - - - - smetane za kuhanje
@@ -2668,7 +2571,7 @@ korenov <- - - - - - večjih korenov
 čebula <- - - - - - manjša rdeča čebula
 
 "šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a> (ali drobnjaka)"
-OSTANE : ['šopek', 'peteršilj', 'drobnjak'] <- - - - - - "šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a> (ali drobnjaka)"
+OSTANE : ['peteršilj', 'drobnjak'] <- - - - - - "šopek <a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a> (ali drobnjaka)"
 
 jajca <- - - - - - jajci
 
@@ -2832,8 +2735,7 @@ paprika <- - - - - - papriki
 
 paradižnik <- - - - - - paradižnika
 
-zelenjavna omaka
-OSTANE : ['zelenjavna', 'omaka'] <- - - - - - zelenjavna omaka
+zelenjavna <- - - - - - zelenjavna omaka
 
 mala kisla smetana
 OSTANE : ['mala', 'smetana'] <- - - - - - mala kisla smetana
@@ -2984,7 +2886,7 @@ OSTANE : ['mlačnega', 'mleko'] <- - - - - - mlačnega mleka
 ribe <- - - - - - večja konzerva tune
 
 večja bučka ali 2 manjši
-OSTANE : ['bučka', '', 'manjši'] <- - - - - - večja bučka ali 2 manjši
+OSTANE : ['bučka', ''] <- - - - - - večja bučka ali 2 manjši
 
 "smetana za kuhanje (<span class=""label-inline"">2 dl"
 OSTANE : ['smetana', 'kuhanje', 'class=""label-inline"">2'] <- - - - - - "smetana za kuhanje (<span class=""label-inline"">2 dl"
@@ -3075,7 +2977,7 @@ OSTANE : ['piščančjega', 'meso', 'juhe', 'ostanki', 'pečenega', 'piščanca'
 mozzarelle <- - - - - - naribane mozzarelle
 
 naribanega parmezana ali grana padano
-OSTANE : ['parmezana', 'grana', 'padano'] <- - - - - - naribanega parmezana ali grana padano
+OSTANE : ['sir', 'grana', 'padano'] <- - - - - - naribanega parmezana ali grana padano
 
 starega kruha namočenega v mleku
 OSTANE : ['starega', 'kruh', 'namočenega', 'mleku'] <- - - - - - starega kruha namočenega v mleku
@@ -3124,7 +3026,7 @@ poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/pop
 
 olje <- - - - - - olje
 
-skute <- - - - - - skute
+skuta <- - - - - - skute
 
 jajca <- - - - - - jajca
 
@@ -3220,7 +3122,7 @@ OSTANE : ['čajne', 'žličke', 'vanilijeve', 'arome'] <- - - - - - "čajne žli
 banana <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banana</a>"
 
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zeleno</a> <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a> ali 1 hruška"
-OSTANE : ['zeleno', 'jabolko', '', 'hruška'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zeleno</a> <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a> ali 1 hruška"
+OSTANE : ['zeleno', 'jabolka', '', 'hruška'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zeleno</a> <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a> ali 1 hruška"
 
 špinače <- - - - - - špinače 
 
@@ -3275,8 +3177,7 @@ OSTANE : ['klinčkov', 'aka', 'nageljnovih', 'žbic'] <- - - - - - "<a href=""ht
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a> v skorji, alternativa: 1 čajna žlička <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a> v prahu"
 OSTANE : ['cimet', 'skorji', 'alternativa:', '', 'čajna', 'žlička', 'cimet'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a> v skorji, alternativa: 1 čajna žlička <a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a> v prahu"
 
-velikih žlic sladkorja
-OSTANE : ['velikih', 'sladkor'] <- - - - - - velikih žlic sladkorja
+sladkor <- - - - - - velikih žlic sladkorja
 
 "cm svežega ingverja, lahko tudi 2 žlici ingverja v prahu"
 OSTANE : ['cm', 'ingver', 'lahko', '', 'žlici', 'ingver'] <- - - - - - "cm svežega ingverja, lahko tudi 2 žlici ingverja v prahu"
@@ -3297,7 +3198,7 @@ OSTANE : ['rakovih', 'repkov'] <- - - - - - rakovih repkov
 avokado <- - - - - - avokada
 
 listi koriandra
-OSTANE : ['listi', 'koriandra'] <- - - - - - listi koriandra
+OSTANE : ['list', 'koriandra'] <- - - - - - listi koriandra
 
 kapre <- - - - - - kapre
 
@@ -3315,7 +3216,7 @@ suha kvasa / 1 svež kvas
 OSTANE : ['kvas', '', '', 'svež', 'kvas'] <- - - - - - suha kvasa / 1 svež kvas
 
 očiščenih srednje velikih lignjev
-OSTANE : ['očiščenih', 'velikih', 'lignjev'] <- - - - - - očiščenih srednje velikih lignjev
+OSTANE : ['očiščenih', 'lignjev'] <- - - - - - očiščenih srednje velikih lignjev
 
 pire <- - - - - - pire
 
@@ -3393,7 +3294,7 @@ smetana <- - - - - - kisla smetana
 sladkor <- - - - - - sladkor
 
 pehtran (približno 2 šopka)
-OSTANE : ['pehtran', 'približno', '', 'šopka'] <- - - - - - pehtran (približno 2 šopka)
+OSTANE : ['pehtran', 'približno', ''] <- - - - - - pehtran (približno 2 šopka)
 
 b>Testo:</b <- - - - - - <b>Testo:</b>
 
@@ -3520,14 +3421,12 @@ OSTANE : ['b>Za', 'pripravo', 'nadeva:', 'b'] <- - - - - - <b>Za pripravo nadeva
 
 brokolija <- - - - - - glava brokolija
 
-strokov česna 
-OSTANE : ['strokov', 'česen'] <- - - - - - strokov česna 
+česen <- - - - - - strokov česna 
 
-nepasirane skute 
-OSTANE : ['nepasirane', 'skute'] <- - - - - - nepasirane skute 
+skuta <- - - - - - nepasirane skute 
 
 dimljenega sira (ali parmezana) 
-OSTANE : ['dimljenega', 'sir', 'parmezana'] <- - - - - - dimljenega sira (ali parmezana) 
+OSTANE : ['dimljenega', 'sir', 'sir'] <- - - - - - dimljenega sira (ali parmezana) 
 
 sol <- - - - - - sol 
 
@@ -3562,8 +3461,7 @@ OSTANE : ['precejene', 'kave'] <- - - - - - "močne, precejene kave"
 
 cimet <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimeta</a>"
 
-strokov kardamoma
-OSTANE : ['strokov', 'kardamoma'] <- - - - - - strokov kardamoma
+kardamoma <- - - - - - strokov kardamoma
 
 mleka (približno 2 jušni žlici)
 OSTANE : ['mleko', 'približno', '', 'jušni', 'žlici'] <- - - - - - mleka (približno 2 jušni žlici)
@@ -3858,7 +3756,7 @@ sladkor <- - - - - - rjavega sladkorja
 zelje <- - - - - - drobno narezanega rdečega zelja 
 
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a> granny smith (ali kakšno drugo čvrsto malo kiselkasto <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>), narezano na rezine"
-OSTANE : ['jabolko', 'granny', 'smith', 'kakšno', 'drugo', 'čvrsto', 'kiselkasto', 'jabolko'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a> granny smith (ali kakšno drugo čvrsto malo kiselkasto <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>), narezano na rezine"
+OSTANE : ['jabolka', 'granny', 'smith', 'kakšno', 'drugo', 'čvrsto', 'kiselkasto', 'jabolka'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a> granny smith (ali kakšno drugo čvrsto malo kiselkasto <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>), narezano na rezine"
 
 "+ <span class=""label-inline"">40 g"
 OSTANE : ['+', 'class=""label-inline"">40', 'g'] <- - - - - - "+ <span class=""label-inline"">40 g"
@@ -3867,10 +3765,10 @@ OSTANE : ['+', 'class=""label-inline"">40', 'g'] <- - - - - - "+ <span class=""l
 OSTANE : ['+', 'class=""label-inline"">2', 'žlici'] <- - - - - - "+ <span class=""label-inline"">2 žlici"
 
 nadrobljenega mehkega kozjega sira (chevré)
-OSTANE : ['nadrobljenega', 'mehkega', 'kozjega', 'sir', 'chevré'] <- - - - - - nadrobljenega mehkega kozjega sira (chevré)
+OSTANE : ['nadrobljenega', 'kozjega', 'sir', 'chevré'] <- - - - - - nadrobljenega mehkega kozjega sira (chevré)
 
 grobo nasekljanih orehov
-OSTANE : ['grobo', 'nasekljanih', 'orehi'] <- - - - - - grobo nasekljanih orehov
+OSTANE : ['nasekljanih', 'orehi'] <- - - - - - grobo nasekljanih orehov
 
 stisnjenega česna
 OSTANE : ['stisnjenega', 'česen'] <- - - - - - stisnjenega česna
@@ -3930,8 +3828,7 @@ mlasla <- - - - - - mlasla
 jedilni žlici kisle smetane
 OSTANE : ['jedilni', 'žlici', 'smetana'] <- - - - - - jedilni žlici kisle smetane
 
-"manjše <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
-OSTANE : ['manjše', 'jabolko'] <- - - - - - "manjše <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
+jabolka <- - - - - - "manjše <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
 
 beljak <- - - - - - beljak
 
@@ -3964,8 +3861,7 @@ OSTANE : ['beljakov', 'class=""label-inline"">4-5'] <- - - - - - "beljakov (<spa
 
 sladkor <- - - - - - sladkorja
 
-moke (tip 500)
-OSTANE : ['moka', 'tip'] <- - - - - - moke (tip 500)
+moka <- - - - - - moke (tip 500)
 
 mleko <- - - - - - mleka
 
@@ -4011,8 +3907,7 @@ OSTANE : ['b>Krema', 'after', 'eight', ':</b'] <- - - - - - "<b>Krema ""after ei
 
 čokolada <- - - - - - bele čokolade
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 ekstrakta mete
 OSTANE : ['ekstrakta', 'mete'] <- - - - - - ekstrakta mete
@@ -4022,8 +3917,7 @@ OSTANE : ['b>Čokoladna', 'krema:</b'] <- - - - - - <b>Čokoladna krema:</b>
 
 čokolada <- - - - - - jedilne čokolade
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 b>Biskvit:</b <- - - - - - <b>Biskvit:</b>
 
@@ -4151,8 +4045,7 @@ limona <- - - - - - sok ene limone
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorčičnih semen</a>"
 OSTANE : ['gorčič', 'semen</a'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/37/gorcica/"">gorčičnih semen</a>"
 
-manjši jajčevci
-OSTANE : ['manjši', 'jajčevci'] <- - - - - - manjši jajčevci
+jajčevci <- - - - - - manjši jajčevci
 
 "mocarele (večja, za lažje rezanje)"
 OSTANE : ['mocarele', 'lažje', 'rezanje'] <- - - - - - "mocarele (večja, za lažje rezanje)"
@@ -4169,7 +4062,7 @@ moka <- - - - - - moka
 
 olje <- - - - - - olivno olje
 
-parmezana <- - - - - - parmezana
+sir <- - - - - - parmezana
 
 kokosove maščobe
 OSTANE : ['kokosove', 'maščobe'] <- - - - - - kokosove maščobe
@@ -4188,17 +4081,17 @@ OSTANE : ['zravnane', 'žličke'] <- - - - - - zravnane žličke pecilnega praš
 jajca <- - - - - - jajci
 
 veliki žlici mleka
-OSTANE : ['veliki', 'žlici', 'mleko'] <- - - - - - veliki žlici mleka
+OSTANE : ['žlici', 'mleko'] <- - - - - - veliki žlici mleka
 
 sesekljanih (ali zelo grobo mletih orehov)
-OSTANE : ['zelo', 'grobo', 'mletih', 'orehi'] <- - - - - - sesekljanih (ali zelo grobo mletih orehov)
+OSTANE : ['zelo', 'mletih', 'orehi'] <- - - - - - sesekljanih (ali zelo grobo mletih orehov)
 
 rozin <- - - - - - rozin
 
 sladkor <- - - - - - mletega sladkorja
 
 veliki žlici limoninega soka
-OSTANE : ['veliki', 'žlici', 'limona'] <- - - - - - veliki žlici limoninega soka
+OSTANE : ['žlici', 'limona'] <- - - - - - veliki žlici limoninega soka
 
 srebrne sladkorne kroglice
 OSTANE : ['srebrne', 'sladkorne', 'kroglice'] <- - - - - - srebrne sladkorne kroglice
@@ -4241,7 +4134,7 @@ paradižnik <- - - - - - suha paradižnika
 
 špinače <- - - - - - sveže špinače
 
-parmezana <- - - - - - parmezana
+sir <- - - - - - parmezana
 
 drobtine <- - - - - - drobtin
 
@@ -4377,8 +4270,7 @@ OSTANE : ['suhih', 'fig'] <- - - - - - "suhih fig, narezanih "
 
 marelice <- - - - - - "marelic, narezanih"
 
-"orehov, grobo sesekljanih "
-OSTANE : ['orehi', 'grobo'] <- - - - - - "orehov, grobo sesekljanih "
+orehi <- - - - - - "orehov, grobo sesekljanih "
 
 limona <- - - - - - limonina lupina
 
@@ -4405,13 +4297,12 @@ poper <- - - - - - "soli in <a href=""https://www.kulinarika.net/recepti/zacimbe
 peteršilj <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a>"
 
 "bučno olje (100%, domače)"
-OSTANE : ['bučno', 'olje', '%', 'domače'] <- - - - - - "bučno olje (100%, domače)"
+OSTANE : ['olje', '%'] <- - - - - - "bučno olje (100%, domače)"
 
 "belo olje (sončnično, rastlinsko, repično,..)"
 OSTANE : ['belo', 'olje', 'sončnično', 'rastlinsko', 'repično'] <- - - - - - "belo olje (sončnično, rastlinsko, repično,..)"
 
-jabolčni kis
-OSTANE : ['jabolčni', 'kis'] <- - - - - - jabolčni kis
+kis <- - - - - - jabolčni kis
 
 feta sir
 OSTANE : ['sir', 'sir'] <- - - - - - feta sir
@@ -4434,15 +4325,13 @@ b>Karamel:</b <- - - - - - <b>Karamel:</b>
 
 sladkor <- - - - - - sladkorja
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 b>Čokolada:</b <- - - - - - <b>Čokolada:</b>
 
 čokolada <- - - - - - jedilne čokolade
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 <b>Za testo:</b>
 OSTANE : ['b>Za', 'testo:</b'] <- - - - - - <b>Za testo:</b>
@@ -4461,11 +4350,9 @@ poper <- - - - - - "sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/10
 <b>Za nadev:</b>
 OSTANE : ['b>Za', 'nadev:</b'] <- - - - - - <b>Za nadev:</b>
 
-srednji čebuli
-OSTANE : ['srednji', 'čebula'] <- - - - - - srednji čebuli
+čebula <- - - - - - srednji čebuli
 
-strokov česna
-OSTANE : ['strokov', 'česen'] <- - - - - - strokov česna
+česen <- - - - - - strokov česna
 
 svežih šampinjonov
 OSTANE : ['svežih', 'gobe'] <- - - - - - svežih šampinjonov
@@ -4482,8 +4369,7 @@ OSTANE : ['b>Za', 'paradižnikovo', 'omako:</b'] <- - - - - - <b>Za paradižniko
 
 česen <- - - - - - stroki česna
 
-paradižnikove omake
-OSTANE : ['paradižnik', 'omake'] <- - - - - - paradižnikove omake
+paradižnik <- - - - - - paradižnikove omake
 
 "sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>, <a href=""https://www.kulinarika.net/recepti/zacimbe/76/majaron/"">majaron</a>, origano"
 OSTANE : ['sol', 'poper', 'majaron', 'origano'] <- - - - - - "sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>, <a href=""https://www.kulinarika.net/recepti/zacimbe/76/majaron/"">majaron</a>, origano"
@@ -4519,8 +4405,7 @@ OSTANE : ['b>Karamela:', 'b'] <- - - - - - <b>Karamela: </b>
 kondenziranega mleka
 OSTANE : ['kondenziranega', 'mleko'] <- - - - - - kondenziranega mleka
 
-mehkega rjavega sladkorja
-OSTANE : ['mehkega', 'sladkor'] <- - - - - - mehkega rjavega sladkorja
+sladkor <- - - - - - mehkega rjavega sladkorja
 
 maslo <- - - - - - masla
 
@@ -4583,8 +4468,7 @@ banane <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/9/bana
 
 sladkor <- - - - - - sladkorja
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 "želatine (<span class=""label-inline"">6"
 OSTANE : ['želatina', 'class=""label-inline"">6'] <- - - - - - "želatine (<span class=""label-inline"">6"
@@ -4592,13 +4476,12 @@ OSTANE : ['želatina', 'class=""label-inline"">6'] <- - - - - - "želatine (<spa
 faširanega mesa (mešano)
 OSTANE : ['faširanega', 'meso', 'mešano'] <- - - - - - faširanega mesa (mešano)
 
-srednji čebuli
-OSTANE : ['srednji', 'čebula'] <- - - - - - srednji čebuli
+čebula <- - - - - - srednji čebuli
 
 česen <- - - - - - česna
 
 "zmleti žemljici, manjši"
-OSTANE : ['zmleti', 'žemljici', 'manjši'] <- - - - - - "zmleti žemljici, manjši"
+OSTANE : ['zmleti', 'žemljici'] <- - - - - - "zmleti žemljici, manjši"
 
 jajca <- - - - - - jajci
 
@@ -4694,7 +4577,7 @@ mleko <- - - - - - mleka
 sira gavda ali edamec
 OSTANE : ['sir', 'gavda', 'edamec'] <- - - - - - sira gavda ali edamec
 
-parmezana <- - - - - - parmezana
+sir <- - - - - - parmezana
 
 """speckwürfel"" iz Hoferja (lahko tudi na koščke narezana prekajena slanina, pršut...)"
 OSTANE : ['speckwürfel', 'Hoferja', 'lahko', 'prekajena', 'slanina', 'pršut'] <- - - - - - """speckwürfel"" iz Hoferja (lahko tudi na koščke narezana prekajena slanina, pršut...)"
@@ -4725,7 +4608,7 @@ OSTANE : ['paradižnik', 'bolj', 'zrelega'] <- - - - - - paradižnika (bolj zrel
 olje <- - - - - - belega olja
 
 kisa (jaz uporabljam domač jabolčni kis)
-OSTANE : ['kis', 'jaz', 'uporabljam', 'domač', 'jabolčni', 'kis'] <- - - - - - kisa (jaz uporabljam domač jabolčni kis)
+OSTANE : ['kis', 'jaz', 'uporabljam', 'kis'] <- - - - - - kisa (jaz uporabljam domač jabolčni kis)
 
 sladkor <- - - - - - sladkorja
 
@@ -4753,7 +4636,7 @@ OSTANE : ['piščančjih', 'prsi'] <- - - - - - piščančjih prsi
 sladkor <- - - - - - rjavega sladkorja
 
 svetle sojine omake 
-OSTANE : ['svetle', 'sojine', 'omake'] <- - - - - - svetle sojine omake 
+OSTANE : ['svetle', 'sojine'] <- - - - - - svetle sojine omake 
 
 limona <- - - - - - limona
 
@@ -4875,13 +4758,13 @@ OSTANE : ['rozin', 'predhodno', 'rum', 'namakamo', 'jih', 'uro'] <- - - - - - ro
 jajca <- - - - - - jajci
 
 velikih žlic kisle smetane (lahko skuta)
-OSTANE : ['velikih', 'smetana', 'lahko', 'skuta'] <- - - - - - velikih žlic kisle smetane (lahko skuta)
+OSTANE : ['smetana', 'lahko', 'skuta'] <- - - - - - velikih žlic kisle smetane (lahko skuta)
 
 <b>Za premaz:</b>
 OSTANE : ['b>Za', 'premaz:</b'] <- - - - - - <b>Za premaz:</b>
 
 veliki žlici kisle smetane
-OSTANE : ['veliki', 'žlici', 'smetana'] <- - - - - - veliki žlici kisle smetane
+OSTANE : ['žlici', 'smetana'] <- - - - - - veliki žlici kisle smetane
 
 sladkor <- - - - - - sladkorja
 
@@ -4928,8 +4811,7 @@ paradižnik <- - - - - - paradižnik
 
 čebula <- - - - - - čebula 
 
-strokov česna
-OSTANE : ['strokov', 'česen'] <- - - - - - strokov česna
+česen <- - - - - - strokov česna
 
 gobe <- - - - - - šampinjonov 
 
@@ -4999,7 +4881,7 @@ telečjih jeter
 OSTANE : ['telečjih', 'jeter'] <- - - - - - telečjih jeter
 
 temeljne omake (recept je v bazi)
-OSTANE : ['temeljne', 'omake', 'recept', 'bazi'] <- - - - - - temeljne omake (recept je v bazi)
+OSTANE : ['temeljne', 'recept', 'bazi'] <- - - - - - temeljne omake (recept je v bazi)
 
 krompir <- - - - - - krompirja
 
@@ -5028,7 +4910,7 @@ poper <- - - - - - "sol in <a href=""https://www.kulinarika.net/recepti/zacimbe/
 peteršilj <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a>"
 
 večja kavna ali srednja čajna posodica testenin
-OSTANE : ['kavna', 'srednja', 'čajna', 'posodica', 'testenine'] <- - - - - - večja kavna ali srednja čajna posodica testenin
+OSTANE : ['kavna', 'čajna', 'posodica', 'testenine'] <- - - - - - večja kavna ali srednja čajna posodica testenin
 
 paket puranjih ali piščančjih prsi
 OSTANE : ['paket', 'puranjih', 'piščančjih', 'prsi'] <- - - - - - paket puranjih ali piščančjih prsi
@@ -5097,7 +4979,7 @@ voda <- - - - - - vode
 moka <- - - - - - bele moke
 
 grobo mletih bučnih semen (golice)
-OSTANE : ['grobo', 'mletih', 'bučnih', 'semen', 'golice'] <- - - - - - grobo mletih bučnih semen (golice)
+OSTANE : ['mletih', 'bučnih', 'semen', 'golice'] <- - - - - - grobo mletih bučnih semen (golice)
 
 moka <- - - - - - bele moke
 
@@ -5124,7 +5006,7 @@ mleko <- - - - - - mleka
 olje <- - - - - - olja
 
 grobo zdrobljenih pistacij
-OSTANE : ['grobo', 'zdrobljenih', 'pistacija'] <- - - - - - grobo zdrobljenih pistacij
+OSTANE : ['zdrobljenih', 'pistacija'] <- - - - - - grobo zdrobljenih pistacij
 
 škroba <- - - - - - jedilnega škroba
 
@@ -5163,7 +5045,7 @@ sadja <- - - - - - narezanega suhega sadja
 OSTANE : ['b>Piškotno', 'dno:</b'] <- - - - - - <b>Piškotno dno:</b>
 
 grobo zdrobljenih keksov 
-OSTANE : ['grobo', 'zdrobljenih', 'keksov'] <- - - - - - grobo zdrobljenih keksov 
+OSTANE : ['zdrobljenih', 'keksov'] <- - - - - - grobo zdrobljenih keksov 
 
 jedilnih žlic mleka
 OSTANE : ['jedilnih', 'mleko'] <- - - - - - jedilnih žlic mleka
@@ -5229,7 +5111,7 @@ masla sobne temperature
 OSTANE : ['maslo', 'sobne', 'temperature'] <- - - - - - masla sobne temperature
 
 grobo mletih lešnikov
-OSTANE : ['grobo', 'mletih', 'lešnikov'] <- - - - - - grobo mletih lešnikov
+OSTANE : ['mletih', 'lešnikov'] <- - - - - - grobo mletih lešnikov
 
 večji naribani jabolki
 OSTANE : ['naribani', 'jabolki'] <- - - - - - večji naribani jabolki
@@ -5311,7 +5193,7 @@ sol <- - - - - - soli
 OSTANE : ['b>Za', 'SRCE', 'SREDICO', 'okrogel', 'pekač', 'premera', '', 'cm):</b'] <- - - - - - <b>Za SRCE oz. SREDICO (okrogel pekač premera 34 cm):</b>
 
 "moke tip <span class=""label-inline"">400 "
-OSTANE : ['moka', 'tip', 'class=""label-inline"">400'] <- - - - - - "moke tip <span class=""label-inline"">400 "
+OSTANE : ['moka', 'class=""label-inline"">400'] <- - - - - - "moke tip <span class=""label-inline"">400 "
 
 sladkor <- - - - - - sladkorja
 
@@ -5336,7 +5218,7 @@ sol <- - - - - - soli
 OSTANE : ['b>Za', 'OBROBNI', 'DEL', 'PECIVA:</b'] <- - - - - - <b>Za OBROBNI DEL PECIVA:</b>
 
 "moke tip <span class=""label-inline"">400 "
-OSTANE : ['moka', 'tip', 'class=""label-inline"">400'] <- - - - - - "moke tip <span class=""label-inline"">400 "
+OSTANE : ['moka', 'class=""label-inline"">400'] <- - - - - - "moke tip <span class=""label-inline"">400 "
 
 jajca <- - - - - - jajc
 
@@ -5454,7 +5336,7 @@ smetana <- - - - - - sladke smetane
 
 jajca <- - - - - - jajc
 
-parmezana <- - - - - - parmezana
+sir <- - - - - - parmezana
 
 testenine <- - - - - - špagetov
 
@@ -5490,8 +5372,7 @@ OSTANE : ['prekajene', 'slanine'] <- - - - - - prekajene slanine
 glavice česna
 OSTANE : ['glavice', 'česen'] <- - - - - - glavice česna
 
-lovorjevi listi
-OSTANE : ['lovorjev', 'listi'] <- - - - - - lovorjevi listi
+lovorjev list <- - - - - - lovorjevi listi
 
 "čž celega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
 OSTANE : ['čž', 'celega', 'poper'] <- - - - - - "čž celega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
@@ -5510,7 +5391,7 @@ sol <- - - - - - sol
 olje <- - - - - - olja
 
 jž domače vegete
-OSTANE : ['jž', 'domače', 'vegete'] <- - - - - - jž domače vegete
+OSTANE : ['jž', 'vegete'] <- - - - - - jž domače vegete
 
 <b>Čokoladni biskvit:</b>
 OSTANE : ['b>Čokoladni', 'biskvit:</b'] <- - - - - - <b>Čokoladni biskvit:</b>
@@ -5585,8 +5466,7 @@ maslo <- - - - - - masla
 
 cimet <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/16/cimet/"">cimet</a>"
 
-veliki jabolki
-OSTANE : ['veliki', 'jabolki'] <- - - - - - veliki jabolki
+jabolki <- - - - - - veliki jabolki
 
 mleko <- - - - - - mleka
 
@@ -5708,7 +5588,7 @@ OSTANE : ['orehi', 'lešniki', 'mandlji'] <- - - - - - "orehi, lešniki, mandlji
 b>Testo:</b <- - - - - - <b>Testo:</b>
 
 "moke tipa <span class=""label-inline"">500"
-OSTANE : ['moka', 'tipa', 'class=""label-inline"">500'] <- - - - - - "moke tipa <span class=""label-inline"">500"
+OSTANE : ['moka', 'class=""label-inline"">500'] <- - - - - - "moke tipa <span class=""label-inline"">500"
 
 Nutelle <- - - - - - Nutelle
 
@@ -5720,7 +5600,7 @@ OSTANE : ['b>Nadev:', 'b'] <- - - - - - <b>Nadev: </b>
 Nutelle <- - - - - - Nutelle
 
 lešnikovega krokanta ali grobo zdrobljenih lešnikov
-OSTANE : ['lešnikovega', 'krokanta', 'grobo', 'zdrobljenih', 'lešnikov'] <- - - - - - lešnikovega krokanta ali grobo zdrobljenih lešnikov
+OSTANE : ['lešnikovega', 'krokanta', 'zdrobljenih', 'lešnikov'] <- - - - - - lešnikovega krokanta ali grobo zdrobljenih lešnikov
 
 moka <- - - - - - moke
 
@@ -5769,7 +5649,7 @@ sladkor <- - - - - - sladkorja
 OSTANE : ['vanilijev', 'sladkor'] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijev</a> sladkor"
 
 veliki jajci sobne temperature
-OSTANE : ['veliki', 'jajca', 'sobne', 'temperature'] <- - - - - - veliki jajci sobne temperature
+OSTANE : ['jajca', 'sobne', 'temperature'] <- - - - - - veliki jajci sobne temperature
 
 sol <- - - - - - soli 
 
@@ -5919,7 +5799,7 @@ blanširane špinače
 OSTANE : ['blanširane', 'špinače'] <- - - - - - blanširane špinače 
 
 narezanega pečenega pršuta
-OSTANE : ['pečenega', 'pršuta'] <- - - - - - narezanega pečenega pršuta
+OSTANE : ['pečenega', 'svinjina'] <- - - - - - narezanega pečenega pršuta
 
 sol <- - - - - - soli
 
@@ -5928,7 +5808,7 @@ poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/pop
 origano <- - - - - - jedilna žlica origana
 
 ribanega parmezana
-OSTANE : ['ribanega', 'parmezana'] <- - - - - - ribanega parmezana
+OSTANE : ['ribanega', 'sir'] <- - - - - - ribanega parmezana
 
 jajca <- - - - - - jajc
 
@@ -6033,7 +5913,7 @@ OSTANE : ['nad', 'paro', 'stopljene', 'čokolada'] <- - - - - - nad paro stoplje
 moka <- - - - - - moke
 
 grobo zdrobljenih orehov
-OSTANE : ['grobo', 'zdrobljenih', 'orehi'] <- - - - - - grobo zdrobljenih orehov
+OSTANE : ['zdrobljenih', 'orehi'] <- - - - - - grobo zdrobljenih orehov
 
 limona <- - - - - - limoninega soka
 
@@ -6099,7 +5979,7 @@ margarina <- - - - - - margarine
 sladkor <- - - - - - sladkorja
 
 veliki žlici medu
-OSTANE : ['veliki', 'žlici', 'medu'] <- - - - - - veliki žlici medu
+OSTANE : ['žlici', 'medu'] <- - - - - - veliki žlici medu
 
 jajca <- - - - - - jajce
 
@@ -6149,7 +6029,7 @@ vanilija <- - - - - - "mlete <a href=""https://www.kulinarika.net/recepti/zacimb
 sol <- - - - - - soli
 
 mehkega avokada  
-OSTANE : ['mehkega', 'avokado', ''] <- - - - - - mehkega avokada  
+OSTANE : ['avokado', ''] <- - - - - - mehkega avokada  
 
 "<a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banana</a>, zelo zrela         "
 OSTANE : ['banana', 'zelo', 'zrela', '', '', '', '', '', '', '', ''] <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banana</a>, zelo zrela         "
@@ -6246,16 +6126,14 @@ borovnic <- - - - - - borovnic
 
 sladkor <- - - - - - sladkorja
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 želatina <- - - - - - želatine v prahu
 
 <b>Smetanov nadev:</b>
 OSTANE : ['b>Smetanov', 'nadev:</b'] <- - - - - - <b>Smetanov nadev:</b>
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 smetana <- - - - - - kisle smetane
 
@@ -6381,7 +6259,7 @@ OSTANE : ['sladkor', 'priporočam', 'muscovado'] <- - - - - - rjavega sladkorja 
 OSTANE : ['b>Za', 'bananino', 'testo:</b'] <- - - - - - <b>Za bananino testo:</b>
 
 "pšenične moke tip <span class=""label-inline"">500"
-OSTANE : ['pšenične', 'moka', 'tip', 'class=""label-inline"">500'] <- - - - - - "pšenične moke tip <span class=""label-inline"">500"
+OSTANE : ['pšenične', 'moka', 'class=""label-inline"">500'] <- - - - - - "pšenične moke tip <span class=""label-inline"">500"
 
 pecilnega praška
 OSTANE : [] <- - - - - - pecilnega praška
@@ -6408,7 +6286,7 @@ jajci velikosti L
 OSTANE : ['jajca', 'velikosti', 'L'] <- - - - - - jajci velikosti L
 
 "veliki zreli <a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banani</a>"
-OSTANE : ['veliki', 'zreli', 'banani'] <- - - - - - "veliki zreli <a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banani</a>"
+OSTANE : ['zreli', 'banani'] <- - - - - - "veliki zreli <a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banani</a>"
 
 rdeča ali roza jedilna barva
 OSTANE : ['roza', 'barva'] <- - - - - - rdeča ali roza jedilna barva
@@ -6417,7 +6295,7 @@ OSTANE : ['roza', 'barva'] <- - - - - - rdeča ali roza jedilna barva
 OSTANE : ['b>Za', 'čokoladno', 'testo:</b'] <- - - - - - <b>Za čokoladno testo:</b>
 
 "pšenične moke tip <span class=""label-inline"">500"
-OSTANE : ['pšenične', 'moka', 'tip', 'class=""label-inline"">500'] <- - - - - - "pšenične moke tip <span class=""label-inline"">500"
+OSTANE : ['pšenične', 'moka', 'class=""label-inline"">500'] <- - - - - - "pšenične moke tip <span class=""label-inline"">500"
 
 pecilnega praška
 OSTANE : [] <- - - - - - pecilnega praška
@@ -6453,10 +6331,10 @@ OSTANE : [] <- - - - - - pecilnega praška
 sol <- - - - - - soli
 
 grobo sesekljanih orehovih jedrc
-OSTANE : ['grobo', 'orehovih', 'jedrc'] <- - - - - - grobo sesekljanih orehovih jedrc
+OSTANE : ['orehovih', 'jedrc'] <- - - - - - grobo sesekljanih orehovih jedrc
 
 grobo nasekljane jedilne čokolade
-OSTANE : ['grobo', 'nasekljane', 'čokolada'] <- - - - - - grobo nasekljane jedilne čokolade
+OSTANE : ['nasekljane', 'čokolada'] <- - - - - - grobo nasekljane jedilne čokolade
 
 malih čokoladnih žitnih kroglic
 OSTANE : ['malih', 'čokoladnih', 'žitnih', 'kroglic'] <- - - - - - malih čokoladnih žitnih kroglic
@@ -6464,8 +6342,7 @@ OSTANE : ['malih', 'čokoladnih', 'žitnih', 'kroglic'] <- - - - - - malih čoko
 "posušenega paradižnika, vloženega v <span class=""label-inline"">1 dl"
 OSTANE : ['paradižnik', 'vloženega', 'class=""label-inline"">1'] <- - - - - - "posušenega paradižnika, vloženega v <span class=""label-inline"">1 dl"
 
-strokov česna
-OSTANE : ['strokov', 'česen'] <- - - - - - strokov česna
+česen <- - - - - - strokov česna
 
 čilija ali več po okusu
 OSTANE : ['čilija', 'več'] <- - - - - - čilija ali več po okusu
@@ -6581,7 +6458,7 @@ mascarponeja <- - - - - - mascarponeja
 smetana <- - - - - - sladke smetane
 
 veliki žlici Nutelle
-OSTANE : ['veliki', 'žlici', 'Nutelle'] <- - - - - - veliki žlici Nutelle
+OSTANE : ['žlici', 'Nutelle'] <- - - - - - veliki žlici Nutelle
 
 <b>Za navlažitev biskvita:</b>
 OSTANE : ['b>Za', 'navlažitev', 'biskvita:</b'] <- - - - - - <b>Za navlažitev biskvita:</b>
@@ -6607,7 +6484,7 @@ mrvice za okras
 OSTANE : ['mrvice', 'okras'] <- - - - - - mrvice za okras
 
 "bele moke tip <span class=""label-inline"">500"
-OSTANE : ['moka', 'tip', 'class=""label-inline"">500'] <- - - - - - "bele moke tip <span class=""label-inline"">500"
+OSTANE : ['moka', 'class=""label-inline"">500'] <- - - - - - "bele moke tip <span class=""label-inline"">500"
 
 zavitka suhega kvasa ali ¼ kocke (10 g) svežega
 OSTANE : ['zavitka', 'kvas', '¼', '', 'g'] <- - - - - - zavitka suhega kvasa ali ¼ kocke (10 g) svežega
@@ -6737,7 +6614,7 @@ smetana <- - - - - - sladke smetane
 b>Okras:</b <- - - - - - <b>Okras:</b>
 
 češnjevi paradižniki
-OSTANE : ['češnjevi', 'paradižniki'] <- - - - - - češnjevi paradižniki
+OSTANE : ['češnjevi', 'paradižnik'] <- - - - - - češnjevi paradižniki
 
 "Tortni model premera <span class=""label-inline"">24"
 OSTANE : ['Tortni', 'model', 'premera', 'class=""label-inline"">24'] <- - - - - - "Tortni model premera <span class=""label-inline"">24"
@@ -6754,7 +6631,7 @@ moka <- - - - - - moke
 
 jajca <- - - - - - rumenjaki
 
-parmezana <- - - - - - parmezana
+sir <- - - - - - parmezana
 
 "mleti <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 OSTANE : ['mleti', 'poper'] <- - - - - - "mleti <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
@@ -6767,7 +6644,7 @@ OSTANE : ['blanširane', 'ožete', 'špinače'] <- - - - - - blanširane in ože
 sol <- - - - - - sol
 
 pečenega pršuta
-OSTANE : ['pečenega', 'pršuta'] <- - - - - - pečenega pršuta
+OSTANE : ['pečenega', 'svinjina'] <- - - - - - pečenega pršuta
 
 mozzarele <- - - - - - mozzarele
 
@@ -6782,7 +6659,7 @@ OSTANE : ['koščki', 'maslo'] <- - - - - - koščki masla
 b>Testo:</b <- - - - - - <b>Testo:</b>
 
 "univerzalne moke tip <span class=""label-inline"">500"
-OSTANE : ['univerzalne', 'moka', 'tip', 'class=""label-inline"">500'] <- - - - - - "univerzalne moke tip <span class=""label-inline"">500"
+OSTANE : ['univerzalne', 'moka', 'class=""label-inline"">500'] <- - - - - - "univerzalne moke tip <span class=""label-inline"">500"
 
 mleko <- - - - - - mleka
 
@@ -6848,7 +6725,7 @@ pecilnega praška
 OSTANE : [] <- - - - - - pecilnega praška
 
 veliki žlici čokoladnih mrvic
-OSTANE : ['veliki', 'žlici', 'čokoladnih', 'mrvic'] <- - - - - - veliki žlici čokoladnih mrvic
+OSTANE : ['žlici', 'čokoladnih', 'mrvic'] <- - - - - - veliki žlici čokoladnih mrvic
 
 <b>Temni biskvitni oblat:</b>
 OSTANE : ['b>Temni', 'biskvitni', 'oblat:</b'] <- - - - - - <b>Temni biskvitni oblat:</b>
@@ -7009,7 +6886,7 @@ premer pekača naj bo 26 cm
 OSTANE : ['premer', 'pekača', 'naj', 'bo', '', 'cm'] <- - - - - - premer pekača naj bo 26 cm
 
 prekajena svinjska rebrca
-OSTANE : ['prekajena', 'svinjska', 'rebrca'] <- - - - - - prekajena svinjska rebrca
+OSTANE : ['prekajena', 'svinjina', 'rebrca'] <- - - - - - prekajena svinjska rebrca
 
 ješprenjčka <- - - - - - ješprenjčka
 
@@ -7041,7 +6918,7 @@ maslo <- - - - - - stopljenega masla
 moka <- - - - - - moke
 
 nastrganega parmezana
-OSTANE : ['nastrganega', 'parmezana'] <- - - - - - nastrganega parmezana
+OSTANE : ['nastrganega', 'sir'] <- - - - - - nastrganega parmezana
 
 čemaževega pesta ali 5 dag kuhane in drobno sesekljane špinače
 OSTANE : ['čemaževega', 'pesta', '', 'špinače'] <- - - - - - čemaževega pesta ali 5 dag kuhane in drobno sesekljane špinače
@@ -7091,7 +6968,7 @@ sladkor <- - - - - - sladkorja
 
 jajca <- - - - - - rumenjaki
 
-beljaki <- - - - - - beljaki
+jajca <- - - - - - beljaki
 
 pomaranč <- - - - - - "zmletih, olupljenih pomaranč"
 
@@ -7129,7 +7006,7 @@ OSTANE : ['lončka', 'sladkor'] <- - - - - - lončka sladkorja
 olje <- - - - - - lonček olja
 
 lončka pšeničnega zdroba
-OSTANE : ['lončka', 'pšeničnega', 'zdrob'] <- - - - - - lončka pšeničnega zdroba
+OSTANE : ['lončka', 'zdrob'] <- - - - - - lončka pšeničnega zdroba
 
 prašek <- - - - - - pecilni prašek
 
@@ -7202,7 +7079,7 @@ paradižnikovega pireja
 OSTANE : ['paradižnik', 'pireja'] <- - - - - - paradižnikovega pireja 
 
 rezin pečenega pršuta
-OSTANE : ['pečenega', 'pršuta'] <- - - - - - rezin pečenega pršuta
+OSTANE : ['pečenega', 'svinjina'] <- - - - - - rezin pečenega pršuta
 
 sira (edamec)
 OSTANE : ['sir', 'edamec'] <- - - - - - sira (edamec)
@@ -7266,7 +7143,7 @@ sol <- - - - - - soli
 
 b>Nadev:</b <- - - - - - <b>Nadev:</b>
 
-skute <- - - - - - skute
+skuta <- - - - - - skute
 
 sladkor <- - - - - - sladkorja
 
@@ -7339,8 +7216,7 @@ OSTANE : ['ribjih', 'filejev', 'kože'] <- - - - - - ribjih filejev (brez kože)
 
 olje <- - - - - - olivno olje
 
-srednje veliki krompirji
-OSTANE : ['veliki', 'krompir'] <- - - - - - srednje veliki krompirji
+krompir <- - - - - - srednje veliki krompirji
 
 "sol in sveže zmleti črni <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 OSTANE : ['sol', 'zmleti', 'črni', 'poper'] <- - - - - - "sol in sveže zmleti črni <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
@@ -7388,8 +7264,7 @@ maslo <- - - - - - masla
 
 b>Krema:</b <- - - - - - <b>Krema:</b>
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 smetana <- - - - - - kisle smetane
 
@@ -7424,13 +7299,13 @@ OSTANE : ['stevia', 'sladkor'] <- - - - - - stevia ali sladkor
 limoni <- - - - - - limoni
 
 azijski jajčni rezanci
-OSTANE : ['azijski', 'jajčni', 'rezanci'] <- - - - - - azijski jajčni rezanci
+OSTANE : ['azijski', 'jajca', 'rezanci'] <- - - - - - azijski jajčni rezanci
 
 piščančjih prsi
 OSTANE : ['piščančjih', 'prsi'] <- - - - - - piščančjih prsi
 
 jajčni beljak
-OSTANE : ['jajčni', 'beljak'] <- - - - - - jajčni beljak
+OSTANE : ['jajca', 'beljak'] <- - - - - - jajčni beljak
 
 jž gustina
 OSTANE : ['jž', 'škrob'] <- - - - - - jž gustina
@@ -7452,7 +7327,7 @@ OSTANE : ['čž', 'čilija'] <- - - - - - čž čilija v prahu (oz. po želji)
 poper <- - - - - - "belega <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">popra</a>"
 
 svetla sojina omaka
-OSTANE : ['svetla', 'sojina', 'omaka'] <- - - - - - svetla sojina omaka
+OSTANE : ['svetla', 'sojina'] <- - - - - - svetla sojina omaka
 
 mlada čebula
 OSTANE : ['mlada', 'čebula'] <- - - - - - mlada čebula
@@ -7471,7 +7346,7 @@ OSTANE : ['mešana', 'zelenjava', 'grah', 'korenje', 'krompir', 'stročji', 'fi�
 peteršilj <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilj</a>"
 
 čž domače vegete
-OSTANE : ['čž', 'domače', 'vegete'] <- - - - - - čž domače vegete
+OSTANE : ['čž', 'vegete'] <- - - - - - čž domače vegete
 
 poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 
@@ -7526,7 +7401,7 @@ OSTANE : ['pirina', 'moka'] <- - - - - - pirina moka
 pire krompir
 OSTANE : ['pire', 'krompir'] <- - - - - - pire krompir
 
-hruške <- - - - - - majhne hruške
+hruška <- - - - - - majhne hruške
 
 limona <- - - - - - sok ene limone
 
@@ -7627,8 +7502,7 @@ paradižnik <- - - - - - paradižnik
 
 sol <- - - - - - sol
 
-bučno olje
-OSTANE : ['bučno', 'olje'] <- - - - - - bučno olje
+olje <- - - - - - bučno olje
 
 "kis, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 OSTANE : ['kis', 'poper'] <- - - - - - "kis, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
@@ -7721,7 +7595,7 @@ OSTANE : ['soba', 'rezancev'] <- - - - - - soba rezancev
 sezama <- - - - - - jedilna žlica črnega sezama
 
 jedilni žlici sojine omake
-OSTANE : ['jedilni', 'žlici', 'sojine', 'omake'] <- - - - - - jedilni žlici sojine omake
+OSTANE : ['jedilni', 'žlici', 'sojine'] <- - - - - - jedilni žlici sojine omake
 
 jedilni žlici kokosovega mleka
 OSTANE : ['jedilni', 'žlici', 'kokosovega', 'mleko'] <- - - - - - jedilni žlici kokosovega mleka
@@ -7754,7 +7628,7 @@ zmehčanega masla ali margarine
 OSTANE : ['zmehčanega', 'maslo', 'margarina'] <- - - - - - zmehčanega masla ali margarine
 
 "beljaki, stepeni v sneg"
-OSTANE : ['beljaki', 'stepeni', 'sneg'] <- - - - - - "beljaki, stepeni v sneg"
+OSTANE : ['jajca', 'stepeni', 'sneg'] <- - - - - - "beljaki, stepeni v sneg"
 
 <b>Preliv za navlažitev tortne osnove:</b>
 OSTANE : ['b>Preliv', 'navlažitev', 'tortne', 'osnove:</b'] <- - - - - - <b>Preliv za navlažitev tortne osnove:</b>
@@ -7972,8 +7846,7 @@ mleko <- - - - - - mleka
 
 smetana <- - - - - - kisla smetana
 
-zrna česna
-OSTANE : ['zrna', 'česen'] <- - - - - - zrna česna
+česen <- - - - - - zrna česna
 
 kurkume <- - - - - - kurkume
 
@@ -8048,7 +7921,7 @@ OSTANE : ['mletih', 'keksov', 'Albert'] <- - - - - - mletih keksov (Albert)
 
 Krema <- - - - - - Krema;
 
-beljaki <- - - - - - beljaki
+jajca <- - - - - - beljaki
 
 sladkor <- - - - - - sladkorja v prahu 
 
@@ -8067,7 +7940,7 @@ sol
 poper <- - - - - - "sol, <a href=""https://www2.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 
 "drobno sesekljanega korenčka, <a href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a> (manjši koren) in <a href=""https://www2.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a> (ne več kot za čajno žličko)"
-OSTANE : ['korenje', 'peteršilj', 'manjši', 'koren', 'zelena', 'ne', 'več', 'kot', 'čajno', 'žličko'] <- - - - - - "drobno sesekljanega korenčka, <a href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a> (manjši koren) in <a href=""https://www2.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a> (ne več kot za čajno žličko)"
+OSTANE : ['korenje', 'peteršilj', 'koren', 'zelena', 'ne', 'več', 'kot', 'čajno', 'žličko'] <- - - - - - "drobno sesekljanega korenčka, <a href=""https://www2.kulinarika.net/recepti/zacimbe/99/petersilj/"">peteršilja</a> (manjši koren) in <a href=""https://www2.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a> (ne več kot za čajno žličko)"
 
 (jaz sem uporabila domačo vegeto)
 OSTANE : ['jaz', 'sem', 'uporabila', 'domačo', 'vegeto'] <- - - - - - (jaz sem uporabila domačo vegeto)
@@ -8133,8 +8006,7 @@ maka <- - - - - - "mletega <a href=""https://www.kulinarika.net/recepti/zacimbe/
 mascarpone sira
 OSTANE : ['mascarpone', 'sir'] <- - - - - - mascarpone sira
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 sladkor <- - - - - - sladkorja v prahu
 
@@ -8160,8 +8032,7 @@ OSTANE : ['vanilijevega', 'sladkor'] <- - - - - - "<a href=""https://www.kulinar
 večjih govejih zrezkov
 OSTANE : ['govejih', 'zrezkov'] <- - - - - - večjih govejih zrezkov
 
-srednje veliki čebuli
-OSTANE : ['veliki', 'čebula'] <- - - - - - srednje veliki čebuli
+čebula <- - - - - - srednje veliki čebuli
 
 korenje <- - - - - - večji korenček
 
@@ -8170,8 +8041,7 @@ OSTANE : ['koren', 'peteršilj'] <- - - - - - "večji koren <a href=""https://ww
 
 zelena <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/130/zelena/"">zelene</a>"
 
-manjši por
-OSTANE : ['manjši', 'por'] <- - - - - - manjši por
+por <- - - - - - manjši por
 
 sol
 poper <- - - - - - "sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
@@ -8181,8 +8051,7 @@ gorčice <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/37/g
 mešanica začimb za zrezke
 OSTANE : ['mešanica', 'začimb', 'zrezke'] <- - - - - - mešanica začimb za zrezke
 
-sojina omaka
-OSTANE : ['sojina', 'omaka'] <- - - - - - sojina omaka
+sojina <- - - - - - sojina omaka
 
 olje <- - - - - - olje
 
@@ -8249,11 +8118,9 @@ jajca <- - - - - - jajci
 sezamovo olje
 OSTANE : ['sezamovo', 'olje'] <- - - - - - sezamovo olje
 
-sojina omaka
-OSTANE : ['sojina', 'omaka'] <- - - - - - sojina omaka
+sojina <- - - - - - sojina omaka
 
-ostrigina omaka
-OSTANE : ['ostrigina', 'omaka'] <- - - - - - ostrigina omaka
+ostrigina <- - - - - - ostrigina omaka
 
 sol
 poper <- - - - - - "sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
@@ -8291,8 +8158,7 @@ OSTANE : ['svinjskega', 'vrata'] <- - - - - - svinjskega vrata brez kosti
 
 riž <- - - - - - riža
 
-srednje veliki korenčki
-OSTANE : ['veliki', 'korenčki'] <- - - - - - srednje veliki korenčki
+korenčki <- - - - - - srednje veliki korenčki
 
 čebula <- - - - - - večji čebuli
 
@@ -8337,7 +8203,7 @@ svetlih rozin
 OSTANE : ['svetlih', 'rozin'] <- - - - - - svetlih rozin
 
 peščici na grobo sesekljanih oreščkov
-OSTANE : ['peščici', 'grobo', 'oreščkov'] <- - - - - - peščici na grobo sesekljanih oreščkov
+OSTANE : ['peščici', 'oreščkov'] <- - - - - - peščici na grobo sesekljanih oreščkov
 
 sladkor <- - - - - - sladkorja
 
@@ -8353,7 +8219,7 @@ OSTANE : ['limona', 'lupine'] <- - - - - - limonine lupine
 dimljene šunke
 OSTANE : ['dimljene', 'šunke'] <- - - - - - dimljene šunke
 
-skute <- - - - - - skute
+skuta <- - - - - - skute
 
 maslo <- - - - - - masla
 
@@ -8388,7 +8254,7 @@ Albertov keks
 OSTANE : ['Albertov', 'keks'] <- - - - - - Albertov keks
 
 krompirjev (odvisno od števila oseb)
-OSTANE : ['krompirjev', 'odvisno', 'od', 'števila', 'oseb'] <- - - - - - krompirjev (odvisno od števila oseb)
+OSTANE : ['krompir', 'odvisno', 'od', 'števila', 'oseb'] <- - - - - - krompirjev (odvisno od števila oseb)
 
 perutničk <- - - - - - perutničk
 
@@ -8512,7 +8378,7 @@ rogate paprike
 OSTANE : ['rogate', 'paprika'] <- - - - - - rogate paprike
 
 bresaole ali pršuta
-OSTANE : ['bresaole', 'pršuta'] <- - - - - - bresaole ali pršuta
+OSTANE : ['bresaole', 'svinjina'] <- - - - - - bresaole ali pršuta
 
 čebula <- - - - - - čebuli
 
@@ -8660,7 +8526,7 @@ OSTANE : ['vanilijevega', 'sladkor'] <- - - - - - "zavitek <a href=""https://www
 beljaka <- - - - - - beljaka
 
 listi želatine
-OSTANE : ['listi', 'želatina'] <- - - - - - listi želatine
+OSTANE : ['list', 'želatina'] <- - - - - - listi želatine
 
 limona <- - - - - - limonina lupina
 
@@ -8691,8 +8557,7 @@ OSTANE : ['vanilijev', 'sladkor'] <- - - - - - "<a href=""https://www.kulinarika
 mlačne vode
 OSTANE : ['mlačne', 'voda'] <- - - - - - mlačne vode
 
-moke (tip 500)
-OSTANE : ['moka', 'tip'] <- - - - - - moke (tip 500)
+moka <- - - - - - moke (tip 500)
 
 prašek <- - - - - - pecilni prašek
 
@@ -8752,11 +8617,10 @@ OSTANE : ['mleko', 'vlaženje'] <- - - - - - mleko ali voda za vlaženje
 
 b>Krema:</b <- - - - - - <b>Krema:</b>
 
-veliki jabolki
-OSTANE : ['veliki', 'jabolki'] <- - - - - - veliki jabolki
+jabolki <- - - - - - veliki jabolki
 
 smetane za stepanje (mlečna) 
-OSTANE : ['smetana', 'stepanje', 'mlečna'] <- - - - - - smetane za stepanje (mlečna) 
+OSTANE : ['smetana', 'mlečna'] <- - - - - - smetane za stepanje (mlečna) 
 
 mleko <- - - - - - mleko
 
@@ -8774,8 +8638,7 @@ OSTANE : ['paketa', 'vanilijevega', 'pudinga'] <- - - - - - "paketa <a href=""ht
 
 b>Dekoracija:</b <- - - - - - <b>Dekoracija:</b>
 
-smetane za stepanje
-OSTANE : ['smetana', 'stepanje'] <- - - - - - smetane za stepanje
+smetana <- - - - - - smetane za stepanje
 
 kakav <- - - - - - kakav v prahu (po želji)
 
@@ -8847,7 +8710,7 @@ sladkor <- - - - - - sladkor za posip
 <b>Nadev: </b>
 OSTANE : ['b>Nadev:', 'b'] <- - - - - - <b>Nadev: </b>
 
-skute <- - - - - - skute
+skuta <- - - - - - skute
 
 sneg iz dveh beljakov
 OSTANE : ['sneg', 'dveh', 'beljakov'] <- - - - - - sneg iz dveh beljakov
@@ -8859,8 +8722,7 @@ sladkor <- - - - - - sladkorja
 "zavitek <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> sladkorja"
 OSTANE : ['vanilijevega', 'sladkor'] <- - - - - - "zavitek <a href=""https://www.kulinarika.net/recepti/zacimbe/123/vanilija/"">vanilijevega</a> sladkorja"
 
-srednje veliki bučki
-OSTANE : ['veliki', 'bučki'] <- - - - - - srednje veliki bučki
+bučki <- - - - - - srednje veliki bučki
 
 mlada čebula
 OSTANE : ['mlada', 'čebula'] <- - - - - - mlada čebula
@@ -8905,7 +8767,7 @@ kuskus <- - - - - - kuskus
 maslo <- - - - - - maslo
 
 sredje velikih krompirjev (pribl. 2/os.)
-OSTANE : ['sredje', 'velikih', 'krompirjev', 'pribl', 'os'] <- - - - - - sredje velikih krompirjev (pribl. 2/os.)
+OSTANE : ['sredje', 'krompir', 'pribl', 'os'] <- - - - - - sredje velikih krompirjev (pribl. 2/os.)
 
 pare hrenovk
 OSTANE : ['pare', 'hrenovk'] <- - - - - - pare hrenovk
@@ -8961,7 +8823,7 @@ maslo <- - - - - - stopljenega masla
 
 čokolada <- - - - - - čokolade v prahu
 
-špargljev <- - - - - - špargljev
+šparglji <- - - - - - špargljev
 
 makaronov (penne rigate ali drugi po želji)
 OSTANE : ['testenine', 'penne', 'rigate', 'drugi'] <- - - - - - makaronov (penne rigate ali drugi po želji)
@@ -9045,8 +8907,7 @@ OSTANE : ['arašidi', 'drugi', 'oreščki'] <- - - - - - arašidi ali drugi ore�
 
 slanine <- - - - - - rezin slanine
 
-srednje velikih krompirjev
-OSTANE : ['velikih', 'krompirjev'] <- - - - - - srednje velikih krompirjev
+krompir <- - - - - - srednje velikih krompirjev
 
 "cca. <span class=""label-inline"">20"
 OSTANE : ['cca', 'class=""label-inline"">20'] <- - - - - - "cca. <span class=""label-inline"">20"
@@ -9069,7 +8930,7 @@ OSTANE : ['vlečeno', 'testo'] <- - - - - - vlečeno testo
 
 jabolk <- - - - - - jabolk
 
-skute <- - - - - - skute
+skuta <- - - - - - skute
 
 smetana <- - - - - - kisle smetane
 
@@ -9150,7 +9011,7 @@ poper <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/101/pop
 jajca <- - - - - - jajci
 
 jogurtovi lončki moke (tip 500)
-OSTANE : ['jogurtovi', 'lončki', 'moka', 'tip'] <- - - - - - jogurtovi lončki moke (tip 500)
+OSTANE : ['jogurtovi', 'lončki', 'moka'] <- - - - - - jogurtovi lončki moke (tip 500)
 
 jogurtovi lončki mleka
 OSTANE : ['jogurtovi', 'lončki', 'mleko'] <- - - - - - jogurtovi lončki mleka
@@ -9176,7 +9037,7 @@ sol <- - - - - - soli
 kvas <- - - - - - zavitek suhega ali svežega kvasa
 
 veliki žlici olivnega olja
-OSTANE : ['veliki', 'žlici', 'olje'] <- - - - - - veliki žlici olivnega olja
+OSTANE : ['žlici', 'olje'] <- - - - - - veliki žlici olivnega olja
 
 sladkor <- - - - - - rjavega sladkorja
 
@@ -9235,8 +9096,7 @@ kumina <- - - - - - kumina
 fižola češnjevca 
 OSTANE : ['fižol', 'češnjevca'] <- - - - - - fižola češnjevca 
 
-lovorjevi listi
-OSTANE : ['lovorjev', 'listi'] <- - - - - - lovorjevi listi
+lovorjev list <- - - - - - lovorjevi listi
 
 čebula <- - - - - - čebule
 
@@ -9249,7 +9109,7 @@ malih korenčkov
 OSTANE : ['malih', 'korenčkov'] <- - - - - - malih korenčkov
 
 domače paradižnikove kaše 
-OSTANE : ['domače', 'paradižnik', 'kaše'] <- - - - - - domače paradižnikove kaše 
+OSTANE : ['paradižnik', 'kaše'] <- - - - - - domače paradižnikove kaše 
 
 feferon/tabasco <- - - - - - feferon/tabasco
 
@@ -9303,7 +9163,7 @@ OSTANE : ['mala', 'žlička', 'sol'] <- - - - - - mala žlička soli
 
 jajca <- - - - - - jajca
 
-skute <- - - - - - skute
+skuta <- - - - - - skute
 
  kisle smetane
 OSTANE : ['', 'smetana'] <- - - - - -  kisle smetane
@@ -9378,7 +9238,7 @@ OSTANE : ['rumene', 'soje', 'zrnju'] <- - - - - - rumene soje v zrnju
 por <- - - - - - pora
 
 šop špargljev (300 g)
-OSTANE : ['šop', 'špargljev', '', 'g'] <- - - - - - šop špargljev (300 g)
+OSTANE : ['šop', 'šparglji', '', 'g'] <- - - - - - šop špargljev (300 g)
 
 sol <- - - - - - sol
 
@@ -9401,7 +9261,7 @@ baguetta <- - - - - - baguetta
 hrenovka <- - - - - - hrenovka
 
 paradižnikove omake za pizzo
-OSTANE : ['paradižnik', 'omake', 'pizzo'] <- - - - - - paradižnikove omake za pizzo
+OSTANE : ['paradižnik', 'pizzo'] <- - - - - - paradižnikove omake za pizzo
 
 sir <- - - - - - naribanega sira
 
@@ -9456,10 +9316,10 @@ OSTANE : ['b>Za', 'nadev:</b'] <- - - - - - <b>Za nadev:</b>
 
 čemaža <- - - - - - čemaža
 
-gorgonzole <- - - - - - gorgonzole
+sir <- - - - - - gorgonzole
 
 kuhanega pršuta ali kraške pancete
-OSTANE : ['pršuta', 'kraške', 'pancete'] <- - - - - - kuhanega pršuta ali kraške pancete
+OSTANE : ['svinjina', 'kraške', 'pancete'] <- - - - - - kuhanega pršuta ali kraške pancete
 
 por <- - - - - - majhen por
 
@@ -9621,7 +9481,7 @@ vejici rožmarina
 OSTANE : ['vejici', 'rožmarin'] <- - - - - - vejici rožmarina
 
 pet strokov česna
-OSTANE : ['pet', 'strokov', 'česen'] <- - - - - - pet strokov česna
+OSTANE : ['pet', 'česen'] <- - - - - - pet strokov česna
 
 maslo <- - - - - - masla
 
@@ -9641,8 +9501,7 @@ jajca <- - - - - - jajca
 
 sladkor <- - - - - - sladkorja
 
-pšeničnega zdroba
-OSTANE : ['pšeničnega', 'zdrob'] <- - - - - - pšeničnega zdroba
+zdrob <- - - - - - pšeničnega zdroba
 
 mletih orehov
 OSTANE : ['mletih', 'orehi'] <- - - - - - mletih orehov
@@ -9687,7 +9546,7 @@ svežih ali zamrznjenih malin
 OSTANE : ['svežih', 'zamrznjenih', 'malin'] <- - - - - - svežih ali zamrznjenih malin
 
 (kozarec) instant pšeničnega zdroba
-OSTANE : ['kozarec', 'instant', 'pšeničnega', 'zdrob'] <- - - - - - (kozarec) instant pšeničnega zdroba
+OSTANE : ['kozarec', 'instant', 'zdrob'] <- - - - - - (kozarec) instant pšeničnega zdroba
 
 instant koruznega zdroba
 OSTANE : ['instant', 'koruznega', 'zdrob'] <- - - - - - instant koruznega zdroba
@@ -9729,7 +9588,7 @@ jž masla
 OSTANE : ['jž', 'maslo'] <- - - - - - jž masla
 
 jž paradižnikove omake
-OSTANE : ['jž', 'paradižnik', 'omake'] <- - - - - - jž paradižnikove omake
+OSTANE : ['jž', 'paradižnik'] <- - - - - - jž paradižnikove omake
 
 parmezan <- - - - - - parmezan
 
@@ -9778,7 +9637,7 @@ sira Mascarpone
 OSTANE : ['sir', 'Mascarpone'] <- - - - - - sira Mascarpone
 
 polmastne skute
-OSTANE : ['polmastne', 'skute'] <- - - - - - polmastne skute
+OSTANE : ['polmastne', 'skuta'] <- - - - - - polmastne skute
 
 smetana <- - - - - - kisle smetane
 
@@ -9800,8 +9659,7 @@ meso <- - - - - - mletega mesa
 
 česen <- - - - - - česna
 
-paradižnikove omake
-OSTANE : ['paradižnik', 'omake'] <- - - - - - paradižnikove omake
+paradižnik <- - - - - - paradižnikove omake
 
 "zeliščna sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
 OSTANE : ['zeliščna', 'sol', 'poper'] <- - - - - - "zeliščna sol, <a href=""https://www.kulinarika.net/recepti/zacimbe/101/poper/"">poper</a>"
@@ -9822,7 +9680,7 @@ OSTANE : ['muškatni', 'orešček', 'sol'] <- - - - - - "muškatni orešček, so
 sir <- - - - - - sir
 
 listi za lazanjo
-OSTANE : ['listi', 'lazanjo'] <- - - - - - listi za lazanjo
+OSTANE : ['list', 'lazanjo'] <- - - - - - listi za lazanjo
 
 maslo <- - - - - - masla
 
@@ -9918,8 +9776,7 @@ limonovega <- - - - - - limonovega soka
 
 sol <- - - - - - sol po okusu
 
-bučno olje
-OSTANE : ['bučno', 'olje'] <- - - - - - bučno olje
+olje <- - - - - - bučno olje
 
 zrele limone - ena limona za tri ljudi
 OSTANE : ['zrele', 'limona', '', 'limona', 'tri', 'ljudi'] <- - - - - - zrele limone - ena limona za tri ljudi
@@ -9930,7 +9787,7 @@ OSTANE : ['enako', 'število', 'pomaranč', 'mandarin'] <- - - - - - enako štev
 banane <- - - - - - "<a href=""https://www.kulinarika.net/recepti/zacimbe/9/banana/"">banane</a>"
 
 "zrelo granatno <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
-OSTANE : ['zrelo', 'granatno', 'jabolko'] <- - - - - - "zrelo granatno <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
+OSTANE : ['zrelo', 'granatno', 'jabolka'] <- - - - - - "zrelo granatno <a href=""https://www.kulinarika.net/recepti/zacimbe/269/granatno-jabolko/"">jabolko</a>"
 
 po želji še kakšno sadje
 OSTANE : ['še', 'kakšno', 'sadje'] <- - - - - - po želji še kakšno sadje
@@ -9979,7 +9836,7 @@ sol <- - - - - - soli
 
 b>Nadev:</b <- - - - - - <b>Nadev:</b>
 
-skute <- - - - - - skute
+skuta <- - - - - - skute
 
 smetana <- - - - - - sladke smetane
 
@@ -9987,10 +9844,9 @@ jajca <- - - - - - jajce
 
 slanine <- - - - - - slanine
 
-špargljev <- - - - - - špargljev
+šparglji <- - - - - - špargljev
 
-šopek čemaža
-OSTANE : ['šopek', 'čemaža'] <- - - - - - šopek čemaža
+čemaža <- - - - - - šopek čemaža
 
 bio provansalska sol
 OSTANE : ['bio', 'provansalska', 'sol'] <- - - - - - bio provansalska sol
