@@ -3,9 +3,17 @@ slovar = {
     #A
     'avokada' : 'avokado',
     #B
+    'banani' : 'banana',
+    'bananina' : 'banana',
+    'bananino' : 'banana',
     'bazilike' : 'bazilika',
+    'beljak' : 'jajca',
     'beljaki' : 'jajca',
-    'blitve' : 'blitva', 
+    'beljaki' : 'jajca',
+    'beljakov' : 'jajca',
+    'blitve' : 'blitva',
+    'brinovih' : 'brinove',
+    'brokolija' : 'brokoli',
     'buče' : 'buča',
     'bučk' : 'bučka',
     'bučke' : 'bučka',
@@ -42,11 +50,14 @@ slovar = {
     'jajce' : 'jajca',
     'jajci' : 'jajca',
     'jajčni' : 'jajca',
+    'jagod' : 'jagode',
     'jelenovega' : 'divjačina',
     'jogurta' : 'jogurt',
     #K
     'kakava' : 'kakav',
     'kisa' : 'kis',
+    'klobase' : 'meso',
+    'klobas' : 'meso',
     'kolerabe' : 'koleraba',
     'kostanja' : 'kostanj',
     'korenčka' : 'korenje',
@@ -59,6 +70,7 @@ slovar = {
     'krompirjev' : 'krompir',
     'kruha' : 'kruh',
     'kumar' : 'kumara',
+    'kumare' : 'kumara',
     'kumine' : 'kumina',
     'kvasa' : 'kvas',
     #L
@@ -78,14 +90,17 @@ slovar = {
     #M
     'makaronov' : 'testenine',
     'mandljev' : 'mandlji',
+    'majarona' : 'majaron',
     'marelic' : 'marelice',
     'margarine' : 'margarina',
+    'marmelade' : 'marmelada',
     'masla' : 'maslo',
     'mesa' : 'meso',
     'mleka' : 'mleko',
     'moke' : 'moka',
     #N
     #O
+    'ocvirkov' : 'ocvirki',
     'oliv' : 'olive',
     'olja' : 'olje',
     'orehov' : 'orehi',
@@ -145,13 +160,14 @@ slovar = {
     #V
     'vanilije' : 'vanilija',
     'vina' : 'vino',
-    'vode' : 'voda',
+    #'vode' : 'voda',
     #Z
     'zdroba' : 'zdrob',
     'zelene' : 'zelena',
     'zelja' : 'zelje',
     'zrezki' : 'meso',
     #Ž
+    'žajblja' : 'žajbelj',
     'želatine' : 'želatina'
     }
 
@@ -166,6 +182,7 @@ brisi = [
     'beli',
     'belega',
     'brez',
+    'brusnične',
     'bučno',
     'burbonske',
     #C
@@ -179,6 +196,8 @@ brisi = [
     #Č
     'četrtine',
     'črnega',
+    'čž',
+    'ČŽ',
     #D
     'dag',
     'dl',
@@ -200,6 +219,8 @@ brisi = [
     #G
     'glava',
     'grobo',
+    'grški',
+    'grškega',
     #H
     'hokaido',
     #I    
@@ -214,6 +235,8 @@ brisi = [
     'jušna',
     'jušne',
     'jušno',
+    'jž',
+    'JŽ',
     #K
     'kg',
     'kg.',
@@ -248,6 +271,8 @@ brisi = [
     'kuhanih',
     'kuhano',
     #L
+    'lističev',
+    'lističi',
     'listnatega',
     'litrov',
     'lonček',
@@ -344,11 +369,16 @@ brisi = [
     'rdeča',
     'rdeče',
     'rdečega',
+    'repičnega',
+    'repično',
     'rezin',
     'rezina',
     'rezine',
     'riževega',
     'rjavega',
+    'rumen',
+    'rumena',
+    'rumene',
     #S
     's',
     'se',
@@ -407,7 +437,11 @@ brisi = [
     #U
     #V
     'v',
+    'vanilijev',
+    'vanilijevega',
+    'vejica',
     'vejice',
+    'vejici',
     'velik',
     'velika',
     'veliki',
@@ -446,7 +480,9 @@ brisi = [
     ]
 
 def odstrani(beseda):
-    if len(beseda) > 0:        
+    if len(beseda) > 0:
+        #if beseda[0:3] == '<b>':
+        #    return []
         if beseda[0] in '"<()-0123456789ˇ;./':
             beseda = odstrani(beseda[1:])
         if len(beseda) > 1:
@@ -459,6 +495,8 @@ def odstrani(beseda):
 
     
 def pocisti(sestavina):
+    if sestavina[0:3] == '<b>':
+        return []
     besede = sestavina.split(' ')
     kljucna = []
     for i in range(len(besede)):
@@ -468,7 +506,7 @@ def pocisti(sestavina):
         
         # Če je b v slovarju, jo
         # "prevedemo" : limoninih -> limona
-        if b in slovar:
+        if b != [] and b in slovar:
             kljucna.append(slovar[b])
             
         # Če je b nepotrebna beseda (steblo, malo,
@@ -485,6 +523,7 @@ def pocisti(sestavina):
             #if kljucna[0] not in slovar.values():            #da vidimo, kaj je treba še popravit
             #    k = kljucna[0]
             if kljucna[0] in [
+                'divjačina',
                 'govedina',
                 'svinjina',
                 'jagnjetina',
@@ -500,6 +539,10 @@ def pocisti(sestavina):
 ##                                                    # (obema dodamo ID recepta?)
         elif 'list' in kljucna and 'lovorjev' in kljucna:
             k = 'lovorjev list'                     # DVE BESEDI!
+        if 'brinove' in kljucna and 'jagode' in kljucna:
+            k = 'brinove jagode'
+        if 'svinjina' in kljucna and 'ribica' in kljucna:
+            k = 'svinjina' + '\n' + 'meso'
 ##        if 'smetana' in kljucna:
 ##            if 'kisla' in kljucna:
 ##                k = 'kisla smetana'                 # DVE BESEDI!
