@@ -26,7 +26,7 @@ def index():
 @get('/transakcije/:x/')
 def transakcije(x):
     cur.execute("SELECT * FROM transakcija WHERE znesek > %s ORDER BY znesek, id", [int(x)])
-    return template('transakcije.html', x=x, transakcije=cur)
+    return template('index.html', x=x, transakcije=cur)
 
 @get('/dodaj_transakcijo')
 def dodaj_transakcijo():
