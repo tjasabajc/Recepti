@@ -13,3 +13,5 @@ Je danes bolan doma.
 * Dobiš podatke od nekje,
 * pripraviš bazo,
 * v aplikaciji pokažeš nekaj.
+
+![ER diagam](ER diagram.png)
