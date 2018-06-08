@@ -14,4 +14,4 @@ Je danes bolan doma.
 * pripraviš bazo,
 * v aplikaciji pokažeš nekaj.
 
-![ER diagam](ER diagram.png)
+[ER diagam](ER diagram.png)
