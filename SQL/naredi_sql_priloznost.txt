@@ -1,0 +1,9 @@
+INSERT INTO priloznost (ime) VALUES ('priloznost');
+INSERT INTO priloznost (ime) VALUES ('božiè');
+INSERT INTO priloznost (ime) VALUES ('velika noè');
+INSERT INTO priloznost (ime) VALUES ('novo leto');
+INSERT INTO priloznost (ime) VALUES ('martinovo');
+INSERT INTO priloznost (ime) VALUES ('miklavževo');
+INSERT INTO priloznost (ime) VALUES ('pust');
+INSERT INTO priloznost (ime) VALUES ('rojstni dan otroka');
+INSERT INTO priloznost (ime) VALUES ('valentinov');
