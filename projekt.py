@@ -5,7 +5,7 @@
 from bottle import *
 
 # uvozimo ustrezne podatke za povezavo
-import auth as auth
+import auth_public as auth
 
 # uvozimo psycopg2
 import psycopg2, psycopg2.extensions, psycopg2.extras
@@ -20,17 +20,17 @@ def static(filename):
 
 @get('/')
 def index():
-    cur.execute("SELECT * FROM oseba ORDER BY priimek, ime")
-    return template('komitenti.html', osebe=cur)
+    cur.execute("SELECT * FROM recept")
+    return template('views/domov.html', index=cur)
 
-@get('/transakcije/:x/')
-def transakcije(x):
-    cur.execute("SELECT * FROM transakcija WHERE znesek > %s ORDER BY znesek, id", [int(x)])
-    return template('index.html', x=x, transakcije=cur)
+@get('/iskanje_receptov')
+def iskanje_receptov():
+    cur.execute("SELECT * FROM recept")
+    return template('views/iskanje_receptov.html', iskanje_receptov=cur)
 
 @get('/dodaj_transakcijo')
 def dodaj_transakcijo():
-    return template('dodaj_transakcijo.html', znesek='', racun='', opis='', napaka=None)
+    return template('views/dodaj_transakcijo.html', znesek='', racun='', opis='', napaka=None)
 
 @post('/dodaj_transakcijo')
 def dodaj_transakcijo_post():
@@ -41,7 +41,7 @@ def dodaj_transakcijo_post():
         cur.execute("INSERT INTO transakcija (znesek, racun, opis) VALUES (%s, %s, %s)",
                     (znesek, racun, opis))
     except Exception as ex:
-        return template('dodaj_transakcijo.html', znesek=znesek, racun=racun, opis=opis,
+        return template('views/dodaj_transakcijo.html', znesek=znesek, racun=racun, opis=opis,
                         napaka = 'Zgodila se je napaka: %s' % ex)
     redirect("/")
 

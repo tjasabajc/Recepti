@@ -1,8 +1,7 @@
-* ocene : KASNEJE
 * veè kot tisoè receptov --> spremeni zapis html (001 --> 0001) zajem.py
 * podatki o uporabnikih : kar direkt iz seznama https://www.kulinarika.net/uporabniki/seznam/
 (* v vse tabele dodaj "ID")
-* python za SQL stavke
+
 
 * ER diagram : Dodaj KOLICINA na POTREBUJE
 * sestavine : kolièina je text (2 žlici)
