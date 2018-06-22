@@ -5,7 +5,7 @@
 from bottle import *
 
 # uvozimo ustrezne podatke za povezavo
-import auth_public as auth
+import auth as auth
 
 # uvozimo psycopg2
 import psycopg2, psycopg2.extensions, psycopg2.extras
@@ -16,7 +16,16 @@ psycopg2.extensions.register_type(psycopg2.extensions.UNICODE) # se znebimo prob
 
 @get('/static/<filename:path>')
 def static(filename):
-    return static_file(filename, root='static')
+    return static_file(filename, root='static') # to je treba spremenit nazaj v samo static
+
+@get('/recepti/<id>')
+def recept(id):
+    # tu pride cur.execute(SELECT ....)
+    # return template('views/recept.html, recept=cur)
+    # v spremenjivki recept bodo ime, avtor, sestavine ...
+    # To potem daš v html na spletno stran tako kot imava zdaj na prvi strani
+    # for ime, avtor, sestavine ... in recept
+    pass
 
 @get('/')
 def index():

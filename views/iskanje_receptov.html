@@ -1,8 +1,9 @@
-﻿% rebase('osnova1.html')
+﻿% rebase('osnova1.html', podstran='iskanje')
 <section class="well well__offset-3">
 	<div class="container">
 		<h2><em>Pozdravljeni!</em> Že veste, kaj boste kuhali danes?</h2>
 			%for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in iskanje_receptov:
+		   <a href="/recept/<id>">{{ime}}{{ime}}</a>
 		   <td>{{id}}</td>
 		   <td>{{ime}}</td>
 		   <td>{{avtor}}</td>
@@ -12,7 +13,7 @@
 		<div class="row row__offset-2">
 			<div class="grid_6">
 				<p class="indents-3">{{id}} vam je že krulilo v želodcu, pa niste vedeli, kaj bi dali v lonec? Pobrskajte po naših receptih in gotovo boste našli nekaj zase! <br><br>Veseli bomo tudi vaših receptov! Prijavite se in prispevajte recepte, ki so vam najbolj pri srcu. Prijavljeni uporabniki lahko tudi ocenjujejo recepte in pišejo mnenja. Veseli bomo, če se nam pridružite!</p>
-				<div class="img"><div class="lazy-img" style="padding-bottom: 45.6140350877193%;"><img data-src="images/pica.jpg" alt=""></div></div>
+				<div class="img"><div class="lazy-img" style="padding-bottom: 45.6140350877193%;"><img data-src="static/images/pica.jpg" alt=""></div></div>
 			</div>
 			<div class="grid_6">
 				<p class="indents-3">Kolikokrat vam je že krulilo v želodcu, pa niste vedeli, kaj bi dali v lonec? Pobrskajte po naših receptih in gotovo boste našli nekaj zase! <br><br>Veseli bomo tudi vaših receptov! Prijavite se in prispevajte recepte, ki so vam najbolj pri srcu. Prijavljeni uporabniki lahko tudi ocenjujejo recepte in pišejo mnenja. Veseli bomo, če se nam pridružite!</p>
