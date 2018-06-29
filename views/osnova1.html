@@ -47,9 +47,9 @@
                             <a href="./">Home</a>
                         </li>-->
                         <li 
-						if podstran ='domov'
-						class="active"
-						end
+						%if (podstran == 'domov'):
+						class="active" 
+						%end
 						>
                             <a href="/">Domov</a>
                             <!--<ul>
@@ -76,11 +76,11 @@
                             </ul>-->
                         </li>
                         <li 
-						if podstran=='iskanje'
-						class="active"
-						end
+						%if (podstran == 'recept'):
+						class="active" 
+						%end
 						>
-                            <a href="/iskanje_receptov">Recepti</a>
+                            <a href="/iskanje">Recepti</a>
                         </li>
                         <li>
                             <a href="uporabnik.html">Kuharji</a>

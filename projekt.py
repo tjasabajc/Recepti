@@ -18,21 +18,21 @@ psycopg2.extensions.register_type(psycopg2.extensions.UNICODE) # se znebimo prob
 def static(filename):
     return static_file(filename, root='static') # to je treba spremenit nazaj v samo static
 
-@get('/recepti/<id>')
+@get('/recept/<id>')
 def recept(id):
-    # tu pride cur.execute(SELECT ....)
+    cur.execute("SELECT id FROM recept")
     # return template('views/recept.html, recept=cur)
     # v spremenjivki recept bodo ime, avtor, sestavine ...
     # To potem daš v html na spletno stran tako kot imava zdaj na prvi strani
     # for ime, avtor, sestavine ... in recept
-    pass
+    return template('views/recept.html', recept=cur)
 
 @get('/')
 def index():
     cur.execute("SELECT * FROM recept")
     return template('views/domov.html', index=cur)
 
-@get('/iskanje_receptov')
+@get('/iskanje')
 def iskanje_receptov():
     cur.execute("SELECT * FROM recept")
     return template('views/iskanje_receptov.html', iskanje_receptov=cur)
