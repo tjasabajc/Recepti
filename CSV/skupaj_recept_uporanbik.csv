@@ -68,13 +68,13 @@
 20070,Ovsena kaša ala Svenska,svenska,otroška hrana: otroci,10,11,2014,15 minut,1
 20071,Hitre sobotne čoko kocke,svenska,sladice: pecivo,10,11,2014,45 minut,2
 20072,Kakijev kozarček,jančibake,sladice: ostalo,10,11,2014,15 minut,1
-20073,Orehova torta,SMARTY1,sladice: torte,11,11,2014,4+ ur,3
+20073,Orehova torta,SMARTY1,sladice: torte,11,11,2014,240 minut,3
 20074,Sogan dolma,SMARTY1,mesne jedi: sesekljano meso,11,11,2014,60 minut,2
 20075,Špecli s sirom; smetano in pršutom ,Ančikaa,testenine,11,11,2014,90 minut,3
 20076,Martinov grozd ali Martinov kruh,April is cooking,kruh,12,11,2014,60 minut,3
 20077,Krompirjev narastek z bučkami in pinjolami,majacebelica,zelenjavne jedi,12,11,2014,60 minut,2
 20078,Špageti alla Siracusana,Levinjav,testenine,12,11,2014,30 minut,2
-20079,Melisino vino,Levinjav,ozimnica: pijače,13,11,2014,4+ ur,1
+20079,Melisino vino,Levinjav,ozimnica: pijače,13,11,2014,240 minut,1
 20080,Indijanka,ajga1,sladice: pecivo,13,11,2014,75 minut,1
 20081,Pirini žepki z jabolčno - orehovim nadevom,sarabande,sladice: ostalo,13,11,2014,90 minut,2
 20082,Orada s hrustljavo polento,abaximan,morska hrana: ribe,14,11,2014,60 minut,3
@@ -83,7 +83,7 @@
 20085,Orehovo - skutine kocke,SMARTY1,sladice: pecivo,18,11,2014,90 minut,1
 20086,Jesenska juha »ala fasulas«,fasulas,juhe in zakuhe: zelenjavne juhe,17,11,2014,30 minut,1
 20087,Harmonika kolač s cimetom,14moniii,sladice: ostalo,18,11,2014,120 minut,2
-20088,Pečene krače divjega prašiča ,Mandi_doo,mesne jedi: divjačina,17,11,2014,4+ ur,3
+20088,Pečene krače divjega prašiča ,Mandi_doo,mesne jedi: divjačina,17,11,2014,240 minut,3
 20089,Sočni polpetki,kepa11,morska hrana: ostalo,19,11,2014,60 minut,1
 20090,Kokosove palčke,MihaelaB,sladice: pecivo,19,11,2014,60 minut,2
 20091,Izvrstno pecivo brez peke za manj kot 5€,Omnomnom,sladice: pecivo,20,11,2014,45 minut,1
@@ -102,7 +102,7 @@
 20105,Pogača žemljevka,mopsika,sladice: ostalo,2,12,2014,120 minut,1
 20106,Jajca s porom in mandarino,gurmankaH,jajčne jedi: ostalo,2,12,2014,15 minut,1
 20107,Metini piškoti,SMARTY1,sladice: piškoti,2,12,2014,120 minut,2
-20108,Vložena paprika drugače,pultica,ozimnica: ostalo,3,12,2014,4+ ur,2
+20108,Vložena paprika drugače,pultica,ozimnica: ostalo,3,12,2014,240 minut,2
 20109,Mekike,svenska,jajčne jedi: ostalo,3,12,2014,30 minut,2
 20110,Banane v testu s pudingom,cincila73,sladice: ostalo,3,12,2014,45 minut,1
 20111,Tortilje na moj način :),božiček1,zelenjavne jedi,3,12,2014,30 minut,2
@@ -143,7 +143,7 @@
 20146,Rustikalni piškoti s kakavom; goji jagodami in arašidi ,Evvva,sladice: piškoti,22,12,2014,60 minut,2
 20147,Čajni avokado piškotki s konopljo,Evvva,sladice: piškoti,22,12,2014,60 minut,2
 20148,Toffifee mafini,Evvva,sladice: pecivo,22,12,2014,60 minut,2
-20149,Panettone,gobica10,sladice: pecivo,23,12,2014,4+ ur,4
+20149,Panettone,gobica10,sladice: pecivo,23,12,2014,240 minut,4
 20150,Vodne blazinice,piskrcek,sladice: piškoti,23,12,2014,120 minut,3
 20151,Božični čokoladni liker,kambro,napitki: alkoholni,23,12,2014,30 minut,1
 20152,Piškoti stare mame Kissinger,ZvonkaK,sladice: piškoti,24,12,2014,120 minut,2
@@ -214,7 +214,7 @@
 20219,Špageti s česnom; oljem in čilijem ,sarabande,testenine,30,1,2015,15 minut,1
 20220,Ričota,beno71,enolončnice,30,1,2015,150 minut,2
 20221,Pasijonkin tiramisu,marta,sladice: ostalo,31,1,2015,60 minut,1
-20222,Francoska solata - strjenka,SMARTY1,solate,31,1,2015,4+ ur,2
+20222,Francoska solata - strjenka,SMARTY1,solate,31,1,2015,240 minut,2
 20223,Rižev narastek,zes5ana,sladice: ostalo,31,1,2015,60 minut,2
 20224,Napitek za lepši spanec,SMARTY1,napitki: brezalkoholni,31,1,2015,30 minut,1
 20225,Peresno lahko pecivo z grškim jogurtom,midvakuhava,sladice: pecivo,2,2,2015,30 minut,2
@@ -235,7 +235,7 @@
 20240,Jabolčna torta z orehi; belo čokolado in cimetom ,marta,sladice: torte,6,2,2015,180 minut,3
 20241,Pomarančni marmorni kolač,kuharica Sara,sladice: pecivo,6,2,2015,60 minut,2
 20242,Medenjaki,zes5ana,sladice: piškoti,10,2,2015,30 minut,2
-20243,Fini keksi,zes5ana,sladice: piškoti,10,2,2015,4+ ur,2
+20243,Fini keksi,zes5ana,sladice: piškoti,10,2,2015,240 minut,2
 20244,Čokoladni kolački z avokadom; banano in mandlji  ,Vesna rada peče,sladice: pecivo,11,2,2015,30 minut,2
 20245,Presni ''sirni'' namaz,Vesna rada peče,predjedi: namazi,11,2,2015,5 minut,1
 20246,Krekerji iz semen,Vesna rada peče,sladice: slano pecivo,11,2,2015,60 minut,2
@@ -277,8 +277,8 @@
 20284,Čokoladni rezanci,teodorca,sladice: ostalo,27,2,2015,90 minut,2
 20285,Bakalca,Barbara_M,mesne jedi: govedina,27,2,2015,120 minut,3
 20286,Jogurtov biskvit za rulado,SMARTY1,sladice: pecivo,4,3,2015,45 minut,1
-20287,Krompirjevo - ribje polpete,sarabande,morska hrana: ribe,4,3,2015,4+ ur,2
-20288,Jagodna "krašotica" ,SMARTY1,sladice: torte,5,3,2015,4+ ur,2
+20287,Krompirjevo - ribje polpete,sarabande,morska hrana: ribe,4,3,2015,240 minut,2
+20288,Jagodna "krašotica" ,SMARTY1,sladice: torte,5,3,2015,240 minut,2
 20289,Limonine tortice,midvakuhava,sladice: torte,5,3,2015,15 minut,1
 20290,Pekoče testenine 2 »ala fasulas«,fasulas,eksotika: ostale dežele,6,3,2015,60 minut,1
 20291,Prleška ajdova župa »ala fasulas«,fasulas,juhe in zakuhe: ostale juhe,7,3,2015,60 minut,1
@@ -349,7 +349,7 @@
 20361,Ameriške palačinke,Vanillia,sladice: palačinke,23,4,2015,30 minut,3
 20363,Najboljše domače testo za pizzo,BarByKaa,kruh,23,4,2015,60 minut,2
 20364,Kraški kruhki,anasteele,kruh,24,4,2015,15 minut,1
-20365,Sirup za zdravje,slivovi cmoki,ozimnica: pijače,30,4,2015,4+ ur,2
+20365,Sirup za zdravje,slivovi cmoki,ozimnica: pijače,30,4,2015,240 minut,2
 20366,Čemaževo sirova juha,noangel,juhe in zakuhe: ostale juhe,29,4,2015,15 minut,1
 20367,Prebranac po dolenjsko,noangel,enolončnice,29,4,2015,180 minut,2
 20368,Čokoladni piškoti s čilijem,ivanal123,sladice: piškoti,29,4,2015,45 minut,2
