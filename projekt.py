@@ -19,8 +19,8 @@ def static(filename):
     return static_file(filename, root='static') # to je treba spremenit nazaj v samo static
 
 @get('/recept/<id>')
-def recept(id):
-    cur.execute("SELECT id FROM recept")
+def recept():
+    cur.execute("SELECT id FROM recept WHERE recept.id = %s", id)
     # return template('views/recept.html, recept=cur)
     # v spremenjivki recept bodo ime, avtor, sestavine ...
     # To potem daš v html na spletno stran tako kot imava zdaj na prvi strani
