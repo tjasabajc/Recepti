@@ -1,4 +1,4 @@
-﻿Recepti/20002.html,testo
+Recepti/20002.html,testo
 Recepti/20002.html,moka
 Recepti/20002.html,škrob
 Recepti/20002.html,sladkor
@@ -294,6 +294,7 @@ Recepti/20025.html,sir
 Recepti/20025.html,jajca
 Recepti/20025.html,česen
 Recepti/20025.html,drobtine
+Recepti/20025.html,class=""label-inline"">3
 Recepti/20025.html,sol
 Recepti/20025.html,poper
 Recepti/20026.html,moka
