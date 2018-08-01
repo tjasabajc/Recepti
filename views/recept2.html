@@ -1,0 +1,19 @@
+% rebase('osnova1.html', podstran='recept')
+<section class="well well__offset-3">
+	<div class="container">
+		<h2><em>Pozdravljeni!</em> Že veste, kaj boste kuhali danes?</h2>
+			%for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in recept:
+			<h2>{{ime}}</h2>
+		   <td style="font-size:300%;"><em>id: </em> {{id}}</td><br>
+		   <td style="font-size:200%;"><em>ime: </em> {{ime}}</td><br>
+		   <td style="font-size:200%;"><em>avtor: </em> {{avtor}}</td><br>
+		   <td style="font-size:200%;"><em>vrstajedi: </em> {{vrsta_jedi}}</td><br>
+		   <td style="font-size:200%;"><em>cas_priprave: </em> {{cas_priprave}}</td><br>
+		   <td style="font-size:200%;"><em>datum_objave: </em> {{datum_objave}}</td><br>
+		   <td style="font-size:200%;"><em>tezavnost: </em> {{tezavnost}}</td><br>
+		   <td style="font-size:200%;"><em>navodilo: </em> {{navodilo}}</td><br>
+		    <br>
+			%end
+	</div>
+</section>
+

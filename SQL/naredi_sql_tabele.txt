@@ -1,74 +1,108 @@
 CREATE TABLE recept (
 
+
 	id integer PRIMARY KEY,
+
 
 	ime text NOT NULL,
 
+
 	avtor integer NOT NULL REFERENCES uporabnik(id)
 ,
-	vrsta jedi text NOT NULL,
 
-	cas priprave integer, --minute
+	vrsta_jedi text NOT NULL,
 
-	datum objave date NOT NULL,
+
+	cas_priprave integer,
+
+	datum_objave date NOT NULL,
+
 	
-	navodilo text NOT NULL
+navodilo text NOT NULL
 ,
+
 
 	tezavnost
  integer);
 
+
+
 CREATE TABLE uporabnik (
+
 
 	id serial PRIMARY KEY,
 
+
 	ime text UNIQUE NOT NULL,
 
+
 	datum date DEFAULT now() CHECK (datum <= now()),
+
 
 	opis text
 );
 
 
 
+
+
 CREATE TABLE objava (
 
+
 	recept integer UNIQUE REFERENCES recept(id),
+
 
 	avtor integer REFERENCES uporabnik(id)
 );
 
 
 
+
+
 CREATE TABLE priloznost (
 
+
 	id serial PRIMARY KEY,
+
 
 	ime text NOT NULL
 );
 
 
 
+
+
 CREATE TABLE primernost (
 
+
 	recept integer REFERENCES recept(id),
+
 
 	priloznost integer REFERENCES priloznost(id)
 );
 
 
 
+
+
 CREATE TABLE sestavina (
 
+
 	id serial PRIMARY KEY,
+
 
 	ime text UNIQUE NOT NULL
 );
 
+
+
 CREATE TABLE potrebuje (
+
 
 	recept integer REFERENCES recept(id),
 
+
 	sestavina integer REFERENCES sestavina (id)
 ,
+
 	kolicina text NOT NULL);

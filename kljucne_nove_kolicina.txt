@@ -1,0 +1,4110 @@
+﻿id,kolicina,sestavina
+20002,1 kos,testo
+20002,200 g,moka
+20002,100 g,škrob
+20002,350 g,sladkor
+20002,7,jajca
+20002,1;5 l,mleko
+20002,5 dl,smetana
+20002,4 žlice,rum
+20002,1,sladkor
+20002,1,vanilija
+20003,200 g,hruška
+20003,4 žlice,čokolada
+20003,30 g,moka
+20003,200 g,moka
+20003,1 dl,mleko
+20003,3 žlice,kakav
+20003,2,jajca
+20003,140 g,sladkor
+20003,1/2 dl,olje
+20004,90 g,sladkor
+20004,45 g,moka
+20004,50 g,[]
+20004,,limona
+20004,,[]
+20004,,[]
+20004,2 žlici,limona
+20004,100 g,smetana
+20004,2 dl,smetana
+20004,4 žlice,sladkor
+20004,6,želatina
+20004,,[]
+20004,,[]
+20004,220 g,[]
+20004,"1;5 ,[]
+20004,"1;5 dl ,smetana
+20004,5 žlic,sladkor
+20004,,želatina
+20004,,[]
+20005,600 g,[]
+20005,,[]
+20005,300 g,čebula
+20005,,olje
+20005,,[]
+20005,1,[]
+20005,1 dl,vino
+20005,1,[]
+20005,1,[]
+20005,1,paradižnik
+20005,1,[]
+20005,2,[]
+20005,1,[]
+20005,ščepec,origano
+20005,ščepec,timijan
+20005,ščepec,kumina
+20005,1,lovorjev list
+20005,,smetana
+20005,,[]
+20006,500 g,[]
+20006,1,čebula
+20006,250 g,[]
+20006,1,korenje
+20006,1 strok,česen
+20006,½,paradižnik
+20006,1 l,[]
+20006,1,paprika
+20006,ščepec,šetraj
+20006,2,smetana
+20006,ščepec,sol
+20007,4,[]
+20007,2,jajca
+20007,10,[]
+20007,,paprika
+20007,,peteršilj
+20007,dve žlici,olje
+20007,,drobtine
+20007,,sol
+20007,,poper
+20007,,paprika
+20007,pest,sir
+20008,500 g,testenine
+20008,,olje
+20008,1,čebula
+20008,pol,paprika
+20008,4,paradižnik
+20008,13,olive
+20008,2,ribe
+20008,"0;25 l ,[]
+20008,,origano
+20008,,timijan
+20008,,sol
+20009,1 kg,[]
+20009,2-3,lovorjev list
+20009,1 čajna žlička,kumina
+20009,2-3,česen
+20009,,poper
+20009,,sol
+20009,,moka
+20009,,[]
+20009,,olje
+20009,2,čebula
+20009,,fižol
+20010,,[]
+20010,250 g,[]
+20010,100 g,maslo
+20010,pol žličke,sol
+20010,2,jajca
+20010,,[]
+20010,1,por
+20010,1/4,buča
+20010,150 g,[]
+20010,100 g,[]
+20010,3,jajca
+20011,1 kg,divjačina
+20011,,meso
+20011,,olje
+20011,3,čebula
+20011,2,korenje
+20011,300 g,zelena
+20011,2 stroka,česen
+20011,1 žlica,sladkor
+20011,1 žlica,paradižnik
+20011,250 ml,vino
+20011,500 ml,[]
+20011,,brinove jagode
+20011,,lovorjev list
+20011,2 žlici,marmelada
+20011,,sol
+20011,,poper
+20012,,[]
+20012,1 kg,[]
+20012,2 kg,[]
+20012,4,[]
+20012,2,rožmarin
+20012,,[]
+20012,,bazilika
+20012,3,česen
+20012,4,olje
+20012,,[]
+20012,5,krompir
+20012,,[]
+20012,malo,sol
+20012,malo,sladkor
+20012,,maslo
+20012,,olje
+20012,,limona
+20013,,[]
+20013,250 g,[]
+20013,250 g,[]
+20013,žlička,sol
+20013,malo,[]
+20013,,[]
+20013,3,bučka
+20013,2,krompir
+20013,1,čebula
+20013,3,česen
+20013,,peteršilj
+20013,,sol
+20013,,poper
+20013,250 g,skuta
+20013,2,[]
+20013,1,olje
+20013,3,zdrob
+20013,,[]
+20013,1,jajca
+20014,2-3,olje
+20014,3,šalotka
+20014,4,krompir
+20014,2,svinjina
+20014,1,korenje
+20014,3,česen
+20014,3,paradižnik
+20014,ščep,poper
+20014,ščep,sol
+20014,ščep,timijan
+20014,1/2,ingver
+20014,3,peteršilj
+20014,1,[]
+20014,,[]
+20015,1,svinjina
+20015,,sol
+20015,,poper
+20015,1,jabolka
+20015,70 g,sir
+20015,100 g,svinjina
+20015,50 g,maslo
+20015,,moka
+20015,1 dl,[]
+20016,,[]
+20016,4,ribe
+20016,1,čebula
+20016,4,česen
+20016,2 žlici,olje
+20016,2 žlici,kis
+20016,,sol
+20016,5-6,poper
+20016,,peteršilj
+20016,,[]
+20016,,[]
+20016,300 g,[]
+20016,2,čebula
+20016,2 stroka,česen
+20016,1 žlica,olje
+20016,2 žlici,sladkor
+20016,,sol
+20016,nekaj,[]
+20016,,[]
+20016,750 g,blitva
+20016,2 stroka,česen
+20016,,peteršilj
+20016,2 žlici,olje
+20016,,sol
+20017,,[]
+20017,5 malo,krompir
+20017,2,korenje
+20017,1/2 skodelice,paradižnik
+20017,1 malo,[]
+20017,1,koruza
+20017,2,[]
+20017,1 l,[]
+20017,,sol
+20017,,šetraj
+20017,,kumina
+20017,,majaron
+20017,,timijan
+20017,1 žlica,olje
+20017,,[]
+20017,2,jajca
+20017,4,moka
+20018,"1;5 kg ,[]
+20018,3,česen
+20018,,peteršilj
+20018,1 dl,vino
+20018,4,olje
+20019,300 g,zdrob
+20019,10 g,maslo
+20019,,[]
+20019,,sol
+20019,,ocvirki
+20020,1 kg,[]
+20020,"7;5 dl ,mleko
+20020,12 dag,margarine/masla
+20020,,sol
+20020,,sladkor
+20020,1,kvas
+20020,1,[]
+20021,1,brokoli
+20021,1,čebula
+20021,1,korenje
+20021,1,[]
+20021,3,česen
+20021,ščepec,timijan
+20021,ščepec,luštrek
+20021,2,krompir
+20021,2 dl,smetana
+20021,,sol
+20021,1 dl,smetana
+20021,,[]
+20021,1,[]
+20021,"1;5 l ,[]
+20021,,[]
+20022,2,kumari
+20022,4,krompir
+20022,polovica,čebula
+20022,1,[]
+20022,,paprika
+20022,,poper
+20023,500 g,[]
+20023,1,[]
+20023,2,jabolki
+20023,1,banana
+20023,1 pest,[]
+20023,1 pest,mandlji
+20023,1,prašek
+20023,3,jajca
+20023,1,[]
+20023,,cimet
+20023,,[]
+20024,,[]
+20024,6,jajca
+20024,4 žlice,sladkor
+20024,1/2,[]
+20024,2 žlici,kakav
+20024,2 žlici,moka
+20024,,[]
+20024,,[]
+20024,2,jajca
+20024,150 g,sladkor
+20024,1 dl,mleko
+20024,4,[]
+20024,250 g,maslo
+20024,150 g,[]
+20024,malo,rum
+20024,4,[]
+20025,600,[]
+20025,100 g,sir
+20025,2,jajca
+20025,2 stroka,česen
+20025,2,drobtinec
+20025,,sol
+20025,,poper
+20026,280 g,moka
+20026,140 g,maslo
+20026,100 g,sladkor
+20026,1/4,[]
+20026,1,sladkor
+20026,2,jajca
+20026,5 ,jabolk
+20026,50 g,sladkor
+20026,1/2 žličke,cimet
+20026,2 žlici,smetana
+20027,2,čebula
+20027,,[]
+20027,2,paprika
+20027,2,paradižnik
+20027,100 g,[]
+20027,1 velika,[]
+20027,,[]
+20028,3,krompir
+20028,3,česen
+20028,,sol
+20028,800 g,kostanj
+20028,1 dl,mleko
+20028,,[]
+20028,,majaron
+20029,20 dag,moka
+20029,5 dag,sladkor
+20029,1,jajca
+20029,pol,[]
+20029,1,sladkor
+20029,12 dag,[]
+20029,,marmelada
+20030,5,bučka
+20030,3,[]
+20030,3,paradižnik
+20030,3,česen
+20030,,[]
+20030,,čebula
+20030,,[]
+20030,,olje
+20030,,sol
+20031,,[]
+20031,,[]
+20031,ena,bučka
+20031,3,paradižnik
+20031,,por
+20031,,korenje
+20031,,[]
+20031,,sir
+20031,,sezam
+20031,,[]
+20032,25 dag,moka
+20032,1/2,[]
+20032,7 dag,sladkor
+20032,12 dag,margarina
+20032,2,[]
+20032,,marmelada
+20032,2 žlici,rum
+20032,malo,[]
+20032,,[]
+20032,,[]
+20032,,[]
+20033,,[]
+20033,120 g,margarina
+20033,250 g,čokolada
+20033,50 g,malin
+20033,2,jajca
+20033,100 g,sladkor
+20033,150 g,moka
+20033,,[]
+20033,250 g,malin
+20033,"2;5 dl ,mleko
+20033,150 g,kokosa
+20033,100 g,sladkor
+20033,,[]
+20033,200 g,čokolada
+20033,4,smetana
+20034,20 dag,moka
+20034,5 dag,sladkor
+20034,1,jajca
+20034,1,sladkor
+20034,1/2,[]
+20034,"12;5 dag ,margarine/masla
+20034,1 žlica,kakav
+20034,,[]
+20035,500 g,[]
+20035,350 g,krompir
+20035,2,čebula
+20035,2 stroka,česen
+20035,2,moka
+20035,1,jajca
+20035,,[]
+20035,,[]
+20035,,[]
+20035,3,maslo
+20035,4,moka
+20035,"0;5 l ,mleko
+20035,"0;2 l ,[]
+20035,100 g,[]
+20035,,sol
+20036,,[]
+20036,500 g,moka
+20036,1 vrečka,kvas
+20036,1 čajna žlička,sol
+20036,50 g,sladkor
+20036,280 ml,[]
+20036,2,jajca
+20036,60 g,[]
+20036,1,[]
+20036,,[]
+20036,500 g,[]
+20036,200 g,sladkor
+20036,1,sladkor
+20036,2 dl,[]
+20036,5-8,[]
+20036,,limona
+20036,1-2 čajni žlički,cimet
+20036,2,[]
+20037,,[]
+20037,,[]
+20037,,limona
+20037,,gelfix
+20037,,ekstrakt
+20038,,[]
+20038,250 g,moka
+20038,1/2 vrečke,[]
+20038,80 g,sladkor
+20038,120 g,maslo
+20038,1,jajca
+20038,50 ml,mleko
+20038,ščepec,sol
+20038,1,sladkor
+20038,malo,[]
+20038,,[]
+20038,1,jajca
+20038,100 g,sladkor
+20038,nekaj kapljic,limona
+20039,2,jajca
+20039,1,[]
+20039,malo,sladkor
+20039,1/4,[]
+20039,1,mleko
+20039,1,moka
+20039,1 žlička,[]
+20039,1/4,[]
+20039,,[]
+20039,,[]
+20040,,[]
+20040,3,jajca
+20040,9 žlic,sladkor
+20040,1,sladkor
+20040,9 žlic,olje
+20040,9 žlic,mleko
+20040,9 žlic,moka
+20040,1,prašek
+20040,5 žlic,kakav
+20040,,[]
+20040,2,[]
+20040,7 dl,mleko
+20040,,[]
+20040,,čokolada
+20040,,[]
+20041,150 g,[]
+20041,70 g,sardin
+20041,1,čebulica
+20041,1 ,jajca
+20041,1  čajna žlička,[]
+20041,2 – 3 ,[]
+20041,1 – 2 žlici,smetana
+20041,,[]
+20041,,sol
+20041,,[]
+20043,2,olje
+20043,2,[]
+20043,100 g,por
+20043,10,[]
+20043,1,[]
+20043,malo,[]
+20043,1,vegete
+20043,malo,[]
+20043,1,[]
+20043,,[]
+20043,,sojine
+20043,200 g,[]
+20044,,[]
+20044,5,jajca
+20044,250 g,[]
+20044,250 g,sladkor
+20044,1,[]
+20044,1,zavojček
+20044,1/2,[]
+20044,ščepec,sol
+20044,1 dl,[]
+20044,1 dl,[]
+20044,50 g,kakav
+20044,,[]
+20044,2 dl,[]
+20044,,[]
+20044,500 g,mascarponeja
+20044,250 ml,smetana
+20044,2,[]
+20044,1,[]
+20044,1 žlica,mleko
+20044,,[]
+20044,,[]
+20044,,[]
+20044,,[]
+20045,2,krompir
+20045,,sol
+20045,,rožmarin
+20045,,maslo
+20046,,[]
+20046,200 g,margarina
+20046,8,jajca
+20046,200 g,sladkor
+20046,200 g,čokolada
+20046,4,moka
+20046,1,prašek
+20046,1 dl,mleko
+20046,,[]
+20046,1 l,smetana
+20046,500 g,čokolada
+20047,,[]
+20047,3,jabolka
+20047,100 g,sladkor
+20047,1/2 žličke,cimet
+20047,,[]
+20047,2,jajca
+20047,50 g,moka
+20047,50 g,sladkor
+20047,,[]
+20047,3,[]
+20048,2,kumari
+20048,1,[]
+20048,2 stroka,česen
+20048,1,[]
+20048,1,limona
+20048,,sol
+20048,,[]
+20049,,[]
+20049,1 kg,krompir
+20049,400 g,moka
+20049,1,jajca
+20049,1,maslo
+20049,,sol
+20049,,[]
+20049,250 g,[]
+20049,1,čebula
+20049,2,[]
+20049,,sol
+20049,,[]
+20049,,jajca
+20049,,drobtine
+20051,400 g,[]
+20051,100 g,[]
+20051,300 ml,tople
+20051,2 čajni žlički,[]
+20051,1 vrečka,kvas
+20051,100 g,sir
+20051,100 g,[]
+20051,1 čajna žlička,sol
+20052,25 g,maslo
+20052,"0;2 l ,mleko
+20052,100 g,špinače
+20052,250 g,moka
+20052,1,[]
+20052,1,[]
+20052,50 g,sir
+20052,1,jajca
+20052,100 g,skuta
+20053,,[]
+20053,250 g,[]
+20053,250 g,moka
+20053,1/2,[]
+20053,1 žlička,sol
+20053,1/2 žličke,sladkor
+20053,"2;5 dl ,mleko
+20053,1,[]
+20053,1,jajca
+20053,,[]
+20053,500 g,[]
+20053,2,[]
+20053,2 stroka,česen
+20053,1/2,čebula
+20053,,timijan
+20053,,[]
+20053,,sol
+20053,žlička,maslo
+20053,2,[]
+20053,500 ml,zelenjavne
+20053,4,smetana
+20053,,peteršilj
+20054,,[]
+20054,,čebula
+20054,,česen
+20054,,olje
+20054,,kis
+20054,,sol
+20054,,krompir
+20055,1,[]
+20055,2,paradižnik
+20055,1,paprika
+20055,1/2,čebula
+20055,3,česen
+20055,2,korenje
+20055,2,[]
+20055,,peteršilj
+20055,4,krompir
+20055,,olje
+20056,150 g,[]
+20056,1 l,mleko
+20056,,[]
+20056,,[]
+20056,100 g,[]
+20056,,sladkor
+20056,ščepec,sol
+20056,čajna žlička,maslo
+20056,2-3 žlice,rum
+20056,2 žlici,kakav
+20057,,[]
+20057,175 g,čokolada
+20057,115 g,maslo
+20057,2,jajca
+20057,90 g,sladkor
+20057,50 g,sladkor
+20057,20 g,kakav
+20057,40 g,moka
+20057,1 žlička,[]
+20057,2 žlički,ekstrakta
+20057,1 ščepec,sol
+20057,110 g,[]
+20057,100 g,čokolada
+20057,250 g,[]
+20057,,[]
+20057,2,jajca
+20057,110 g,sladkor
+20057,110 g,moka
+20057,1,prašek
+20057,110 g,[]
+20057,,[]
+20057,1 l,mleko
+20057,1,[]
+20057,60 g,Gustina
+20057,4 žlice,sladkor
+20057,2,[]
+20057,1,mascarpone
+20057,,[]
+20057,20 dag,čokolada
+20057,200 ml,smetana
+20057,100 g,mascarponeja
+20057,,[]
+20057,,[]
+20057,,[]
+20058,1 kg,[]
+20058,1-2,[]
+20058,2 žlici,medu
+20058,2 čajni žlički,sol
+20058,1/2 l,[]
+20058,,[]
+20059,1 kg,[]
+20059,2,čebula
+20059,2,[]
+20059,1 žlica,medu/sladkorja
+20059,2 žlički,sol
+20059,1 žlica,[]
+20059,1 žlička,[]
+20059,1 žlica,[]
+20059,1 žlica,[]
+20059,,olje
+20060,500 g,moka
+20060,100 g,sladkor
+20060,"0;5 dl ,mleko
+20060,1,jajca
+20060,100 g,maslo
+20060,,[]
+20061,"0;4 l ,mleko
+20061,8,škrob
+20061,8,sladkor
+20061,100 g,margarina
+20061,100 g,sladkor
+20061,100 g,kokosa
+20061,100 g,čokolada
+20061,,[]
+20062,,[]
+20062,,prašek
+20062,250 g,moka
+20062,125 g,maslo
+20062,,jajca
+20062,malo,mineralne
+20062,žlica,olje
+20062,pest,sladkor
+20062,ščep,sol
+20062,2 žlici,smetana
+20062,,[]
+20062,250 g,jagode
+20062,,[]
+20062,3 žlice,sladkor
+20062,,[]
+20062,200 g,čokolada
+20062,,puding
+20062,4,jajca
+20062,200 ml,smetana
+20062,2 žlici,smetana
+20062,,[]
+20062,,[]
+20062,5,jajca
+20062,5 žlic,sladkor
+20062,,sladkor
+20062,,puding
+20062,žlica,moka
+20062,5 dl,mleko
+20062,125 g,maslo
+20063,125 g,maslo
+20063,250 g,moka
+20063,100 g,sladkor
+20063,200 ml,mleko
+20063,3,jajca
+20063,2,[]
+20064,800 g,bučka
+20064,2,čebula
+20064,2,jajca
+20064,6 žlic,moka
+20064,2 dl,mleko
+20064,200 g,[]
+20064,,sol
+20064,žlička,paprika
+20065,1,čebula
+20065,2,paprika
+20065,1,paradižnik
+20065,,peteršilj
+20065,,[]
+20065,,[]
+20065,4,[]
+20066,900 ml,mleko
+20066,400 g,čokolada
+20066,1/2,pudinga
+20066,1,[]
+20066,400 g,sladkor
+20066,400 - 600 ml,[]
+20067,,[]
+20067,12,jajca
+20067,10 žlic,sladkor
+20067,2,[]
+20067,,limona
+20067,200 g,[]
+20067,,[]
+20067,250 g,[]
+20067,360 g,smetana
+20067,200 g,[]
+20067,100 g,smetana
+20067,1,kremfix
+20067,3,[]
+20067,5 žlic,sladkor
+20067,,[]
+20067,80 g,sladkor
+20067,80-100 g,[]
+20068,200 g,slanine
+20068,80 g,sir
+20068,150 g,[]
+20069,25 dag,[]
+20069,60 dag,moka
+20069,5 dag,maslo
+20069,2 dl,[]
+20069,1,jajca
+20069,"1;5 ,kvas
+20069,žlička,sladkor
+20069,,sol
+20069,žlica,rožmarin
+20069,2 žlici,[]
+20070,"2;5 dl ,[]
+20070,"2;5 dl ,mleko
+20070,4,[]
+20070,ščep,sol
+20070,,sladkor
+20070,,[]
+20070,,[]
+20071,140 g,sladkor
+20071,120 g,[]
+20071,1 žlica,[]
+20071,150 g,[]
+20071,,[]
+20071,2 žlici,kakav
+20071,100 g,moka
+20071,3,jajca
+20071,ščep,sol
+20072,,[]
+20072,,[]
+20072,,[]
+20072,1,sladkor
+20072,,[]
+20072,200 g,[]
+20072,60 g,[]
+20072,,[]
+20072,150 g,[]
+20072,2 dl,[]
+20072,4,[]
+20072,,[]
+20072,2 žlici,[]
+20072,4 žlice,[]
+20072,1 žlička,želatina
+20073,,[]
+20073,5,jajca
+20073,5 žlic,sladkor
+20073,7 žlic,[]
+20073,4 žlice,moka
+20073,,[]
+20073,15,jajca
+20073,20 žlic,sladkor
+20073,15 žlic,moka
+20073,1 l,mleko
+20073,300 g,margarina
+20073,300 g,čokolada
+20073,100 g,čokolada
+20073,250 g,[]
+20073,3,[]
+20074,"0;5 kg ,čebul
+20074,250 g,govedina
+20074,50 g,riž
+20074,1,korenje
+20074,,sol
+20074,,vegeta
+20074,,[]
+20074,,olje
+20074,,moka
+20074,,paprika
+20075,,[]
+20075,600 g,moka
+20075,6,jajca
+20075,,[]
+20075,2,[]
+20075,,topla
+20075,,[]
+20075,,[]
+20075,1,čebula
+20075,500 g,svinjina
+20075,600 ml,[]
+20075,1 dl,mleko
+20075,250 g,sir
+20075,,drobtine
+20075,,maslo
+20076,,[]
+20076,700 g,moka
+20076,3,krompir
+20076,2 dl,krompirjeve
+20076,,[]
+20076,1 dl,špargljeve
+20076,1,[]
+20076,2 čajni žlički,sol
+20076,1 čajna žlička,sladkor
+20076,2 dl,mleko
+20076,2,[]
+20076,1,jajca
+20076,,[]
+20076,500 g,[]
+20076,200 g,[]
+20077,1,bučka
+20077,10 g,maslo
+20077,20 g,pinjol
+20077,,[]
+20077,1,jajca
+20077,,[]
+20078,450 g,testenine
+20078,4,[]
+20078,3/4 skodelice,[]
+20078,1/2 skodelice,sir
+20078,1/2 skodelice,pecorina
+20078,1,[]
+20078,3,česen
+20078,3 žlice,paradižnik
+20078,,[]
+20079,1 l,[]
+20079,2,melise
+20080,,[]
+20080,15 dag,margarina
+20080,20 dag,sladkor
+20080,20 dag,moka
+20080,2 žlici,kakav
+20080,4,jajca
+20080,1,prašek
+20080,2 dl,mleko
+20080,,rum
+20080,,[]
+20080,4,jajca
+20080,20 dag,sladkor
+20080,,[]
+20080,10 dag,margarina
+20080,10 dag,čokolada
+20081,,[]
+20081,180 g,[]
+20081,70 g,[]
+20081,ščep,sol
+20081,2,jajca
+20081,1,olje
+20081,2,[]
+20081,,[]
+20081,1,[]
+20081,30 g,[]
+20081,½,[]
+20081,1,rum
+20081,1,sladkor
+20081,2,[]
+20081,35 g,maslo
+20081,1,[]
+20082,4,[]
+20082,1,bučka
+20082,1,paprika
+20082,"0;2 l ,polente
+20082,"0;1 l ,[]
+20082,30 g,sir
+20082,,olje
+20082,4,česen
+20082,ščep,poper
+20082,ščep,sol
+20082,,čili
+20082,1,[]
+20082,1,[]
+20082,1/2,[]
+20082,1/2,ingver
+20082,1,paprika
+20083,400 g,govedina
+20083,1,čebula
+20083,500 g,moka
+20083,1 vrečka,kvas
+20083,"2;5 - 3 dl ,[]
+20083,1 žlička,sladkor
+20083,,sol
+20083,,poper
+20083,3 žlice,olje
+20084,,[]
+20084,500 g,govedina
+20084,1,por
+20084,,sol
+20084,,poper
+20084,3,jajca
+20084,2 žlici,olje
+20085,,[]
+20085,300 g,moka
+20085,200 g,margarina
+20085,100 g,sladkor
+20085,4,jajca
+20085,1/2,[]
+20085,2 žlici,smetana
+20085,,[]
+20085,250 g,[]
+20085,6 žlic,sladkor
+20085,4 žlice,mleko
+20085,1 žlica,rum
+20085,,[]
+20085,500 g,[]
+20085,150 g,sladkor
+20085,4,jajca
+20085,2 žlici,gresa
+20086,500 g,[]
+20086,150 g,leče
+20086,2,korenje
+20086,1 velika,čebula
+20086,1,krompir
+20086,1,ingver
+20086,2 stroka,česen
+20086,ščepec,[]
+20086,ščepec,sol
+20086,ščepec,[]
+20086,,olje
+20086,,smetana
+20086,,toast
+20086,,timijan
+20087,,[]
+20087,3,[]
+20087,1/4,[]
+20087,2 dag,kvas
+20087,1/2,[]
+20087,57 g,maslo
+20087,1/3,[]
+20087,1/4,lončka
+20087,2,jajca
+20087,1,sladkor
+20087,,[]
+20087,,[]
+20087,1,sladkor
+20087,2 žlici,cimet
+20087,60 g,maslo
+20088,1 kg,[]
+20088,,olje
+20088,100 g,korenje
+20088,100 g,[]
+20088,50 g,por
+20088,2,čebula
+20088,2 žlici,paradižnik
+20088,125 ml,vino
+20088,250 ml,[]
+20088,7,brinove jagode
+20088,2,[]
+20088,3 žlice,marmelada
+20088,125 ml,smetana
+20088,,sol
+20088,,poper
+20089,2,ribe
+20089,4,[]
+20089,1,korenje
+20089,5 žlic,[]
+20089,5 dag,sir
+20089,2 stroka,česen
+20089,1 žlička,gorčice
+20089,1 žlička,[]
+20089,3 žlice,[]
+20089,1,jajca
+20089,,poper
+20090,1,[]
+20090,,[]
+20090,250 ml,mleko
+20090,½,[]
+20090,50 g,jajca
+20090,70 g,sladkor
+20090,10 g,škroba
+20090,1,[]
+20090,20 g,maslo
+20090,300 ml,[]
+20090,,[]
+20090,300 ml,mleko
+20090,malo,rum
+20090,200 g,kokosa
+20091,,[]
+20091,1,[]
+20091,1,[]
+20091,"0;5 l ,mleko
+20091,"0;25 l ,smetana
+20091,,[]
+20091,,[]
+20091,,sladkor
+20091,,[]
+20092,370 g,puranjega
+20092,pol,[]
+20092,100 g,[]
+20092,,sol
+20092,,poper
+20092,,česen
+20092,,timijan
+20092,1 dl,vino
+20092,1 dl,[]
+20092,,olje
+20092,4,[]
+20092,,[]
+20093,4 žlice,[]
+20093,1/2,[]
+20093,1 čajna žlička,gorčice
+20093,6,jajca
+20093,100 g,šunke
+20093,1,drobnjak
+20094,,[]
+20094,5,[]
+20094,2,[]
+20094,,[]
+20095,,[]
+20095,3,krompir
+20095,720 g,[]
+20095,"0;5 kg ,[]
+20095,2,jajca
+20095,2 žlici,maslo
+20095,,sol
+20095,,[]
+20095,800 g,repe
+20095,300 g,[]
+20095,100 g,ocvirki
+20095,1,čebula
+20095,3,česen
+20095,žlica,[]
+20095,,lovorjev list
+20095,,sol
+20095,,poper
+20096,,[]
+20096,3,jajca
+20096,3 žlice,moka
+20096,2 žlici,kakav
+20096,2 žlici,sladkor
+20096,1,sladkor
+20096,,[]
+20096,3 žlice,mleko
+20096,2 žlici,olje
+20096,,[]
+20096,120 g,[]
+20096,315 g,skuta
+20096,100 g,smetana
+20096,45 g,zdrob
+20096,40 g,sladkor
+20096,1,jajca
+20096,,[]
+20096,1,[]
+20096,,kompota
+20096,100 g,[]
+20097,420 g,[]
+20097,2,[]
+20097,2,[]
+20097,300 ml,tople
+20097,,moka
+20098,500 g,jabolk
+20098,125 g,moka
+20098,70 g,sladkor
+20098,70 g,korenje
+20098,60 g,margarina
+20098,1/2 vrečke,[]
+20099,"2;5 kg ,race
+20099,,sol
+20099,1 žlička,majaron
+20099,3,kruh
+20099,2,jabolki
+20099,3-5 dl,[]
+20099,1 dl,pivo
+20099,1-2 žlici,medu
+20101,500 g,[]
+20101,100 g,[]
+20101,,gorčica
+20101,,[]
+20101,1,čebula
+20101,300 g,skuta
+20101,400 ml,[]
+20101,3,[]
+20101,1 žlica,[]
+20101,,sol
+20101,,[]
+20102,250 g,[]
+20102,7-10,korenov
+20102,2 stroka,česen
+20102,1,čebula
+20102,,[]
+20102,2,jajca
+20102,,sol
+20102,,poper
+20103,35 dag,moka
+20103,6 dag,[]
+20103,2 dag,masti
+20103,1,jajca
+20103,5 žlic,mleko
+20103,,limona
+20103,10 dag,sladkor
+20103,1,prašek
+20104,40 dag,moka
+20104,4 dag,[]
+20104,8 dag,sladkor
+20104,10 dag,medu
+20104,1,jajca
+20104,1/2 žličke,cimet
+20104,,limona
+20104,4 žlice,mleko
+20104,ščep,[]
+20105,4,žemlje
+20105,3 dl,smetana
+20105,pest,[]
+20105,,sladkor
+20105,1 žlička,cimet
+20105,2 dl,mleko
+20105,4,jajca
+20105,malo,[]
+20105,,sladkor
+20106,2,jajca
+20106,pest,por
+20106,1-2,mandarini
+20106,velika žlica,paprika
+20106,,olje
+20106,,sol
+20107,,[]
+20107,500 g,moka
+20107,2 žlici,kakav
+20107,250 g,maslo
+20107,150 g,sladkor
+20107,1,jajca
+20107,1 žlica,smetana
+20107,1/2,[]
+20107,,[]
+20107,200 g,čokolada
+20107,1 dl,smetana
+20107,1/2 žličke,[]
+20107,,sladkor
+20108,"3;30 kg ,[]
+20108,4 žlice,sol
+20108,2 žlici,sladkor
+20108,7 dl,[]
+20108,"3;3 dl ,olje
+20108,1,[]
+20108,,[]
+20109,325 g,[]
+20109,1/2,[]
+20109,1,jajca
+20109,1 dl,jogurt
+20109,2 žlici,smetana
+20109,"0;5 - 0;75 dl ,mleko
+20109,,sol
+20109,,olje
+20110,2,banana
+20110,1,[]
+20110,malo,[]
+20110,4 žličke,sladkor
+20110,vrečka,[]
+20110,"0;5 l ,mleko
+20111,2,čebula
+20111,1 - 2,paprika
+20111,2,paradižnik
+20111,1,zelenjavna
+20111,1,[]
+20111,,olje
+20111,,sol
+20111,,poper
+20111,,tortilje
+20111,,sir
+20112,3 skodelice,moka
+20112,1 čajna žlička,sol
+20112,1 čajna žlička,[]
+20112,1/3 skodelice,olje
+20112,1 skodelica,tople
+20113,,[]
+20113,185 g,moka
+20113,1,prašek
+20113,4 žlice,[]
+20113,,[]
+20113,,[]
+20113,1,jajca
+20113,1,smetana
+20113,70 g,sladkor
+20113,1,sladkor
+20113,85 g,[]
+20114,,[]
+20114,4,jajca
+20114,12 žlic,moka
+20114,12 žlic,sladkor
+20114,5 žlic,mleko
+20114,1,sladkor
+20114,1,prašek
+20114,3 žlice,kakav
+20114,5 žlic,olje
+20114,,[]
+20114,5 dl,smetana
+20114,2,banana
+20114,malo,limona
+20114,,[]
+20115,,[]
+20115,1 kg,[]
+20115,,kvas
+20115,3-4,jajca
+20115,3 dl,[]
+20115,12 dag,[]
+20115,1 žlička,sol
+20115,2 žlici,sladkor
+20115,,limona
+20115,malo,rum
+20115,,[]
+20115,50 dag,[]
+20115,10 dag,[]
+20115,40 dag,[]
+20115,1-2 dl,[]
+20115,2,jajca
+20115,malo,cimet
+20115,,[]
+20115,20 dag,orehi
+20116,80 dag,moka
+20116,30 dag,[]
+20116,4,jajca
+20116,,kvas
+20116,1 žlička,sol
+20116,žlica,sladkor
+20116,3 dl,[]
+20117,1,ribe
+20117,1,bučka
+20117,1,[]
+20117,1,čebula
+20117,2 stroka,česen
+20117,,sol
+20117,,poper
+20117,,vegeta
+20117,,origano
+20118,,maslo
+20118,1,korenje
+20118,,zelena
+20118,8,[]
+20118,1,[]
+20118,2,bedri
+20118,2 kosa,[]
+20118,1 dl,vino
+20118,,[]
+20118,1,[]
+20118,30 g,[]
+20118,,[]
+20118,,poper
+20118,1/2 dl,smetana
+20119,35 dag,moka
+20119,"0;5 l ,pivo
+20119,ščepec,sol
+20119,žlička,[]
+20119,,[]
+20120,5,jajca
+20120,100 g,[]
+20120,100 g,maslo
+20120,100 g,sladkor
+20120,žlica,moka
+20120,,prašek
+20120,200 g,borovnic
+20120,1/2 l,smetana
+20120,,sladkor
+20121,200 g,[]
+20121,80 g,mozzarelle
+20121,80 g,[]
+20121,80 g,[]
+20121,3,jajca
+20121,,sol
+20121,1,[]
+20121,,[]
+20121,1,bučka
+20121,1 dl,[]
+20121,,česen
+20121,,sol
+20122,1 kg,[]
+20122,500 g,[]
+20122,250 - 300 g,[]
+20122,150 g,sir
+20122,1,čebula
+20122,1 velika,smetana
+20122,3,jajca
+20122,,lovorjev list
+20122,,sol
+20122,,poper
+20122,,olje
+20123,50 dag,skuta
+20123,4,jajca
+20123,12 dag,sladkor
+20123,1,sladkor
+20123,1,limona
+20123,5 dag,maslo
+20123,2 žlici,smetana
+20123,10 dag,[]
+20123,1 velika žlica,[]
+20123,1 pest,[]
+20124,1 kg,koleraba
+20124,2 žlici,olje
+20124,,paprika
+20124,,sol
+20125,,limona
+20125,,pomarančni
+20125,,[]
+20125,,[]
+20125,,med
+20126,"1;2 kg ,moka
+20126,60 dag,maslo
+20126,40 dag,sladkor
+20126,2,[]
+20126,,[]
+20126,2,pecilna
+20126,6,[]
+20127,½ kg,lososa
+20127,½,paprika
+20127,1,limeta
+20127,,sol
+20127,,poper
+20127,,[]
+20127,,peteršilj
+20127,1 strok,česen
+20127,1 žlica,olje
+20128,500 g,[]
+20128,1/4 skodelice,[]
+20128,3 žlice,[]
+20128,1/2,[]
+20129,1,banana
+20129,1,[]
+20129,3 pesti,špinače
+20129,1 žlica,[]
+20129,malo,[]
+20130,500 g,[]
+20130,1,krompir
+20130,1,jajca
+20130,2,[]
+20130,1 skodelica,drobtine
+20130,,[]
+20130,,maslo
+20130,,olje
+20130,,sol
+20130,,[]
+20130,,[]
+20130,150 ml,[]
+20130,1 žlica,moka
+20130,2 žlici,smetana
+20131,1 l,pivo
+20131,1,[]
+20131,1 čajna žlička,[]
+20131,,[]
+20131,8,sladkor
+20131,1,[]
+20131,3 dl,[]
+20132,2,manga
+20132,2,limeti
+20132,3,šalotka
+20132,2,paradižnik
+20132,1 kg,[]
+20132,2,avokado
+20132,,[]
+20132,,kapre
+20133,1 kg,moka
+20133,600 ml,[]
+20133,100 ml,olje
+20133,20 g,sol
+20133,20 g,sladkor
+20133,2,[]
+20134,1 kg,[]
+20134,200 g,pire
+20134,2,šalotki
+20134,"0;5 dl ,[]
+20134,1,[]
+20134,5 dag,gobe
+20134,1 dl,olje
+20134,"0;5 dl ,vino
+20134,,sol
+20134,,peteršilj
+20134,,[]
+20134,,maslo
+20134,,šalotka
+20134,,žafran
+20134,,[]
+20134,,smetana
+20135,,ingver
+20135,,[]
+20135,,limona
+20135,,med
+20135,,vrela
+20136,,[]
+20136,1 kg,moka
+20136,1,kvas
+20136,1/2 l,mleko
+20136,1,smetana
+20136,1 dl,olje
+20136,1,jajca
+20136,3,jajca
+20136,10 dag,sladkor
+20136,,[]
+20136,1,[]
+20136,2,jajca
+20136,1,smetana
+20136,,sladkor
+20136,,[]
+20137,,[]
+20137,3/4 ,[]
+20137,1,[]
+20137,1 ,orehi
+20137,1/2,[]
+20137,1 ,prašek
+20137,1 ,prašek
+20137,4,jajca
+20137,1,[]
+20137,,marmelada
+20137,,[]
+20137,2  dl,smetana
+20137,10 dag,čokolada
+20138,2-3,jabolka
+20138,1,puding
+20138,350 ml,mleko
+20138,50 ml,smetana
+20138,4 žlice,sladkor
+20138,,cimet
+20138,,maslo
+20139,,[]
+20139,25 dag,moka
+20139,,[]
+20139,1 vrečka,kvas
+20139,,[]
+20139,1,jajca
+20139,,rum
+20139,1 vrečka,sladkor
+20139,,limona
+20139,"1;5 dl ,[]
+20139,6 dag,maslo
+20139,,[]
+20139,15 dag,[]
+20139,5 dag,[]
+20139,"0;7 dl ,[]
+20139,,rum
+20139,,[]
+20140,400 g,[]
+20140,1 čajna žlička,[]
+20140,1 čajna žlička,kurkume
+20140,,sol
+20140,2,[]
+20140,2,čebula
+20140,"0;5 dl ,[]
+20141,,[]
+20141,4,jajca
+20141,400 g,moka
+20141,4 žlice,olje
+20141,,[]
+20141,,[]
+20141,1,brokoli
+20141,5,česen
+20141,250 g,skuta
+20141,50 g,[]
+20141,,sol
+20141,,poper
+20141,,[]
+20141,,[]
+20141,1,jajca
+20142,170 g,maslo
+20142,90 g,[]
+20142,1,jajca
+20142,1,[]
+20142,125 g,[]
+20142,1,[]
+20142,"0;5 dl ,[]
+20142,ščepec,cimet
+20142,6,kardamoma
+20142,35 g,[]
+20142,,[]
+20142,,[]
+20142,,moka
+20143,10 dag,orehi
+20143,10 dag,brusnic
+20143,10 dag,čokolada
+20143,3,jajca
+20143,15 dag,sladkor
+20143,30 dag,[]
+20143,3/4 žličke,[]
+20144,25 dag,sladkor
+20144,35 dag,[]
+20144,"12;5 dag ,margarina
+20144,2,jajca
+20144,1 žlička,[]
+20144,1,sladkor
+20144,12 dag,[]
+20145,200 g,[]
+20145,80 g,[]
+20145,30 g,[]
+20145,140 g,medu
+20145,60 g,[]
+20145,50 g,olje
+20145,1/2 žličke,sol
+20145,1/2 žličke,[]
+20145,žlička,cimet
+20145,žlička,ingver
+20145,1/2 žličke,[]
+20145,ščep,[]
+20146,170 g,[]
+20146,100 g,[]
+20146,žlička,[]
+20146,ščepec,sol
+20146,1,[]
+20146,3 žlice,olje
+20146,2 žlici,medu
+20146,150 g,[]
+20146,1,jajca
+20146,50 g,[]
+20146,70 g,[]
+20146,80 g,[]
+20147,1/2,[]
+20147,2,[]
+20147,100 g,sladkor
+20147,150 g,[]
+20147,60 g,[]
+20147,ščep,[]
+20147,ščepec,sol
+20147,,limona
+20147,"0;5 dl ,[]
+20147,2 žlički,[]
+20148,120 g,maslo
+20148,120 g,sladkor
+20148,2,jajca
+20148,200 g,[]
+20148,50 g,[]
+20148,3 žlice,[]
+20148,3 žličke,[]
+20148,150 ml,mleko
+20148,,[]
+20148,2 dl,sladkor
+20148,2 dl,smetana
+20149,1000 g,[]
+20149,200 g,maslo
+20149,200 g,jajca
+20149,200 g,sladkor
+20149,30 g,kvas
+20149,10 g,sol
+20149,400 g,[]
+20149,100,smetana
+20149,200 g,rozin
+20149,100 g,[]
+20149,2,[]
+20150,1/2 kg,moka
+20150,1/4 kg,masti
+20150,4 dag,kvas
+20150,malo,mleko
+20150,,[]
+20150,,sladkor
+20151,6 dl,[]
+20151,350 dag,[]
+20151,200 g,[]
+20151,,[]
+20151,ščepec,cimet
+20151,nekaj kapljic,[]
+20151,5,[]
+20151,3-5,[]
+20151,"2;5 dl ,[]
+20151,1 dl,rum
+20152,150 g,moka
+20152,150 g,[]
+20152,150 g,	sladkorja
+20152,1 žlička,vrha
+20152,1 žlička,cimet
+20152,1 ščepec,sol
+20152,1,jajca
+20152,100 g,[]
+20152,1,[]
+20152,150 g,[]
+20152,,[]
+20153,2 skodelici,moka
+20153,1 čajna žlička,[]
+20153,1/4,[]
+20153,2,[]
+20153,1/2,[]
+20153,1/2,[]
+20153,1/2 skodelice,[]
+20153,1/4 skodelice,[]
+20153,1/4 skodelice,[]
+20153,1 skodelica,sladkor
+20153,1 čajna žlička,[]
+20154,80 ml,[]
+20154,60 g,sladkor
+20154,500 g,zelje
+20154,1,[]
+20154,120 g,[]
+20154,40 ml,[]
+20154,110 g,[]
+20154,75 g,[]
+20154,1 strok,[]
+20154,185 g,moka
+20154,120 g,[]
+20154,1/4 žličke,sol
+20154,2,[]
+20154,150 ml,smetana
+20154,1,konjaka
+20154,,[]
+20155,250 g,maka
+20155,4 dl,mleko
+20155,6,[]
+20155,1,sladkor
+20155,100 g,maslo
+20155,1,drobtine
+20155,1,jajca
+20155,2,[]
+20156,200 g,[]
+20156,6 dl,mleko
+20156,1,sladkor
+20156,5,[]
+20156,,cimet
+20156,100 g,mlasla
+20156,2,[]
+20156,1,jabolka
+20156,1,jajca
+20157,4,[]
+20157,2,[]
+20157,2 dl,[]
+20157,,[]
+20157,,drobnjak
+20157,,sol
+20157,,poper
+20157,,olje
+20157,,[]
+20157,,moka
+20159,130 g,[]
+20159,180 g,sladkor
+20159,165 g,moka
+20159,1 dl,mleko
+20159,1 dl,olje
+20159,1,sladkor
+20159,1,prašek
+20159,pest,[]
+20160,1 l,vino
+20160,2 dl,[]
+20160,9 dag,sladkor
+20160,3 vrečke,[]
+20160,3,pomaranče
+20160,5,limona
+20161,,[]
+20161,250 g,moka
+20161,125 g,maslo
+20161,60 g,sladkor
+20161,2 žlici,kakav
+20161,1,jajca
+20161,1 žlica,[]
+20161,,[]
+20161,300 g,čokolada
+20161,150 ml,smetana
+20161,1 žlica,[]
+20161,,[]
+20161,300 g,čokolada
+20161,250 ml,smetana
+20162,,[]
+20162,6,jajca
+20162,4 žlice,sladkor
+20162,1 vrečka,sladkor
+20162,6 žlic,[]
+20162,2 žlici,[]
+20162,2 žlici,[]
+20162,1/2 vrečke,[]
+20162,,[]
+20162,500 g,[]
+20162,500 g,[]
+20162,2 žlici,[]
+20162,žlica,rum
+20162,,[]
+20162,400 g,[]
+20162,,[]
+20162,200 g,[]
+20162,2 žlici,[]
+20162,žlica,[]
+20162,,[]
+20162,200 g,čokolada
+20162,200 g,[]
+20162,300 g,smetana
+20162,,[]
+20163,2,banana
+20163,2 žlici,Nutele
+20163,3 dl,[]
+20163,malo,cimet
+20164,1,[]
+20164,2 - 3,banane
+20164,12 dag,čokolada
+20164,2 dl,smetana
+20164,,[]
+20165,500 g,krompir
+20165,150 g,[]
+20165,3,čebula
+20165,10 dag,[]
+20165,5 dag,kaper
+20165,,sol
+20165,,meta
+20165,1 žlica,peteršilj
+20165,,[]
+20165,8 žlic,olje
+20165,5,[]
+20165,3 žlice,[]
+20165,2 žlici,smetana
+20165,,koper
+20165,,limona
+20165,1 žlička,[]
+20166,3,jajčevci
+20166,500 g,[]
+20166,,[]
+20166,,bazilika
+20166,,sol
+20166,,moka
+20166,,olje
+20166,100 g,sir
+20167,100 g,[]
+20167,60 g,sladkor
+20167,2 vrečki,sladkor
+20167,150 g,[]
+20167,"1;5 ,[]
+20167,2,jajca
+20167,2,[]
+20167,100 g,[]
+20167,120 g,rozin
+20167,100 g,sladkor
+20167,2,[]
+20167,,[]
+20167,,[]
+20168,,solata
+20168,,kruh
+20168,,panceta
+20168,,parmezan
+20168,,česen
+20168,,olje
+20168,,kis
+20168,žlička,gorčice
+20168,,poper
+20168,,sol
+20169,1 kg,[]
+20169,,[]
+20169,3,česen
+20169,,peteršilj
+20169,2,paradižnik
+20169,pest,špinače
+20169,žlica,sir
+20169,žlička,drobtine
+20169,,[]
+20169,1,jajca
+20169,,sol
+20170,700 g,krompir
+20170,2 velika,korenje
+20170,4,česen
+20170,,[]
+20170,850 g,[]
+20170,75 g,[]
+20170,pest,mete
+20170,,sol
+20170,2 žlici,olje
+20170,3 l,[]
+20171,2,[]
+20171,4,[]
+20171,1 kg,[]
+20171,1,čebula
+20171,nekaj,poper
+20171,1,lovorjev list
+20171,ščep,timijan
+20171,1,[]
+20171,,ocvirki
+20172,,[]
+20172,1 skodelica,moka
+20172,1 skodelica,sladkor
+20172,1/2,[]
+20172,1/2,[]
+20172,1/4 ,[]
+20172,1/4,[]
+20172,1/4,[]
+20172,1/4,[]
+20172,1 čajna žlička,[]
+20172,3,jajca
+20172,1/2,[]
+20172,,[]
+20172,250 g,[]
+20172,100 g,maslo
+20172,1 skodelica,sladkor
+20172,1 čajna žlička,ekstrakta
+20172,,[]
+20173,5,jajca
+20173,100 g,[]
+20173,70 g,[]
+20173,5,jajca
+20173,45 g,moka
+20173,26 g,maslo
+20174,8,jajca
+20174,17 dag,sladkor
+20174,8 dag malo,[]
+20174,16 dag,moka
+20174,10 dag,rozin
+20174,10 dag,[]
+20174,10 dag,marelice
+20174,10 dag,orehi
+20174,,limona
+20175,8,pomaranč
+20175,6,limona
+20175,1 kg,sladkor
+20176,,[]
+20176,,čičerike
+20176,,leče
+20176,250 g,fižol
+20176,,por
+20176,ščepec,sol
+20176,,peteršilj
+20176,,[]
+20176,,[]
+20176,,kis
+20176,,[]
+20177,100 g,[]
+20177,nekaj,[]
+20177,20 g,[]
+20178,8,palačink
+20178,10,[]
+20178,,[]
+20178,300 g,sladkor
+20178,2 dl,smetana
+20178,,[]
+20178,100 g,čokolada
+20178,"1;5 dl ,smetana
+20180,,[]
+20180,250 g,moka
+20180,3,jajca
+20180,žlica,olje
+20180,2 žlici,[]
+20180,,sol
+20180,,[]
+20180,2,čebula
+20180,5,česen
+20180,500 g,[]
+20180,,[]
+20180,250 g,Ricotte
+20180,,[]
+20180,1 velika,čebula
+20180,3,česen
+20180,"0;5 l ,paradižnik
+20180,,[]
+20180,,[]
+20180,,[]
+20180,2 žlici,smetana
+20180,,[]
+20180,,[]
+20181,,[]
+20181,300 g,moka
+20181,200 g,maslo
+20181,100 g,sladkor
+20181,,jajca
+20181,,[]
+20181,400 g,[]
+20181,100 g,sladkor
+20181,100 g,maslo
+20181,,[]
+20181,3 dl,smetana
+20181,3,banane
+20181,5 g,čokolada
+20182,2,[]
+20182,,[]
+20182,ena,smetana
+20182,,kompotova
+20183,450 g,moka
+20183,50 g,maslo
+20183,150 g,jogurt
+20183,1 žlička,medu
+20183,ščepec,[]
+20183,,sol
+20183,1 vrečka,kvas
+20183,200 g,pese
+20183,1,jajca
+20184,,[]
+20184,4,jajca
+20184,100 g,sladkor
+20184,100 g,moka
+20184,,[]
+20184,3 dl,[]
+20184,30 g,sladkor
+20184,,[]
+20184,4,banane
+20184,150 g,sladkor
+20184,500 g,smetana
+20184,10 g,[]
+20185,1/2 kg,[]
+20185,2,čebula
+20185,2 stroka,česen
+20185,2,[]
+20185,2,jajca
+20185,,[]
+20185,žlička,sol
+20185,žlička,vegete
+20185,ščepec,paprika
+20185,ščepec,peteršilj
+20186,250 g,[]
+20186,250 g,sladkor
+20186,250 g,[]
+20186,250 ml,mleko
+20186,1 vrečka,sladkor
+20186,1 vrečka,[]
+20186,ščep,sol
+20186,5,jajca
+20186,,[]
+20186,400 g,[]
+20186,,[]
+20186,,[]
+20187,2 kosa,[]
+20187,2,paradižnik
+20187,2,jajca
+20187,8,[]
+20187,,sol
+20187,,poper
+20187,1,olje
+20187,2,[]
+20188,,[]
+20188,750 g,čebula
+20188,45 g,maslo
+20188,45 g,moka
+20188,370 ml,mleko
+20188,,[]
+20188,,vegeta
+20188,1,goveja
+20188,,sol
+20188,,[]
+20188,300 g,[]
+20188,250 ml,mleko
+20188,150 g,[]
+20188,100 g,sir
+20188,150 g,[]
+20188,1,čebula
+20188,1,[]
+20188,1,moka
+20188,2 žlici,[]
+20188,3,jajca
+20188,1,[]
+20188,,sol
+20189,7 kg,paprika
+20189,"1;75 kg ,[]
+20189,440 ml,olje
+20189,440 ml,[]
+20189,430 g,sladkor
+20189,90 g,[]
+20189,"3;5 dl ,gorčice
+20189,2 dl,hrena
+20190,1,[]
+20190,2 žlici,kakav
+20190,4 žlice,[]
+20190,2 žlici,[]
+20191,1 kg,[]
+20191,3 žlice,sladkor
+20191,3 žlice,[]
+20191,ena,limona
+20191,1,ananas
+20192,1/2 kg,moka
+20192,1,kvas
+20192,1 žlička,sol
+20192,20 g,maslo
+20192,,[]
+20192,3 žlice,olje
+20192,1 žlica,rožmarin
+20192,1 žlička,sol
+20193,500 g,sladkor
+20193,1 dl,[]
+20193,300 g,keksov
+20193,100 g,margarina
+20193,4 žlice,rum
+20193,100 g,[]
+20193,,[]
+20194,500 g,moka
+20194,"2;5 dl ,[]
+20194,1/2,kvas
+20194,1,jajca
+20194,1,[]
+20194,žlička,sol
+20194,5 žlic,olje
+20194,1 žlica,[]
+20195,6,jajca
+20195,18 dag,sladkor
+20195,2 žlici,rum
+20195,12 dag,[]
+20195,6,jajca
+20195,,[]
+20196,,čebula
+20196,250 g,zelje
+20196,,[]
+20196,10 g,kurkume
+20196,,[]
+20196,ščep,[]
+20196,,olje
+20196,60 g,kvinoje
+20197,,[]
+20197,4 dl,mleko
+20197,3,jajca
+20197,ščepec,sol
+20197,ščepec,sladkor
+20197,polovica,[]
+20197,,[]
+20197,,[]
+20197,150 g,[]
+20197,50 g,sladkor
+20197,1/2,sladkor
+20197,pest,[]
+20197,2,jajca
+20197,5,[]
+20197,,[]
+20197,2,[]
+20197,1 žlica,sladkor
+20198,,[]
+20198,25 dag,moka
+20198,18 dag,maslo
+20198,12 dag,sladkor
+20198,10 dag,[]
+20198,3 žlice,mleko
+20198,1,sladkor
+20198,1/2 žličke,cimet
+20198,,[]
+20198,,[]
+20198,,[]
+20198,,[]
+20199,1 kg,lignjev
+20199,2 dl,[]
+20199,1,bučka
+20199,1,[]
+20199,1,paradižnik
+20199,1,čebula
+20199,5,česen
+20199,5,gobe
+20199,"0;5 - 1 dl ,[]
+20199,,peteršilj
+20199,,[]
+20200,50 g,slanine
+20200,4,jajca
+20200,4,[]
+20200,1,čebula
+20200,1,paradižnik
+20200,60 g,sir
+20200,,sol
+20200,,poper
+20201,"1;5 kg ,kunca
+20201,200 g,gobe
+20201,300 g,[]
+20201,50 g,pancete
+20201,50 g,pinjol
+20201,6 žlic,olje
+20201,1,čebula
+20201,3,česen
+20201,"1;5 dl ,vino
+20201,,moka
+20201,2 žlici,maslo
+20201,1 žlica,[]
+20201,,peteršilj
+20201,,sol
+20201,,poper
+20201,,origano
+20201,,[]
+20202,600 - 700 g,[]
+20202,1 dl,[]
+20202,300 g,krompir
+20202,1,čebula
+20202,2 stroka,česen
+20202,20 g,kaper
+20202,1 žlica,[]
+20202,1 dl,vino
+20202,malo,olje
+20202,malo,kis
+20202,,origano
+20202,,limona
+20202,,sol
+20202,,peteršilj
+20203,,[]
+20203,,[]
+20203,1,[]
+20203,1,paprika
+20203,čajna žlička,kaper
+20203,ščepec,sol
+20203,,majoneze
+20203,,smetana
+20203,,poper
+20203,,čebula
+20203,,olje
+20204,500 g,[]
+20204,1,[]
+20204,½,[]
+20204,1,sladkor
+20204,,[]
+20204,45 g,[]
+20204,1,[]
+20204,180 ml,tople
+20205,4,jajca
+20205,160 g,sladkor
+20205,1,sladkor
+20205,½ vrečke,[]
+20205,1 čajna žlička,cimet
+20205,100 ml,[]
+20205,100 ml,[]
+20205,250 g,moka
+20205,200 g,[]
+20206,250 g,moka
+20206,70 g,[]
+20206,1,prašek
+20206,1,sladkor
+20206,100 g,čokolada
+20206,1 pest,rozin
+20206,40 g,sladkor
+20206,2 žlici,medu
+20206,1,jajca
+20206,3 dl,mleko
+20206,1 dl,olje
+20207,200 g,[]
+20207,75 g,škroba
+20207,100 g,sladkor
+20207,4,jajca
+20207,,[]
+20207,1,sladkor
+20208,315 g,[]
+20208,1,prašek
+20208,1,sladkor
+20208,180 g,sladkor
+20208,2,jajca
+20208,150 g,olje
+20208,1,[]
+20208,100 g,sadja
+20209,,[]
+20209,300 g,[]
+20209,6,[]
+20209,2 čajni žlički,[]
+20209,120 g,[]
+20209,,[]
+20209,1,[]
+20209,5,[]
+20209,3,[]
+20209,500 ml,mleko
+20209,500 g,[]
+20209,200 ml,smetana
+20209,1 vrečka,želatina
+20209,4,mrzle
+20209,1-2,[]
+20210,8,jajca
+20210,100 g,sladkor
+20210,80 g,moka
+20210,320 g,[]
+20210,280 g,maslo
+20210,,[]
+20210,8,[]
+20210,,[]
+20211,200 g,[]
+20211,200 g,sladkor
+20211,200 g,[]
+20211,200 g,[]
+20211,2,[]
+20211,,[]
+20211,1 vrečka,sladkor
+20211,1 vrečka,[]
+20211,6,jajca
+20211,,[]
+20211,400 g,[]
+20211,,[]
+20211,,[]
+20212,,[]
+20212,120 g,[]
+20212,50 g,[]
+20212,250 g,[]
+20212,1,jajca
+20212,2,[]
+20212,,[]
+20212,500 g,[]
+20212,60 g,sladkor
+20212,"0;5 dl ,mleko
+20212,,[]
+20212,4,kiviji
+20212,1,puding
+20212,1,sladkor
+20212,3 dl,[]
+20213,30 dag,[]
+20213,70 dag,moka
+20213,"4;5 dag ,kvas
+20213,1 žlica,sladkor
+20213,6 dl,[]
+20213,ščepec,sol
+20214,,[]
+20214,300 g,[]
+20214,160 g,sladkor
+20214,2,jajca
+20214,60 g,[]
+20214,120 ml,mleko
+20214,1,[]
+20214,2 čajni žlički,[]
+20214,1,prašek
+20214,ščep,sol
+20214,,[]
+20214,500 g,[]
+20214,5,jajca
+20214,260 g,sladkor
+20214,100 g,[]
+20214,260 ml,mleko
+20214,1,prašek
+20214,ščep,sol
+20214,,[]
+20215,2,pomaranči
+20215,50 g,čokolada
+20215,250 g,moka
+20215,2 žlički,[]
+20215,125 g,maslo
+20215,125 g,sladkor
+20215,ščepec,sol
+20215,3,jajca
+20215,2 žlici,kakav
+20216,70 dag,moka
+20216,30 dag,sladkor
+20216,10 dag,maslo
+20216,2 dl,[]
+20216,2 dl,smetana
+20216,,[]
+20216,1 žlica,cimet
+20216,1 žlica,[]
+20216,1 žlica,[]
+20216,1 žlica,kardamoma
+20216,1 žlica,kakav
+20216,1,sladkor
+20216,,[]
+20216,,[]
+20216,,[]
+20216,ščep,čilija
+20217,250 g,[]
+20217,200 g,[]
+20217,2 žlici,sladkor
+20217,1 vrečka,sladkor
+20217,,melona
+20217,,jagode
+20217,,[]
+20218,250 g,pire
+20218,1,čebula
+20218,2 stroka,česen
+20218,,[]
+20218,,sol
+20218,60-80 g,[]
+20218,"0;25 l ,smetana
+20218,"0;2 l ,smetana
+20218,5,jajca
+20218,50-75 g,sir
+20219,480 g,testenine
+20219,4,česen
+20219,3,olje
+20219,,[]
+20219,,[]
+20219,,[]
+20220,"1;5 kg ,fižol
+20220,1 kg,ješprenja
+20220,3 kg,krompir
+20220,1 kg,korenje
+20220,"1;5 kg ,čebula
+20220,"1;5 kg ,[]
+20220,1 kg,[]
+20220,4,[]
+20220,4,lovorjev list
+20220,1,[]
+20220,1,majaron
+20220,2,paprika
+20220,1,šetraj
+20220,,sol
+20220,2 dl,olje
+20220,3,vegete
+20221,,[]
+20221,3,jajca
+20221,75 g,sladkor
+20221,75 g,moka
+20221,15 g,[]
+20221,2,[]
+20221,1,[]
+20221,½ vrečke,[]
+20221,,[]
+20221,,[]
+20221,400 g,mascarponeja
+20221,200 ml,smetana
+20221,300 ml,[]
+20222,200 g,graha
+20222,200 g,korenje
+20222,200 g,krompir
+20222,200 g,kumara
+20222,1,paprika
+20222,6,[]
+20222,7,[]
+20222,6,jajca
+20222,"2;5 dl ,[]
+20222,20 g,želatina
+20222,,sol
+20223,25 dag,riž
+20223,1 l,mleko
+20223,ščepec,sol
+20223,4,jajca
+20223,4 dag,sladkor
+20223,5 dag,maslo
+20223,,cimet
+20223,2,jabolki
+20224,3 dl,mleko
+20224,2,[]
+20224,2 žlici,čokolada
+20225,,[]
+20225,3,jajca
+20225,30 g,[]
+20225,60 g,[]
+20225,80 g,[]
+20225,1 žlica,smetana
+20225,,[]
+20225,180 g,[]
+20225,400 g,[]
+20225,250 ml,[]
+20225,6,želatina
+20225,1 strok,vanilija
+20225,1 žlička,ekstrakta
+20225,100 g,[]
+20225,,[]
+20225,,[]
+20225,4,kiviji
+20226,,Testo
+20226,5,jajca
+20226,10 dag,sladkor
+20226,20 dag,moka
+20226,,Krema
+20226,"0;5 l ,mleko
+20226,10 dag,sladkor
+20226,2,jajca
+20226,9 dag,moka
+20226,,sladkor
+20226,2 dl,[]
+20226,10 dag,[]
+20226,20 dag,čokolada
+20227,,[]
+20227,500 g,moka
+20227,375 g,maslo
+20227,200 g,sladkor
+20227,3,jajca
+20227,50 g,kakav
+20227,1,sladkor
+20227,malo,cimet
+20227,ščep,sol
+20227,,[]
+20227,300 g,čokolada
+20227,100 g,smetana
+20227,,sol
+20227,1 žlica,kave
+20227,,[]
+20228,,[]
+20228,400 g,[]
+20228,360 g,Nutelle
+20228,3,jajca
+20228,,[]
+20228,125 g,Nutelle
+20228,30 g,[]
+20229,500 g,moka
+20229,,kvas
+20229,100 g,margarina
+20229,,[]
+20229,žlička,sol
+20229,žlička,sladkor
+20230,4,jajca
+20230,125 g,[]
+20230,250 g,sladkor
+20230,250 g,moka
+20230,,prašek
+20230,200 g,čokolada
+20230,200 ml,mlačne
+20231,,[]
+20231,200 g,moka
+20231,50 g,škroba
+20231,"0;5 ,[]
+20231,150 g,[]
+20231,125 g,sladkor
+20231,1,sladkor
+20231,2 ,[]
+20231,1 ščepec,sol
+20231,1,[]
+20231,,[]
+20231,125 g,sladkor
+20231,,[]
+20231,,[]
+20231,,[]
+20231,,[]
+20232,1 kg,[]
+20232,3 dl,šampanjca
+20232,1,česen
+20232,1,čebula
+20232,1 čajna žlička,rožmarin
+20232,,sol
+20232,,poper
+20233,,[]
+20233,200 g,[]
+20233,100 g,maslo
+20233,,[]
+20233,,[]
+20233,50 g,čokolada
+20233,250 g,[]
+20233,80 ml,smetana
+20233,3 g,[]
+20233,,[]
+20233,50 g,[]
+20233,250 g,[]
+20233,80 ml,smetana
+20233,3 g,[]
+20233,,[]
+20233,50 g,čokolada
+20233,1,mleko
+20233,250 g,[]
+20233,20 g,[]
+20233,80 ml,smetana
+20233,3 g,[]
+20234,,[]
+20234,,[]
+20234,250 g,[]
+20234,80 g,[]
+20234,,[]
+20234,350 g,[]
+20234,130 ml,[]
+20234,4,jajca
+20234,1,sladkor
+20234,200 g,sladkor
+20234,50 g,[]
+20235,,[]
+20235,,[]
+20235,600 g,moka
+20235,1 čajna žlička,sol
+20235,210 ml,pivo
+20235,300 g,[]
+20235,,[]
+20235,1300 g,ricotte
+20235,400-500 g,[]
+20235,200 g,[]
+20235,2 čajni žlički,sol
+20235,,poper
+20235,1,origano
+20235,120 g,[]
+20235,5,jajca
+20235,,[]
+20235,1,jajca
+20236,3,jajca
+20236,180 g,sladkor
+20236,20 g,[]
+20236,80 g,[]
+20236,230 g,ricotte
+20236,70 ml,[]
+20236,1,[]
+20236,140 g,moka
+20236,1,prašek
+20236,,[]
+20236,,[]
+20237,100 g,[]
+20237,100 g,maslo
+20237,140 g,sladkor
+20237,350 g,moka
+20237,1,jajca
+20237,1 ščepec,sol
+20237,,[]
+20237,,[]
+20238,300 g,[]
+20238,300 g,[]
+20238,300 g,tople
+20238,1,sol
+20238,1 čajna žlička,medu
+20238,1,[]
+20238,50 g,[]
+20238,2,[]
+20239,3-4,[]
+20239,2,jajca
+20239,1,sladkor
+20239,2 žlici,[]
+20240,,[]
+20240,170 g,maslo
+20240,200 g,sladkor
+20240,2,jajca
+20240,130 g,[]
+20240,80 g,moka
+20240,200 g,[]
+20240,2 čajni žlički,limona
+20240,1,sladkor
+20240,,[]
+20240,1,jajca
+20240,30 g,sladkor
+20240,1,sladkor
+20240,1 čajna žlička,cimet
+20240,15 g,moka
+20240,15 g,škroba
+20240,,[]
+20240,800 g,[]
+20240,160 g,sladkor
+20240,,cimet
+20240,400 ml,smetana
+20240,6,[]
+20241,2-3,[]
+20241,50 g,čokolada
+20241,250 g,moka
+20241,2 žlički,[]
+20241,125 g,masla/margarine
+20241,125 g,sladkor
+20241,3,jajca
+20241,2 žlici,kakav
+20242,38 dag,moka
+20242,6 dag,margarina
+20242,7 dag,sladkor
+20242,2,[]
+20242,1,jajca
+20242,1/2 žličke,[]
+20242,1/2 žličke,cimet
+20242,1/2 žličke,sode
+20242,6 žlic,[]
+20242,,limona
+20243,5,jajca
+20243,2 dl,[]
+20243,1/2 kg,sladkor
+20243,2,[]
+20243,1/2,[]
+20243,,limona
+20243,150 g,maslo
+20243,1 kg,moka
+20243,,[]
+20244,100 g,[]
+20244,2 žlici,kakav
+20244,1 žlička,sode
+20244,½ žlička,vanilija
+20244,¼ žličke,sol
+20244,½ ,avokado
+20244,1 velika,[]
+20244,1,jajca
+20244,2 žlici,[]
+20244,2 žlici,[]
+20244,50 g,[]
+20244,2 žlici,mandljevih
+20245,120 g,[]
+20245,2-3 žlice,[]
+20245,4 žlice,[]
+20245,1 strok,česen
+20245,,[]
+20245,,sol
+20245,1 žlica,peteršilj
+20245,1 žlica,drobnjak
+20246,1 skodelica,[]
+20246,1 skodelica,[]
+20246,1 skodelica,[]
+20246,1 skodelica,sezama
+20246,2 skodelici,[]
+20246,2 stroka,česen
+20246,1 žlička,[]
+20246,¼ žličke,[]
+20247,140 g,sladkor
+20247,200 g,moka
+20247,1 žlička,[]
+20247,1/2 žličke,sladkor
+20247,2,jajca
+20247,1,[]
+20247,140 g,maslo
+20247,,[]
+20248,,[]
+20248,200 g,[]
+20248,100 g,[]
+20248,120 g,maslo
+20248,,[]
+20248,200 g,borovnic
+20248,100 g,sladkor
+20248,350 ml,smetana
+20248,10 g,želatina
+20248,,[]
+20248,250 ml,smetana
+20248,180 ml,smetana
+20248,10 g,želatina
+20248,50 g,sladkor
+20249,70 g,kvas
+20249,120 g,margarina
+20249,7,jajca
+20249,1/2 l,mleko
+20249,3,rum
+20249,40 g,sladkor
+20249,1,[]
+20249,1 kg,[]
+20249,čajna žlička,sol
+20250,1 kg,[]
+20250,pol,kvas
+20250,pol žličke,sladkor
+20250,2,[]
+20250,1 l,[]
+20251,pol,[]
+20251,2,[]
+20251,50 g,[]
+20251,1,kakav
+20251,1,[]
+20251,1,[]
+20252,velika,[]
+20252,,čebula
+20252,žlica,[]
+20252,1/2,argove
+20252,1/2 žličke,timijan
+20252,,sol
+20252,,[]
+20252,velika žlica,[]
+20253,,[]
+20253,1,[]
+20253,1/4 skodelice,tople
+20253,1,[]
+20253,1/3 skodelice,maslo
+20253,1/4 skodelice,sladkor
+20253,2,jajca
+20253,1 žlička,sol
+20253,,[]
+20253,1 kg,jabolk
+20253,4 žlice,sladkor
+20253,4 žlice,pomarančnega
+20253,1 dl,vino
+20253,,klinčki
+20253,3/4 skodelice,maslo
+20253,1,[]
+20253,1 žlica,cimet
+20253,2/3 skodelice,[]
+20254,,[]
+20254,300 g,[]
+20254,2 čajni žlički,[]
+20254,1 čajna žlička,[]
+20254,ščepec,sol
+20254,100 g,maslo
+20254,120 g,sladkor
+20254,1 velika žlica,sladkor
+20254,120 g,[]
+20254,3,[]
+20254,2,[]
+20254,2,[]
+20254,,[]
+20254,,[]
+20254,300 g,[]
+20254,1 čajna žlička,[]
+20254,ščep,[]
+20254,ščep,sol
+20254,150 g,sladkor
+20254,3,kakav
+20254,2 dl,mleko
+20254,"1;5 dl ,[]
+20255,180 g,margarina
+20255,150 g,sladkor
+20255,2,[]
+20255,2,jajca
+20255,350 g,moka
+20255,2 žlički,[]
+20255,ščep,sol
+20255,120 g,[]
+20255,150 g,[]
+20255,30 g,[]
+20256,4 dl,[]
+20256,6,česen
+20256,1 žlička,[]
+20256,2 žlički,origano
+20256,,sol
+20256,1/2 žličke,poper
+20257,1,[]
+20257,1 žlica,čebula
+20257,1 velika pest,[]
+20257,1,jajca
+20257,1 žlica,[]
+20257,1-2 žlici,[]
+20257,1 ščep,[]
+20258,1/2 kg,[]
+20258,1,korenje
+20258,1,čebula
+20258,,olje
+20258,1 žlička,paprika
+20258,4,česen
+20258,,peteršilj
+20258,,drobtine
+20258,,poper
+20258,,olje
+20258,1,[]
+20258,3,jajca
+20258,,olje
+20259,,[]
+20259,350 g,moka
+20259,2 žlički,[]
+20259,ščepec,sol
+20259,35 g,maslo
+20259,32 g,olje
+20259,110 g,sladkor
+20259,,[]
+20259,2,jajca
+20259,1,[]
+20259,130 ml,mleko
+20259,,[]
+20260,,[]
+20260,3,jajca
+20260,9 žlic,moka
+20260,9 žlic,sladkor
+20260,9 žlic,mleko
+20260,9 žlic,olje
+20260,4 žlice,kakav
+20260,1,prašek
+20260,2,[]
+20260,,[]
+20260,250 g,mascarponeja
+20260,100 ml,smetana
+20260,2,[]
+20260,,[]
+20260,,[]
+20260,,[]
+20260,,[]
+20260,1 dl,[]
+20260,500 g,[]
+20260,"2;5 dl ,smetana
+20260,,[]
+20261,300 g,[]
+20261,½,[]
+20261,200 ml,[]
+20261,1/3,[]
+20261,1,sladkor
+20261,100 g,sladkor
+20261,1,[]
+20261,3,jajca
+20261,100 g,[]
+20262,300 g,[]
+20262,1,[]
+20262,130 ml,[]
+20262,1 čajna žlička,sol
+20262,1,sladkor
+20262,50 g,sladkor
+20262,1,[]
+20262,4,jajca
+20262,1,jajca
+20262,120 g,[]
+20262,,[]
+20262,,[]
+20263,,[]
+20263,400 g,[]
+20263,100 ml,[]
+20263,250 g,[]
+20263,100 g,[]
+20263,,[]
+20263,450 g,borovnic
+20263,200 g,[]
+20263,180 g,jogurt
+20263,200 g,[]
+20263,500 g,jogurt
+20263,18,[]
+20263,300 ml,[]
+20264,,[]
+20264,,[]
+20264,200 g,[]
+20264,6–8,[]
+20264,125 g,maslo
+20264,,[]
+20264,1,[]
+20264,180 g,jogurt
+20264,250 g,[]
+20264,500 g,jogurt
+20264,7,[]
+20264,300 ml,smetana
+20264,,[]
+20264,,[]
+20265,,[]
+20265,,[]
+20265,"1;2 kg ,[]
+20265,,sol
+20265,70 g,moka
+20265,3,jajca
+20265,70 g,sir
+20265,,[]
+20265,,[]
+20265,340 g,[]
+20265,,sol
+20265,270 g,[]
+20265,400 g,mozzarele
+20265,,[]
+20265,,drobtine
+20265,,[]
+20266,,[]
+20266,400 g,[]
+20266,125 ml,mleko
+20266,1,sladkor
+20266,80 g,sladkor
+20266,1,jajca
+20266,1 vrečka,[]
+20266,,sol
+20266,50 g,[]
+20266,,[]
+20266,100 g,[]
+20266,15 g,[]
+20266,10 g,moka
+20266,1,sladkor
+20266,,[]
+20266,,[]
+20267,,[]
+20267,,[]
+20267,2,jajca
+20267,50 g,sladkor
+20267,50 g,moka
+20267,1 žlička,[]
+20267,,[]
+20267,2,jajca
+20267,50 g,sladkor
+20267,50 g,moka
+20267,1 žlička,[]
+20267,2,[]
+20267,,[]
+20267,2,jajca
+20267,50 g,sladkor
+20267,45 g,moka
+20267,1 velika žlica,kakav
+20267,1 žlička,[]
+20267,,[]
+20267,500 g,mascarponeja
+20267,"0;5 l ,smetana
+20267,500 g,[]
+20267,nekaj žlic,Nutelle
+20267,1 vrečka,[]
+20267,1 vrečka,[]
+20267,,[]
+20268,2,[]
+20268,1,olje
+20268,50 g,motovilca
+20268,polovica,[]
+20268,,[]
+20268,pol,limona
+20268,,sol
+20268,,poper
+20269,,[]
+20269,,[]
+20269,1 kg,ajde
+20269,1 kg,[]
+20269,40 dag,čebula
+20269,približno,[]
+20269,13 g,poper
+20269,10 g,pimenta
+20269,4,[]
+20269,60 g,[]
+20269,2 g,[]
+20270,500 g,[]
+20270,žlica,olje
+20270,,[]
+20270,3 žlice,smetana
+20270,1 žlica,moka
+20270,,[]
+20271,,[]
+20271,4,jajca
+20271,80 g,sladkor
+20271,40 g,[]
+20271,80 g,[]
+20271,,[]
+20271,,[]
+20271,,marmelado
+20271,,[]
+20271,600 g,[]
+20271,2 vrečke,[]
+20271,,sladkor
+20271,,[]
+20271,5,[]
+20271,500 g,mascarponeja
+20271,250 ml,smetana
+20271,50 g,sladkor
+20271,3,želatina
+20271,,[]
+20271,250 ml,smetana
+20271,,jagode
+20271,,[]
+20271,,[]
+20272,,[]
+20272,30 dag,ješprenjčka
+20272,30 dag,fižol
+20272,,zelenjava
+20272,,korenje
+20272,,čebula
+20272,,česen
+20272,,poper
+20272,,sol
+20272,,lovor
+20272,,[]
+20275,15 dag,kuskusa
+20275,2,jajca
+20275,5 dag,maslo
+20275,10 dag,moka
+20275,5 dag,[]
+20275,1 čajna žlička,[]
+20275,pol žličke,Biogette
+20275,,poper
+20276,,[]
+20276,200 g,moka
+20276,120 g,[]
+20276,90 g,sladkor
+20276,1,jajca
+20276,1,jajca
+20276,,[]
+20276,1 vrečka,pudinga
+20276,,[]
+20276,1,smetana
+20276,,[]
+20277,,[]
+20277,300 g,[]
+20277,1 vrečka,[]
+20277,300 g,sladkor
+20277,3,jajca
+20277,3,jajca
+20277,450 g,pomaranč
+20277,100 ml,olje
+20277,100 ml,mleko
+20277,100 g,[]
+20278,1 kg,pese
+20278,1 kg,višenj
+20278,1-2,jabolki
+20278,1 kg,[]
+20278,žlica,rum
+20279,6,[]
+20279,2,[]
+20279,2,jajca
+20279,2,[]
+20279,1,olje
+20279,"1;5 ,[]
+20279,1,prašek
+20279,1,sladkor
+20279,pol,[]
+20279,,[]
+20280,200 g,šunke
+20280,120 g,gobe
+20280,1 dl,paradižnik
+20280,130 g,sir
+20280,1,[]
+20280,500 g,[]
+20280,,sol
+20280,1,origano
+20280,3 dl,mlačne
+20280,malo,olje
+20281,,[]
+20281,30 g,moka
+20281,150 ml,hladne
+20281,,[]
+20281,300 g,[]
+20281,½ vrečke,[]
+20281,½ ,[]
+20281,½,[]
+20281,135 ml,[]
+20281,40 g,[]
+20281,,[]
+20281,,[]
+20281,150 g,[]
+20281,200 g,[]
+20281,250 g,[]
+20281,300 g,[]
+20281,,olive
+20281,,origano
+20282,,[]
+20282,20 g,moka
+20282,100 ml,hladne
+20282,,[]
+20282,200 g,[]
+20282,½ vrečke,[]
+20282,¼ ,[]
+20282,½,[]
+20282,90 ml,[]
+20282,25 g,[]
+20282,,[]
+20282,,[]
+20282,200 g,[]
+20282,8,[]
+20283,,[]
+20283,3,jajca
+20283,"0;5 l ,mleko
+20283,450 g,moka
+20283,ščep,sol
+20283,,[]
+20283,200-250 g,skuta
+20283,žlica,sladkor
+20283,žlica,[]
+20283,,limona
+20283,,sladkor
+20283,1,jajca
+20283,,[]
+20283,,[]
+20283,1,jajca
+20283,1 žlica,sladkor
+20283,1 žlica,smetana
+20284,20 dag,moka
+20284,10 dag,čokolada
+20284,2-3,jajca
+20284,,par
+20285,80 g,[]
+20285,300 g,čebula
+20285,600 g,[]
+20285,1 žlička,biogette
+20285,,lovorjev list
+20285,250 g,korenje
+20285,,[]
+20285,1 dl,vino
+20286,2,jajca
+20286,1,jogurt
+20286,1,[]
+20286,"1;5 ,[]
+20286,1,sladkor
+20286,1,prašek
+20287,500 g,[]
+20287,,olje
+20287,4,krompir
+20287,,[]
+20287,,timijan
+20287,,bazilika
+20287,,koper
+20287,,[]
+20287,2,jajca
+20287,,vermut
+20287,1 dl,vino
+20287,,tabasco
+20287,1,[]
+20287,4,česen
+20287,,[]
+20287,,[]
+20287,,moka
+20288,,[]
+20288,200 g,[]
+20288,100 g,[]
+20288,120 g,maslo
+20288,,[]
+20288,8 dl,smetana
+20288,400 g,smetana
+20288,10 g,želatina
+20288,100 g,sladkor
+20288,2-3,limete
+20288,,[]
+20289,,[]
+20289,175 g,[]
+20289,200 ml,smetana
+20289,100 ml,[]
+20289,140 g,[]
+20289,40 g,maslo
+20289,,[]
+20289,2,limoni
+20290,,[]
+20290,½,[]
+20290,1,[]
+20290,1,škrob
+20290,,[]
+20290,2,[]
+20290,2 stroka,česen
+20290,1,[]
+20290,1/3,čilija
+20290,ščepec,poper
+20290,,[]
+20290,,[]
+20290,,[]
+20290,,drobnjak
+20291,80 g,[]
+20291,,[]
+20291,,peteršilj
+20291,2 -3,vegete
+20291,,poper
+20292,100 g,[]
+20292,70 g,[]
+20292,3 žlice,[]
+20292,1 žlica,mace
+20292,5,[]
+20292,,[]
+20293,1,[]
+20293,80 g,kvas
+20293,4,[]
+20293,,[]
+20293,800 ml,[]
+20293,4  žličke,sol
+20293,malo,[]
+20293,,[]
+20293,,janež
+20293,,[]
+20294,,[]
+20294,,špinača
+20294,,[]
+20295,4,hruška
+20295,,limona
+20295,4,jajca
+20295,polovica,[]
+20295,"0;5 dl ,smetana
+20295,150 g,[]
+20295,120 g,[]
+20295,80 g,[]
+20295,40 g,moka
+20295,1 žlica,kakav
+20295,1,[]
+20295,malo,sol
+20295,,[]
+20295,100 g,čokolada
+20295,100 g,smetana
+20295,,[]
+20296,,[]
+20296,,[]
+20296,,[]
+20296,3 žličke,maslo
+20296,100 g,[]
+20296,1 žlica,[]
+20296,2 dl,mleko
+20296,2 žlički,[]
+20296,,[]
+20296,vrečka,pudinga
+20296,4 dl,mleko
+20296,2 žlički,[]
+20296,1 žlička,sladkor
+20296,1 dl,smetana
+20296,,[]
+20296,2 dl,smetana
+20296,3 žlički,[]
+20296,3 žličke,sladkor
+20296,2,banana
+20296,pest,[]
+20296,,kakav
+20298,35 dag,korenje
+20298,polovica,paprika
+20298,1,paradižnik
+20298,,sol
+20298,,olje
+20298,,[]
+20299,,[]
+20299,920 g,[]
+20299,320 g,maslo
+20299,400 g,čokolada
+20299,400 g,sladkor
+20299,600 ml,mleko
+20299,50 ml,rum
+20300,,[]
+20300,125 g,maslo
+20300,125 g,maka
+20300,100 g,sladkor
+20300,100 ml,mleko
+20300,3,jajca
+20300,50 g,drobtine
+20300,malo,rum
+20300,,[]
+20300,,[]
+20300,300 g,sladkor
+20300,4-5 žlic,limona
+20300,1 žlica,rum
+20301,,[]
+20301,2 žlici,moka
+20301,,sol
+20301,1,čebula
+20301,2 stroka,česen
+20301,4 dl,[]
+20301,2 žlici,škroba
+20301,1/2 žličke,[]
+20301,1/4 žličke,cimet
+20301,1/4 žličke,kurkume
+20302,20 g,kvas
+20302,500 g,moka
+20302,4 dl,tople
+20302,,sol
+20302,,sladkor
+20302,,kumina
+20302,,jajca
+20303,150 g,[]
+20303,1,sezama
+20303,2,[]
+20303,2,[]
+20303,2,čebula
+20303,1,korenje
+20303,ščepec,sol
+20303,,[]
+20303,2,[]
+20304,,[]
+20304,3,jajca
+20304,60 g,sladkor
+20304,65 g,čokolada
+20304,120 g,[]
+20304,120 g,[]
+20304,3,[]
+20304,,[]
+20304,100 ml,[]
+20304,2 čajni žlički,sladkor
+20304,1 čajna žlička,[]
+20304,,[]
+20304,1l,mleko
+20304,500 ml,smetana
+20304,150 g,sladkor
+20304,105 g,škroba
+20304,6 čajnih žličk,[]
+20304,,[]
+20304,,[]
+20304,100 ml,[]
+20304,1 čajna žlička,[]
+20304,2 čajni žlički,sladkor
+20304,2,[]
+20305,300 ml,mleko
+20305,200 ml,smetana
+20305,50 g,sladkor
+20305,35 g,škroba
+20305,2 čajni žlički,[]
+20305,,[]
+20306,230 g,[]
+20306,120 g,sladkor
+20306,20 g,[]
+20306,5 g,[]
+20306,130 g,[]
+20306,20 ml,kave
+20307,1/2,ledenke
+20307,1-2,paradižnik
+20307,1/2,kumara
+20307,1,paprika
+20307,,olive
+20307,250 g,[]
+20307,,sol
+20307,,poper
+20307,2 žlici,jogurt
+20307,malo,[]
+20307,,olje
+20307,,[]
+20307,strok,česen
+20307,,[]
+20307,,sol
+20308,1 kg,moka
+20308,500 g,margarina
+20308,100 g,sladkor
+20308,2,[]
+20308,2,[]
+20308,,[]
+20308,,[]
+20308,,marmelada
+20309,,[]
+20309,3,jajca
+20309,125 g,sladkor
+20309,125 g,moka
+20309,3/4,[]
+20309,"0;5 dl ,olje
+20309,,limona
+20309,,[]
+20309,6,jajca
+20309,150 g,[]
+20309,75 g,sladkor
+20309,1 žlica,kakav
+20309,,[]
+20309,"0;5 l ,mleko
+20309,2,[]
+20309,40 dag,sladkor
+20309,150 g,margarina
+20309,85 g,sladkor
+20309,1,jajca
+20309,,[]
+20309,6 dl,[]
+20309,2,[]
+20309,6 žlic,sladkor
+20309,3-4 žlice,smetana
+20309,,[]
+20309,500 g,[]
+20309,,[]
+20309,,[]
+20310,500 g,[]
+20310,pest,[]
+20310,5,[]
+20310,2,ribe
+20310,,peteršilj
+20310,3 dl,mleko
+20310,1,smetana
+20310,2,česen
+20310,ščepec,kurkume
+20310,,sol
+20310,,poper
+20310,,[]
+20311,,sol
+20311,,poper
+20311,,moka
+20311,2,[]
+20311,2,čebula
+20311,,[]
+20311,150 ml,vino
+20311,približno,ml
+20311,2,korenje
+20311,,[]
+20311,,[]
+20312,500 g,[]
+20312,2 žlici,maslo
+20312,4 dl,mleko
+20312,,[]
+20312,,[]
+20312,1/2,[]
+20312,,paprika
+20313,,Masa
+20313,120 g,maslo
+20313,20 dag,sladkor
+20313,5 žlic,[]
+20313,2 žlici,kakav
+20313,3 žlice,rum
+20313,460 g,[]
+20313,,Krema
+20313,3,jajca
+20313,20 dag,sladkor
+20313,20 dag,[]
+20313,---------------------,[]
+20314,2,krompir
+20314,,[]
+20314,,sol
+20314,pol,[]
+20314,,[]
+20314,,[]
+20314,,[]
+20315,400 g,testenine
+20315,,[]
+20315,1,čebula
+20315,,olje
+20315,,sol
+20315,,zelenjave
+20315,,[]
+20315,1 žlica,vino
+20316,2,jajca
+20316,"0;5 skodelice ,sladkor
+20316,pol,sladkor
+20316,pol skodelice,olje
+20316,"1;5 skodelice ,moka
+20316,pol,[]
+20316,pol skodelice,[]
+20316,1-3 žlice,[]
+20316,1 žlica,moka
+20316,,smetana
+20317,6,jajca
+20317,6,[]
+20317,,limete
+20317,140 g,maka
+20317,1000 g,[]
+20317,1 dl,smetana
+20317,120 g,sladkor
+20317,1 čajna žlica,[]
+20317,1,[]
+20317,4 dl,pomarančnega
+20318,3,[]
+20318,3 dl,[]
+20318,1/2,manga
+20318,1 čajna žlička,sladkor
+20319,6,[]
+20319,2,čebula
+20319,1,korenje
+20319,1,[]
+20319,1 kos,zelena
+20319,1,por
+20319,,sol
+20319,1 žlica,gorčice
+20319,,[]
+20319,,sojina
+20319,,olje
+20320,6 žlic,sladkor
+20320,20 dag,maslo
+20320,25 dag,[]
+20320,10 dag,[]
+20320,5,jajca
+20320,,limona
+20320,ščep,sol
+20320,100 g,[]
+20321,,[]
+20321,2,jajca
+20321,2 kosa,[]
+20321,,[]
+20321,strok,česen
+20321,,[]
+20321,,[]
+20321,žlica,moka
+20321,,sol
+20321,1,vranica
+20321,,[]
+20322,1/2,[]
+20322,1/2,brokoli
+20322,1,korenje
+20322,2 pesti,graha
+20322,2 pesti,fižol
+20322,2,jajca
+20322,,[]
+20322,,sojina
+20322,,ostrigina
+20322,,sol
+20322,,poper
+20323,,[]
+20323,"0;5 l ,mleko
+20323,24 dag,moka
+20323,2,jajca
+20323,ščepec,sol
+20323,,[]
+20323,2,banana
+20323,2 žlici,Nutelle
+20323,20 g,[]
+20323,200 g,[]
+20323,1,jajca
+20323,1 žlica,[]
+20324,800 g,[]
+20324,360 g,riž
+20324,3,korenčki
+20324,2,čebula
+20324,2,[]
+20324,4 dl,[]
+20324,1 čajna žlica,[]
+20324,ščep,timijan
+20324,½,[]
+20324,1,[]
+20324,1,lovorjev list
+20324,,sol
+20324,2 dl,vino
+20324,2,[]
+20324,nekaj,[]
+20325,2,[]
+20325,14,[]
+20325,800 g,hruška
+20325,pest,[]
+20325,2,[]
+20325,5 žlic,sladkor
+20325,2 dl,mleko
+20325,1,jajca
+20325,,limona
+20325,malo,[]
+20326,20 dag,[]
+20326,5 dag,skuta
+20326,3 dag,maslo
+20326,,poper
+20326,,[]
+20326,1 strok,česen
+20326,1,šalotka
+20327,,[]
+20327,,krompir
+20327,,korenje
+20327,,čebula
+20327,,začimbe
+20327,,olje
+20328,,jogurt
+20328,1,banana
+20328,1,[]
+20329,7-8,[]
+20329,6,perutničk
+20329,,[]
+20329,2 dl,smetana
+20329,3 žlice,olje
+20329,2 dl,[]
+20329,3/4,maslo
+20329,2 dl,mleko
+20329,5,[]
+20329,malo,sir
+20329,3 žlice,gresa
+20329,2 žlici,gorčice
+20329,,[]
+20329,,[]
+20329,4,jajca
+20329,,rožmarin
+20329,,peteršilj
+20329,,vegeta
+20329,2 dl,smetana
+20329,1 žlica,sladkor
+20330,,[]
+20330,1/2 dl,mleko
+20330,3 dag,kvas
+20330,žlička,sladkor
+20330,žlica,moka
+20330,,[]
+20330,30 dag,moka
+20330,,sol
+20330,"1;5 dl ,mleko
+20330,3,jajca
+20330,6 dag,maslo
+20330,žlica,sladkor
+20330,pest,rozin
+20330,,[]
+20330,,sladkor
+20331,2 dl,mleko
+20331,60 g,[]
+20331,nekaj,[]
+20331,,[]
+20331,,[]
+20331,1 čajna žlička,kakav
+20332,1,[]
+20332,4,ribe
+20332,1,[]
+20332,1,čebula
+20332,,začimbe
+20333,5,jajca
+20333,300 g,moka
+20333,,sladkor
+20333,,sol
+20333,,[]
+20333,200 g,[]
+20334,200 g,[]
+20334,200 g,gobe
+20334,2-3,[]
+20334,5-6 kosov,[]
+20334,2,čebula
+20334,3,česen
+20334,2 dl,smetana
+20334,,sol
+20334,,poper
+20337,500 g,[]
+20337,2,jajca
+20337,"2;5 dl ,mleko
+20337,7 dag,maslo
+20337,4 dag,sladkor
+20337,2 dag,kvas
+20337,1,[]
+20337,,pomarančna
+20337,,sol
+20337,pol žlice,rum
+20337,,Nutella
+20338,2 žlici,olje
+20338,1,čebula
+20338,400 g,[]
+20338,1,korenje
+20338,"0; 5 dl ,paradižnik
+20338,4 dl,[]
+20338,600 g,testenine
+20338,5 dag,maslo
+20338,5 dag,moka
+20338,5 dl,[]
+20338,12 dag,edamca
+20338,,sol
+20338,,poper
+20338,,[]
+20339,,[]
+20339,3,jajca
+20339,60 g,moka
+20339,70 g,sladkor
+20339,6,[]
+20339,3 žlice,mleko
+20339,,[]
+20339,4,[]
+20339,500 g,mascarponeja
+20339,250 ml,smetana
+20339,8,[]
+20339,,[]
+20339,100 g,čokolada
+20339,300 ml,smetana
+20339,3,želatina
+20339,,[]
+20339,,[]
+20339,7-8,[]
+20340,250 g,testo
+20340,,[]
+20340,40 ml,[]
+20340,40 g,moka
+20340,40 g,maslo
+20340,ščepec,sol
+20340,1,jajca
+20340,,[]
+20340,400 ml,mleko
+20340,80 g,sladkor
+20340,3,jajca
+20340,40 g,moka
+20340,30 g,sladkor
+20340,1,sladkor
+20340,2,beljaka
+20340,3,[]
+20340,,limona
+20340,,[]
+20340,200 ml,smetana
+20340,50 g,sladkor
+20340,2,[]
+20340,,[]
+20340,100 g,čokolada
+20340,250 ml,smetana
+20341,5,jajca
+20341,200 g,sladkor
+20341,1,sladkor
+20341,5 žlic,mlačne
+20341,200 g,moka
+20341,1,prašek
+20342,,[]
+20342,3,banane
+20342,1,jajca
+20342,6 žlic,olje
+20342,,[]
+20342,"1;5 ,[]
+20342,1 skodelica,sladkor
+20342,1/2 žlice,[]
+20342,1/2,[]
+20342,1,sladkor
+20342,,[]
+20342,pest,[]
+20342,,[]
+20342,,[]
+20342,,mandljevi
+20342,,orehi
+20342,,[]
+20343,,[]
+20343,1,[]
+20343,,[]
+20343,,[]
+20343,2,jabolki
+20343,200 ml,[]
+20343,,mleko
+20343,,[]
+20343,3-4,[]
+20343,1-2,[]
+20343,2,[]
+20343,,[]
+20343,200 - 300 ml,smetana
+20343,,kakav
+20344,,[]
+20344,5,jajca
+20344,5 žlic,[]
+20344,200 g,sladkor
+20344,1,sladkor
+20344,1,prašek
+20344,200 g,moka
+20344,,[]
+20344,2,[]
+20344,8 dl,mleko
+20344,4 žlice,sladkor
+20345,200 g,[]
+20345,2,jajca
+20345,1 - 2 dl,mineralne
+20345,3 dl,[]
+20345,3 žlice,[]
+20345,2 ščepca,sol
+20345,,[]
+20346,,[]
+20346,7 dag,moka
+20346,10 žlic,[]
+20346,6 žlic,sladkor
+20346,1,[]
+20346,2,jajca
+20346,,[]
+20346,,sladkor
+20346,,[]
+20346,50 dag,skuta
+20346,,[]
+20346,2 žlici,moka
+20346,7 žlic,sladkor
+20346,1,sladkor
+20347,2,bučki
+20347,1,[]
+20347,1,jajca
+20347,,sol
+20347,,poper
+20347,2,[]
+20347,1,kaper
+20347,6,[]
+20347,,olje
+20347,3-5,[]
+20348,1/2,piščančjega
+20348,,grah
+20348,2 žlici,majoneze
+20348,2,[]
+20348,1 dl,smetana
+20348,,sol
+20348,,poper
+20348,,osnova
+20348,,kuskus
+20348,,maslo
+20349,12,[]
+20349,3,[]
+20349,2 žlici,[]
+20349,,sol
+20350,250 g,riž
+20350,1,čebula
+20350,1/2,paprika
+20350,3,kumarice
+20350,6,[]
+20350,1,[]
+20350,1,ribe
+20350,,[]
+20350,,[]
+20350,,sol
+20350,,poper
+20351,7,jajca
+20351,20 dag,sladkor
+20351,15 dag,moka
+20351,1/2,[]
+20351,1,sladkor
+20351,7 dag,[]
+20351,13 dag,maslo
+20351,2 žlici,čokolada
+20352,25 dag,šparglji
+20352,12 dag,[]
+20352,2,jajca
+20352,"1;5 dl ,smetana
+20352,2 dl,mleko
+20352,,sol
+20352,,poper
+20352,,[]
+20352,,[]
+20352,5 dag,[]
+20355,1,piščančji
+20355,,[]
+20355,,[]
+20355,3,[]
+20355,3,smetana
+20355,3,jajca
+20355,,[]
+20356,,[]
+20356,200 g,maslo
+20356,150 g,[]
+20356,100 g,[]
+20356,50 g,sladkor
+20356,,[]
+20356,50 g,maslo
+20356,200 g,čokolada
+20356,50 g,smetana
+20356,2 vrečki,sladkor
+20356,,[]
+20356,100 g,[]
+20356,100 g,smetana
+20356,1,sladkor
+20356,,[]
+20356,,[]
+20357,6,slanine
+20357,5,krompir
+20357,,[]
+20357,,smetana
+20357,,timijan
+20357,,peteršilj
+20357,,olje
+20357,,sol
+20357,,[]
+20358,,[]
+20358,2 kg,jabolk
+20358,"0;5 kg ,skuta
+20358,"0;5 kg ,smetana
+20358,,cimet
+20358,,sladkor
+20358,1 kg,banan
+20359,,[]
+20359,"0;5 l ,[]
+20359,1,[]
+20359,3 žlice,sladkor
+20359,100 ml,smetana
+20359,,[]
+20359,300 ml,[]
+20359,200 ml,mleko
+20359,1,[]
+20359,3 žlice,sladkor
+20359,100 ml,smetana
+20359,,[]
+20359,"0;5 l ,[]
+20359,1,puding
+20359,3 žlice,sladkor
+20359,100 ml,smetana
+20359,,[]
+20359,,[]
+20360,2,ribe
+20360,2-3 pesti,[]
+20360,2-3 dl,[]
+20360,1 žlička,čemaža
+20360,1,čebula
+20360,2 stroka,česen
+20360,1-2,[]
+20360,,sol
+20360,,poper
+20361,2,jajca
+20361,4,[]
+20361,3,[]
+20361,1/2,[]
+20361,5 žlic,sladkor
+20361,1,sladkor
+20361,1,prašek
+20363,300 g,[]
+20363,325 ml,mlačne
+20363,čajna žlička,sol
+20363,,kvas
+20363,dve,[]
+20363,velika žlica,sladkor
+20364,,[]
+20364,,[]
+20364,,[]
+20364,,[]
+20364,,sol
+20364,,poper
+20364,,česen
+20364,,kečap
+20364,pol,[]
+20364,,olje
+20365,15 l,[]
+20365,,zelišča
+20365,,[]
+20365,,[]
+20366,3 pesti,[]
+20366,4,[]
+20366,100 g,[]
+20366,3 žlice,smetana
+20366,,sol
+20366,,poper
+20366,,kumina
+20367,1 kg,[]
+20367,3,lovorjev list
+20367,"1;3 kg ,čebula
+20367,250 g,maslo
+20367,350 g,[]
+20367,5,[]
+20367,"0;5 l ,[]
+20367,,feferon/tabasco
+20367,,poper
+20368,2 dl,mleko
+20368,60 g,[]
+20368,200 g,sladkor
+20368,2,[]
+20368,2,jajca
+20368,300 g,moka
+20368,25 g,kakav
+20368,1,prašek
+20368,ščepec,sol
+20368,100 g,[]
+20368,100 g,čokolada
+20368,100 g,čokolada
+20369,15 dag,moka
+20369,15 dag,[]
+20369,15 dag,[]
+20369,25 dag,[]
+20369,20 dag,sladkor
+20369,2,[]
+20369,1,[]
+20369,3,jajca
+20369,50 dag,skuta
+20369,1 dl,smetana
+20369,2,[]
+20369,,[]
+20369,,[]
+20370,300 g,[]
+20370,1,čebula
+20370,1,korenje
+20370,2,jajca
+20370,,peteršilj
+20370,,sol
+20370,,poper
+20370,,drobtine
+20370,,olje
+20371,25 dag,[]
+20371,"1,sladkor
+20371,3,jajca
+20371,20 dag,maslo
+20371,15 dag,mandeljnov
+20371,1,sladkor
+20371,1 žlička,[]
+20371,1/2 žličke,[]
+20371,1/2 žličke,[]
+20371,1/2 žličke,cimet
+20371,3,jajca
+20371,1 dl,smetana
+20371,2 dl,mleko
+20371,1,[]
+20372,1 skodelica,[]
+20372,2,čebula
+20372,1/2,por
+20372,,[]
+20372,,sol
+20372,2,[]
+20372,1,kumina
+20372,1,paprika
+20372,,[]
+20372,,kurkuma
+20373,,baguetta
+20373,,hrenovka
+20373,3 žlice,[]
+20373,3 žlice,sir
+20373,žlička,maslo
+20374,3,jajca
+20374,2 dl,mleko
+20374,2 dl,[]
+20374,400 - 500 g,moka
+20374,10,[]
+20374,-,melisa
+20374,-,koromač
+20374,-,drobnjak
+20374,-,[]
+20374,-,peteršilj
+20374,,sol
+20374,,poper
+20374,,olje
+20375,,[]
+20375,300 g,moka
+20375,1,jajca
+20375,20 g,kvas
+20375,3,olje
+20375,"1;5 dl ,več
+20375,,[]
+20375,300 g,špinače
+20375,70 g,čemaža
+20375,100 - 150 g,sir
+20375,70 g,[]
+20375,1,por
+20375,2 žlici,[]
+20375,,sol
+20375,,poper
+20375,,[]
+20376,20 dag,ješprenja
+20376,50 dag,[]
+20376,50 dag,krompir
+20376,30 dag,[]
+20376,strok,česen
+20376,,sol
+20376,,poper
+20376,,lovorjev list
+20378,2,krompir
+20378,1,romaneska
+20378,1,por
+20378,30 g,maslo
+20378,"1;5 l ,[]
+20378,,sol
+20378,,poper
+20379,10 dag,[]
+20379,15 dag,moka
+20379,1,prašek
+20379,1/2 žličke,[]
+20379,10 dag,orehi
+20379,1 žlička,[]
+20379,7 dag,[]
+20379,7 dag,[]
+20379,2 žlički,kakavovega
+20379,1,[]
+20379,1/2 žličke,cimet
+20379,,[]
+20379,ščepec,ingver
+20379,nekaj kapljic,[]
+20379,5 dag,sadja
+20379,pest,[]
+20379,1 dcl,[]
+20380,5,[]
+20380,2,[]
+20380,"2;5 dl ,mleko
+20380,1,banana
+20380,ščepec,sol
+20380,1 pest,[]
+20380,1,[]
+20381,30 dag,moka
+20381,20 dag,sladkor
+20381,1 dl,olje
+20381,"1;25 dl ,mleko
+20381,dve žlici,kakav
+20381,1,sladkor
+20381,1,prašek
+20381,3,jajca
+20381,,rum
+20381,,limona
+20382,2,banana
+20382,nekaj,[]
+20382,,[]
+20384,,[]
+20384,6,jabolk
+20384,,[]
+20384,,limona
+20384,,cimet
+20384,,sladkor
+20384,malo,rum
+20385,,[]
+20385,,[]
+20385,dve,rožmarin
+20385,,[]
+20385,1 žlica,maslo
+20385,malo,olje
+20385,,sol
+20385,,poper
+20385,"0;5 dl ,vino
+20385,1 dl,[]
+20386,,[]
+20386,3,jajca
+20386,15 žlic,sladkor
+20386,15 žlic,zdrob
+20386,15 žlic,[]
+20386,3 velika,jabolka
+20386,3 žlice,[]
+20386,1 žlica,[]
+20386,,[]
+20386,200 g,čokolada
+20386,100 g,[]
+20386,2 žlici,olje
+20386,30 g,maslo
+20386,1 žlica,mleko
+20387,300 g,čokolada
+20387,250 g,maslo
+20387,200 g,sladkor
+20387,1 ščepec,sol
+20387,4 velika,jajca
+20387,140 g,[]
+20387,50 g,kakav
+20387,200 g,[]
+20388,2 dl,[]
+20388,2 dl,[]
+20388,2 dl,[]
+20388,,sol
+20389,200 g,[]
+20389,,olje
+20389,,[]
+20389,,[]
+20389,2,[]
+20389,250 g,[]
+20389,,bazilika
+20389,,[]
+20389,,sol
+20389,,poper
+20389,,[]
+20389,2-3,maslo
+20389,2-3,paradižnik
+20389,,parmezan
+20390,600 g,[]
+20390,150 g,[]
+20390,150 g,[]
+20390,2,[]
+20390,2,paprika
+20390,2-3,sol
+20390,,[]
+20391,,[]
+20391,30 dag,[]
+20391,20 dag,maslo
+20391,10 dag,sladkor
+20391,1,sladkor
+20391,1,prašek
+20391,ščepec,sol
+20391,žlica,rum
+20391,,[]
+20391,500 g,[]
+20391,500 g,[]
+20391,velika žlica,smetana
+20391,ščepec,sol
+20391,4 žlice,sladkor
+20391,4,[]
+20391,1,sladkor
+20391,2,jajca
+20392,1,čebula
+20392,"0;5 kg ,meso
+20392,1 strok,česen
+20392,5 dl,paradižnik
+20392,,[]
+20392,,[]
+20392,60 g,maslo
+20392,55 g,moka
+20392,"2;5 dl ,mleko
+20392,2 žlici,smetana
+20392,,[]
+20392,,sir
+20392,,[]
+20393,60 g,maslo
+20393,55 g,moka
+20393,"2;5 dl ,mleko
+20393,2 žlici,smetana
+20393,,[]
+20394,200 g,sladkor
+20394,"0;6 dl ,[]
+20394,150 g,mleko
+20394,60 g,[]
+20394,,[]
+20394,1,sladkor
+20394,,[]
+20395,,[]
+20395,500 g,moka
+20395,2 žlički,sol
+20395,90 ml,olje
+20395,200 ml,tople
+20395,1 vrečka,kvas
+20395,,[]
+20395,300 g,[]
+20395,200 g,sir
+20395,,paradižnikova
+20395,,jajca
+20395,,paprika
+20395,,origano
+20395,,[]
+20395,1,jajca
+20396,,[]
+20396,1,kvas
+20396,2-3 žličke,sladkor
+20396,1 žlička,sol
+20396,malo,[]
+20396,,[]
+20396,"0;5 dl ,tople
+20396,2-3 žlice,kis
+20396,2-3 žlice,olje
+20396,,[]
+20397,1 skodelica,[]
+20397,pol skodelice,por
+20397,žlica,limonovega
+20397,,sol
+20397,,olje
+20398,,[]
+20398,,[]
+20398,,banane
+20398,1,[]
+20398,,[]
+20398,,sladkor
+20398,,[]
+20399,125 g,margarina
+20399,125 g,sladkor
+20399,1,sladkor
+20399,2,jajca
+20399,240 ml,mleko
+20399,1,jogurt
+20399,380 g,moka
+20399,1,prašek
+20399,1 žlička,[]
+20399,2 žlici,čokolada
+20399,160 g,[]
+20400,,[]
+20400,200 g,[]
+20400,100 g,maslo
+20400,,jajca
+20400,ščepec,sol
+20400,,[]
+20400,300 g,skuta
+20400,100 g,smetana
+20400,1,jajca
+20400,100 g,slanine
+20400,500 g,šparglji
+20400,,čemaža
+20400,,[]

@@ -2,8 +2,16 @@
 <section class="well well__offset-3">
 	<div class="container">
 		<h2><em>Pozdravljeni!</em> Že veste, kaj boste kuhali danes?</h2>
-			%for (id, avtor) in recept:
-		   <td>{{id}}</td>
+			%for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in recept:
+			<h2>{{ime}}</h2>
+		   <td><em>id: </em> {{id}}</td><br>
+		   <td><em>ime: </em> {{ime}}</td><br>
+		   <td><em>avtor: </em> {{avtor}}</td><br>
+		   <td><em>vrstajedi: </em> {{vrsta_jedi}}</td><br>
+		   <td><em>cas_priprave: </em> {{cas_priprave}}</td><br>
+		   <td><em>datum_objave: </em> {{datum_objave}}</td><br>
+		   <td><em>tezavnost: </em> {{tezavnost}}</td><br>
+		   <td><em>navodilo: </em> {{navodilo}}</td><br>
 		    <br>
 			%end
 	</div>

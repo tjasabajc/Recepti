@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>naslov111</title>
+    <title>Njam njam OPB</title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no"/>
     <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon">
@@ -52,44 +52,37 @@
 						%end
 						>
                             <a href="/">Domov</a>
-                            <!--<ul>
-                                <li>
-                                    <a href="#">Nov uporabnik</a>
-                                </li>
-                                <li>
-                                    <a href="#">Stari znanec</a>
-                                    <ul>
-                                        <li>
-                                            <a href="#">Lorem</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Dolor</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Sit amet</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="#">Vivamus eget nibh</a>
-                                </li>
-                            </ul>-->
                         </li>
                         <li 
+						%if (podstran == 'iskanje'):
+						class="active" 
+						%end
 						%if (podstran == 'recept'):
 						class="active" 
 						%end
 						>
                             <a href="/iskanje">Recepti</a>
                         </li>
-                        <li>
-                            <a href="uporabnik.html">Kuharji</a>
+                        <li
+						%if (podstran == 'uporabnik'):
+						class="active" 
+						%end
+						>
+                            <a href="/uporabnik">Kuharji</a>
                         </li>
-                        <li>
-                            <a href="prijava.html">Prijava</a>
+                        <li
+						%if (podstran == 'prijava'):
+						class="active" 
+						%end
+						>
+                            <a href="/prijava">Prijava</a>
                         </li>
-						<li>
-                            <a href="index-4.html">O nas</a>
+						<li
+						%if (podstran == 'midva'):
+						class="active" 
+						%end
+						>
+                            <a href="/midva">O nama</a>
                         </li>
                     </ul>
                 </nav>
@@ -109,7 +102,7 @@
                               FOOTER
     =========================================================-->
     <footer>
-        <div class="container">
+        <!--<div class="container">
             <ul class="socials">
                 <li><a href="#" class="fa fa-facebook"></a></li>
                 <li><a href="#" class="fa fa-tumblr"></a></li>
@@ -118,7 +111,7 @@
             <div class="copyright">© <span id="copyright-year"></span> |
                 <a href="#">Privacy Policy</a>
             </div>
-        </div>
+        </div>--
         <div class="tm"><a href="#"><img src="/static/images/TM_logo.png" alt=""></a></div>
     </footer>
 </div>

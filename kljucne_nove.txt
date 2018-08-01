@@ -1,4 +1,4 @@
-Recepti/20002.html,testo
+﻿Recepti/20002.html,testo
 Recepti/20002.html,moka
 Recepti/20002.html,škrob
 Recepti/20002.html,sladkor
@@ -2508,7 +2508,7 @@ Recepti/20236.html,moka
 Recepti/20236.html,prašek
 Recepti/20236.html,[]
 Recepti/20236.html,[]
-Recepti/20237.html,Philadelphia sirčka
+Recepti/20237.html,[]
 Recepti/20237.html,maslo
 Recepti/20237.html,sladkor
 Recepti/20237.html,moka

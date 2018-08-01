@@ -1,27 +1,26 @@
 SPLETNA STRAN:
+	
 	- /iskanje:
+
 		* kot v index-4 (za okenèke)
+
 		* pod okenèki so trije random recepti
+
 		* spodaj je gumb VSI RECEPTI
+
 	- ko klikneš SEND href=/rezultati_iskanja
+
 	- povsod: podrstan='recepti?'
+
 	- /prijava:
+
 		* up. ime, geslo
+
 		* in gumb NOV UPORABNIK /registracija (preveri, da še ni tega imena)
+
 		* preveri geslo. spremeni prijavljen=ime (prej None) (Ines???)
+
 		* èe je prijavljen!=None --> se odpre podokno "priavljeni ste kot ... DODAJ RECEPT ODJAVA" (/dodaj_recept, /)
+	
 	- kako daš noter slike?
-
-
-
-
-* veè kot tisoè receptov --> spremeni zapis html (001 --> 0001) zajem.py
-* podatki o uporabnikih : kar direkt iz seznama https://www.kulinarika.net/uporabniki/seznam/
-(* v vse tabele dodaj "ID")
-
-
-* ER diagram : Dodaj KOLICINA na POTREBUJE
-* sestavine : kolièina je text (2 lici)
-* slovar za sestavine : (smetane -> smetana) 
-
 

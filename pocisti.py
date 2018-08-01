@@ -571,6 +571,8 @@ with open('kljucne_nove.txt','w', encoding='utf-8') as g:
 
 # TESTA?
 
+print('<option value="' + str(x) + '">' for x in set(list(slovar.values())))
 
-
+for x in set(list(slovar.values())):
+    print('<option value="' + str(x) + '">')
 

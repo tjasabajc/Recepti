@@ -8,7 +8,7 @@ from bottle import *
 import auth as auth
 
 # uvozimo psycopg2
-import psycopg2, psycopg2.extensions, psycopg2.extras
+import psycopg2, psycopg2.extensions, psycopg2.extras, random
 psycopg2.extensions.register_type(psycopg2.extensions.UNICODE) # se znebimo problemov s šumniki
 
 # odkomentiraj, če želiš sporočila o napakah
@@ -19,23 +19,39 @@ def static(filename):
     return static_file(filename, root='static') # to je treba spremenit nazaj v samo static
 
 @get('/recept/<id>')
-def recept():
-    cur.execute("SELECT id FROM recept WHERE recept.id = %s", id)
+def recept(id):
+    cur.execute("SELECT * FROM recept WHERE recept.id = %s", [id])
     # return template('views/recept.html, recept=cur)
     # v spremenjivki recept bodo ime, avtor, sestavine ...
     # To potem daš v html na spletno stran tako kot imava zdaj na prvi strani
     # for ime, avtor, sestavine ... in recept
-    return template('views/recept.html', recept=cur)
+    return template('views/recept2.html', recept=cur)
 
 @get('/')
 def index():
     cur.execute("SELECT * FROM recept")
-    return template('views/domov.html', index=cur)
+    return template('views/domov.html', index=cur.fetchmany(5))
 
 @get('/iskanje')
 def iskanje_receptov():
-    cur.execute("SELECT * FROM recept")
-    return template('views/iskanje_receptov.html', iskanje_receptov=cur)
+    x1 = random.randint(20002, 20400)
+    x2 = random.randint(20002, 20400)
+    x3 = random.randint(20002, 20400)
+    cur.execute("SELECT * FROM recept WHERE id = %s OR id = %s OR id = %s", (x1, x2, x3))
+    return template('views/iskanje_receptov2.html', rand_recepti=cur.fetchmany(3))
+
+@get('/uporabnik')
+def uporabniki():
+    cur.execute("SELECT * FROM uporabnik")
+    return template('views/uporabnik2.html', uporabnik=cur.fetchmany(5))
+
+@get('/prijava')
+def prijava():
+    return template('views/prijava2.html')
+
+@get('/midva')
+def prijava():
+    return template('views/midva.html')
 
 @get('/dodaj_transakcijo')
 def dodaj_transakcijo():
