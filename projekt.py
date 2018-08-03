@@ -20,7 +20,7 @@ def static(filename):
 
 @get('/recept/<id>')
 def recept(id):
-    cur.execute("SELECT * FROM recept WHERE recept.id = %s", [id])
+    cur.execute("SELECT recept.id,recept.ime,avtor,uporabnik.ime as avtor2,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost FROM recept JOIN uporabnik ON recept.avtor = uporabnik.id WHERE recept.id = %s", [id])
     # return template('views/recept.html, recept=cur)
     # v spremenjivki recept bodo ime, avtor, sestavine ...
     # To potem daš v html na spletno stran tako kot imava zdaj na prvi strani
@@ -29,7 +29,7 @@ def recept(id):
 
 @get('/')
 def index():
-    cur.execute("SELECT * FROM recept")
+    cur.execute("SELECT recept.id,recept.ime,avtor,uporabnik.ime as avtor2,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost FROM recept JOIN uporabnik ON recept.avtor = uporabnik.id")
     return template('views/domov.html', index=cur.fetchmany(5))
 
 @get('/iskanje')
@@ -38,7 +38,7 @@ def iskanje_receptov():
     x2 = random.randint(20002, 20400)
     x3 = random.randint(20002, 20400)
     cur.execute("SELECT * FROM recept WHERE id = %s OR id = %s OR id = %s", (x1, x2, x3))
-    return template('views/iskanje_receptov2.html', rand_recepti=cur.fetchmany(3))
+    return template('views/iskanje_receptov2.html', rand_recepti=cur)
 
 @get('/uporabnik')
 def uporabniki():
