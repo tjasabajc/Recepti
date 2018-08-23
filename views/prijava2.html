@@ -1,0 +1,98 @@
+% rebase('osnova1.html', podstran='prijava')
+<section class="well well__offset-3">
+	<div class="container">
+		<h2><em>Pozdravljeni!</em> Tukaj se lahko prijavite!</h2>
+		<p style="font-size:160%;"> Če ste že registrirani, se tu lahko prijavite v vaš račun. Prijavljeni uporabniki lahko dodajajo nove recepte! Veseli bomo vsakega prispevka!</p><br>
+		
+		<fieldset>
+		<legend> Vpis za prijavljene uporabnike</legend><br>
+		 <form action="" method="POST">
+<input type="text" name="upIme" placeholder="Uporabniško ime" required><br>
+<input type="password" name="geslo" placeholder="Geslo"  required><br>
+  <input type="submit" value="Prijavi me!">
+</form> 
+</fieldset>
+
+<br><br>
+<button class="button" action="/osebno">Test</button>
+<br>
+%if napaka:
+  <p class="opozorilo">{{napaka}}</p>
+%end
+<p style="font-size:160%;"> Še niste naš član? Nič hudega, izberite si uporabniško ime in geslo in ju vpišite spodaj. Dobrodošli!</p><br>
+	
+<fieldset>
+		<legend> Registracija novega uporabnika</legend><br>
+		 <form action="" method="POST">
+<input type="text" name="upIme" placeholder="Uporabniško ime" required><br>
+<input type="password" name="geslo1" placeholder="Geslo" required><br>
+<input type="password" name="geslo2" placeholder="Ponovite geslo" required><br>
+  <input type="submit" value="Registriraj me!">
+</form> 
+</fieldset>
+		
+		
+		<!--<div class="nodisplay"> <form action="" method="POST" name="vpis" class="form-dizajn1" id="vpis">
+	<fieldset>
+		<legend> Vpis za prijavljene uporabnike</legend><br>
+		<table class="SplosnaTabela FullWidth">
+		  <tr>
+			<td valign="middle" class="formular">Uporabniško
+			  ime</td>
+			<td valign="top"><input id="varUporabnik" name="varUporabnik" type="text" maxlength="16"  value="" required/>
+			  </td>
+		  </tr>
+		  <tr>
+			<td valign="middle" class="formular"> Geslo</td>
+			<td valign="top"><input name="varGeslo" id="varGeslo" type="password" class="boxPadding" maxlength="15" required/>
+		  </td>
+		  </tr>
+		</table>
+		
+		<input name="Submit" id="submit" type="submit" class="submit" value="Vpiši se" />
+		  <input type="hidden" name="aktivacijakoda" />
+		  <input type="hidden" name="datumprijave" value="2018-7-24 19:14:52" />
+		  <input type="hidden" name="podpis" />
+		<input type="hidden" name="MM_insert" value="vpis" />
+	  </fieldset>
+
+
+	</div>
+	
+	<p style="font-size:160%;"> Še niste naš član? Nič hudega, izberite si uporabniško ime in geslo in ju vpišite spodaj. Dobrodošli!</p><br>
+		
+		<div class="nodisplay"> <form action="" method="POST" name="vpis" class="form-dizajn1" id="vpis">
+	<fieldset>
+		<legend> Registracija novega uporabnika </legend><br>
+		<table class="SplosnaTabela FullWidth">
+		  <tr>
+			<td valign="middle" class="formular">Uporabniško
+			  ime</td>
+			<td valign="top"><input id="varUporabnik" name="varUporabnik" type="text" maxlength="16"  title="Uporabniško ime je najpomembnejši podatek, saj predstavlja vašo javno identifikacijo na portalu. Izberite ga premišljeno! Imeti mora najmanj 4 in največ 16 znakov in se ga kasneje ne da zamenjati." value="" />
+			  </td>
+		  </tr>
+		  <tr>
+			<td valign="middle" class="formular"> Geslo</td>
+			<td valign="top"><input name="varGeslo" id="varGeslo" type="password" class="boxPadding" maxlength="256" title="Izmislite si zapleteno geslo, ki ne sme biti enako uporabniškemu imenu. Le tako boste omogočili, da bo vaš uporabniški račun varen."/>
+		  </td>
+		  </tr>
+		  <tr>
+			<td valign="middle" class="formular"> Ponovite geslo </td>
+			<td valign="top"><input type="password" name="varGeslo2" id="varGeslo2" title="Ponovite zgoraj zapisano geslo"/>
+			 </td>
+		  </tr>
+		  		  
+		  </tr>
+		</table>
+		
+					<input name="Submit" id="submit" type="submit" class="submit" value="Vpiši se" />
+		  <input type="hidden" name="aktivacijakoda" />
+		  <input type="hidden" name="datumprijave" value="2018-7-24 19:14:52" />
+		  <input type="hidden" name="podpis" />
+		<input type="hidden" name="MM_insert" value="vpis" />
+	  </fieldset>-->
+
+
+	</div>
+</section>
+

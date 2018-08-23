@@ -1,62 +1,134 @@
-﻿% rebase('osnova1.html', podstran='iskanje')
+% rebase('osnova1.html', podstran='iskanje')
 <section class="well well__offset-3">
 	<div class="container">
-		<h2><em>Pozdravljeni!</em> Že veste, kaj boste kuhali danes?</h2>
-		<table cellpadding="0" cellspacing="0" border="1">
-		<tr>
-			 <th>id</th>
-			 <th>Ime</th>
-			 <th>Avtor</th>
-			 <th>Vrsta jedi</th>
-			 <th>Čas priprave</th>
-			 <th>Datum objave</th>
-			 <th>Težavnost</th>
-			 <th>Navodilo</th>
-		</tr>
-			%for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in iskanje_receptov:
-			<tr>
-		   <td>{{id}}</td>
-		   <td><a href="/recept/{{id}}">{{ime}}</a></td>
-		   <td>{{avtor}}</td>
-		   <td>{{vrsta_jedi}}</td>
-		   <td>{{cas_priprave}}</td>
-		   <td>{{datum_objave}}</td>
-		   <td>{{tezavnost}}</td>
-		   <td>{{navodilo}}</td>
-		   <br>
-		   </tr>
-			%end
-			 </table>
-	
-</form>
-		<div class="row row__offset-2">
-			<div class="grid_6">
-				<p class="indents-3">Kolikokrat vam je že krulilo v želodcu, pa niste vedeli, kaj bi dali v lonec? Pobrskajte po naših receptih in gotovo boste našli nekaj zase! <br><br>Veseli bomo tudi vaših receptov! Prijavite se in prispevajte recepte, ki so vam najbolj pri srcu. Prijavljeni uporabniki lahko tudi ocenjujejo recepte in pišejo mnenja. Veseli bomo, če se nam pridružite!</p>
-				<div class="img"><div class="lazy-img" style="padding-bottom: 45.6140350877193%;"><img data-src="static/images/pica.jpg" alt=""></div></div>
-			</div>
+		<h2><em>Takole!</em>Pred vami so vsi naši recepti...</h2>
+		<br>
+		<div class="container">
+		%for (id,ime,navodilo) in vsi:
+			   <td><a href="/recept/{{id}}", class="btn",  style="font-size:170%;">{{ime}}</a></td>
+			   <br><br>
+			   <td>{{navodilo}}</td>
+			   <br>
+			   %end
 		</div>
+		
+			 
+		
+
+<h2><em>Preizkusite tudi iskalnik</em>Enostavno brskajte po receptih na naši strani</h2>
+	<br>		
+</form>
 		<div class="grid_5">
-                        <h2>Seznam receptov</h2>
-                        <form id="contact-form" class='contact-form'>
+                        
+                        <form id="contact-form" class='contact-form' action="/uporabnik">
                             <div class="contact-form-loader"></div>
                             <fieldset>
                                 <label class="kljucne">
-                                    Ključne besede:
-                                    <input type="text" name="name" placeholder="" value=""
+                                    Ključne besede
+                                    <input type="text" name="kljucne" placeholder="" value=""
                                 </label><br>
                 
                                 <label class="recept">
-                                    Ime recepta:
-                                    <input type="text" name="email" placeholder="" value=""
+                                    Ime recepta
+                                    <input type="text" name="recept" placeholder="" value="">
                                 </label><br>
                 
-                                <label class="sestavine">
-                                    Sestavine:
-                                    <input type="text" name="phone" placeholder="" value=""
+                                <label class="sestavina">
+                                    Sestavine
+                                    <input list="sestavine" name="sestavina">
+									<datalist id="sestavine">
+									<option value="blitva">
+									<option value="šetraj">
+									<option value="drobnjak">
+									<option value="kakav">
+									<option value="moka">
+									<option value="rožmarin">
+									<option value="marmelada">
+									<option value="olive">
+									<option value="pivo">
+									<option value="svinjina">
+									<option value="čokolada">
+									<option value="margarina">
+									<option value="paprika">
+									<option value="brinove">
+									<option value="rakci">
+									<option value="smetana">
+									<option value="mleko">
+									<option value="čebula">
+									<option value="zelje">
+									<option value="luštrek">
+									<option value="gobe">
+									<option value="brokoli">
+									<option value="rum">
+									<option value="testo">
+									<option value="origano">
+									<option value="zdrob">
+									<option value="meso">
+									<option value="cimet">
+									<option value="kis">
+									<option value="avokado">
+									<option value="ingver">
+									<option value="jajca">
+									<option value="perutnina">
+									<option value="maslo">
+									<option value="orehi">
+									<option value="testenine">
+									<option value="ocvirki">
+									<option value="list">
+									<option value="buča">
+									<option value="česen">
+									<option value="šparglji">
+									<option value="majaron">
+									<option value="bučka">
+									<option value="jabolka">
+									<option value="jagode">
+									<option value="govedina">
+									<option value="koleraba">
+									<option value="vino">
+									<option value="sir">
+									<option value="kumara">
+									<option value="jogurt">
+									<option value="korenje">
+									<option value="limona">
+									<option value="drobtine">
+									<option value="mandlji">
+									<option value="ribe">
+									<option value="por">
+									<option value="škrob">
+									<option value="šalotka">
+									<option value="krompir">
+									<option value="vanilija">
+									<option value="kvas">
+									<option value="olje">
+									<option value="kumina">
+									<option value="fižol">
+									<option value="marelice">
+									<option value="sladkor">
+									<option value="divjačina">
+									<option value="poper">
+									<option value="žajbelj">
+									<option value="paradižnik">
+									<option value="želatina">
+									<option value="hruška">
+									<option value="timijan">
+									<option value="kostanj">
+									<option value="peteršilj">
+									<option value="skuta">
+									<option value="zelena">
+									<option value="riž">
+									<option value="koruza">
+									<option value="bazilika">
+									<option value="sol">
+									<option value="kruh">
+									<option value="pistacija">
+									<option value="banana">
+									<option value="lovorjev">
+									</datalist>
+								
                                 </label><br>
 								
 								<tr class="iskanje-vrsta" id="kategorija-vrsta">
-									<td class="formular">Vrsta jedi:</td>
+									<td class="formular">Vrsta jedi</td>
 
 									<select name="kategorija" class="parent" >
 									  <option value="%">vse vrste</option>
@@ -108,7 +180,7 @@
 									</select>
 									</tr><br>
 									<tr class="iskanje-vrsta" id="priloznost-vrsta">
-									<td class="formular" >Priložnost:</td>
+									<td class="formular" >Priložnost</td>
 									<td >
 											<select name="priloznost">
 												<option value="%">vse priložnosti</option>
@@ -134,8 +206,8 @@
 									</td>
 								  </tr><br>
 								  <tr class="iskanje-vrsta" id="cas-vrsta">
-									<td class="formular" >Čas: </td>
-									<td ><select name="cas" size="1" id="cas"">
+									<td class="formular" >Čas </td>
+									<td ><select name="cas" size="1" id="cas">
 									  <option value="0" >ni pomembno</option>
 									  
 									  <option value="5"  >največ 5 minut</option>
@@ -165,9 +237,9 @@
 									</tr><br>
 									
 									<tr class="iskanje-vrsta" id="tezavnost-vrsta">
-									<td class="formular" >Težavnost:</td>
+									<td class="formular" >Težavnost</td>
 									<td >
-											<select name="priloznost">
+											<select name="tezavnost">
 												<option value="%">ni pomembno</option>
 																				  
 												<option value="1" >1</option>
@@ -183,7 +255,7 @@
 											</select>
 									
 									</td>
-								  </tr><br>
+								  </tr><br><br>
 								
 								<tr>
 								  <td class="formular"></td>
@@ -191,11 +263,13 @@
 								  <input name="sort" type="hidden" value="datum" />
 								  <input name="nacin" type="hidden" value="desc" />
 								  </td>
-								</tr><br>
-								<button class="button">Vsi recepti</button>
+								</tr><br><br>
+								<button class="button" formaction="/vsi_recepti">Vsi recepti</button>
                             </fieldset>
                         </form>
                     </div>  
-	</div>
+			
+	</div><br><br>
 	
 </section>
+

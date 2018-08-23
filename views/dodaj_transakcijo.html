@@ -3,10 +3,21 @@
 %if napaka:
   <p class="opozorilo">{{napaka}}</p>
 %end
-
+<div class="container">
+		%for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in rand_recepti:
+			   <td><a href="/recept/{{id}}", class="btn",  style="font-size:170%;">{{ime}}</a></td>
+			   <br><br>
+			   <td>{{navodilo}}</td>
+			   <br>
+			   %end
+		</div>
   <form action="/dodaj_transakcijo" method="POST">
-    <p>Znesek: <input type="text" name="znesek" value="{{znesek}}"></p>
-    <p>Račun: <input type="text" name="racun" value="{{racun}}"></p>
-    <p>Opis: <input type="text" name="opis" value="{{opis}}"></p>
+    <p>kljucne: <input type="text" name="kljucne" value="{{kljucne}}"></p>
+    <p>recept: <input type="text" name="recept" value="{{recept}}"></p>
+    <p>sestavina: <input type="text" name="sestavina" value="{{sestavina}}"></p>
+	<p>kategorija: <input type="text" name="kategorija" value="{{kategorija}}"></p>
+	<p>priloznost: <input type="text" name="priloznost" value="{{priloznost}}"></p>
+	<p>cas: <input type="text" name="cas" value="{{cas}}"></p>
+	<p>tezavnost: <input type="text" name="tezavnost" value="{{tezavnost}}"></p>
     <p><input type="submit" value="Dodaj"></p>
   </form>

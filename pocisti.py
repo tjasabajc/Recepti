@@ -515,8 +515,8 @@ def pocisti(sestavina):
             kljucna.append(b)
     
     #print('KONEC ', kljucna)
-    while [] in kljucna:
-        kljucna.remove([])
+    while '' in kljucna:
+        kljucna.remove('')
     k = []
     #print('Cistim tole : ', sestavina, 'zaenkrat imamo tole : ', kljucna)
     if len(kljucna) == 1:                         # and kljucna[0] not in slovar -
@@ -529,29 +529,29 @@ def pocisti(sestavina):
                 'jagnjetina',
                 'perutnina'
                 ]:
-                k = kljucna[0] + '\n' + 'meso'
+                k = '666' +' '+ kljucna[0] +' '+ 'meso'
             else:
                 k = kljucna[0] 
 
     elif len(kljucna) == 2:
         if 'sol' in kljucna and 'poper' in kljucna:
-            k = 'sol' + '\n' + 'poper'              # nekako ločimo, da dobimo dve sestavini
+            k = '666' + ' '+'sol' + ' ' + 'poper'              # nekako ločimo, da dobimo dve sestavini
 ##                                                    # (obema dodamo ID recepta?)
         elif 'list' in kljucna and 'lovorjev' in kljucna:
             k = 'lovorjev list'                     # DVE BESEDI!
         if 'brinove' in kljucna and 'jagode' in kljucna:
             k = 'brinove jagode'
         if 'svinjina' in kljucna and 'ribica' in kljucna:
-            k = 'svinjina' + '\n' + 'meso'
+            k = '666' + ' ' + 'svinjina' + ' ' + 'meso'
 ##        if 'smetana' in kljucna:
 ##            if 'kisla' in kljucna:
 ##                k = 'kisla smetana'                 # DVE BESEDI!
 ##            elif 'sladka' in kljucna:
 ##                k = 'sladka smetana'                # DVE BESEDI!
-        else:
-            k = sestavina + 'OSTANE : ' + str(kljucna) 
-    else:
-        k = sestavina + 'OSTANE : ' + str(kljucna)  
+        #else:
+        #    k = '' #sestavina + 'OSTANE : ' + str(kljucna) 
+    #else:
+    #    k = sestavina + 'OSTANE : ' + str(kljucna)  
     return k
 
 #print(pocisti('močne jušne osnove ali vode z jušno kocko'))
@@ -561,11 +561,18 @@ with open('kljucne_nove.txt','w', encoding='utf-8') as g:
         for vrstica in f.readlines():
             if vrstica != '\n':
                 ime, sestavina = vrstica.split(',,')
-                g.write(str(pocisti(sestavina)) + ' <- - - - - - ' + sestavina + '\n')
+                nova_sestavina = str(pocisti(sestavina))
+                if nova_sestavina[:3] == '666':
+                    _,a,b = nova_sestavina.split(' ')
+                    g.write(ime + ',' + a + '\n' +ime + ',' + b+ '\n')
+                else:
+                    g.write(ime + ',' + str(pocisti(sestavina)) + '\n')
 
 
 # TESTA?
 
+print('<option value="' + str(x) + '">' for x in set(list(slovar.values())))
 
-
+for x in set(list(slovar.values())):
+    print('<option value="' + str(x) + '">')
 

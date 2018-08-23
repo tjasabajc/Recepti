@@ -89,34 +89,41 @@ import webbrowser
 ##                    text = 'INSERT INTO primernost (recept, priloznost) VALUES ({}, {});\n'.format(id_recepta, id_priloznosti)
 ##                    g.write(text)
 
-#SESTAVINA
+##SESTAVINA
+##sez = []
 ##with open('SQL/naredi_sql_sestavina1.txt','w') as g:
-##    with open('CSV/sestavina.csv','r') as f:
+##    with open('kljucne_nove.txt','r') as f:
 ##        for vrstica in f.readlines():
 ##            if vrstica != '\n':
 ##                id,sestavina = vrstica.split(',')
+##                id = id[8:13]
 ##                sestavina = sestavina[:-1]
-##                if id != 'ď»żid':
-##                    text = 'INSERT INTO sestavina (ime) VALUES ({});\n'.format(sestavina)
-##                    g.write(text)
+##                if sestavina not in sez:
+##                    sez.append(sestavina)
+##    for sestavina in sez:
+##        text = 'INSERT INTO sestavina (ime) VALUES (\'{}\');\n'.format(sestavina)
+##        g.write(text)
 
 #POTREBUJE
 slovar = {}
 with open('CSV/sestavina_id.csv','r') as g:
     for vrstica in g.readlines():
         if vrstica != '\n':
-            sestavina,id = vrstica.split(',')
-            id = id[:-1]
-            if id != 'id':
+            id,sestavina = vrstica.split(',')
+            sestavina = sestavina[:-1]
+            if id != 'ď»żid':
                 slovar[sestavina] = int(id)
 
 with open('SQL/naredi_sql_potrebuje.txt','w') as g:
-    with open('CSV/sestavina_kolicina.csv','r') as f:
+    with open('kljucne_nove_kolicina.txt','r') as f:
         for vrstica in f.readlines():
             if vrstica != '\n':
                 id,kolicina,sestavina = vrstica.split(',')
                 sestavina = sestavina[:-1]
                 if id != 'ď»żid':
-                    id_sestavine = slovar.get(sestavina,'')
-                    text = 'INSERT INTO potrebuje (recept, sestavina, kolicina) VALUES ({}, {}, \'{}\');\n'.format(id, id_sestavine, kolicina)
-                    g.write(text)
+                    if kolicina != '':
+                        if sestavina != '[]':
+                            id_sestavine = slovar.get(sestavina,'')
+                            text = 'INSERT INTO potrebuje (recept, sestavina, kolicina) VALUES ({}, {}, \'{}\');\n'.format(id, id_sestavine, kolicina)
+                            g.write(text)
+
