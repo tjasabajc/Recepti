@@ -5,26 +5,25 @@
 		<p style="font-size:160%;"> Če ste že registrirani, se tu lahko prijavite v vaš račun. Prijavljeni uporabniki lahko dodajajo nove recepte! Veseli bomo vsakega prispevka!</p><br>
 		
 		<fieldset>
-		<legend> Vpis za prijavljene uporabnike</legend><br>
+		<legend> Vpis za registrirane uporabnike</legend><br>
 		 <form action="" method="POST">
-<input type="text" name="upIme" placeholder="Uporabniško ime" required><br>
+<input type="text" name="upIme1" placeholder="Uporabniško ime" required><br>
 <input type="password" name="geslo" placeholder="Geslo"  required><br>
   <input type="submit" value="Prijavi me!">
 </form> 
 </fieldset>
 
-<br><br>
-<button class="button" action="/osebno">Test</button>
-<br>
 %if napaka:
-  <p class="opozorilo">{{napaka}}</p>
+	%if napaka!='Zgodila se je napaka: no results to fetch':
+		<p class="opozorilo">{{napaka}}</p>
+	%end
 %end
 <p style="font-size:160%;"> Še niste naš član? Nič hudega, izberite si uporabniško ime in geslo in ju vpišite spodaj. Dobrodošli!</p><br>
 	
 <fieldset>
 		<legend> Registracija novega uporabnika</legend><br>
 		 <form action="" method="POST">
-<input type="text" name="upIme" placeholder="Uporabniško ime" required><br>
+<input type="text" name="upIme2" placeholder="Uporabniško ime" required><br>
 <input type="password" name="geslo1" placeholder="Geslo" required><br>
 <input type="password" name="geslo2" placeholder="Ponovite geslo" required><br>
   <input type="submit" value="Registriraj me!">

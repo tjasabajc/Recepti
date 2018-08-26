@@ -1,7 +1,7 @@
-% rebase('osnova1.html', podstran='iskanje')
+% rebase('osnova1.html', podstran='iskanje', prijavljen=prijavljen)
 <section class="well well__offset-3">
 	<div class="container">
-		<h2><em>Ste za nekaj novega?</em>Morda vas prepriča kateri od naslednjih receptov</h2>
+		<h2><em>Ste za nekaj novega?</em>{{prijavljen}} Morda vas prepriča kateri od naslednjih receptov</h2>
 		<br>
 		%if napaka:
 			<p class="opozorilo">{{napaka}}</p>

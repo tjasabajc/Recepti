@@ -61,7 +61,7 @@
 						class="active" 
 						%end
 						>
-                            <a href="/iskanje">Recepti</a>
+                            <a href="/iskanje" >Recepti</a>
                         </li>
                         <li
 						%if (podstran == 'uporabnik'):
@@ -70,12 +70,30 @@
 						>
                             <a href="/uporabnik">Kuharji</a>
                         </li>
+						%if prijavljen == False:
                         <li
 						%if (podstran == 'prijava'):
 						class="active" 
 						%end
 						>
                             <a href="/prijava">Prijava</a>
+                        </li>
+						%end
+						%if prijavljen == True:
+                        <li
+						%if (podstran == 'odjava'):
+						class="active" 
+						%end
+						>
+                            <a href="/odjava">Odjava</a>
+                        </li>
+						%end
+						<li
+						%if (podstran == 'dodajanje'):
+						class="active" 
+						%end
+						>
+                            <a href="/dodaj_recept">Dodaj recept</a>
                         </li>
 						<li
 						%if (podstran == 'midva'):

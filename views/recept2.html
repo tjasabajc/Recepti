@@ -1,18 +1,26 @@
 % rebase('osnova1.html', podstran='recept')
 <section class="well well__offset-3">
 	<div class="container">
-		%for (ime,avtor,vrsta_jedi,cas_priprave,leto, mesec, dan,navodilo,tezavnost) in recept:
+		%for (ime,avtor,vrsta_jedi,cas_priprave,leto, mesec, dan,navodilo,tezavnost, priloznost) in recept:
 			<h2>{{ime}}</h2>
 			<td style="font-size:200%;"><em>Recept je prispeval: </em> {{avtor}}</td><br>
-		   <td style="font-size:200%;"><em>Vrsta jedi: </em> {{vrsta_jedi}}</td><br>
-		   <td style="font-size:200%;"><em>Čas priprave: </em> {{cas_priprave}} minut</td><br>
-		   <td style="font-size:200%;"><em>Datum objave: </em> {{dan}}. {{mesec}}. {{leto}}</td><br>
-		   <td style="font-size:200%;"><em>Težavnost: </em> {{tezavnost}}</td><br>
-		   <br><br>
-		   <p style="font-size:160%;"> {{navodilo}} </p>
-		   <td font size="300">{{navodilo}}</td><br
-		    <br>
+			<td style="font-size:200%;"><em>Vrsta jedi: </em> {{vrsta_jedi}}</td><br>
+			<td style="font-size:200%;"><em>Čas priprave: </em> {{cas_priprave}} minut</td><br>
+			<td style="font-size:200%;"><em>Datum objave: </em> {{dan}}. {{mesec}}. {{leto}}</td><br>
+			<td style="font-size:200%;"><em>Težavnost: </em> {{tezavnost}}</td><br>
+			%if priloznost != None:
+				<td style="font-size:200%;"><em>Priložnost: </em> {{priloznost}}</td><br>
 			%end
+		   	<br>
+			<td style="font-size:300%;"><em>Potrebovali boste: </em></td><br>
+			%for (recept,kolicina,sestavina) in sestavine:
+				<td style="font-size:200%;"><em></em> {{kolicina}}</td><td style="font-size:200%;"><em></em> {{sestavina}}</td><br>
+			%end
+			<br><br>
+			<p style="font-size:160%;"> {{navodilo}} </p>
+	
+			<br>
+		%end
 	</div>
 </section>
 

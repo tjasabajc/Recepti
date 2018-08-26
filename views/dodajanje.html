@@ -1,0 +1,87 @@
+% rebase('osnova1.html', podstran='dodajanje')
+<section class="well well__offset-3">
+	<div class="container">
+	<h2><em>Dodajte svoj recept!</em>Veseli bomo, če boste z nami delili svoje preizkušene kulinarične uspešnice!</h2>
+	<br>
+	Izpolnite spodnja polja
+	<br>
+	<br>
+
+<form action="/dodajanje" method="POST">
+	<p>Ime recepta: <input type="text" name="ime" value="{{ime}}"></p>
+	<p>Vrsta jedi: 
+		<input list="kategorije" name="kategorija">
+				<datalist id="kategorije">
+				<option value="sladice">
+				<option value="enolončnice">
+				<option value="mesne jedi">
+				<option value="testenine">
+				<option value="prikuhe">
+				<option value="zelenjavne jedi">
+				<option value="priloge">
+				<option value="morska hrana">
+				<option value="juhe in zakuhe">
+				<option value="predjedi">
+				<option value="ozimnica">
+				<option value="kruh">
+				<option value="napitki">
+				<option value="otroška hrana">
+				<option value="solate">
+				<option value="jajčne jedi">
+				<option value="omake">
+				<option value="eksotika">
+				<option value="sirove jedi">
+				<option value="gobje jedi">
+				<option value="ostale jedi">
+				</datalist>
+	<p>Priložnost: 
+		<input list="priloznosti" name="priloznost">
+				<datalist id="priloznosti">
+				<option value="božič">
+				<option value="velika noč">
+				<option value="novo leto">
+				<option value="martinovo">
+				<option value="miklavževo">
+				<option value="pust">
+				<option value="rojstni dan otroka">
+				<option value="valentinovo">
+				</datalist>
+	<p>Čas: 
+		<input list="casi" name="cas">
+				<datalist id="casi">
+				<option value="5 min">
+				<option value="15 min">
+				<option value="30 min">
+				<option value="45 min">
+				<option value="60 min">
+				<option value="75 min">
+				<option value="90 min">
+				<option value="120 min">
+				<option value="150 min">
+				<option value="180 min">
+				<option value="240 min">
+				</datalist>
+	<p>Težavnost: 
+		<input list="tezavnosti" name="tezavnost">
+				<datalist id="tezavnosti">
+				<option value="1">
+				<option value="2">
+				<option value="3">
+				<option value="4">
+				<option value="5">
+				</datalist>
+	<p>
+	Sestavine:<br>
+	<textarea name="sestavine" rows="6" cols="50" placeholder="Primer: 
+300 g moke 
+2 dl mleka
+..."></textarea>
+	<p>
+	Navodilo:<br>
+	<textarea name="navodilo" rows="6" cols="50" placeholder="Primer:
+Zavremo vodo
+..."></textarea>
+	<p><input type="submit" value="Oddaj recept!"></p>
+	</form>
+							
+</section>
