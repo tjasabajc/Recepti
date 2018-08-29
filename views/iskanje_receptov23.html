@@ -1,4 +1,4 @@
-% rebase('osnova1.html', podstran='iskanje', prijavljen=prijavljen)
+% rebase('osnova1.html', podstran='iskanje')
 <section class="well well__offset-3">
 	<div class="container">
 		%if prvic:
@@ -54,6 +54,10 @@
 			%end
 			</table>-->
 	%if prvic:
+	<br>
+		<img src="/static/images/lonec.jpg." > 
+	%end
+	%if prvic:
 		<h2><em>Preizkusite tudi iskalnik</em>Enostavno brskajte po receptih na naši strani</h2>
 	%end
 	%if not prvic:
@@ -65,8 +69,8 @@
 		<div class="grid_5">
                         
                         <form action="/iskanje" method="POST">
-							<p>Kljucne: <input type="text" name="kljucne" value="{{kljucne}}" placeholder=''></p>
-							<p>Recept: <input type="text" name="recept" value="{{recept}}" placeholder=''></p>
+							<p>Ključne besede: <input type="text" name="kljucne" value="{{kljucne}}" placeholder=''></p>
+							<p>Ime recepta: <input type="text" name="recept" value="{{recept}}" placeholder=''></p>
 							<p>Sestavina: 
 							<input list="sestavine" name="sestavina">
 									<datalist id="sestavine">
@@ -218,11 +222,11 @@
 									<option value="4">
 									<option value="5">
 									</datalist>
-							<p><input type="submit" value="Išči"></p>
+							<p><input type="submit" value="Išči"><br></p>
 						  </form>
                     </div>  
-			
-	</div><br><br>
+			<br><img src="/static/images/korenje.jpg." >
+	</div><br>
 	
 </section>
 

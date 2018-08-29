@@ -1,7 +1,7 @@
 % rebase('osnova1.html', podstran='recept')
 <section class="well well__offset-3">
 	<div class="container">
-		%for (ime,avtor,vrsta_jedi,cas_priprave,leto, mesec, dan,navodilo,tezavnost, priloznost) in recept:
+		%for (ime,avtor,vrsta_jedi,cas_priprave,leto, mesec, dan,navodilo,tezavnost, priloznost, vse_skupaj) in recept:
 			<h2>{{ime}}</h2>
 			<td style="font-size:200%;"><em>Recept je prispeval: </em> {{avtor}}</td><br>
 			<td style="font-size:200%;"><em>Vrsta jedi: </em> {{vrsta_jedi}}</td><br>
@@ -13,8 +13,8 @@
 			%end
 		   	<br>
 			<td style="font-size:300%;"><em>Potrebovali boste: </em></td><br>
-			%for (recept,kolicina,sestavina) in sestavine:
-				<td style="font-size:200%;"><em></em> {{kolicina}}</td><td style="font-size:200%;"><em></em> {{sestavina}}</td><br>
+			%for sestavina in vse_skupaj.split(";"):
+			{{sestavina}}<br>
 			%end
 			<br><br>
 			<p style="font-size:160%;"> {{navodilo}} </p>
