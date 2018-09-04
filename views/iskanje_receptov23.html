@@ -1,234 +1,215 @@
 % rebase('osnova1.html', podstran='iskanje')
 <section class="well well__offset-3">
-	<div class="container">
+    <div class="container">
+        %if prvic:
+        <h2><em>Ste za nekaj novega?</em>Morda vas prepriča kateri od naslednjih receptov</h2>
+        %end
+        %if not prvic:
+        <h2><em>Izvolite!</em>Tole so rezultati iskanja</h2>
+        %end
+        <br>
+        
+        %do_zdaj_id=[]
+        %st_receptov=0
+		%print(len(rand_recepti))
+        %for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in rand_recepti:
+                %if (id not in do_zdaj_id):
+                    %st_receptov = st_receptov + 1
+                    %do_zdaj_id.append(id)
+                    <td><a href="/recept/{{id}}", class="btn",  style="font-size:170%;">{{ime}}</a></td>
+                    <br><br>
+                    <td>{{navodilo}}</td>
+                    <br>
+                %end
+        %end
+        
+        <div class="container">
+            %if st_receptov == 0:
+                <br><br>
+                <a style = "font-size:170%;">Ojoj!</a>
+                <br><br>
+                Žal med našimi recepti ni nobenega, ki bi ustrezal kriterijem ... Morda lahko poskusite ponovno z nekoliko drugačno poizvedbo?
+            %end
+        </div>
+        
 		%if prvic:
-		<h2><em>Ste za nekaj novega?</em>Morda vas prepriča kateri od naslednjih receptov</h2>
+		<br>
+			<img src="/static/images/lonec.jpg." > 
+		%end
+		%if prvic:
+			<h2><em>Preizkusite tudi iskalnik</em>Enostavno brskajte po receptih na naši strani</h2>
 		%end
 		%if not prvic:
-		<h2><em>Izvolite!</em>Tole so rezultati iskanja</h2>
+			<h2><em>Ponovite iskanje</em>Če še niste zadovoljni z rezultati</h2>
 		%end
-		<br>
-		
-		%do_zdaj_id=[]
-		%st_receptov=0
-		%rand_recepti.rowcount
-			%for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in rand_recepti:
-				   %if (id not in do_zdaj_id):
-						%st_receptov = st_receptov + 1
-						%do_zdaj_id.append(id)
-						<td><a href="/recept/{{id}}", class="btn",  style="font-size:170%;">{{ime}}</a></td>
-						<br><br>
-						<td>{{navodilo}}</td>
-						<br>
-				   %end
-			%end
-		%end
-		<div class="container">
-		%if st_receptov == 0:
-		<br><br>
-			<a style = "font-size:170%;">Ojoj!</a>
-			<br><br>
-			Žal med našimi recepti ni nobenega, ki bi ustrezal kriterijem ... Morda lahko poskusite ponovno z nekoliko drugačno poizvedbo?
-		</div>
-		
-		<!--<table cellpadding="15" cellspacing="10" border="1px">
-		<tr>
-			 
-			 <th style="font-size:200%;"><em>Ime</em></th>
-			 <th style="font-size:200%;"><em>Avtor</em></th>
-			 <th style="font-size:200%;"><em>Vrsta jedi</em></th>
-			 <th style="font-size:200%;"><em>Čas priprave</em></th>
-			 <th style="font-size:200%;"><em>Datum objave</em></th>
-			 <th style="font-size:200%;"><em>Težavnost</em></th>
-			 
-		<br></tr>
-			
-		   
-		   <td><a href="/recept/{{id}}", class="btn",  style="font-size:120%;">{{ime}}</a></td>
-		   <td style="font-size:120%;">{{avtor}}</td>
-		   <td style="font-size:120%;">{{vrsta_jedi}}</td>
-		   <td style="font-size:120%;">{{cas_priprave}} minut</td>
-		   <td style="font-size:120%;">{{datum_objave}}</td>
-		   <td style="font-size:120%;">{{tezavnost}}</td>
-		   
-		   <br>
-		   </tr>
-			%end
-			</table>-->
-	%if prvic:
-	<br>
-		<img src="/static/images/lonec.jpg." > 
-	%end
-	%if prvic:
-		<h2><em>Preizkusite tudi iskalnik</em>Enostavno brskajte po receptih na naši strani</h2>
-	%end
-	%if not prvic:
-		<h2><em>Ponovite iskanje</em>Če še niste zadovoljni z rezultati</h2>
-	%end
 
-	<br>		
-</form>
-		<div class="grid_5">
-                        
+    <br>
+        <div class="grid_5">
+                       
                         <form action="/iskanje" method="POST">
-							<p>Ključne besede: <input type="text" name="kljucne" value="{{kljucne}}" placeholder=''></p>
-							<p>Ime recepta: <input type="text" name="recept" value="{{recept}}" placeholder=''></p>
-							<p>Sestavina: 
-							<input list="sestavine" name="sestavina">
-									<datalist id="sestavine">
-									<option value="blitva">
-									<option value="šetraj">
-									<option value="drobnjak">
-									<option value="kakav">
-									<option value="moka">
-									<option value="rožmarin">
-									<option value="marmelada">
-									<option value="olive">
-									<option value="pivo">
-									<option value="svinjina">
-									<option value="čokolada">
-									<option value="margarina">
-									<option value="paprika">
-									<option value="brinove">
-									<option value="rakci">
-									<option value="smetana">
-									<option value="mleko">
-									<option value="čebula">
-									<option value="zelje">
-									<option value="luštrek">
-									<option value="gobe">
-									<option value="brokoli">
-									<option value="rum">
-									<option value="testo">
-									<option value="origano">
-									<option value="zdrob">
-									<option value="meso">
-									<option value="cimet">
-									<option value="kis">
-									<option value="avokado">
-									<option value="ingver">
-									<option value="jajca">
-									<option value="perutnina">
-									<option value="maslo">
-									<option value="orehi">
-									<option value="testenine">
-									<option value="ocvirki">
-									<option value="list">
-									<option value="buča">
-									<option value="česen">
-									<option value="šparglji">
-									<option value="majaron">
-									<option value="bučka">
-									<option value="jabolka">
-									<option value="jagode">
-									<option value="govedina">
-									<option value="koleraba">
-									<option value="vino">
-									<option value="sir">
-									<option value="kumara">
-									<option value="jogurt">
-									<option value="korenje">
-									<option value="limona">
-									<option value="drobtine">
-									<option value="mandlji">
-									<option value="ribe">
-									<option value="por">
-									<option value="škrob">
-									<option value="šalotka">
-									<option value="krompir">
-									<option value="vanilija">
-									<option value="kvas">
-									<option value="olje">
-									<option value="kumina">
-									<option value="fižol">
-									<option value="marelice">
-									<option value="sladkor">
-									<option value="divjačina">
-									<option value="poper">
-									<option value="žajbelj">
-									<option value="paradižnik">
-									<option value="želatina">
-									<option value="hruška">
-									<option value="timijan">
-									<option value="kostanj">
-									<option value="peteršilj">
-									<option value="skuta">
-									<option value="zelena">
-									<option value="riž">
-									<option value="koruza">
-									<option value="bazilika">
-									<option value="sol">
-									<option value="kruh">
-									<option value="pistacija">
-									<option value="banana">
-									<option value="lovorjev">
-									</datalist>
-							<p>Vrsta jedi: 
-							<input list="kategorije" name="kategorija">
-									<datalist id="kategorije">
-									<option value="sladice">
-									<option value="enolončnice">
-									<option value="mesne jedi">
-									<option value="testenine">
-									<option value="prikuhe">
-									<option value="zelenjavne jedi">
-									<option value="priloge">
-									<option value="morska hrana">
-									<option value="juhe in zakuhe">
-									<option value="predjedi">
-									<option value="ozimnica">
-									<option value="kruh">
-									<option value="napitki">
-									<option value="otroška hrana">
-									<option value="solate">
-									<option value="jajčne jedi">
-									<option value="omake">
-									<option value="eksotika">
-									<option value="sirove jedi">
-									<option value="gobje jedi">
-									<option value="ostale jedi">
-									</datalist>
-							<p>Priložnost: 
-							<input list="priloznosti" name="priloznost">
-									<datalist id="priloznosti">
-									<option value="božič">
-									<option value="velika noč">
-									<option value="novo leto">
-									<option value="martinovo">
-									<option value="miklavževo">
-									<option value="pust">
-									<option value="rojstni dan otroka">
-									<option value="valentinovo">
-									</datalist>
-							<p>Čas: 
-							<input list="casi" name="cas">
-									<datalist id="casi">
-									<option value="5 min">
-									<option value="15 min">
-									<option value="30 min">
-									<option value="45 min">
-									<option value="60 min">
-									<option value="75 min">
-									<option value="90 min">
-									<option value="120 min">
-									<option value="150 min">
-									<option value="180 min">
-									<option value="240 min">
-									</datalist>
-							<p>Težavnost: 
-							<input list="tezavnosti" name="tezavnost">
-									<datalist id="tezavnosti">
-									<option value="1">
-									<option value="2">
-									<option value="3">
-									<option value="4">
-									<option value="5">
-									</datalist>
-							<p><input type="submit" value="Išči"><br></p>
-						  </form>
+                            <p>Ključne besede: <input type="text" name="kljucne" value="{{kljucne}}" placeholder=''></p>
+                            <p>Ime recepta: <input type="text" name="recept" value="{{recept}}" placeholder=''></p>
+                            <p>Sestavina: 
+                            <input list="sestavine" name="sestavina">
+                                    <datalist id="sestavine">
+                                    <option value="blitva">
+                                    <option value="šetraj">
+                                    <option value="drobnjak">
+                                    <option value="kakav">
+                                    <option value="moka">
+                                    <option value="rožmarin">
+                                    <option value="marmelada">
+                                    <option value="olive">
+                                    <option value="pivo">
+                                    <option value="svinjina">
+                                    <option value="čokolada">
+                                    <option value="margarina">
+                                    <option value="paprika">
+                                    <option value="brinove">
+                                    <option value="rakci">
+                                    <option value="smetana">
+                                    <option value="mleko">
+                                    <option value="čebula">
+                                    <option value="zelje">
+                                    <option value="luštrek">
+                                    <option value="gobe">
+                                    <option value="brokoli">
+                                    <option value="rum">
+                                    <option value="testo">
+                                    <option value="origano">
+                                    <option value="zdrob">
+                                    <option value="meso">
+                                    <option value="cimet">
+                                    <option value="kis">
+                                    <option value="avokado">
+                                    <option value="ingver">
+                                    <option value="jajca">
+                                    <option value="perutnina">
+                                    <option value="maslo">
+                                    <option value="orehi">
+                                    <option value="testenine">
+                                    <option value="ocvirki">
+                                    <option value="list">
+                                    <option value="buča">
+                                    <option value="česen">
+                                    <option value="šparglji">
+                                    <option value="majaron">
+                                    <option value="bučka">
+                                    <option value="jabolka">
+                                    <option value="jagode">
+                                    <option value="govedina">
+                                    <option value="koleraba">
+                                    <option value="vino">
+                                    <option value="sir">
+                                    <option value="kumara">
+                                    <option value="jogurt">
+                                    <option value="korenje">
+                                    <option value="limona">
+                                    <option value="drobtine">
+                                    <option value="mandlji">
+                                    <option value="ribe">
+                                    <option value="por">
+                                    <option value="škrob">
+                                    <option value="šalotka">
+                                    <option value="krompir">
+                                    <option value="vanilija">
+                                    <option value="kvas">
+                                    <option value="olje">
+                                    <option value="kumina">
+                                    <option value="fižol">
+                                    <option value="marelice">
+                                    <option value="sladkor">
+                                    <option value="divjačina">
+                                    <option value="poper">
+                                    <option value="žajbelj">
+                                    <option value="paradižnik">
+                                    <option value="želatina">
+                                    <option value="hruška">
+                                    <option value="timijan">
+                                    <option value="kostanj">
+                                    <option value="peteršilj">
+                                    <option value="skuta">
+                                    <option value="zelena">
+                                    <option value="riž">
+                                    <option value="koruza">
+                                    <option value="bazilika">
+                                    <option value="sol">
+                                    <option value="kruh">
+                                    <option value="pistacija">
+                                    <option value="banana">
+                                    <option value="lovorjev">
+                                    </datalist>
+                            </p>
+                            <p>Vrsta jedi: 
+                            <input list="kategorije" name="kategorija">
+                                    <datalist id="kategorije">
+                                    <option value="sladice">
+                                    <option value="enolončnice">
+                                    <option value="mesne jedi">
+                                    <option value="testenine">
+                                    <option value="prikuhe">
+                                    <option value="zelenjavne jedi">
+                                    <option value="priloge">
+                                    <option value="morska hrana">
+                                    <option value="juhe in zakuhe">
+                                    <option value="predjedi">
+                                    <option value="ozimnica">
+                                    <option value="kruh">
+                                    <option value="napitki">
+                                    <option value="otroška hrana">
+                                    <option value="solate">
+                                    <option value="jajčne jedi">
+                                    <option value="omake">
+                                    <option value="eksotika">
+                                    <option value="sirove jedi">
+                                    <option value="gobje jedi">
+                                    <option value="ostale jedi">
+                                    </datalist>
+                            </p>
+                            <p>Priložnost: 
+                            <input list="priloznosti" name="priloznost">
+                                    <datalist id="priloznosti">
+                                    <option value="božič">
+                                    <option value="velika noč">
+                                    <option value="novo leto">
+                                    <option value="martinovo">
+                                    <option value="miklavževo">
+                                    <option value="pust">
+                                    <option value="rojstni dan otroka">
+                                    <option value="valentinovo">
+                                    </datalist>
+                            </p>
+                            <p>Čas: 
+                            <input list="casi" name="cas">
+                                    <datalist id="casi">
+                                    <option value="5 min">
+                                    <option value="15 min">
+                                    <option value="30 min">
+                                    <option value="45 min">
+                                    <option value="60 min">
+                                    <option value="75 min">
+                                    <option value="90 min">
+                                    <option value="120 min">
+                                    <option value="150 min">
+                                    <option value="180 min">
+                                    <option value="240 min">
+                                    </datalist>
+                            </p>
+                            <p>Težavnost: 
+                            <input list="tezavnosti" name="tezavnost" type="number" min="1" max="5">
+                                    <datalist id="tezavnosti">
+                                    <option value="1">
+                                    <option value="2">
+                                    <option value="3">
+                                    <option value="4">
+                                    <option value="5">
+                                    </datalist>
+                            </p>
+                            <p><input type="submit" value="Išči"><br></p>
+                        </form>
                     </div>  
-			<br><img src="/static/images/korenje.jpg." >
-	</div><br>
-	
+            <br><img src="/static/images/korenje.jpg." >
+    </div><br>
+    
 </section>
 

@@ -24,22 +24,11 @@ def recept(id):
                 "vrsta_jedi, cas_priprave, extract(year FROM datum_objave), extract(month FROM datum_objave)"+
                 ",extract(day FROM datum_objave), navodilo, tezavnost, priloznost.ime, sestavine_objava.vse_skupaj FROM recept "+
                 "LEFT JOIN primernost ON recept.id=primernost.recept LEFT JOIN sestavine_objava ON recept.id=sestavine_objava.recept LEFT JOIN priloznost ON priloznost.id=primernost.priloznost WHERE recept.id=%s", [id])
-    recept=cur
-    sez=[]
-##    for (ime,avtor,vrsta_jedi,cas_priprave,leto, mesec, dan,navodilo,tezavnost, priloznost) in recept:
-##        sez.append((ime,avtor,vrsta_jedi,cas_priprave,leto, mesec, dan,navodilo,tezavnost, priloznost))
-##    cur.execute("SELECT recept.id,potrebuje.kolicina,sestavina.ime FROM recept "+
-##                "LEFT JOIN potrebuje ON recept.id=potrebuje.recept LEFT JOIN sestavina ON potrebuje.sestavina=sestavina.id "+
-##                "WHERE recept=%s", [id])
     return template('views/recept2.html', recept=cur)
 
 @get('/')
 def index():
     cur.execute("SELECT recept.ime,uporabnik.ime as avtor,recept.vrsta_jedi,recept.navodilo FROM recept JOIN uporabnik ON recept.avtor=uporabnik.id")
-##    sez = [(20003, 'Hruškočoki'), (20007, 'Hitri puranji polpeti')]
-##    id = 20007
-##    ime = 'Hitri puranji polpeti'
-##    cur.executemany("SELECT ime, id, vrsta_jedi, navodilo FROM recept WHERE recept.id = %s AND recept.ime=%s", sez)
     return template('views/domov.html', index=cur)
 
 @get('/iskanje')
@@ -82,54 +71,10 @@ def iskanje_receptov_post():
                 LEFT JOIN primernost ON recept.id = primernost.recept
                 LEFT JOIN priloznost ON primernost.priloznost = priloznost.id
     {}""".format(where), podatki)
-    # Delam na issue #3, zato sem staro kodo zakomentirala.
-##    x1 = random.randint(20002, 20400)
-##    x2 = random.randint(20002, 20400)
-##    x3 = random.randint(20002, 20400)
-##    kljucne='recept.NAVODILO='+request.forms.kljucne if request.forms.kljucne!='' else 'TRUE'
-##    recept="recept.ime='"+request.forms.recept+"'" if request.forms.recept!='' else 'TRUE'
-##    #sestavina='sestavina.ime=\''+request.forms.sestavina+'\'' if request.forms.sestavina!='' else 'TRUE'
-##    kategorija='recept.vrsta_jedi=\''+request.forms.kategorija+'\'' if request.forms.kategorija!='' else 'TRUE'
-##    priloznost='priloznost.ime=\''+request.forms.priloznost+'\'' if request.forms.priloznost!='' else 'TRUE'
-##    cas='recept.cas_priprave='+request.forms.cas[:request.forms.cas.index(' ')] if request.forms.cas!='' else 'TRUE'
-##    tezavnost='recept.tezavnost='+request.forms.tezavnost if request.forms.tezavnost!='' else 'TRUE'
-##
-##    cur.execute('SELECT id,ime, navodilo FROM recept')
-##    ustrezni_id = []
-##    if kljucne != 'TRUE':
-##        kljucne = kljucne[16:]
-##        k = str(kljucne).lower()
-##        #isces besedo samo v stavku ali pa na koncu stavka ali pa pred vejico
-##        moznosti = [' '+k+' ', ' '+k+'.', ' '+k+',']
-##        for (id, ime, navodilo) in cur:
-##            for moznost in moznosti:
-##                if moznost in str(ime).lower() + str(navodilo).lower() and id not in ustrezni_id:
-##                    ustrezni_id.append(id)
-##
-##    sestavina = request.forms.sestavina
-##    if sestavina != '':
-##        cur.execute("SELECT recept,sestavina FROM potrebuje WHERE sestavina = (SELECT id FROM sestavina WHERE sestavina.ime = '{}')".format(sestavina))
-##        for (id,sestavina) in cur:
-##            ustrezni_id.append(id)
-##    if sestavina == '' and kljucne == 'TRUE':
-##        ustrezni_id = range(20000,20500)
-##    try:
-##        cur.execute("SELECT recept.id,recept.ime,uporabnik.ime as avtor,recept.vrsta_jedi,recept.cas_priprave,recept.datum_objave,recept.navodilo,recept.tezavnost FROM recept"+
-##                    " JOIN uporabnik ON recept.avtor=uporabnik.id" +
-##                    " JOIN potrebuje ON recept.id=potrebuje.recept" +
-##                    " WHERE "+recept+" AND "+kategorija+" AND "+priloznost+" AND "+cas+" AND " + tezavnost)
-    print(type(cur))
-    return template('views/iskanje_receptov23.html', prvic=False,rand_recepti=cur,
-                    kljucne='',
-                        recept='', sestavina='', kategorija='', priloznost='',
-                        cas='', tezavnost='',
-                    napaka=None)
-##    # Ta zakomentirani del ne dela :::: NameError: name 'ustrezni1' is not defined
-##    except Exception as ex:
-##        return template('views/iskanje_receptov23.html', rand_recepti=cur,kljucne=kljucne,
-##                        recept=recept, sestavina=sestavina, kategorija=kategorija, priloznost=priloznost,
-##                        cas='',tezavnost='', napaka = 'Zgodila se je napaka: %s' % ex, prvic=False)
-##    
+    return template('views/iskanje_receptov23.html', prvic=False,rand_recepti=cur.fetchall(),
+                    kljucne='', recept='', sestavina='', kategorija='', priloznost='',
+                    cas='', tezavnost='', napaka=None)
+   
 @get('/uporabnik')
 def uporabniki():
     cur.execute("SELECT * FROM uporabnik")
@@ -141,7 +86,6 @@ def prijava():
 
 @post('/prijava')
 def prijava_registracija():
-    #prijavljen = False
     upIme1 = request.forms.upIme1
     geslo = request.forms.geslo
     upIme2 = request.forms.upIme2
@@ -210,55 +154,19 @@ def vsi_recepti():
 def odjavi():
     return template('views/odjava.html')
 
-@post('/odjava')
+@post('/po_odjavi')
 def odjavi():
     cur.execute("SELECT recept.ime,uporabnik.ime as avtor,recept.vrsta_jedi,recept.navodilo FROM recept JOIN uporabnik ON recept.avtor=uporabnik.id")
-##    sez = [(20003, 'Hruškočoki'), (20007, 'Hitri puranji polpeti')]
-##    id = 20007
-##    ime = 'Hitri puranji polpeti'
-##    cur.executemany("SELECT ime, id, vrsta_jedi, navodilo FROM recept WHERE recept.id = %s AND recept.ime=%s", sez)
     return template('views/domov.html', index=cur)
 
 @get('/dodajanje')
-def dodan_recept():
+def vnesi_recept():
     return template('views/hvala.html')
 
-@post('/dodajanje')
-def dodan_recept():
-##    recept=request.forms.recept
-##    kategorija=request.forms.kategorija
-##    priloznost=request.forms.priloznost
-##    cas=request.forms.cas
-##    tezavnost=request.forms.tezavnost
-##    sestavine=request.forms.sestavine
-##    navodilo=request.forms.navodilo
-##    print(recept,kategorija,priloznost,cas,tezavnost,sestavine,navodilo)
-##    #nekako dobiti ime uporabnika, ker je prijavlnej naj bi to vedla
-##    cur.execute("INSERT INTO recept (ime, avtor, vrsta_jedi, cas_priprave,  navodilo, tezavnost) VALUES (%s, %s, %s, %s, %s, %s)",
-##                [recept,avtor,kategorija,cas,navodilo,tezavnost])
-##    cur.execute("SELECT id FROM recept WHERE ime=%s",[recept])
-##    uporabnik=cur
-##    for id in uporabnik:
-##        id_recept=id
-##    cur.execute("SELECT id FROM uporabnik WHERE ime=%s",[avtor])
-##    uporabnik=cur
-##    for id in uporabnik:
-##        id_uporabnik=id
-##    cur.execute("INSERT INTO objava (recept,avtor) VALUES (%s, %s)",
-##                [id_recept,id_uporabnik])
-##    cur.execute("SELECT id FROM priloznost WHERE ime=%s",[priloznost])
-##    uporabnik=cur
-##    for id in uporabnik:
-##        id_priloznost=id
-##    cur.execute("INSERT INTO primernost (recept,priloznost) VALUES (%s, %s)",
-##                [id_recept,id_priloznost])
-##    cur.execute("SELECT id FROM sestavina WHERE ime=%s",[sestavina])
-##    uporabnik=cur
-##    for id in uporabnik:
-##        id_sestavina=id
-##    #nekako dobiti iz texta sestavine in količine
-##    cur.execute("INSERT INTO potrebuje (recept,sestavina,kolicina) VALUES (%s, %s, %s)",
-##                [id_recept,id_sestavina,kolicina])
+@post('/po_dodajanju')
+def dodaj_recept():
+    # Zaradi časovne stiske nedokončana funkcija. Želela sva sicer omogočiti uporabnikom dodajanje receptov v bazo,
+    # ampak trenutno ta možnost ne deluje.
     return template('views/hvala.html')
     
 ######################################################################
