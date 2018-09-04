@@ -50,54 +50,86 @@ def iskanje_receptov():
     cur.execute("SELECT recept.id,recept.ime,recept.avtor,recept.vrsta_jedi,recept.cas_priprave,recept.datum_objave,recept.navodilo,recept.tezavnost FROM recept WHERE recept.id = %s OR recept.id = %s OR recept.id = %s", (x1, x2, x3))
     return template('views/iskanje_receptov23.html', rand_recepti=cur.fetchmany(3),
                     kljucne='', recept='', sestavina='', kategorija='', priloznost='',
-                    cas='', tezavnost='', napaka=None, prvic=True, ustrezni=[x1, x2, x3])
+                    cas='', tezavnost='', napaka=None, prvic=True)
 
 @post('/iskanje')
 def iskanje_receptov_post():
-    x1 = random.randint(20002, 20400)
-    x2 = random.randint(20002, 20400)
-    x3 = random.randint(20002, 20400)
-    kljucne='recept.NAVODILO='+request.forms.kljucne if request.forms.kljucne!='' else 'TRUE'
-    recept="recept.ime='"+request.forms.recept+"'" if request.forms.recept!='' else 'TRUE'
-    #sestavina='sestavina.ime=\''+request.forms.sestavina+'\'' if request.forms.sestavina!='' else 'TRUE'
-    kategorija='recept.vrsta_jedi=\''+request.forms.kategorija+'\'' if request.forms.kategorija!='' else 'TRUE'
-    priloznost='priloznost.ime=\''+request.forms.priloznost+'\'' if request.forms.priloznost!='' else 'TRUE'
-    cas='recept.cas_priprave='+request.forms.cas[:request.forms.cas.index(' ')] if request.forms.cas!='' else 'TRUE'
-    tezavnost='recept.tezavnost='+request.forms.tezavnost if request.forms.tezavnost!='' else 'TRUE'
-
-    cur.execute('SELECT id,ime, navodilo FROM recept')
-    ustrezni_id = []
-    if kljucne != 'TRUE':
-        kljucne = kljucne[16:]
-        k = str(kljucne).lower()
-        #isces besedo samo v stavku ali pa na koncu stavka ali pa pred vejico
-        moznosti = [' '+k+' ', ' '+k+'.', ' '+k+',']
-        for (id, ime, navodilo) in cur:
-            for moznost in moznosti:
-                if moznost in str(ime).lower() + str(navodilo).lower() and id not in ustrezni_id:
-                    ustrezni_id.append(id)
-
-    sestavina = request.forms.sestavina
-    if sestavina != '':
-        cur.execute("SELECT recept,sestavina FROM potrebuje WHERE sestavina = (SELECT id FROM sestavina WHERE sestavina.ime = '{}')".format(sestavina))
-        for (id,sestavina) in cur:
-            ustrezni_id.append(id)
-    if sestavina == '' and kljucne == 'TRUE':
-        ustrezni_id = range(20000,20500)
-    try:
-        cur.execute("SELECT recept.id,recept.ime,uporabnik.ime as avtor,recept.vrsta_jedi,recept.cas_priprave,recept.datum_objave,recept.navodilo,recept.tezavnost FROM recept"+
-                    " JOIN uporabnik ON recept.avtor=uporabnik.id" +
-                    " JOIN potrebuje ON recept.id=potrebuje.recept" +
-                    " WHERE "+recept+" AND "+kategorija+" AND "+priloznost+" AND "+cas+" AND " + tezavnost)
-        return template('views/iskanje_receptov23.html', prvic=False,rand_recepti=cur, kljucne='',
+    pogoji = []
+    pogoji = [(k, o, v) for k, o, v in [('recept.navodilo', 'ILIKE', request.forms.kljucne),
+                                    ('recept.ime', 'ILIKE', request.forms.recept),
+                                    ('recept.vrsta_jedi', '=', request.forms.kategorija),
+                                    ('priloznost.ime', '=', request.forms.priloznost),
+                                    ('sestavina.ime', '=', request.forms.sestavina),
+                                    ('recept.cas_priprave', '=',
+                                    request.forms.cas[:request.forms.cas.index(' ')] if ' ' in request.forms.cas else ''),
+                                    ('recept.tezavnost', '=', request.forms.tezavnost)]
+                                    if v != '']             # (ime stolpca, operator, podatek)
+    print('PPPPOGOJI?', pogoji)
+    where = ''
+    where = ' AND '.join('{} {} {}'.format(k, o, "'%%'||%s||'%%'" if 'LIKE' in o else '%s')
+            for k, o, v in pogoji) # pri (I)LIKE iščemo podniz
+    if where != '': # če imamo kak pogoj, dodamo WHERE
+        where = 'WHERE {}'.format(where)
+        print(where)
+        print('WHERE {}'.format(where))
+    podatki = [v for k, o, v in pogoji]
+    cur.execute("""
+    SELECT recept.id, recept.ime, uporabnik.ime AS avtor, recept.vrsta_jedi,
+           recept.cas_priprave, recept.datum_objave, recept.navodilo, recept.tezavnost
+    FROM recept JOIN uporabnik ON recept.avtor = uporabnik.id
+                JOIN potrebuje ON recept.id = potrebuje.recept
+                JOIN sestavina ON sestavina.id = potrebuje.sestavina
+                LEFT JOIN primernost ON recept.id = primernost.recept
+                LEFT JOIN priloznost ON primernost.priloznost = priloznost.id
+    {}""".format(where), podatki)
+    # Delam na issue #3, zato sem staro kodo zakomentirala.
+##    x1 = random.randint(20002, 20400)
+##    x2 = random.randint(20002, 20400)
+##    x3 = random.randint(20002, 20400)
+##    kljucne='recept.NAVODILO='+request.forms.kljucne if request.forms.kljucne!='' else 'TRUE'
+##    recept="recept.ime='"+request.forms.recept+"'" if request.forms.recept!='' else 'TRUE'
+##    #sestavina='sestavina.ime=\''+request.forms.sestavina+'\'' if request.forms.sestavina!='' else 'TRUE'
+##    kategorija='recept.vrsta_jedi=\''+request.forms.kategorija+'\'' if request.forms.kategorija!='' else 'TRUE'
+##    priloznost='priloznost.ime=\''+request.forms.priloznost+'\'' if request.forms.priloznost!='' else 'TRUE'
+##    cas='recept.cas_priprave='+request.forms.cas[:request.forms.cas.index(' ')] if request.forms.cas!='' else 'TRUE'
+##    tezavnost='recept.tezavnost='+request.forms.tezavnost if request.forms.tezavnost!='' else 'TRUE'
+##
+##    cur.execute('SELECT id,ime, navodilo FROM recept')
+##    ustrezni_id = []
+##    if kljucne != 'TRUE':
+##        kljucne = kljucne[16:]
+##        k = str(kljucne).lower()
+##        #isces besedo samo v stavku ali pa na koncu stavka ali pa pred vejico
+##        moznosti = [' '+k+' ', ' '+k+'.', ' '+k+',']
+##        for (id, ime, navodilo) in cur:
+##            for moznost in moznosti:
+##                if moznost in str(ime).lower() + str(navodilo).lower() and id not in ustrezni_id:
+##                    ustrezni_id.append(id)
+##
+##    sestavina = request.forms.sestavina
+##    if sestavina != '':
+##        cur.execute("SELECT recept,sestavina FROM potrebuje WHERE sestavina = (SELECT id FROM sestavina WHERE sestavina.ime = '{}')".format(sestavina))
+##        for (id,sestavina) in cur:
+##            ustrezni_id.append(id)
+##    if sestavina == '' and kljucne == 'TRUE':
+##        ustrezni_id = range(20000,20500)
+##    try:
+##        cur.execute("SELECT recept.id,recept.ime,uporabnik.ime as avtor,recept.vrsta_jedi,recept.cas_priprave,recept.datum_objave,recept.navodilo,recept.tezavnost FROM recept"+
+##                    " JOIN uporabnik ON recept.avtor=uporabnik.id" +
+##                    " JOIN potrebuje ON recept.id=potrebuje.recept" +
+##                    " WHERE "+recept+" AND "+kategorija+" AND "+priloznost+" AND "+cas+" AND " + tezavnost)
+    print(type(cur))
+    return template('views/iskanje_receptov23.html', prvic=False,rand_recepti=cur,
+                    kljucne='',
                         recept='', sestavina='', kategorija='', priloznost='',
-                        cas=cas, tezavnost=tezavnost, napaka=None, ustrezni=ustrezni_id)
-    # Ta zakomentirani del ne dela :::: NameError: name 'ustrezni1' is not defined
-    except Exception as ex:
-        return template('views/iskanje_receptov23.html', rand_recepti=cur,kljucne=kljucne,
-                        recept=recept, sestavina=sestavina, kategorija=kategorija, priloznost=priloznost,
-                        cas='',tezavnost='', napaka = 'Zgodila se je napaka: %s' % ex, prvic=False)
-    
+                        cas='', tezavnost='',
+                    napaka=None)
+##    # Ta zakomentirani del ne dela :::: NameError: name 'ustrezni1' is not defined
+##    except Exception as ex:
+##        return template('views/iskanje_receptov23.html', rand_recepti=cur,kljucne=kljucne,
+##                        recept=recept, sestavina=sestavina, kategorija=kategorija, priloznost=priloznost,
+##                        cas='',tezavnost='', napaka = 'Zgodila se je napaka: %s' % ex, prvic=False)
+##    
 @get('/uporabnik')
 def uporabniki():
     cur.execute("SELECT * FROM uporabnik")
@@ -163,19 +195,6 @@ def midva():
 def dodaj_receot():
     return template('views/dodajanje.html', ime='', sestavine='', kategorija='', priloznost='',
                     cas='', tezavnost='')
-
-@post('/dodaj_transakcijo')
-def dodaj_transakcijo_post():
-    znesek = request.forms.znesek
-    racun = request.forms.racun
-    opis = request.forms.opis
-    try:
-        cur.execute("INSERT INTO transakcija (znesek, racun, opis) VALUES (%s, %s, %s)",
-                    (znesek, racun, opis))
-    except Exception as ex:
-        return template('views/dodaj_transakcijo.html', znesek=znesek, racun=racun, opis=opis,
-                        napaka = 'Zgodila se je napaka: %s' % ex)
-    redirect("/")
 
 @get('/vsi_recepti')
 def vsi_recepti():

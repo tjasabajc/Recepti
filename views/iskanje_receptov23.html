@@ -8,27 +8,29 @@
 		<h2><em>Izvolite!</em>Tole so rezultati iskanja</h2>
 		%end
 		<br>
-		<div class="container">
+		
 		%do_zdaj_id=[]
 		%st_receptov=0
-		%for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in rand_recepti:
-			   %if (id not in do_zdaj_id):
-					%if (id in ustrezni):
+		%rand_recepti.rowcount
+			%for (id,ime,avtor,vrsta_jedi,cas_priprave,datum_objave,navodilo,tezavnost) in rand_recepti:
+				   %if (id not in do_zdaj_id):
 						%st_receptov = st_receptov + 1
 						%do_zdaj_id.append(id)
 						<td><a href="/recept/{{id}}", class="btn",  style="font-size:170%;">{{ime}}</a></td>
 						<br><br>
 						<td>{{navodilo}}</td>
 						<br>
-					%end
-			   %end
+				   %end
+			%end
 		%end
+		<div class="container">
 		%if st_receptov == 0:
 		<br><br>
 			<a style = "font-size:170%;">Ojoj!</a>
 			<br><br>
 			Žal med našimi recepti ni nobenega, ki bi ustrezal kriterijem ... Morda lahko poskusite ponovno z nekoliko drugačno poizvedbo?
 		</div>
+		
 		<!--<table cellpadding="15" cellspacing="10" border="1px">
 		<tr>
 			 
