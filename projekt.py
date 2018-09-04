@@ -5,7 +5,7 @@
 from bottle import *
 
 # uvozimo ustrezne podatke za povezavo
-import auth as auth
+import auth_public as auth
 
 # uvozimo psycopg2
 import psycopg2, psycopg2.extensions, psycopg2.extras, random
@@ -163,7 +163,7 @@ def odjavi():
 def vnesi_recept():
     return template('views/hvala.html')
 
-@post('/po_dodajanju')
+@get('/hvala')
 def dodaj_recept():
     # Zaradi časovne stiske nedokončana funkcija. Želela sva sicer omogočiti uporabnikom dodajanje receptov v bazo,
     # ampak trenutno ta možnost ne deluje.
