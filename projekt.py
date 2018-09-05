@@ -80,56 +80,56 @@ def uporabniki():
     cur.execute("SELECT * FROM uporabnik")
     return template('views/uporabnik2.html', uporabnik=cur)
 
-@get('/prijava')
-def prijava():
-    return template('views/prijava2.html', napaka=None)
-
-@post('/prijava')
-def prijava_registracija():
-    upIme1 = request.forms.upIme1
-    geslo = request.forms.geslo
-    upIme2 = request.forms.upIme2
-    geslo1 = request.forms.geslo1
-    geslo2 = request.forms.geslo2
-    if upIme2=='':
-        try:
-            cur.execute("SELECT id,ime FROM uporabnik WHERE ime=%s",[upIme1])
-            uporabnik=cur
-            for (id,ime) in uporabnik:
-                cur.execute("SELECT * FROM geslo WHERE id=%s",[id])
-                uporabnik=cur
-                for (id,ime,geslo0) in uporabnik:
-                    if ime==upIme1 and geslo==geslo0:
-                        prijavljen = True
-            if prijavljen:
-                napaka = 'Uspešno ste prijavljeni!'
-                return template('views/domov.html')
-            else:
-                napaka = 'Prijava neuspešna!'
-                return template('views/prijava2.html',napaka = napaka)
-            print(prijavljen)
-            
-        except Exception as ex:
-                return template('views/prijava2.html', upIme1=upIme1, geslo=geslo,
-                            napaka = 'Zgodila se je napaka: %s' % ex, prijavljen=prijavljen)
-    elif upIme1=='':
-        if geslo1==geslo2:
-            try:
-                cur.execute("INSERT INTO uporabnik (ime, opis) VALUES (%s,'Začetnik,')",[upIme2])
-                cur.execute("SELECT * FROM uporabnik WHERE ime=%s",[upIme2])
-                uporabnik=cur
-                for (id,ime,datum,opis) in uporabnik:
-                    cur.execute("INSERT INTO geslo (id, ime, geslo) VALUES (%s,%s,%s)",[id,upIme2,geslo1])
-                return template('views/prijava2.html')
-            except Exception as ex:
-                if ex=='no results to fetch':
-                    napaka = ''
-                else:
-                    napaka ='Zgodila se je napaka: %s' % ex
-                print(ex)
-                return template('views/prijava2.html', upIme2=upIme2, geslo1=geslo1, geslo2=geslo2,
-                            napaka = napaka)
-    redirect("/")
+##@get('/prijava')
+##def prijava():
+##    return template('views/prijava2.html', napaka=None)
+##
+##@post('/prijava')
+##def prijava_registracija():
+##    upIme1 = request.forms.upIme1
+##    geslo = request.forms.geslo
+##    upIme2 = request.forms.upIme2
+##    geslo1 = request.forms.geslo1
+##    geslo2 = request.forms.geslo2
+##    if upIme2=='':
+##        try:
+##            cur.execute("SELECT id,ime FROM uporabnik WHERE ime=%s",[upIme1])
+##            uporabnik=cur
+##            for (id,ime) in uporabnik:
+##                cur.execute("SELECT * FROM geslo WHERE id=%s",[id])
+##                uporabnik=cur
+##                for (id,ime,geslo0) in uporabnik:
+##                    if ime==upIme1 and geslo==geslo0:
+##                        prijavljen = True
+##            if prijavljen:
+##                napaka = 'Uspešno ste prijavljeni!'
+##                return template('views/domov.html')
+##            else:
+##                napaka = 'Prijava neuspešna!'
+##                return template('views/prijava2.html',napaka = napaka)
+##            print(prijavljen)
+##            
+##        except Exception as ex:
+##                return template('views/prijava2.html', upIme1=upIme1, geslo=geslo,
+##                            napaka = 'Zgodila se je napaka: %s' % ex, prijavljen=prijavljen)
+##    elif upIme1=='':
+##        if geslo1==geslo2:
+##            try:
+##                cur.execute("INSERT INTO uporabnik (ime, opis) VALUES (%s,'Začetnik,')",[upIme2])
+##                cur.execute("SELECT * FROM uporabnik WHERE ime=%s",[upIme2])
+##                uporabnik=cur
+##                for (id,ime,datum,opis) in uporabnik:
+##                    cur.execute("INSERT INTO geslo (id, ime, geslo) VALUES (%s,%s,%s)",[id,upIme2,geslo1])
+##                return template('views/prijava2.html')
+##            except Exception as ex:
+##                if ex=='no results to fetch':
+##                    napaka = ''
+##                else:
+##                    napaka ='Zgodila se je napaka: %s' % ex
+##                print(ex)
+##                return template('views/prijava2.html', upIme2=upIme2, geslo1=geslo1, geslo2=geslo2,
+##                            napaka = napaka)
+##    redirect("/")
 
 @get('/midva')
 def midva():
